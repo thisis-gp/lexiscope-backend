@@ -1,0 +1,12 @@
+qdrant-client
+fastapi
+langchain
+langchain_community
+python-dotenv
+google-generativeai
+unstructured
+python-magic-bin==0.4.14
+sentence-transformers
+langchain_huggingface
+uvicorn
+torch
