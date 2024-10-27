@@ -10,3 +10,4 @@ sentence-transformers
 langchain_huggingface
 uvicorn
 torch
+cffi==1.15.1
