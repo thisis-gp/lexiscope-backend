@@ -5,9 +5,8 @@ langchain_community
 python-dotenv
 google-generativeai
 unstructured
-python-libmagic
+python-magic
 sentence-transformers
 langchain_huggingface
 uvicorn
 torch
-cffi==1.15.1
