@@ -4,23 +4,28 @@ from langchain_huggingface import HuggingFaceEmbeddings
 import os
 from langchain_community.vectorstores import Qdrant
 import google.generativeai as genai
+from qdrant_client.http.models import VectorParams, Distance
+from qdrant_client import QdrantClient
 from dotenv import load_dotenv
 
 load_dotenv()
 FILE_PATH = 'data/Object_casedocs_500/'
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+QDRANT_CLOUD_URL = os.getenv("QDRANT_CLOUD_URL")  
+QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
+COLLECTION_NAME = "legal_documents" 
 
-text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size = 1000,
-    chunk_overlap=20,
-    length_function=len,
-    is_separator_regex=False,
-)
+# text_splitter = RecursiveCharacterTextSplitter(
+#     chunk_size = 1000,
+#     chunk_overlap=20,
+#     length_function=len,
+#     is_separator_regex=False,
+# )
 
 # Load legal case docs
 loader = DirectoryLoader(FILE_PATH)
 docs = loader.load()
-docs = text_splitter.split_documents(docs)
+# docs = text_splitter.split_documents(docs)
 
 # define embedding model
 emb_model="sentence-transformers/all-MiniLM-l6-v2"
@@ -29,23 +34,61 @@ embeddings = HuggingFaceEmbeddings(
     cache_folder=os.getenv('SENTENCE_TRANSFORMERS_HOME'),
 )
 
-qdrant_collection = Qdrant.from_documents(
-docs,
-embeddings,
-location=":memory:", # Local mode with in-memory storage only
-collection_name="it_resumes",
+output_dim = 384
+
+# Define vectors configuration
+vector_params = VectorParams(
+    size=output_dim,  # Set to the size of your embeddings
+    distance=Distance.EUCLID
 )
 
+qdrant_client = QdrantClient(
+url=QDRANT_CLOUD_URL,
+api_key=QDRANT_API_KEY,
+)
+
+# Check if collection exists and create it if not
+collections = [collection.name for collection in qdrant_client.get_collections().collections]
+print("Existing collections:", collections)
+
+if COLLECTION_NAME not in collections:
+    print(f"Creating collection: {COLLECTION_NAME}")
+    qdrant_client.recreate_collection(
+        collection_name=COLLECTION_NAME,
+        vectors_config=vector_params
+    )
+    
+    # Insert documents into Qdrant with embeddings
+    for i,doc in enumerate(docs):
+        point = {
+            "id": i,  # Ensure each doc has a unique identifier
+            "payload": {"content": doc.page_content},
+            "vector": embeddings.embed_documents(doc.page_content)[0]
+        }
+        qdrant_client.upsert(
+            collection_name=COLLECTION_NAME,
+            points=[point]
+        )
+    print("Documents inserted successfully")
+else:
+    print(f"Collection {COLLECTION_NAME} already exists")
+
 # construct a retriever on top of the vector store
-qdrant_retriever = qdrant_collection.as_retriever()
+
 
 def get_relevant_legal_docs(query:str):
     try:
-        search_result = qdrant_retriever.invoke(query)
-        documents = "\n".join([result.page_content for result in search_result])
+        embedded_query = embeddings.embed_query(query)
+        search_result = qdrant_client.search(
+            collection_name=COLLECTION_NAME,
+            query_vector=embedded_query,
+            limit=5
+        )
+        documents = "\n".join([result.payload["content"] for result in search_result])
+        print(documents)
         return documents if documents else "No relevant documents found."
     except Exception as e:
-        print(f"Error retriving documents:{e}")
+        print(f"Error retrieving documents: {e}")
         return "Error retrieving relevant documents."
 
 # Gemini Model
