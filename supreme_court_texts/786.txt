@@ -1,0 +1,372 @@
+2024 INSC 827
+Page 1 of 11 
+ 
+Reportable  
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION 
+ 
+Civil Appeal No 12097 of 2024 
+(Arising out of SLP(C) No 25369 of 2024) 
+ 
+International Seaport Dredging Pvt Ltd 
+ 
+ 
+ 
+    .... Appellant 
+ 
+Versus 
+Kamarajar Port Limited  
+ 
+ 
+ 
+ 
+             ....Respondent 
+ 
+ 
+J U D G M E N T 
+ 
+Dr Dhananjaya Y Chandrachud, J 
+ 
+1. 
+Leave granted. 
+2. 
+The appeal arises from an interim order dated 9 September 2024 of a Single 
+Judge of the High Court of Judicature at Madras in A No 4236 of 2024 in Arb OP 
+(Com Div) No 335 of 2024. 
+3. 
+The respondent issued a Letter of Award for executing Capital Dredging Phase-III 
+at Kamarajar Port to the appellant for an approximate sum of Rs 274 crores. On 
+12 August 2015, the parties entered into a contract for the following work to be 
+conducted by the appellant:  
+a. 
+Capital dredging of Container Berth and Multi Cargo Berths and their 
+approaches;  
+Digitally signed by
+SANJAY KUMAR
+Date: 2024.11.04
+12:11:40 IST
+Reason:
+Signature Not Verified
+
+Page 2 of 11 
+ 
+b. 
+Capital dredging of Coal Berth 3 & Coal Berth 4 and their approaches;  
+c. 
+Removal of onshore boulders and transportation to the designated area;  
+d. 
+Removal of offshore boulders and transportation to the designated area;  
+e. 
+Removal of offshore identified debris/wrecks; and 
+f. 
+Environmental monitoring.  
+4. 
+These tasks were to be completed on or before 11 April 2017. Thereafter,  
+disputes arose between the parties. The appellant invoked the arbitration 
+agreement. The arbitral proceedings commenced and the three-member arbitral 
+tribunal made an award on 7 March 2024 directing the respondent to: 
+a. 
+Pay the appellant a sum of Rs 21,07,66,621 towards the claims that were 
+allowed in its favour;  
+b. 
+Pay the appellant interest on the amount awarded at the rate of nine per cent 
+per annum from 15 November 2017 until the date of the award if the payment 
+was made within three months, and, if not, at the rate of twelve per cent per 
+annum from the date of the award till the date of payment; and  
+c. 
+Pay the appellant Rs 3,20,86,405 by way of costs. 
+ 
+ 
+
+Page 3 of 11 
+ 
+5. 
+Both parties filed applications under Section 33 of the Arbitration and Conciliation 
+Act 19961 for correction of the award and for additional arbitral awards. The 
+arbitral tribunal dismissed the application filed by the respondent. It allowed the 
+application filed by the appellant only to the extent of increasing the costs awarded 
+to it by Rs 12,00,000 to reflect the fees paid to the arbitral tribunal subsequent to 
+the parties filing their memo of costs.  
+6. 
+The respondent challenged the arbitral award under Section 34 of the Arbitration 
+Act and moved an application for stay of execution. The High Court, by its 
+impugned judgment and order dated 9 September 2024, granted a stay on the 
+execution of the award conditional on the respondent furnishing a bank guarantee 
+in the sum of Rs 21,07,66,621 within a period of eight weeks. 
+7. 
+The judgment of the High Court has been assailed by the original claimant of the 
+arbitral proceeding (i.e., the appellant in this case) whose contention is that since 
+the award operates as a money decree under Section 36 of the Arbitration Act, the 
+High Court was not justified in directing merely the furnishing of a bank guarantee 
+in relation to the principal amount. The appellant contends that the respondent 
+ought to have instead been directed to deposit the amount awarded to it as a 
+condition for the grant of a stay on the execution of the award.  
+8. 
+Mr Shyam Divan, senior counsel appearing on behalf of the appellant, has urged 
+that: (i) A body of precedent has emerged from this Court in terms of which the 
+sanctity of arbitration must be preserved by requiring the deposit of the amount 
+ 
+1 “Arbitration Act” 
+
+Page 4 of 11 
+ 
+awarded as a condition for the stay on the enforcement of the award; (ii) The 
+amended provisions of the Arbitration Act require that while considering an 
+application for stay of an award for the payment of money, due regard has to be 
+had to the provisions of the Code of Civil Procedure 19082; and (iii) The award of 
+Rs 21,07,66,621 covered ten claims of which three were awarded in full and seven 
+in part. The High Court while ordering a stay, has essentially furnished only two 
+reasons. The first reason pertains to the question of cess, while the only other 
+reason is that the respondent is not “a fly by operator”.  
+9. 
+Mr C A Sundaram, senior counsel appearing on behalf of the respondent, submits 
+that: (i) The amended provisions of the statute incorporate provisions of the CPC 
+in regard to ordering a stay of an award which contains provisions for the payment 
+of money; (ii) Under Order XLI Rule 5 of the CPC, the requirement is for furnishing 
+of security and the deposit of money should not, therefore, be regarded as a 
+default option; (iii) The High Court had due regard to the fact that the respondent is 
+a statutory body and correctly held that security should be furnished in the form of 
+a bank guarantee; (iv) As such the impugned judgment should not be interfered 
+with under Article 136 of the Constitution; and (v) The body of precedents which 
+Mr Divan relied on pertains to appeals under Section 37 of the Arbitration Act. 
+10. Section 36(2) of the Arbitration Act indicates that where an application to set aside 
+an arbitral award has been filed under Section 34, the filing of such an application 
+shall not, by itself, render that award unenforceable, unless the Court grants a stay 
+ 
+2 “CPC” 
+
+Page 5 of 11 
+ 
+on the enforcement of the arbitral award in terms of sub-section (3). The provision 
+indicates that a separate application must be made for this purpose. Sub-section 
+(3) of Section 36 stipulates that where such an application has been filed, the 
+Court may, subject to such conditions as it may deem fit, grant stay of the 
+operation of the award for reasons to be recorded in writing. Following the 
+amendments brought about by the Arbitration and Conciliation (Amendment) Act 
+2015, the first proviso to sub-section (3) stipulates that the Court shall, while 
+considering an application for grant of stay in the case of an arbitral award for 
+payment of money, have due regard to the provisions related to the grant of stay 
+of a money decree under the CPC. The second proviso provides for a  situation in 
+which the Court may grant unconditional stay. Section 36(3) and its provisos are 
+reproduced below: 
+“36. Enforcement –  
+… 
+(3) Upon filing of an application under sub-section (2) 
+for stay of the operation of the arbitral award, the Court 
+may, subject to such conditions as it may deem fit, 
+grant stay of the operation of such award for reasons 
+to be recorded in writing: 
+Provided that the Court shall, while considering 
+the application for grant of stay in the case of an 
+arbitral award for payment of money, have due 
+regard to the provisions for grant of stay of a 
+money decree under the provisions of the Code of 
+Civil Procedure, 1908 (5 of 1908). 
+Provided further that where the Court is satisfied that a 
+Prima facie case is made out that, – 
+
+Page 6 of 11 
+ 
+(a)  
+the arbitration agreement or contract which is 
+the basis of the award; or 
+(b)  
+the making of the award, 
+was induced or effected by fraud or corruption, it shall 
+stay the award unconditionally pending disposal of the 
+challenge under section 34 to the award. 
+Explanation.—For the removal of doubts, it is hereby 
+clarified that the above proviso shall apply to all court 
+cases arising out of or in relation to arbitral 
+proceedings, irrespective of whether the arbitral or 
+court proceedings were commenced prior to or after 
+the commencement of the Arbitration and Conciliation 
+(Amendment) Act, 2015 (3 of 2016).” 
+(emphasis supplied) 
+11. In the present case, there is an arbitral award to the tune of approximately Rs 21 
+crores in favour of the appellant. The High Court, while issuing a direction for 
+furnishing of a bank guarantee, dealt with only one of the claims which was 
+awarded by the arbitral tribunal, namely, that which pertained to the refund of the 
+cess under the Building and Other Construction Workers’ Welfare Cess Act 1996.3 
+In this regard, the High Court observed that the Deputy Chief Labour  
+Commissioner, by its order dated 6 November 2019, held that the Cess Act was 
+not applicable to the appellant which was therefore not required to pay cess under 
+that statute. It noted that the arbitral tribunal had, however, rendered an award in 
+which it directed the respondent to pay the appellant this amount, which had 
+already been paid by the respondent to the appellant. It held that while the 
+substance of the claims of the parties could only be determined in the proceedings 
+under Section 34 of the Arbitration Act, it was prima facie satisfied that the arbitral 
+ 
+3 “Cess Act” 
+
+Page 7 of 11 
+ 
+tribunal had erred in not considering the claim of the respondent. Apart from 
+discussing this claim, which was in the amount of approximately Rs 3 crores, the 
+High Court did not address the other claims of the appellant which were allowed 
+by the arbitral tribunal. The amount awarded in relation to the remaining claims is 
+approximately Rs 18 crore. 
+12. The High Court granted a stay on the operation of the award subject to the 
+respondent furnishing a bank guarantee for the principal amount awarded to the 
+appellant, i.e. Rs 21,07,66,621. It held that it was not inclined to issue orders in 
+relation to the interest and the costs awarded to the appellant because “the 
+petitioner is not a fly-by operator and is a statutory undertaking.” The law qua 
+arbitration proceedings, in our view, cannot be any different merely because of the 
+status of the respondent as a statutory undertaking. 
+13. In this regard, it is necessary to advert to a decision of a two-Judge Bench of this 
+Court in Pam Developments Private Limited v State of West Bengal4 where it 
+was observed: 
+ 
+“20. In our view, in the present context, the phrase 
+used is “having regard to” the provisions of CPC and not 
+“in accordance with” the provisions of CPC. In the latter 
+case, it would have been mandatory, but in the form as 
+mentioned in Rule 36(3) of the Arbitration Act, it would 
+only be directory or as a guiding factor. Mere reference 
+to CPC in the said Section 36 cannot be construed in 
+such a manner that it takes away the power conferred in 
+the main statute (i.e. the Arbitration Act) itself. It is to be 
+taken as a general guideline, which will not make the 
+main provision of the Arbitration Act inapplicable. The 
+ 
+4(2019) 8 SCC 112 
+
+Page 8 of 11 
+ 
+provisions of CPC are to be followed as a guidance, 
+whereas the provisions of the Arbitration Act are 
+essentially to be first applied. Since, the Arbitration Act 
+is a self-contained Act, the provisions of CPC will apply 
+only insofar as the same are not inconsistent with the 
+spirit and provisions of the Arbitration Act.” 
+14. The Court also observed: 
+“26. Arbitration proceedings are essentially alternate 
+dispute 
+redressal 
+system 
+meant 
+for 
+early/quick 
+resolution of disputes and in case a money decree — 
+award as passed by the arbitrator against the 
+Government is allowed to be automatically stayed, the 
+very purpose of quick resolution of dispute through 
+arbitration would be defeated as the decree-holder 
+would be fully deprived of the fruits of the award on 
+mere filing of objection under Section 34 of the 
+Arbitration Act. The Arbitration Act is a special Act which 
+provides for quick resolution of disputes between the 
+parties and Section 18 of the Act makes it clear that 
+the parties shall be treated with equality. Once the 
+Act mandates so, there cannot be any special 
+treatment given to the Government as a party. As 
+such, under the scheme of the Arbitration Act, no 
+distinction is made nor any differential treatment is 
+to be given to the Government, while considering an 
+application for grant of stay of a money decree in 
+proceedings under Section 34 of the Arbitration Act. 
+As we have already mentioned above, the reference to 
+CPC in Section 36 of the Arbitration Act is only to guide 
+the court as to what conditions can be imposed, and the 
+same have to be consistent with the provisions of the 
+Arbitration Act. 
+… 
+28. Section 36 of the Arbitration Act also does not 
+provide for any special treatment to the Government 
+while dealing with grant of stay in an application under 
+proceedings of Section 34 of the Arbitration Act. 
+Keeping the aforesaid in consideration and also the 
+provisions of Section 18 providing for equal treatment of 
+parties, it would, in our view, make it clear that there is 
+no exceptional treatment to be given to the 
+Government while considering the application for 
+
+Page 9 of 11 
+ 
+stay under Section 36 filed by the Government in 
+proceedings under Section 34 of the Arbitration 
+Act.” 
+(emphasis supplied) 
+15. Bearing in mind the above principles, we are of the view that the High Court was in 
+error in not even prima facie considering the fact that apart from the issue of cess, 
+there was an arbitral award in favour of the appellant in regard to other claims as 
+well. Further, the High Court ought not to have based its decision on the condition 
+for the grant of stay on the status of the respondent as a statutory authority. The 
+Arbitration Act is a self-contained code – it does not distinguish between 
+governmental and private entities. Hence, the decision of the Court cannot be 
+influenced by the position of the party before it and whether it is a fly-by-night 
+operator. Moreover, an assessment as to whether a party is reliable or trustworthy 
+is subjective. Many private entities, too, may rely on the size of their undertaking, 
+its success, public image, or other factors to argue that they are not fly-by-night 
+operators. In the absence of any provision of law in this regard, it would be 
+inappropriate for courts to apply this standard while adjudicating the conditions 
+upon which a stay of an award may be granted. Similarly, the form of security 
+required to be furnished should not depend on whether a party is a statutory or 
+other governmental body or a private entity. Governmental entities must be treated 
+in a similar fashion to private parties insofar as proceedings under the Arbitration 
+Act are concerned, except where otherwise indicated by law. This is because the 
+parties have entered into commercial transactions with full awareness of the 
+implications of compliance and non-compliance with the concerned contracts and 
+
+Page 10 of 11 
+ 
+the consequences which will visit them in law. Hence, the argument that the High 
+Court was correct in directing the respondent to furnish bank guarantees in 
+relation to the amount awarded because it is a statutory body is rejected.   
+16. In Toyo Engineering Corpn. v. Indian Oil Corpn. Ltd.,5 this Court reiterated the 
+same principle in the following terms:  
+“3. This Court repeatedly having held that Order XLI 
+Rule 5 principles are to be followed in these cases, we 
+find that largely because public corporations are 
+involved, discretion continues to be exercised not on 
+principles under Order XLI Rule 5 but only because 
+large amounts exist and that Government Corporations 
+have to pay these amounts under Arbitral Awards. 
+Both these considerations are irrelevant, as has been 
+pointed out by us earlier.” 
+17. Under Order XLI Rule 5 of the CPC, the Court has the power to direct full or part 
+deposit and/or the furnishing of security in respect of the decretal amount. Bearing 
+in mind the principles which must guide the Court, we are of the view that the 
+order of the High Court requires modification. In modification of the direction of the 
+High Court in the impugned judgment dated 9 September 2024, we direct that: 
+(i) 
+The respondent shall deposit an amount quantified at 75% of the decretal 
+amount, inclusive of interest, on or before 30 November 2024 before the 
+High Court; and 
+(ii) 
+Conditional on the deposit of the aforesaid amount within the period 
+stipulated above, there shall be a stay on the enforcement of the arbitral 
+award. 
+ 
+5 2021 SCC OnLine SC 3455 
+
+Page 11 of 11 
+ 
+18. The impugned judgment of the High Court shall stand modified in the above terms.  
+The appeal is allowed accordingly. 
+19. Pending applications, if any, stand disposed of. 
+ 
+…..…..…....…........……………….…........CJI. 
+                                                                     [Dr Dhananjaya Y Chandrachud] 
+ 
+ 
+ 
+……..…..…....…........……………….…........J. 
+                             [J B Pardiwala] 
+ 
+ 
+ 
+ 
+……..…..…....…........……………….…........J. 
+                             [Manoj Misra] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+New Delhi;  
+October 24, 2024 
+-S-

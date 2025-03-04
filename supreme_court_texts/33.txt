@@ -1,0 +1,419 @@
+2024 INSC 31
+Non­Reportable
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION 
+CIVIL APPEAL NO. 3798 OF 2019
+Container Corporation of India Ltd.
+      … Appellant
+Versus
+Ajay Khera & Ors.
+         … Respondents
+J U D G M E N T
+ABHAY S. OKA, J.
+FACTUAL ASPECTS
+1.
+The first respondent, a former Executive Director of the
+Central Warehousing Corporation, approached the National
+Green   Tribunal   (for   short,   ‘the   NGT’)   by   filing   an   original
+application.  The first respondent filed the original application
+under Section 14, read with Section 15 and Section 18(1) of
+the   National   Green   Tribunal   Act,   2010   and   raised   an
+important   issue   of   the   pollution   created   by   the   Inland
+Container Depot (for short, ‘the said ICD’) at Tughlakabad. It
+is alleged in the application that the said ICD is used by the
+             Civil Appeal no.3798 of 2019 
+Page 1 of 13
+Digitally signed by
+Anita Malhotra
+Date: 2024.01.11
+16:44:14 IST
+Reason:
+Signature Not Verified
+
+trucks/trailers   not   destined   for   Delhi   and   is   used   for
+delivery/pick up to  and from locations outside  Delhi.   He
+pointed   out   that   due   to   the   inflow   of   a   large   number   of
+trucks/trailers to the said ICD, the air pollution in Delhi NCR
+has   substantially   increased   due   to   the   emission   from
+trucks/trailers.     He   contended   that   there   are   other   ICDs
+around Delhi, and therefore, it is quite possible to divert the
+inflow of trucks/trailers to the other ICDs around Delhi NCR.
+The   first   respondent,   thus,   prayed   for   a   direction   to   the
+appellant the Container Corporation of India Ltd. (for short,
+‘the Container Corporation’) and the Railway Board to shift
+the operations of the said ICD at Tughlakabad which are not
+bound for Delhi to other locations outside Delhi. The second
+direction was to prohibit entry of containers/trailers at the
+said ICD, Tughlakabad, which are not bound for Delhi and
+only to utilise CNG run/battery operated Fork Lifts/empty
+Handlers and small vehicles, as also run electric trains rather
+than diesel locomotives in and out of the said ICD. 
+2.
+The appellant (The Container Corporation) contested the
+said application.   It was pointed out that the movement of
+cargo destined for consumption in Delhi is made by railway
+lines which terminate inside the premises of the said ICD.  If
+the use of the said ICD is diverted, it would mean that there
+would  be more  movement  of  cargo  on  roads  from  various
+ports   in   India   to   Delhi,   which   will   increase   the   distance
+covered by the cargo trucks.  This movement of cargo on the
+roads will lead to more pollution.   A contention was raised
+             Civil Appeal no.3798 of 2019 
+Page 2 of 13
+
+that the said ICD is ideally located to cater for the needs of
+the   population   of   Delhi   without   disturbing   the   residential
+areas of Delhi. 
+3.
+The NGT passed interim orders on the application filed
+by the first respondent from time to time.  By the impugned
+order   dated   8th  March   2019,   the   NGT   passed   an   order
+directing the appellant to ensure that, in a phased manner,
+diesel   vehicles   stop   visiting   the   ICD   and   shift   to   electric,
+hybrid   and   CNG   vehicles.   The   Tribunal   observed   that   the
+other alternative was to limit the entry of diesel vehicles only
+to the satellite terminals (ICDs) at Dadri, Rewari, Ballabhgarh,
+Khatuawas   or   any   other   ICD   around   Delhi.   The   Tribunal
+observed that this will ensure that diesel vehicles do not enter
+Delhi NCR. An outer limit of six months was fixed under the
+impugned order by the NGT to comply with the directions
+above.   An   action   plan   was   ordered   to   be  filed   within   one
+month.  
+4.           On 22nd  April 2019, this Court issued notice on the
+present appeal and directed that no coercive action shall be
+taken against the appellant based on the impugned order.  On
+10th February 2020, when this Court noticed that no solution
+was forthcoming, a direction was issued to the Environment
+Pollution (Prevention and Control) Authority (‘EPCA’) to look
+into   the   issues   raised   in   the   appeal   and   to   file   a   report
+containing   its   recommendations.     We   may   note   here   that
+EPCA  has   been   set  up  under   the   orders   of   this   Court   to
+             Civil Appeal no.3798 of 2019 
+Page 3 of 13
+
+protect and improve the quality of the environment in Delhi
+NCR.
+5.
+Under   the   aforesaid   direction   of   this   Court,   EPCA
+submitted a report way back on 30th June 2020.  A response
+is   filed   by   the   first   respondent   to   the   recommendations
+contained in the said report.   An affidavit has been filed by
+the   Ministry   of   Railways,   putting   on   record   its   stand
+concerning   the   recommendations   contained   in   the   report.
+Written   submissions   have   been   filed   by   the   appellant
+containing its response to the recommendations of EPCA and
+setting out the steps taken by the appellant pursuant to the
+recommendations.     The   hearing   before   this   Court   was
+confined to the recommendations made by the EPCA.   We
+have heard the learned counsel appearing for the parties on
+the said report.
+6.
+The   issue   of   pollution,   particularly   air   pollution,   has
+been   a   cause   of   concern   for   the   last   few   decades.     Air
+pollution directly affects the fundamental rights of the citizens
+guaranteed under Article 21 of the Constitution of India.  The
+right to life guaranteed under Article 21 includes the right to
+live in a pollution­free environment.  The issue of air pollution
+is of a great deal of importance to every citizen. Air pollution
+affects citizens' quality of life. It adversely affects health. This
+issue   is   more   significant   in   the   context   of   the   severe   air
+pollution faced by Delhi NCT and Delhi NCR areas during the
+last few years.  For the last few months, the air quality index
+             Civil Appeal no.3798 of 2019 
+Page 4 of 13
+
+in the said areas has been in the category of very unhealthy
+or hazardous. 
+7.
+Now, we turn to the report submitted by EPCA.  By way
+of   illustration,   the   report   contains   the   figures   of   vehicles
+entering the said ICD in January 2020.   The report records
+that 22,082 vehicles entered the said ICD, out of which 75%
+of the vehicles (16,562) were bigger vehicles using diesel, with
+an average capacity of 19 metric tons.  Only 25% were CNG
+vehicles,   having   an   average   capacity   of   6   metric   tons.   It
+records that the number of diesel vehicles entering the said
+ICD daily was 534.  These figures must be appreciated in light
+of the pollution inventory done by the IIT, Kanpur, in 2016.
+The   inventory   revealed   that   the   trucks   entering   Delhi
+contribute roughly half of the total pollution caused by the
+vehicles in the city.   That is why this Court has repeatedly
+issued directions for preventing air pollution in Delhi NCR.
+8.
+A positive feature recorded in the EPCA report is that
+the total quantity of goods transiting through the said ICD
+from 2014­15 has gradually decreased. In the financial year
+2014­15,   the   total   quantity   of   goods   entering   ICD   was
+4,26,144   TEUs,   which   was   reduced   to   3,10,399   in   the
+financial   year   2019­2020.     One   TEU   is   equivalent   to   the
+carrying capacity of a 20­foot­long container.  The submission
+made across the Bar is that the downward trend continues.
+9.
+Broadly, the EPCA considered three issues:
+             Civil Appeal no.3798 of 2019 
+Page 5 of 13
+
+a. The   feasibility   of   shifting   to   CNG/electric/hybrid
+vehicles as directed by the NGT by the impugned
+order;
+b. The issue of restricting and reducing the entry of
+non­destined diesel vehicles at the said ICD and the
+issue   of   diverting   non­destined   diesel   vehicles   to
+nearby ICDs; and 
+c. The   problem   created   by   congestion   and   lack   of
+adequate parking facilities at ICDs.
+10.
+Before we deal with the recommendations and the stand
+taken   by   the   parties,   it   is   necessary   to   understand   the
+significance of an ICD or a dry port in the transportation and
+logistics chain.  An ICD is a facility created in an inland part
+which   serves   as   a   containerised   cargo   handling   hub   for
+imports and exports of the region. It is an intermodal terminal
+that provides direct connectivity to a seaport. The customs
+department recognises it as an extended part of the seaports.
+It serves as a facility that offers services for handling and
+temporarily   storing   import/export­laden   containers.   It   is
+connected to ports via railway transport. All facilities, such as
+obtaining custom clearances, cargo aggregation, cargo storage
+and other storage identical to a marine port, are available at
+these   dry   ports.     In   short,   ICDs   enable   access   to   cargo
+handling facilities of a port at the doorstep of the importers
+and exporters. It also allows the consolidation of the cargo
+closer to its origin or destination to reduce the fragmented
+             Civil Appeal no.3798 of 2019 
+Page 6 of 13
+
+movement and multiple handling of the cargo.  As is brought
+on   record,   there   are   two   establishments   of   the   Customs
+Department in the said ICD, and there is a connection of
+railway lines available in the ICD itself.  
+11.
+Now,   coming   to   the   recommendations   of   the   EPCA,
+while accepting the need to shift vehicles to cleaner fuels like
+CNG/Hybrid/Electric,   the   EPCA   observed   that   there   are
+limitations in the technology.  It is noted that no alternative
+fuel   technology   is   available   for   the   category   of   heavy­duty
+vehicles used for transporting containers.  It is observed that
+the   availability   of   alternative   fuel   in   long­distance   travel
+across   India   is   often   a   constraint.     Therefore,   the   EPCA
+recommended using BS­VI heavy­duty diesel vehicles as they
+are   substantially   cleaner   than   BS­IV   heavy­duty   vehicles.
+Therefore,   a   suggestion   was   made   that   the   Ministry   of
+Transport and Highways should come out with an effective
+and   robust   policy   for   the   scrappage   of   heavy­duty   diesel
+vehicles and their replacement with BS­VI vehicles.   In his
+response,   the   first   respondent   stated   that   the   above
+recommendation must be accepted with a rider that exploring
+other   fuel   sources,   including   CNG/Hybrid/Electric,   should
+continue.   Indeed, technology is ever­improving.   Therefore,
+while adopting the aforesaid recommendation, we must clarify
+that a constant endeavour  needs to be made to  ascertain
+whether better fuel sources can be successfully utilised for
+the heavy­duty vehicles which enter the said ICD.
+             Civil Appeal no.3798 of 2019 
+Page 7 of 13
+
+12.
+On the second issue, the EPCA noted in the report that
+seven such facilities, including the said ICD, are near Delhi.
+Based on the figures incorporated in the report, it is noted
+that   only   the   said   ICD   and   the   ICD   at   Rewari   are   being
+utilised to the extent of 60% or more of their capacity, while
+the   others   remain   underutilised.  
+  Therefore,   EPCA
+recommended that the appellant should formulate a plan for
+optimal utilisation of ICDs around Delhi, which will eventually
+reduce the use of said ICD.
+13.
+We   may   note   another   reason   why   the   said   ICD   is
+preferred.   It is brought on record that some of the central
+laboratories, drug controller offices, etc., are located in Delhi,
+where the lab testing of the imported goods is done before
+clearance from customs. Therefore, a recommendation was
+made to direct the appellant to work with certified agencies
+and laboratories to extend their services to the ICDs outside
+Delhi so that the infrastructure in other ICDs around Delhi
+does not remain underutilised by exporters/importers. 
+14.
+Regarding parking for the trucks and trailers, the report
+records   that   the   facility   for   parking   940   trucks/trailers   is
+available, but parking is still haphazardly made, leading to
+congestion and pollution.
+15.
+In   the   first   respondent's   response   to   the
+recommendations, it is pointed out that the initial capacity of
+the said ICD was only 1,26,000 TEUs.  However, the said ICD
+has operated with 4,50,000 TEUs.   Reliance was placed on
+             Civil Appeal no.3798 of 2019 
+Page 8 of 13
+
+the provisions of the Handling of Cargo in Areas Regulation,
+2009, which provide that safe, secure and spacious premises
+for loading, unloading, handling and storing of the cargo for
+the projected capacity has to be set up by the user agency to
+the satisfaction of the Commissioner of Customs.  A grievance
+has been made that data showing the implementation of the
+said Regulations has not been placed on record.
+16.
+The   recommendations   made   by   EPCA   have   been
+summarised on pages 14 and 15 of the report, which reads
+thus: 
+“On
+ 
+the
+ 
+issue
+ 
+of
+ 
+shift
+ 
+to
+CNG/Hybrid/Electric
+3.1
+ May   consider   that   shift   to
+CNG/Hybrid/Electric,   however   desirable,
+is not feasible in this segment of vehicles.
+May instead direct the Ministry of Road
+Transport   and   Highways   (MoRTH)   to
+present an effective and robust policy for
+scrappage   of   heavy­duty   diesel   vehicles
+and   replacement   with   BS   VI   vehicles,
+which are substantially cleaner and will
+greatly   reduce   pollution   in   the   entire
+airshed.
+On   the   issue   of   restricting   growth   of
+heavy­duty vehicles at ICD/TKD
+3.2  May   consider   directing   CONCOR   to
+give a plan for the optimal utilisation of
+the   inland   container   depots   garlanding
+Delhi and what will be proposed increase
+in   throughput   in   these   depots   in   the
+coming years and consequently how the
+reduction in throughput in ICD/TKD will
+be operationalised. 
+             Civil Appeal no.3798 of 2019 
+Page 9 of 13
+
+3.3  May   direct   CONCOR   to   work   with
+certifying   agencies   and   laboratories   to
+work out the necessary extension of their
+services   to   the   inland   container   depots
+outside Delhi so that business can utilise
+this infrastructure with convenience. 
+On the issue of parking
+3.4  May   consider   directing   CONCOR   to
+provide a time­bound plan for upgrading
+the parking/holding area by optimizing on
+the space it has inside the depot and to
+work   with   agencies   to   provide   adequate
+holding space outside the depot.”
+17.
+We   may   mention   here   that   the   appellant,   the   first
+respondent   and   Ministry   of   Railways   have,   in   principle,
+agreed that the recommendations of EPCA need acceptance.
+After perusing the pleadings, affidavits, and documents on
+record, we are of the view that the recommendations must be
+accepted and implemented in terms of the directions that we
+propose to issue.
+18.
+However,   timelines   will   have   to   be   fixed.   As   regards
+recommendation   3.1,   we   propose   to   grant   the   Ministry   of
+Road Transport and Highways six months to come out with a
+policy on the replacement of heavy­duty diesel vehicles with
+BS­VI vehicles.   While we do so, we make it clear that with
+ever­advancing technology, constant endeavour to explore the
+availability   of   other   fuel   resources   that   could   be   used   for
+heavy­duty vehicles should always continue.
+             Civil Appeal no.3798 of 2019 
+Page 10 of 13
+
+19.
+Regarding recommendation 3.2, we propose to direct the
+appellant   to   formulate   a   comprehensive   plan   within   six
+months   from   today.   Regarding   recommendation   3.3,   the
+appellant   will   have   to   approach   various   authorities   which
+have provided laboratories in Delhi to set up similar facilities
+near the other ICDs around Delhi NCR.
+20. 
+Regarding   recommendation   3.4,   in   the   written
+submissions, the appellant has brought on record that the
+appellant had appointed an expert agency, KPMG, to make
+recommendations on the problem of congestion and parking
+inside the said ICD.   A copy of KPMG's report is placed on
+record with an assurance that the appellant is undertaking
+measures   to   implement   the   recommendations   made   by
+KPMG.
+21.
+Before   we   part   with   the   judgment,   we   must   say
+something   about   an   option   mentioned   by   the   NGT   in
+paragraph 7 of the impugned order. The NGT has  inter alia
+observed that there is an option to restrict the entry of diesel
+vehicles in the said ICDs at Tughlakabad by diverting these
+vehicles   to   the   ICDs   at   Dadri,   Rewari,   Ballabhgarh,
+Khatuawas or any other ICD around Delhi so as to control the
+pollution in Delhi NCR, as if only the people living in Delhi
+NCR alone are entitled to pollution free atmosphere and not
+those living in other parts of the country. Such an observation
+by the NGT is in complete ignorance of the fact that citizens
+living in other parts of the country other than Delhi NCR also
+             Civil Appeal no.3798 of 2019 
+Page 11 of 13
+
+have a fundamental right to a pollution free environment as
+guaranteed by Article 21 of the Constitution of India. Such a
+fundamental right is equally enforceable by all and is not
+confined   to   the   people   of   Delhi   NCR.   The   NGT   while
+protecting/safeguarding the above fundamental right of the
+people of Delhi NCR cannot allow infringement of the same
+fundamental right of the citizens living outside Delhi NCR.
+The   observation   of   the   NGT   is   totally   unjustified   and
+unwarranted. 
+22.
+Hence, we dispose of the appeal by passing the following
+directions in substitution of the directions in the impugned
+order:
+a. After examining recommendation 3.1, the Union of India
+shall formulate a policy of phasing out heavy­duty diesel
+vehicles and replacing them with BS­VI vehicles. The
+Union of India shall formulate appropriate policy on this
+behalf within six months from today;
+b. Though   the   Union   of   India   is   a   party   through   the
+Ministry of Environment, Forest and Climate Change,
+the Ministry   of  Road  Transport  and Highways is not
+formally made a party. We, therefore, direct the Registry
+to forward a copy of this order to the Secretary of the
+Ministry of Road Transport and Highways.  
+c. The process of exploring the possibility of finding better
+sources, including CNG/Hybrid/Electric, for the use of
+heavy­duty vehicles shall continue;
+             Civil Appeal no.3798 of 2019 
+Page 12 of 13
+
+d. The plan for optimal utilisation of ICDs around Delhi, in
+terms of recommendation no. 3.2 shall be formulated by
+the  appellant  within  six  months  from  today.    In   the
+meanwhile,  the  appellant  will   coordinate  with   all  the
+official   agencies   to   enable   the   setting   up   of   central
+laboratories near ICDs around Delhi NCR;
+e. We   direct   the   appellant   to   implement   the
+recommendations made by KPMG in February 2021 for
+improving the parking management of vehicles in the
+said ICD.  We grant time of six months to the appellant
+to implement the recommendations of the KPMG;
+23.
+The appeal is disposed of on the above terms.
+24.    Though we are disposing of the appeal with the above
+directions, we make it clear that this Court will monitor the
+implementation of the above directions.  Therefore, we direct
+that this appeal be listed on 31st July 2024 for reporting
+compliance by the appellant and the Ministry of Transport
+and Highways.
+….…………………….J.
+    (Abhay S. Oka)
+…..…………………...J.
+     (Pankaj Mithal)
+New Delhi;
+January 11, 2024.
+             Civil Appeal no.3798 of 2019 
+Page 13 of 13

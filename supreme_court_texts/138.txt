@@ -1,0 +1,542 @@
+2024 INSC 132
+Non-reportable
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 971 OF 2023
+Venkataraman Krishnamurthy and another 
+… Appellants
+Versus
+Lodha Crown Buildmart Pvt. Ltd. 
+… Respondent
+J U D G M E N T
+SANJAY KUMAR, J
+1.
+National Consumer Disputes Redressal Commission, New Delhi
+(in short, ‘NCDRC’), decided Consumer Complaint No. 35 of 2018,  vide
+order dated 09.11.2022. Disgruntled with the said order, the complainants
+therein preferred this statutory appeal. 
+2.
+The appellants intended to purchase an apartment in a building to
+be constructed by the respondent-company at New Cuffe Parade, Wadala,
+Mumbai.  The  parties  executed  Agreement  to  Sell  dated  29.11.2013
+1
+Digitally signed by
+NIRMALA NEGI
+Date: 2024.02.22
+16:12:06 IST
+Reason:
+Signature Not Verified
+
+(hereinafter,  ‘the  Agreement’),  whereby  the  4BHK  apartment  bearing
+No. B-602, on the sixth floor of the proposed building named ‘Lodha Evoq’,
+with a carpet area of 1966 sq. ft. was allotted to the appellants. The sale
+consideration was fixed at  ₹7,55,50,956/-. As per the payment schedule,
+this sale consideration was to be paid in four sets of ‘application money’,
+viz.,
+ 18,00,000/-,  
+57,55,096/-,  
+74,79,545/-  and  
+21,62,700/-
+₹
+₹
+₹
+₹
+respectively, and the balance amount, being 5,83,53,615/-, was to be paid
+₹
+on  initiation  of  fit  outs.  It  is  not  in  dispute  that  the  appellants  paid
+2,25,31,148/- in all to the respondent-company by the date of institution of
+₹
+their consumer complaint before the NCDRC and were not in default. As
+per the Agreement, possession of the apartment was to be delivered to the
+appellants for fit outs by 30.06.2016 or, with a grace period of one year, by
+30.06.2017.  Alleging  that  the  respondent-company  had  not  delivered
+possession of the apartment for fit outs by the said date and that they had
+terminated the Agreement, the appellants approached the NCDRC. Their
+prayer was for refund of the amount paid by them with compound interest
+thereon @ 18% p.a. along with compensation for the harassment, mental
+agony and torture suffered by them, apart from litigation costs. 
+3.
+By the impugned order dated 09.11.2022, the NCDRC disposed of
+the appellants’ consumer complaint with the following directions: -
+2
+
+‘i.
+OP shall deliver the actual physical possession of the unit in
+question, complete in all respects, as per specifications and with
+amenities and facilities, including the club house etc. as promised in
+the brochure and/or ABA within 3 months of date of this order.
+ii.
+OP shall arrange a joint inspection of the unit in question
+with  Complainants/their  representative  and  OP’s  representative
+within 15 days of date of this order. If as a result of this inspection,
+any deficiencies are noticed, the same shall be rectified by the OP
+within 30 days from the date of joint inspection. Immediately on
+rectification of all the defects, OP shall intimate, in writing, to the
+Complainants about the readiness of the unit in all respects for actual
+physical possession, giving him 15 days’ time from the date of such
+communication to complete various formalities with respect to taking
+possession and remitting balance dues, if any, as per the payment
+plan/terms and conditions of the ABA. OP shall charge EDCs/IDCs,
+and other charges like car parking, IBMS, club membership etc.
+strictly as per ABA dated 29/11/2013. No maintenance and/or holding
+charges shall be payable by Complainants till the date of actual
+physical  possession  after  issuance  of  communication  about
+readiness of the unit for physical possession. Complainants shall be
+liable  to  pay  service  tax/other  applicable  taxes  etc.  payable  to
+government  agencies  as  per  prevailing  rates  notified  by  the
+government and OP shall be bound to duly deposit such amounts to
+concerned government authorities within 45 days of receipt of such
+amounts  under  intimation  to  the  Complainants.  However,  if
+government authorities have not raised any demand with respect to
+VAT etc. and OP considers that it is likely to be raised in future and
+create a liability which has to be borne by the Complainants, OP may
+take an indemnity bond from the Complainants in this regard to pay
+such amount in future, as and when demanded by the Government
+Authorities.
+3
+
+iii.
+OP shall pay delay compensation in the form of simple
+interest @ 6% p.a. on the total amount paid from the committed date
+of  possession  as  per  ABA (30/06/2016)  till  the  date  of  offer  of
+possession (29/11/2017).
+iv.
+Parties to bear their respective litigation cost.
+v.
+In case the Complainants does not wish to take possession
+of the unit in question now, for whatsoever reasons, and wishes to
+seek a refund, as prayed for, he shall make a specific request in this
+regard, in writing, to the OP within 15 days of this order. In such a
+situation  OP  shall  be  entitled  to  deductions/forfeiture  of  earnest
+money as per provisions of the agreement. OP shall, on receipt of
+such written request for refund the amount paid by the Complainants
+after making deductions towards forfeiture of earnest money, as per
+provisions of the agreement, within two months from the date of
+request from the complainants.’
+   The  appellants are  referred  to  as ‘complainants’ in  the  order
+extracted above while the respondent-company is ‘OP’. 
+4.
+Aggrieved by the disposal of their case on the aforestated lines
+and more particularly, para ‘v’ of the directions set out hereinabove, the
+appellants assert before us their right to terminate the Agreement and claim
+unconditional refund of the total amount paid by them with interest thereon. 
+5.
+It  would  be  appropriate  at  this  stage  to  note  the  terms  and
+conditions which were arrived at by and between the parties and reduced
+to writing in the Agreement executed by them. The relevant definitions, set
+out in Clause 1, titled ‘Definition and Interpretation’, read as under: -
+4
+
+‘1.13 “Date of Offer of Possession (for fit outs)” shall mean the date
+as  specified  in  Annexure  2  herein  on  which  the  Company  shall
+endeavor to make available to the Purchaser the Unit for fit outs
+subject to the receipt by the Company of the Total consideration and
+all other taxes and charges payable under this Agreement. This shall
+be the date on which the notice for readiness of the Unit for fit outs is
+issued by the Company plus 15 days.
+1.14 “Date of Offer of Possession” shall mean that date on which the
+occupation certificate is issued (or deemed to be issued as per the
+relevant provisions of legislation)’
+6.
+Clause 11 of the Agreement is most relevant for the purposes of
+this case. It is titled ‘Fit Outs and Possession’ and the relevant paragraphs
+thereof are extracted hereunder: -
+‘11. Fit Outs and Possession: -
+11.1. Subject to the Purchaser not being in breach of any of the terms
+hereof and the Purchaser having paid all the dues and amounts
+hereunder  including  the  Total  Consideration,  the  Company  shall
+endeavor to provide the Unit to the Purchaser for fit outs on or before
+the date as set out in Annexure “2” hereto. The Company shall
+endeavor  to  make  all  necessary  submissions  to  obtain  the
+occupation certificate in respect of the Unit of the Building and make
+available the key Common Areas and Amenities in respect of the
+Building within a period of 1 (one) year from the Date of Offer of
+Possession (for Fit Outs) as set out in Annexure “2” hereto and this
+shall be deemed to be the final possession of the Unit.
+11.2. The Company shall without being liable to the Purchaser, be
+entitled to a grace period of 1 (One) year beyond the aforesaid dates
+mentioned in the Clause 11.1. The date on which the occupation
+5
+
+certificate is issued (or deemed to be issued as per the relevant
+provisions of legislation) shall be deemed to be the “Date of Offer of
+Possession”.
+11.3. Delay in handover of possession (for fitouts) subject to the
+provisions of Clause 11.5 hereof and the Purchaser having paid all
+the amounts due and payable hereunder, in the event the Company
+fails to offer the possession of the Unit for fit outs by the date stated
+in Annexure – 2 and the aforesaid grace period, then within 30 (thirty)
+days of expiry of such grace period, the Company shall inform the
+Purchaser the revised date by which the Unit is likely to be ready for
+being offered for possession for fit out. Upon expiry of such grace
+period, the Purchaser may elect to continue with this Agreement in
+which case, the date of offer of possession for fit outs mentioned in
+Annexure-2 shall stand revised to and substituted by the revised date
+of offer of possession (for fit outs) as communicated by the Company.
+Alternatively, the Purchaser may by giving notice in writing elect to
+terminate this Agreement. Provided that such right to terminate shall
+be exercised by the Purchaser within a period of 90 days from the
+expiry  of  the  aforesaid  grace  period.  In  the  event,  the  letter  of
+termination is not received by the Company within the said period of
+90 days or is received after the said period of 90 days, the Purchaser
+shall, without the Company being liable to the Purchaser be deemed
+to have elected to continue  with the  Agreement to  Sell  and  the
+Purchaser shall deemed to have waived his right to terminate this
+Agreement. In the event that the termination is done within 90 days
+from the expiry of the aforesaid grace period, the Company shall
+refund  to  the  Purchaser  the  Total  Consideration  amount  or  part
+thereof  paid  by  the  Purchaser  in  12  equal  monthly  installments
+through post dated cheques together with simple interest thereon at
+the rate of 12% per annum from the date of receipt of the Total
+Consideration  or  part  thereof  till  repayment.  The  first  monthly
+6
+
+installment shall commence from the 13th month of the date of receipt
+of the said letter of termination and ending on the 24th month thereof.
+11.5.  Notwithstanding  the  provisions  hereof,  the  Company  shall
+without  being  liable  to  the  Purchaser  be  entitled  to  reasonable
+extension  of  time  for  making  available  the  Unit  for  fit  out  or
+completion of said Building beyond the aforesaid dates mentioned in
+Clause 11, if the same is delayed for reasons beyond the control of
+the Company including on account of: -
+(i) Non-availability of steel, cement, other building material water or
+electric supply, or
+(ii) Labour problems, shortage of water supply or electric power or by
+reason of any act of God, or
+(iii) non delivery of possession is as a result of any notice, order, rule
+or  notification  of  the  Government  and/or  any  other  public  or
+Competent  authority  or  of  the  court  or  on  account  of  delay  in
+issuance  or  non-issuance  or  receipt  of  NOC’s,  in  issuance,
+Occupation Certificate, Approvals etc. or non availability of essential
+amenities,  services  and  facilities  such  lifts,  electricity  and  water
+connections or sewage or drainage lines or for any other reason
+technical or otherwise or for any reason beyond the control of the
+Company, or Economic Hardship
+(iv) Delay in receipt of documents and/or Approvals.’
+  In  keeping  with  and  in  continuance  of  Clause  11.1  set  out
+hereinbefore, Annexure 2 to the Agreement stipulated that the date of offer
+of possession for fit outs would be 30.06.2016.
+7.
+Clause 21 of the Agreement is titled ‘Purchaser’s Covenants’. To
+the extent presently relevant, it reads as under: 
+7
+
+’21.
+PURCHASER’S COVENANTS
+The  Purchaser  for  himself  with  intention  to  bring  all  persons  into
+whosoever hands the Unit may come, doth hereby covenant with the
+Company as follows:   
+…..u. The  Purchaser  acknowledges  that  as  on  the  Date  of  Offer  of
+Possession (for fit outs) works in the Unit shall be complete and the Unit
+shall have regular water and electricity supply, as well as lift access. There
+may  be  certain  works  which  may  be  ongoing  in  the  Building/
+development/Property at such time but all due care shall be taken to
+ensure that the fit outs of the Unit are not affected in any manner by such
+works. It is clarified that the Offer of Possession (for fit outs) entitles the
+Purchaser to carry on interior and other related works in the Unit but does
+not entitle the said Unit to be occupied till such time that the Occupation
+Certificate is received in relation to the said Unit.’
+8.
+Cursory  overview  of  the  above  clauses  manifests  that  the
+respondent-company was to deliver possession of the apartment to the
+appellants for fit outs by 30.06.2016 but grace period of one year was
+provided  under  Clause  11.2,  whereby  the  date  for  delivery  of  such
+possession stood extended till 30.06.2017. Clause 21.u indicates that the
+works in the apartment, so far as the respondent-company is concerned,
+were to be completed by that date and the apartment was to have regular
+water and electricity supply, apart from lift access, and the appellants could
+carry on interior and other related works therein. Further, as per Clause
+11.1,  the  respondent-company  was  required  to  obtain  the  Occupation
+Certificate in respect of the apartment and make available the key common
+8
+
+areas and amenities in the building within one year from the date of offer of
+possession for fit outs. That was deemed to be the final possession of the
+apartment in terms of Clause 11.2. This date for delivery of final possession
+was also extendable by one year, i.e., up to 30.06.2018.
+9.
+Significantly, Clause 11.3 makes it clear that delay in delivery of
+possession  of  the  apartment  for  fit  outs,  subject  to  Clause  11.5  and
+payment of the sale consideration amounts due and payable, would entail
+two possible situations. Firstly, the respondent-company could inform the
+purchaser, within thirty days of the expiry of the grace period, the revised
+date  by  which  the  unit  was  likely  to  be  ready  for  being  offered  for
+possession for fit outs and if the same is accepted by the purchaser, the
+contract would stand extended. Secondly, the clause provides that upon
+expiry of the grace period, the purchaser could elect either to continue with
+the  agreement  or,  in  the  alternative,  give  notice  in  writing  electing  to
+terminate the agreement. The purchaser was required to exercise this right
+within ninety days from the expiry of the grace period. 
+10.
+It was not the case of the respondent-company that Clause 11.5
+had a role to play in the case on hand and it was not its claim that any sale
+consideration amounts payable by the appellants remained outstanding at
+that point of time. The respondent-company, however, asserted that it had
+9
+
+received  the  Occupation  Certificate  for  the  appellants’  apartment  on
+08.06.2017, which was well before the expiry of the grace period, and it
+had called upon the appellants by e-mail on the very same day to make the
+balance payment in order to initiate the possession process. It alleged that
+the appellants had failed to make the balance payment and the default,
+therefore, lay with them. It relied on Clause 11.2, which provided that the
+date on which the Occupation Certificate is issued shall be deemed to be
+the date of offer of possession and contended that the appellants could not
+claim that it had not offered possession of the apartment before expiry of
+the grace period. Further, it contended that the appellants wanted to back
+out of the contract as they did not wish to bear the additional burden of the
+newly introduced Goods and Service Tax payable by them in relation to the
+subject transaction. 
+11.
+Perusal of the certificate dated 08.06.2017 relied upon by the
+respondent-company reflects that it is titled ‘Part Occupancy Certificate’. It
+was  issued  by  the  Town  &  Country  Planning  Division  of  the  Mumbai
+Metropolitan Region Development Authority and recorded, under Condition
+No. 6 thereof, that the respondent-company should complete the unfinished
+internal works before applying for grant of a Full Occupation Certificate of
+the building or before handing over physical possession of the premises for
+10
+
+habitation, whichever was earlier.  Notably, in the State of Maharashtra,
+‘Occupancy  Certificate’  is  defined  under  Regulation  6(7)  of  the
+Development Control Regulations, 1991, and it reads as follows: -
+‘6(7).  Occupancy  Certificate:  -  On  receipt  of  the  acceptance  of
+completion certificate in the form in Appendix XXI, the owner through his
+licensed surveyor/engineer/structural engineer/supervisor of this architect
+shall submit to the Commissioner a development completion certificate in
+the form in Appendix XVIII with three copies of the completion plan, one
+of which shall be cloth mounted for record. The Commissioner may
+inspect the work and after satisfying himself that there is no deviation
+from the sanction plans, issue an occupancy certificate in the form in
+Appendix XXII or refuse to sanction the occupancy certificate within 21
+days from the date of receipt of the said completions certificate….’
+ It  is  clear  from  the  aforestated  definition  that  the  ‘Occupancy
+Certificate’ denotes completion of the project in all respects and this is
+fortified by the format of the ‘Occupancy Certificate’ in Appendix XXII to the
+Development Control Regulations, 1991, which reads thus:
+‘The full development work of a residential building comprising of ____ +
+_____+_____ upper floors on plot bearing C.S. No./CTS No. _____ of
+Division/Village ______ at ____ is completed under the supervision of
+Shri._______,  Lic.  Architect,  Lic.  No. ______; Shri  ______, Lic. Site
+Supervisor,  Lic.  No.  _______  and  Shri.  ____,  RCC  Consultant  Lic.
+No._______ and as per completion certificate issued by Chief Fire Officer
+u/no. ______ dated ______, the same may be occupied and completion
+certificate submitted by you is hereby accepted.’
+11
+
+12.
+Significantly,  the  ‘Part  Occupancy  Certificate’ obtained  by  the
+respondent-company is not in the aforestated format and states to the
+effect that a ‘Full Occupation Certificate’ may still have to be obtained
+thereafter.  The  said  certificate  cannot,  therefore,  be  equated  to  the
+‘Occupancy Certificate’ issued under Regulation 6(7) of the Development
+Control  Regulations,  1991. The  respondent-company’s  argument  that
+issuance of the aforestated certificate should be construed to mean that
+there was no delay on its part in delivering possession of the apartment is
+utterly  misconceived.  Clauses  1.13  and  1.14  of  the  Agreement
+demonstrate, in no uncertain terms, that two separate dates for delivery of
+possession are contemplated - one being the ‘date of offer of possession
+for fit outs’ and the other being the ‘date of offer of possession’. The ‘date of
+offer of possession for fit outs’, allowing for the grace period of one year,
+was  30.06.2017  and  it  is  the  admitted  position  that  the  respondent-
+company did not offer such possession before that date. Without doing so,
+it was not open to the respondent-company to proceed directly to the next
+date, viz., the ‘date of offer of possession’ under Clause No. 1.14, which is
+linked with the ‘Occupation Certificate’ which it did not even have by that
+date. Further, it is not even its case that it made available the key common
+areas and amenities, as provided in the Agreement. In effect, expiry of the
+12
+
+‘date of delivery of possession for fit outs’, with the grace period, being
+30.06.2017, the appellants were well within their rights, under Clause 11.3,
+in getting issued a legal notice on 01.07.2017 stating that they had not
+received any letter of offer of possession for fit outs and that they had
+elected to terminate the Agreement. The respondent-company was called
+upon, in consequence, to refund the monies paid by them with interest
+thereon. The respondent-company, however, disclaimed liability, by its reply
+legal notice dated 21.07.2017, constraining the appellants to move the
+NCDRC.
+13.
+This being the factual backdrop of the case, the NCDRC noted
+that there was ‘some delay’ in handing over of possession of the apartment
+by the respondent-company, but opined that it was not ‘unreasonable’,
+whereby the appellants could cancel the Agreement and seek a refund.
+The NCDRC further opined that in the event they wish to seek a refund, the
+respondent-company was entitled  to  deduction/forfeiture  of  the  earnest
+money as per the provisions of the Agreement. Having said so, the NCDRC
+observed that the respondent-company was still bound to provide actual
+physical possession of the apartment, complete in all respects, and issued
+the directions set out hereinabove. 
+13
+
+14.
+At this stage, it may also be noted that, by letter dated 29.11.2017,
+the respondent-company informed the appellants that their apartment was
+ready for possession and called upon them to make the payment due at the
+earliest to enable the process to hand over possession being initiated. 
+15.
+Once  the  parties  committed  themselves  to  a  written  contract,
+whereby they reduced the terms and conditions agreed upon by them to
+writing, the same would be binding upon them. In the event such a written
+contract provided for the consequences that are to follow in the event of
+breach of the conditions by one or the other of the parties thereto, such
+consequences must necessarily follow and if resisted, they would be legally
+enforceable. In the case on hand, the Agreement stipulated the date of
+delivery of possession of the apartment for fit outs with a grace period of
+one year. In  terms thereof, the  date for delivery of possession of the
+apartment for fit outs, with the grace period, was 30.06.2017. Admittedly,
+the  respondent-company  did  not  offer  delivery  of  possession  of  the
+apartment for fit outs by that date. The ‘date of offer of possession’, under
+Clause  1.14,  linked  with  issuance  of  the  ‘Occupation  Certificate’ was
+distinct and separate from the ‘date of delivery of possession for fit outs’
+and Clause 11.3 unequivocally provided the consequences in the event of
+delay in that regard. The right of election given thereunder to the appellants
+14
+
+to either continue or to terminate the Agreement within ninety days from the
+expiry of the grace period was absolute and it was not open to the NCDRC
+to apply its own standards and conclude that, though there was delay in
+handing  over  possession  of  the  apartment,  such  delay  was  not
+unreasonable enough to warrant cancellation of the Agreement. It was not
+for the NCDRC to rewrite the terms and conditions of the contract between
+the parties and apply its own subjective criteria to determine the course of
+action to be adopted by either of them. 
+16.
+In this regard, we may refer to the Constitution Bench decision in
+General Assurance Society Ltd. vs. Chandumull Jain and another1,
+wherein  it  was  observed  that,  in  interpreting  documents  relating  to  a
+contract of insurance, the duty of the Court is to interpret the words in
+which the contract is expressed by the parties because it is not for the
+Court to make a new contract, however reasonable, if the parties have not
+made  it  themselves.
+ Thereafter,  in
+ Rajasthan  State  Industrial
+Development  &  Investment  Corporation  vs.  Diamond  &  Gem
+Development  Corporation  Ltd.2,  this Court  reiterated  that  a  contract,
+being a creature of an agreement between two or more parties, is to be
+interpreted giving the actual meaning to the words contained in the contract
+1
+AIR 1966 SC 1644
+2
+(2013) 5 SCC 470
+15
+
+and it is not permissible for the Court to make a new contract, however
+reasonable, if the parties have not made it themselves.
+17.
+More  recently,  in  Shree  Ambica  Medical  Stores  vs.  Surat
+People's Coop. Bank Ltd.3, it was observed that, through its interpretative
+process, the Court cannot rewrite or create a new contract between the
+parties and has to simply apply the terms and conditions of the agreement
+as agreed between the parties. Again, in  GMR Warora Energy Ltd. vs.
+Central Electricity Regulatory Commission4, it was observed that Courts
+cannot  substitute  their  own  view  of  the  presumed  understanding  of
+commercial terms by the parties, if the terms are explicitly expressed. It
+was held that the explicit terms of a contract are always the final word with
+regard to the intention of the parties. 
+18.
+Though the respondent-company would argue that the appellants
+accepted and  acquiesced with its proposal to dispense with delivery of
+possession  of  the  apartment  for  fit  outs,  we  do  not  find  merit  in  this
+contention.  According  to  the  respondent-company,  the  appellants  were
+informed of the change proposed by it on 30.05.2017 and 07.06.2017.
+However, the response of the appellants on 12.06.2017 discloses that the
+‘Part Occupancy Certificate’ was not even made available to them at that
+3
+(2020) 13 SCC 564
+4
+(2023) 10 SCC 401
+16
+
+time and the first appellant specifically requested the respondent-company
+to update him as soon as the ‘Occupancy Certificate’ was uploaded on its
+website, so that he could initiate steps for securing a loan. He further stated
+that his wife and he would like to see the unit before the handing over of
+possession. It was agreed by and between the parties that the appellants
+would  be  permitted  to  visit  the  apartment  on  14.06.2017  but  it  is  an
+admitted fact that the apartment was not shown to them on that day. They
+were informed that they would not be able to see any other similar unit till
+the end of July, 2017 and that their own apartment would be ready for
+inspection only in August, 2017 or later. 
+19.
+It is not clear as to when the appellants were actually provided with
+the  ‘Part  Occupancy  Certificate’  dated  08.06.2017  obtained  by  the
+respondent-company, but it is not in dispute that the appellants took steps
+to terminate the Agreement immediately after expiry of the grace period on
+30.06.2017, by getting a legal notice issued on 01.07.2017. As there was
+no novation of the contract in writing by the parties and as it was not open
+to one of the parties thereto, viz., the respondent-company, to unilaterally
+change the agreed terms and conditions, the action of the appellants in
+terminating the Agreement on the first available date, as provided therein,
+cannot be found fault with. Mere exchange of correspondence by and
+17
+
+between the parties prior to expiry of the grace period, when the appellants
+were not even seized of all the facts, cannot be held against them by
+treating it as an act in acceptance of or acquiescence with the change
+impliedly suggested by the respondent-company.
+20.
+The fact that the appellants were anxious to avoid the additional
+tax liability, owing to the introduction of the Goods and Service Tax regime,
+cannot be held against them or be imputed to them as an underhand
+motive for backing out of the Agreement. Avoidance of tax is neither illegal
+nor equivalent to tax evasion and, therefore, the urgency shown by the
+appellants in trying to complete the process quickly so as to avoid an
+additional tax burden was natural. Further, it cannot be presumed that the
+appellants, who were willing to spend over 7.5 Crore for the apartment,
+₹
+would back out at the eleventh hour only because the tax component was
+increasing by 40 lakh or so. 
+₹
+21.
+Reliance is placed by the respondent-company on the decision of
+this Court in Ireo Grace Realtech Pvt. Ltd. v. Abhishek Khanna5 in the
+context of the rate of interest payable on the refund. However, we find that
+the aforestated decision is distinguishable on facts. Therein, the contract
+condition provided for payment of delay compensation and in the event of
+such delay exceeding twelve months from the end of the grace period, the
+5
+(2021) 3 SCC 241
+18
+
+allottee could opt for termination of the contract and for refund of the
+amount paid by him. The contract condition, however, provided that the
+refund would be made without any interest thereon. It is in this factual
+scenario that this Court, in equity, decreed that the amount should be
+refunded with simple interest thereon @ 9% p.a. On the other hand, in the
+present case the Agreement itself provided for the interest component on
+the refund amount and stipulated the rate thereof as 12% p.a. That being
+so, the respondent-company cannot seek reduction of the rate of interest
+contrary to the agreed rate.  
+22.
+On the above analysis, we have no hesitation in holding that the
+NCDRC overstepped  its power  and  jurisdiction  in  ignoring  the  binding
+covenants in the Agreement and in introducing its own logic and rationale
+to decide as to what the future course of action of the parties and more
+particularly,  the  appellants,  should  be.  As  we  are  informed  that  the
+appellants  did  not  choose  to  act  upon  the  belated  offer  of  the
+respondent-company, in its letter dated 29.11.2017, and are still intent on
+terminating the Agreement as per Clause 11.3 of the Agreement, we set
+aside  the  order  dated  09.11.2022  passed  by  the  NCDRC  and  allow
+Consumer Complaint No. 35 of 2018, directing the respondent-company to
+refund the deposited amount of 2,25,31,148
+₹
+/- in twelve equal monthly
+19
+
+installments,  through  post-dated  cheques,  with  simple  interest  thereon
+@ 12% p.a., from the date of receipt of the said amount or parts thereof till
+actual repayment. The first such installment shall be payable on the 5th of
+April, 2024, and the succeeding installments shall be payable on the fifth of
+each calendar month thereafter, till fully paid.
+The appeal is allowed to the extent indicated above.
+Pending IAs, if any, shall stand closed.
+In the circumstances, parties shall bear their own costs.
+                                                   
+………………………..,J
+(ANIRUDDHA BOSE)
+………………………..,J
+(SANJAY KUMAR)
+February 22, 2024;
+New Delhi.
+20

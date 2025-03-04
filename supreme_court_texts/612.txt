@@ -1,0 +1,762 @@
+2024 INSC 634
+1 
+ 
+REPORTABLE  
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION  
+ 
+CIVIL APPEAL NO(S).        
+OF 2024 
+      (Arising out of SLP(Civil) No(s). 13484-13488 of 2019) 
+   
+K. NIRMALA & ORS.                                      .…APPELLANT(S) 
+  
+VERSUS 
+  
+CANARA BANK & ANR.     
+                       ….RESPONDENT(S) 
+WITH 
+ 
+CIVIL APPEAL NO(S).        
+OF 2024 
+ (Arising out of SLP(Civil) No(s). 19877 of 2019) 
+ 
+ 
+ CIVIL APPEAL NO(S).  
+       OF 2024 
+                (Arising out of SLP(Civil) No(s). 23500-23501 of 2019) 
+ 
+ 
+ CIVIL APPEAL NO(S).  
+       OF 2024 
+                (Arising out of SLP(Civil) No(s). 13453 of 2019) 
+  
+                                  
+J U D G M E N T 
+Mehta, J. 
+ 
+1. 
+Heard. 
+2. 
+Leave granted. 
+Digitally signed by
+KAVITA PAHUJA
+Date: 2024.08.28
+15:01:52 IST
+Reason:
+Signature Not Verified
+
+2 
+ 
+3. 
+This batch of appeals, which involves identical questions of fact 
+and law, arises from the judgments delivered by the Division Bench 
+of the High Court of Karnataka, as listed in the table below. Given 
+the similarities, the appeals have been heard together and are being 
+decided collectively. 
+SLP No(s). 
+Writ 
+Appeal 
+No(s). 
+Date of 
+Impugned 
+Judgement 
+Concerned 
+Respondents/ 
+Employer 
+Community 
+(Scheduled 
+Caste/Scheduled 
+Tribe) 
+Special 
+Leave 
+Petition(C) 
+No. 13484-
+13488 of 
+2019 
+Writ Appeal 
+No. 189-
+193 of 2019 
+24th April, 
+2019 
+The Canara 
+Bank of India 
+Kotegara (SC) 
+Special 
+Leave 
+Petition(C) 
+No. 19877 of 
+2019 
+Writ Appeal 
+No. 2253 of 
+2018 (S-R) 
+3rd July, 2019 The Oriental 
+Insurance Co. 
+Ltd. 
+Kuruba (ST) 
+Special 
+Leave 
+Petition(C) 
+No. 23500-
+23501 of 
+2019 
+Writ Appeal 
+No. 3666 of 
+2016(S-
+DIS) c/w 
+Writ Appeal 
+No. 3483 of 
+2016 
+3rd July, 2019 The Hindustan 
+Aeronautics Ltd. 
+Kuruba (ST) 
+
+3 
+ 
+Special 
+Leave 
+Petition(C) 
+No. 13453 of 
+2019 
+Writ Appeal 
+No. 316 of 
+2019 
+24th April, 
+2019 
+The Canara 
+Bank of India 
+Kotegara (SC) 
+  
+Civil Appeals arising out of SLP (C) No(s). 13484-13488 of 2019 shall 
+be treated as the lead matter. The outcome of these appeals shall 
+govern all the connected matters. 
+4. 
+The common thread that runs through these matters is as to 
+whether a person who joined the services of a Nationalized 
+Bank/Government of India undertaking based on a certificate that 
+identified 
+him/her 
+as 
+belonging 
+to 
+a 
+Scheduled 
+Caste(‘SC’)/Scheduled Tribe(‘ST’) in the State of Karnataka, pursuant 
+to the State Government's notifications, would be entitled to retain 
+the position after the caste/tribe has been de-scheduled. The 
+situation has arisen on account of the State of Karnataka re-
+designating some castes under the list of SC/ST, inspite of the fact 
+that this jurisdiction is exclusively conferred upon the Parliament by 
+virtue of the scheme under Articles 341 and 342 of the Constitution 
+of India. 
+
+4 
+ 
+5. 
+In brief, the individual details of the appellants in the lead 
+matter are detailed below: - 
+S. No. 
+Name of the Appellant 
+herein 
+Date of Issuance 
+of Caste 
+Certificate 
+Date of Joining 
+Service 
+1. 
+K. Nirmala/Appellant No. 
+1 
+6th February, 
+1978 
+26th December, 
+1978 
+2. 
+K.V. Shankar/Appellant 
+No. 2 
+17th March, 1978 
+20th July, 1981 
+3. 
+D.K. Prabhakar/Appellant 
+No. 3 
+17th March, 1978 
+24th March, 1981 
+4. 
+S. Suresh/Appellant No. 4 2nd March, 1981 
+23rd March, 1981 
+5. 
+Muktha S. Rao/Appellant 
+No. 5 
+30th November, 
+1987 
+30th November, 
+1987 
+  
+ 
+6. 
+As evident from the table above, appellant Nos. 1 to 5 in Civil 
+Appeals @ SLP(C) Nos. 13484-13488 of 2019 were employed by the 
+Canara Bank(hereinafter referred to as 'respondent No.1-bank') in 
+the Scheduled Castes Category based on Caste Certificates, certifying 
+that they belonged to the 'Kotegara' community, a synonymous caste 
+which was made equivalent to the caste called ‘Kotegar Matri’ 
+(included in the Scheduled Castes list) by a Government circular 
+dated 21st November, 1977 issued by the State of Karnataka. It is 
+
+5 
+ 
+undisputed that the appellants duly obtained these Caste Certificates 
+in accordance with the prevailing Government circular. 
+7. 
+A Constitution Bench of this Court in State of Maharashtra 
+v. Milind and Others1, held that the State Government has no 
+authority to amend or modify the Scheduled Castes and Scheduled 
+Tribes list published under Articles 341 and 342 of the Constitution 
+of India. A caste can only be classified as a Scheduled Caste or a 
+Scheduled Tribe or a Socially and Educationally Backward Caste 
+when the Presidential Order is issued to that effect in exercise of the 
+powers prescribed under Articles 341, 342, and 342A of the 
+Constitution of India respectively. In Milind(supra), this Court held 
+as below: - 
+“15. Thus, it is clear that States have no power to amend 
+Presidential Orders. Consequently, a party in power or the 
+Government of the day in a State is relieved from the 
+pressure or burden of tinkering with the Presidential Orders 
+either to gain popularity or secure votes. Number of persons 
+in order to gain advantage in securing admissions in educational 
+institutions and employment in State services have been 
+claiming as belonging to either Scheduled Castes or Scheduled 
+Tribes depriving genuine and needy persons belonging to 
+Scheduled Castes and Scheduled Tribes covered by the 
+Presidential Orders, defeating and frustrating to a large extent 
+the very object of protective discrimination given to such people 
+based on their educational and social backwardness. Courts 
+cannot and should not expand jurisdiction to deal with the 
+question as to whether a particular caste, sub-caste; a group 
+ 
+1 (2001) 1 SCC 4 
+ 
+
+6 
+ 
+or part of tribe or sub-tribe is included in any one of the 
+entries mentioned in the Presidential Orders issued under 
+Articles 341 and 342 particularly so when in clause (2) of the 
+said article, it is expressly stated that the said Orders cannot 
+be amended or varied except by law made by Parliament. The 
+power to include or exclude, amend or alter Presidential 
+Order is expressly and exclusively conferred on and vested 
+with Parliament and that too by making a law in that regard. 
+The President had the benefit of consulting the States through 
+Governors of States which had the means and machinery to find 
+out and recommend as to whether a particular caste or tribe was 
+to be included in the Presidential Order. If the said Orders are to 
+be amended, it is Parliament that is in a better position to know 
+having the means and machinery unlike courts as to why a 
+particular caste or tribe is to be included or excluded by law to 
+be made by Parliament. Allowing the State Governments or 
+courts or other authorities or Tribunals to hold inquiry as to 
+whether a particular caste or tribe should be considered as one 
+included in the schedule of the Presidential Order, when it is not 
+so specifically included, may lead to problems. In order to gain 
+advantage of reservations for the purpose of Article 15(4) or 16(4) 
+several persons have been coming forward claiming to be covered 
+by Presidential Orders issued under Articles 341 and 342. This 
+apart, when no other authority other than Parliament, that too 
+by law alone can amend the Presidential Orders, neither the 
+State Governments nor the courts nor Tribunals nor any 
+authority can assume jurisdiction to hold inquiry and take 
+evidence to declare that a caste or a tribe or part of or a group 
+within a caste or tribe is included in Presidential Orders in one 
+entry or the other although they are not expressly and 
+specifically included. A court cannot alter or amend the said 
+Presidential Orders for the very good reason that it has no 
+power to do so within the meaning, content and scope of 
+Articles 341 and 342. It is not possible to hold that either 
+any inquiry is permissible or any evidence can be let in, in 
+relation to a particular caste or tribe to say whether it is 
+included within Presidential Orders when it is not so 
+expressly included. 
+                                                
+     
+      (emphasis supplied) 
+                                                     
+ 
+8. 
+Pursuant to the judgment in the case of Milind(supra), the 
+Ministry of Finance, Department of Economic Affairs(Banking 
+
+7 
+ 
+Division), Government of India in consultation with the Ministry of 
+Welfare vide letter dated 12th March 1987, declared the State of 
+Karnataka circulars which included the ‘Kotegara’ caste in the list of 
+Scheduled Castes in the State of Karnataka to be non-est. The letter 
+addressed to the Chairman & Managing Director of the concerned 
+authorities is reproduced herein below:- 
+“......Persons belonging to Kotegara, Kote-Kshatriya are not entitled 
+to get benefits as scheduled castes in Karnataka. These communities 
+have never been(sic) treated as scheduled castes in Karnataka. The 
+State Government have no power to make any amendment in the 
+existing lists of lists, of SCs/STs can be done only through an Act of 
+Parliament in view of Articles 341(2) and 342(2) of the constitution. 
+In view of this, the orders issued by the Govt. of Karnataka to this 
+effect does not have any validity. 
+  
+In view of the position explained above, persons belonging to 
+Kotegara and Kote-Kshatriya who have been appointed against the 
+vacancy reserved for scheduled castes cannot be treated as 
+scheduled castes even at the time of their initial appointment 
+because these community have never been treated as synonymous 
+of Kotegar-Matri(sic) by the Government of India which is in the list 
+of SSC in Karnataka. It is infact, entirely the responsible of employer 
+Department to have the matter verified through the State 
+Government, before accepting the claim of the candidates who have 
+been appointed against the reserved posts.”  
+                                                     
+9. 
+The Government of Karnataka issued a circular dated 11th 
+March, 2002 providing protection to individuals employed in State 
+services who had obtained Caste Certificates based on a synonymous 
+caste under the Government circulars, issued by the State. These 
+individuals were to be treated as having been appointed under the 
+
+8 
+ 
+General Merit(GM) category, effective from 11th March, 2002. The said 
+circular also provided that such candidates would not be eligible for 
+future promotions or any other benefits as SCs/STs, although they 
+could claim benefits under the respective Backward Classes to which 
+they belonged. Although the ‘Kotegara’ community was not included 
+in this circular, a subsequent circular dated 29th March, 2003 was 
+issued by the Government of Karnataka, extending the benefits of the 
+circular dated 11th March, 2002 to individuals belonging to the 
+Kotegara, Kotekshathriya, Koteyava, Koteyar, Ramakshathriya, 
+Sherugara, and Sarvegara communities, who had obtained Caste 
+Certificates in accordance with the earlier Government circulars.  
+10. It is also undisputed that the Caste Certificates held by the 
+appellants were cancelled by the Competent Authority, namely the 
+District Caste Verification Committee, and this decision was 
+communicated to their respective employers. Subsequently, criminal 
+proceedings were initiated against some of the appellants at the 
+concerned police station; however, these proceedings were quashed 
+by the High Court while exercising jurisdiction under Section 482 of 
+the Code of Criminal Procedure, 1973(hereinafter referred to as 
+'CrPC'). 
+
+9 
+ 
+11. Respondent No. 2 i.e., Additional Director General of Police, 
+Directorate of Civil Rights Enforcement Cell, intimated respondent 
+No.1-bank to terminate the services of the appellants on the ground 
+that they had secured employment based on fake Caste Certificates. 
+In turn, respondent No.1-bank issued notices to the appellants 
+calling upon them to show cause as to why their services should not 
+be terminated. The appellants challenged the aforesaid notices by 
+filing writ petitions before the High Court of Karnataka which came 
+to be rejected. 
+12. Being aggrieved by the dismissal of their writ petitions, the 
+appellants preferred intra-Court writ appeals before the learned 
+Division Bench of the High Court against the order of the learned 
+Single Judge. The Division Bench of the High Court dismissed the 
+intra-Court appeals. 
+13. This batch of appeals by special leave has been preferred to 
+assail the decisions of the learned Division Bench of the High Court 
+of Karnataka, rejecting the writ appeals as indicated in the table 
+above. 
+ 
+ 
+
+10 
+ 
+Submissions on behalf of the appellants: - 
+14. Learned counsel representing the appellants, vehemently and 
+fervently contended that the very foundation of the case as presented 
+by respondent No. 1-bank and the other employers, that the Caste 
+Certificates held by the appellants are false/fake, is misplaced. They 
+contended that the Caste Certificates were validly issued by the 
+Competent Authority, affirming/certifying that the appellants 
+belonged to the Scheduled Caste as their caste had been included in 
+the Scheduled Castes list by virtue of the notifications/circulars 
+issued by the Government of Karnataka. They further submitted that 
+the effect of the cancellation of these Caste Certificates pursuant to 
+the judgment in Milind(supra) would only deprive the appellants 
+from claiming any additional/future service benefits including 
+promotion etc. based on their reserved category status. None of the 
+appellants had ever misrepresented themselves before the authorities 
+regarding their caste and the contentious Caste Certificates were 
+issued after following the due process of law, and thus the same 
+cannot be questioned as false or fake Certificates. 
+15. Learned 
+counsel 
+further 
+submitted 
+that 
+following 
+the 
+Government circulars dated 11th March, 2002 and 29th March, 2003 
+
+11 
+ 
+issued by the Government of Karnataka, the Ministry of 
+Finance(Department 
+of 
+Financial 
+Services)(Welfare 
+Section), 
+Government of India had also issued a letter dated 17th August, 2005, 
+to the Chairman and Managing Director, State Bank of Mysore with 
+the following directions: - 
+“2. In para 2 of this Ministry's letter No.4(4)/2002-SCT(B) dated 
+30th April, 2003, it has been suggested that where the caste 
+certificate 
+is 
+cancelled 
+by 
+the 
+State 
+Government 
+after 
+consideration of the matter by the Security Committee consisting 
+of 3 members and where the concerned employee was given a 
+chance to present his case before the Committee, no further 
+disciplinary proceedings need be taken and the employee's 
+services can be terminated forthwith. 
+  
+3. It has, inter alia, been stated in your letter under reference that 
+based on the Government of Karnataka's Order dated 29 March 
+2003, several employees whose caste certificates are no longer 
+valid, are seeking their appointment to be considered in general 
+category and withdrawal of pending cases against them to 
+permitting them to surrender their original caste certificates to the 
+competent authority for cancellation. 
+  
+4. In this regard, it is clarified that where the scheduled caste has 
+been de-scheduled/de-notified after appointment in the Bank, the 
+concerned employee may be treated as a general category 
+employee in the post based roster and the disciplinary case, if any 
+pending against him/her may be withdrawn by permitting 
+him/her to surrender the original caste certificate to the 
+competent authority for cancellation.”        
+                              
+ 
+    
+ 
+Placing reliance on the letter dated 17th August, 2005, learned 
+counsel submitted that the above communication clearly provides 
+that when a Scheduled Caste has been de-scheduled or de-notified 
+after an employee(s) appointment in the bank, such employee(s) may 
+
+12 
+ 
+be reclassified as General category employee(s) in the post-based 
+roster. Any pending disciplinary cases against the employee(s) should 
+be withdrawn, requiring them to surrender the original Caste 
+Certificate to the Competent Authority for cancellation. 
+16. Learned counsel contended that since the Ministry of Finance, 
+Government of India, had also endorsed the views expressed in the 
+circulars dated 11th March, 2002 and 29th March, 2003 issued by the 
+Government of Karnataka, the learned Division Bench of the High 
+Court fell in error while denying relief to the appellants and in 
+refusing to protect their services by granting them the benefits of 
+these circulars. He also asserted that the subsequent communication 
+via Office Memorandum issued by the Ministry of Social Justice and 
+Empowerment on 8th July, 2013 relied upon by the respondents 
+cannot be read and employed to the detriment of the appellants 
+because the same does not have retrospective application. 
+17. Learned counsel further submitted that the Division Bench of 
+the Karnataka High Court erred in denying relief to the appellants by 
+relying upon the judgment in the case of Chairman and Managing 
+Director Food Corporation of India and Others v. Jagadish 
+
+13 
+ 
+Balaram Bahira and Others2 because the ratio of the said 
+judgment is based on the interpretation of the “Maharashtra 
+Scheduled Castes, Scheduled Tribes, De-notified Tribes (Vimukta 
+Jatis), Nomadic Tribes, Other Backward Classes, and Special 
+Backward Category (Regulation of Issuance and Verification of) Caste 
+Certificate Act, 2000”, which was a special enactment specific to the 
+State of Maharashtra. No such enactment exists in the State of 
+Karnataka, which, in contrast, had issued circulars dated 11th 
+March, 2002 and 29th March, 2003, protecting those individuals who 
+had obtained Caste Certificates on the basis of pre-existing circulars 
+issued by the State by referring to the synonymous castes. 
+18. On these grounds, learned counsel for the appellants implored 
+the Court to accept the appeals; set aside the impugned orders; and 
+command the respondents to protect the services of the appellants.  
+Submissions on behalf of the respondents:- 
+19. E-converso, learned counsel representing the respondents, 
+vehemently and fervently opposed the contentions advanced on 
+behalf of the appellants.  They urged that the appellants had 
+ 
+2 (2017) 8 SCC 670 
+
+14 
+ 
+procured employment against the reserved category seats based on 
+false Caste Certificates and thus, they are not entitled to protect their 
+services. It was submitted that the Government circulars dated 11th 
+March, 2002 and 29th March, 2003 issued by the Government of 
+Karnataka provided protection only to the individuals employed in 
+the State services and thus, the said circulars could not have enured 
+to the benefit of individuals akin to the appellants who procured 
+employment with the Central Government/Government of India 
+Undertakings/Autonomous Institutions over which the Government 
+of India has deep and pervasive control. 
+20. Learned counsel for the respondents stressed upon the Office 
+Memorandum dated 8th July, 2013 issued by the Ministry of Social 
+Justice and Empowerment, Government of India referring to the 
+Government of Karnataka circular dated 11th March, 2002 and urged 
+that the synonymous castes, Kotegara, Kotekshathriya, Koteyava, 
+Koteyar, Ramakshathriya, Sherugara, and Sarvegara, etc. are not 
+mentioned in the Scheduled Castes list of the State of Karnataka and 
+therefore, the members of these synonymous castes i.e., the 
+appellants herein cannot claim the benefits of the Scheduled Caste 
+category even in the State of Karnataka. 
+
+15 
+ 
+21. Learned counsel submitted that the controversy at hand is 
+squarely covered by the Constitution Bench judgment of this Court 
+in the case of Milind(supra), wherein it has been laid down beyond 
+the pale of doubt that the States have no power to amend the 
+Presidential Orders issued under Article 341 of the Constitution of 
+India. The power to include or exclude, amend or alter the 
+Presidential Order is expressly and exclusively conferred on and 
+vested with the Parliament, and that too by making law in this regard, 
+and thus, the appellants were rightly denied relief by the Division 
+Bench of the Karnataka High Court. 
+22. Learned counsel representing the respondent No.1-bank, urged 
+that the appellants are not entitled to claim protection of their 
+services which they procured against the reserved seats on the basis 
+of false or fake Caste Certificates.  
+23. Learned counsel representing the other respondents-employers 
+adopted the above submissions and implored the Court to dismiss 
+the appeals and affirm the judgments rendered by the High Court. 
+24. We have given our thoughtful consideration to the submissions 
+advanced at the bar and have gone through the impugned judgments 
+and the material placed on record. 
+
+16 
+ 
+Discussion and Conclusion: - 
+25. At the outset, it is to be noted that there is no dispute over the 
+fact that the appellants obtained their Caste Certificates(under the 
+Scheduled Castes category) by following the due process of law. When 
+these Caste Certificates were issued, the synonymous caste, as of the 
+appellants had been included in the list of Scheduled Castes by virtue 
+of the circular issued by the Government of Karnataka, albeit by 
+exercising powers that were not vested in the State.  
+26. As held by the Constitution Bench in Milind(supra), any 
+inclusion or exclusion in or from the list of Scheduled Castes can 
+only be made through an Act of Parliament under Articles 341 and 
+342 of the Constitution of India.  As a corollary thereto, neither the 
+State Government nor the Courts have the authority to modify the 
+list of Scheduled Castes as promulgated by the Presidential order 
+under the above Articles. 
+27. For this precise reason, pursuant to the judgment in 
+Milind(supra), the Government of Karnataka took the only 
+permissible decision to de-schedule the castes to which the 
+appellants herein belonged. However, considering the fact that the 
+Caste Certificates issued to the appellants under the previous 
+
+17 
+ 
+inclusions made by the State Government to the Scheduled Castes 
+list, albeit under a legal misconception was not obtained through 
+misrepresentation or fraud, the State Government took the pragmatic 
+decision to protect the employment of those individuals who had been 
+benefited by these Caste Certificates obtained prior to issuance of the 
+Government circulars dated 11th March, 2002 and 29th March, 2003. 
+There is no dispute on the fact that each of the appellants herein fall 
+within this category. These Government circulars clearly stipulate 
+that individuals who secured employment based on the Caste 
+Certificates 
+issued 
+under 
+the 
+erroneous 
+Government 
+circulars/orders would no longer be entitled to claim future benefits 
+under such certificates and would henceforth be treated as General 
+Merit category candidates for all practical purposes.  
+28. The Ministry of Finance, Government of India, while referring to 
+the Government of Karnataka's circular dated 29th March 2003, 
+clarified and recommended that in cases where a Scheduled Caste 
+employee(s) has been de-scheduled after an appointment in the 
+Bank, the concerned employee(s) may be treated under the General 
+Merit category, and any disciplinary cases pending against him/her 
+
+18 
+ 
+should be withdrawn, and such employee(s) would have to surrender 
+the original Caste certificate to the Competent Authority. 
+29. There cannot be any two views on the proposition that with the 
+issuance of the Government of Karnataka’s circulars dated 11th 
+March, 2002 and 29th March, 2003, the Scheduled Caste Certificates 
+held by the appellants herein stood automatically revoked and they 
+were brought under the unreserved category with effect from 12th 
+March, 1987. 
+30. In the case of Milind(supra), this Court was dealing with the 
+issue regarding the State’s power to amend the Presidential Order. It 
+was held that the State has no jurisdiction to tinker with the 
+Presential Orders issued under Article 341 of the Constitution of 
+India. It was not even urged by the learned counsel for the appellants 
+that the certificates held by the appellants based on the erroneous 
+list of inclusion issued by the State Government were valid or should 
+be protected. Their only prayer was to protect the services of the 
+appellants while conceding that their Caste Certificates would be 
+deemed invalid and that they would not be entitled to any future 
+benefits under the reserved category. 
+
+19 
+ 
+31. Even in the case of Milind(supra), while concluding the 
+judgment, this Court saved the services of the respondents therein 
+in the following manner:- 
+“38. Respondent 1 joined the medical course for the year 1985-
+86. Almost 15 years have passed by now. We are told he has 
+already completed the course and may be he is practising as a 
+doctor. In this view and at this length of time it is for nobody's 
+benefit to annul his admission. Huge amount is spent on each 
+candidate for completion of medical course. No doubt, one 
+Scheduled Tribe candidate was deprived of joining medical course 
+by the admission given to Respondent 1. If any action is taken 
+against Respondent 1, it may lead to depriving the service of a 
+doctor to the society on whom public money has already been 
+spent. In these circumstances, this judgment shall not affect the 
+degree obtained by him and his practising as a doctor. But we 
+make it clear that he cannot claim to belong to the Scheduled Tribe 
+covered by the Scheduled Tribes Order. In other words, he cannot 
+take advantage of the Scheduled Tribes Order any further or for 
+any other constitutional purpose. Having regard to the passage 
+of time, in the given circumstances, including interim orders 
+passed by this Court in SLP (C) No. 16372 of 1985 and other 
+related matters, we make it clear that the admissions and 
+appointments that have become final, shall remain unaffected 
+by this judgment.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(emphasis added) 
+ 
+32. The circulars dated 11th March, 2002 and 29th March, 2003 
+were issued by the Government of Karnataka whereby, protection 
+was extended to the persons who had taken advantage of the Caste 
+Certificates issued prior to issuance of the letter dated 12th March, 
+1987, 
+by 
+the 
+Ministry 
+of Finance, 
+Government 
+of 
+India. 
+Subsequently, the Ministry of Finance, Government of India vide 
+office memorandum dated 17th August, 2005 also ratified this 
+
+20 
+ 
+decision of the State, and extended the protection granted by the 
+Government of Karnataka to the employees of the respondent No.1-
+bank. 
+33. On a close scrutiny of the Office Memorandum dated 8th July, 
+2013, which was heavily relied upon by the learned counsel for the 
+respondents, it transpires that the concerned authority in para 3 of 
+the Office Memorandum referred only to the Government circular 
+dated 11th March, 2002 issued by the Government of Karnataka for 
+excluding certain castes from the umbrella of protection. It states 
+that “the Government Notification dated 11th March 2002 related to 
+Parivara, Talwar, Maleru, Kuruba, Besta, and Koli communities, 
+whose members had obtained Scheduled Tribe certificates. In the said 
+order there is no mention of Kotegara, Kotekshathriya, Koteyava, 
+Koteyar, Ramakshathriya, Sherugara, and Sarvegara, etc castes.” 
+34. Apparently thus, the above Office Memorandum was issued in 
+ignorance of the Government of Karnataka’s circular dated 29th 
+March 2003, which further extended the protection granted by the 
+earlier Government circular dated 11th March, 2002 to the 
+communities including Kotegara, Kotekshathriya, Koteyava, Koteyar, 
+Ramakshathriya, Sherugara, and Sarvegara as well.  This 
+
+21 
+ 
+Government circular seems to have completely escaped the notice of 
+the Ministry of Social Justice and Empowerment, Government of 
+India while issuing the Office Memorandum dated 8th July, 2013. 
+Clearly thus, the Office Memorandum suffers from the vice of non-
+consideration of a vital document being the circular dated 29th 
+March, 2003 issued by the Government of Karnataka. Hence, we 
+have no hesitation in holding that the Office Memorandum dated 8th 
+July, 2013, cannot supersede the communication dated 17th August, 
+2005 issued by the Ministry of Finance and the same cannot be read 
+to the prejudice of the appellants. 
+35. In wake of the discussion made above, we conclude that the 
+appellants are entitled to protection of their services by virtue of the 
+Government circular dated 29th March, 2003 issued by the 
+Government of Karnataka as ratified by communication dated 17th 
+August, 2005 issued by the Ministry of Finance. The circular dated 
+29th March, 2003 issued by the Government of Karnataka specifically 
+extended protection to various castes, including those which were 
+excluded in the earlier Government circular dated 11th March, 2002. 
+This subsequent circular covered the castes such as Kotegara, 
+Kotekshathriya, Koteyava, Koteyar, Ramakshathriya, Sherugara, 
+
+22 
+ 
+and Sarvegara, thus, ensuring that individuals of these castes, 
+holding Scheduled Castes Certificates issued prior to de-scheduling, 
+would be entitled to claim protection of their services albeit as 
+unreserved candidates for all future purposes. Additionally, the 
+communication issued by the Ministry of Finance dated 17th August, 
+2005 reinforced the protective umbrella to the concerned bank 
+employees and also saved them from departmental and criminal 
+action.  
+36. There is an additional feature in Civil Appeals @ SLP(C) Nos. 
+23500-23501 of 2019, that must be highlighted. The appellant, in 
+the said appeals namely Smt. Hemavathy, contends that she secured 
+8th rank in the Bachelor of Engineering course with a specialization 
+in Industrial Production from Mysore University in 1995. It was 
+argued on her behalf that regardless of the Caste Certificate, the 
+appellant would have secured a job at Hindustan Aeronautics 
+Limited(hereinafter being referred to as ‘HAL’) based on her merit in 
+engineering degree and that the show cause notice was issued as 
+women employees are not welcome in the institution(HAL). This 
+significant contention raised by the appellant has not been 
+
+23 
+ 
+adequately traversed by the respondent-HAL in their counter 
+affidavit. 
+37. Consequently, we hold that the proposed action of the 
+respondent banks/undertakings in issuing notice(s) to the appellants 
+to show cause as to why their services may not be terminated cannot 
+be sustained and are hereby quashed.  
+38. As a result, the impugned judgments rendered by the Division 
+Bench do not stand to scrutiny, and hence, the same are quashed 
+and set aside.  
+39. The appeals are accordingly allowed in these terms. No costs. 
+40. Pending application(s), if any, shall stand disposed of. 
+ 
+  
+                                             
+     
+………………….……….J. 
+                                        
+     
+    (HIMA KOHLI) 
+  
+ 
+                                        
+    
+.………………………….J. 
+                                        
+     
+   (SANDEEP MEHTA) 
+  
+New Delhi; 
+August 28, 2024

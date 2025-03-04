@@ -1,0 +1,572 @@
+2024 INSC 204
+ 
+ 
+ 
+Civil Appeal no.9385 of 2022 
+ 
+ 
+ 
+    Page 1 of 11 
+ 
+Non-Reportable 
+ 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION  
+ 
+CIVIL APPEAL NO. 9385 OF 2022 
+ 
+M/s Global Technologies and Research 
+      … Appellant  
+ 
+versus 
+ 
+Principal Commissioner of Customs, 
+New Delhi (Import)            
+ 
+ 
+  … Respondent 
+ 
+J U D G M E N T 
+ABHAY S. OKA, J. 
+FACTUAL ASPECTS 
+1. 
+The appellant assessee has taken an exception to the 
+judgment and order dated 29th September 2022 passed by the 
+Customs, Excise & Service Tax Appellate Tribunal (for short, 
+‘the CESTAT’) in an appeal preferred under Section 129 (A) of 
+the Customs Act, 1962 (the Customs Act).  We must refer to a 
+few factual aspects. The appellant assessee has been a 
+regular importer of camera stabilizer devices for the last 
+several 
+years. 
+ 
+The 
+appellant 
+assessee 
+imported 
+a 
+consignment of camera stabilizer devices under a Bill of Entry 
+dated 16th February 2018.  The consignment was covered 
+under the Invoice dated 30th January 2018, having a total 
+value of USD 20,353 (CF).  The invoice was issued by 
+Digitally signed by
+ASHISH KONDLE
+Date: 2024.03.15
+16:34:53 IST
+Reason:
+Signature Not Verified
+
+ 
+ 
+ 
+Civil Appeal no.9385 of 2022 
+ 
+ 
+ 
+    Page 2 of 11 
+ 
+M/s.Guilin Zhishen Information Technology Co. Ltd. in 
+China. 
+2. 
+Out of the 4 different categories of goods, the dispute is 
+about 3 categories, the description of which is as under:  
+Item 
+Sr. 
+No. 
+Description of 
+Goods 
+Custo
+ms 
+Tariff 
+Head 
+Qty. 
+in 
+PCS 
+Unit 
+price 
+in 
+USD 
+Assessabl
+e Value 
+(in INR) 
+Customs 
+Duty (in 
+INR) 
+1. 
+Camera Stand 
+(3  
+Axis Stabilizer- 
+CRA02, 
+Unpopular 
+Brand) 
+9620 
+0000 
+180 
+55 
+777640.67 
+240913.10 
+2. 
+Camera Stand 
+(3 
+Axis Stabilizer- 
+CRA01, 
+Unpopular 
+Brand) 
+9620 
+0000 
+110 
+45 
+388820.34 
+120456.50 
+3. 
+Dual Handle 
+(Unpopular 
+Brand, Parts of 
+Camera Stand) 
+8529 
+9090 
+50 
+10 
+39274.78 
+12167.30 
+3. 
+On the basis of the Intelligence, the goods were 
+examined 100% by SIIB officers.  It was alleged that the goods 
+were 
+grossly 
+undervalued. 
+After 
+taking 
+representative 
+samples, the goods were detained for further investigation.  
+On 21st February 2018, the goods were seized on the ground 
+that 
+the 
+same 
+were 
+found 
+to 
+be 
+mis-declared 
+and 
+undervalued.  Statements under Section 108 of the Customs 
+Act of the respondent and the customs broker were recorded 
+on 23rd February 2018.  The appellant's past import details 
+were retrieved from the system, and it was found that the 
+importer had imported identical/similar items with the same 
+
+ 
+ 
+ 
+Civil Appeal no.9385 of 2022 
+ 
+ 
+ 
+    Page 3 of 11 
+ 
+model numbers at higher and different unit prices.  The 
+appellant submitted a letter dated 7th March 2018 to the 
+Commissioner of Customs (Import), New Delhi, stating that 
+the goods were imported from the manufacturer supported by 
+the manufacturer’s invoice and that the value of the goods 
+was listed on some of the well-known online trading and B2B 
+websites.  The appellant relied upon the letter dated 16th 
+January 2018 from the manufacturer stating that the goods 
+were of a lower version.  The Department claims to have 
+conducted a market survey on 26th March 2018.   
+4. 
+The order-in-original dated 31st March 2018 was passed 
+by 
+the 
+adjudicating 
+authority 
+rejecting 
+the 
+declared 
+assessable value of Rs.12,87,742/- for the goods imported 
+under Bill of Entry dated 16th February 2018 in terms of Rule 
+12 of the Customs Valuation (Determination of Value of 
+Imported Goods) Rules, 2007 (for short, ‘the Valuation Rules’) 
+read with Section 14 of the Customs Act.  The adjudicating 
+authority assessed the value of the imported goods at 
+Rs.66,18,575/-.  The adjudicating authority ordered recovery 
+of differential customs duty of Rs.16,22,228/-.  An order of 
+confiscation under Section 111 of the Customs Act was 
+passed, giving the appellant an option to redeem the goods on 
+payment 
+of 
+a 
+redemption 
+fine 
+of 
+Rs.9,93,000/. 
+The 
+adjudicating authority imposed penalties of Rs.2,00,000/- 
+and Rs.3,31,000/- on the importer under Sections 112(a) and 
+114AA respectively of the Customs Act.  The appellant 
+preferred an appeal before the Commissioner of Customs 
+
+ 
+ 
+ 
+Civil Appeal no.9385 of 2022 
+ 
+ 
+ 
+    Page 4 of 11 
+ 
+(Appeals). The Commissioner allowed the said appeal by the 
+judgment dated 17th December 2020. On 2nd November 2021, 
+the Committee of Commissioners, in the exercise of powers 
+under sub-section (2) of Section 129A of the Customs Act, 
+directed the Department to file an appeal against the order 
+dated 17th December 2020.  Accordingly, an appeal was 
+preferred before the CESTAT on 17th November 2021.  By 
+impugned judgment dated 29th September 2022, the appeal 
+was allowed, and the CESTAT restored the order-in-original 
+passed by the adjudicating authority.  
+SUBMISSIONS 
+5. 
+The learned senior counsel appearing for the appellant 
+has taken us through the impugned order.  His first 
+submission is that the review order passed by the Committee 
+of Commissioners under sub-section (2) of Section 129A was 
+hopelessly time-barred as the same was passed after a lapse 
+of more than 10 months from the date of the order of the 
+Commissioner (Appeals).  His second submission is that 
+CESTAT completely ignored the definitions of ‘identical’ and 
+‘similar’ goods under the Valuation Rules.  He submitted that 
+the finding that the goods imported by the appellant in the 
+past were similar or identical is completely erroneous, as the 
+earlier goods purchased were not comparable at all.  Coming 
+to the first Item of the Camera Stand (3-axis Stabilizer-
+CRA02, Unpopular Brand), he submitted that the said Item 
+was completely different from the Item imported by the 
+appellant with a Bill of Entry dated 13th November 2017, 
+
+ 
+ 
+ 
+Civil Appeal no.9385 of 2022 
+ 
+ 
+ 
+    Page 5 of 11 
+ 
+which was described as “Camera Stand (Zhiyun Crane 2 
+Model CRA02)”. He submitted that the hardware and software 
+for both Items were different.  The appellant submitted a 
+detailed technical letter dated 12th December 2017 issued by 
+the manufacturer, which indicates that the first item was of 
+an unpopular brand with a lower version.  Regarding Item 
+No.2 of Camera Stand (3 Axis Stabilizer - CRA01, Unpopular 
+Brand), he submitted that it could not be compared with 
+earlier Items imported by the appellant with a Bill of Entry 
+dated 13th November 2017.  The Item was a “Camera Stand 
+(Zhiyun Crane, Type Monopod)”.  He submitted that the 
+features of both Items were completely different, as can be 
+seen from the table reproduced by the adjudicating authority 
+in order-in-original.  As regards Item no.3 of [Dual handle 
+(Unpopular Brand), parts of Camera Stand], he submitted 
+that same was sought to be compared with a completely 
+different Item imported by the appellant with a Bill of Entry 
+dated 13th November 2017, which was described as “Dual 
+Handle for Camera Stand (for Zhiyun Crane)”.  He would, 
+therefore, urge that, as found by the Commissioner (Appeals), 
+the earlier goods imported by the appellant were neither 
+identical nor similar goods.  He would, therefore, submit that 
+CESTAT committed an error by interfering with the judgment 
+and order of the Commissioner (Appeals).  
+6. 
+The learned ASG appearing for the respondent - 
+Revenue pointed out that under sub-section (2) of Section 
+129A 
+for 
+exercising 
+power 
+by 
+the 
+Committee 
+of 
+
+ 
+ 
+ 
+Civil Appeal no.9385 of 2022 
+ 
+ 
+ 
+    Page 6 of 11 
+ 
+Commissioners, no time limit was incorporated in the 
+Customs Act.   However, under Section 129D, which deals 
+with orders passed by the original authority, for a similar 
+exercise to be done by the Committee of Commissioners, a 
+limitation of 30 days has been prescribed.   He submitted that 
+the judgment and order of the Commissioner (Appeals) was 
+passed on 17th December 2020, and the order under sub-
+section (2) of Section 129A was made on 2nd November 2021.  
+He submitted that those were the days of the COVID-19 
+pandemic, and the orders passed by this Court in the exercise 
+of suo motu powers of extending limitations were in force at 
+that time.  Learned ASG invited our attention to the fact that 
+under the Bill of Entry subject matter of the appeal, the goods 
+were shown as “unpopular models”.  He submitted that there 
+was no explanation as to why, within a few months, the goods 
+had become unpopular.  He pointed out that though later on, 
+the importer claimed that the goods imported were of low 
+versions compared to the earlier goods, the market survey 
+showed that there were no such low versions in the market.  
+He invited our attention to the comparison of features of the 
+goods imported under the subject Bill of Entry and the earlier 
+imports.  He submitted that, as regards all three Items, the 
+earlier imported Items were more or less the same. The 
+manufacturer has described the goods subject matter of the 
+impugned Bill of Entry as an unpopular brand.  He submitted 
+that in the order-in-original, the adjudicating authority had 
+recorded a finding of fact that Item nos. 1 and 3 imported by 
+the appellant were identical and Item no.2 was of similar 
+
+ 
+ 
+ 
+Civil Appeal no.9385 of 2022 
+ 
+ 
+ 
+    Page 7 of 11 
+ 
+goods.  The goods in Item no.3 were identical to the goods 
+earlier imported.  He submitted that the said finding of fact 
+has been reaffirmed by the CESTAT, and therefore, no 
+interference is called for.  
+CONSIDERATION OF SUBMISSIONS 
+7. 
+We have considered the submissions made across the 
+Bar.  We also perused the submissions in “brief”, running into 
+35 pages filed by the appellant before the CESTAT.  The first 
+issue is of the bar of limitation in the exercise of powers under 
+sub-section (2) of Section 129A. Sub-section (2) incorporates 
+the powers of the Committee of Commissioners of Customs.  If 
+the said Committee is of the opinion that an order passed by 
+the Appellate Commissioner of Customs or Commissioner of 
+Customs (Appeals) under Section 128 or 128A of the Customs 
+Act is not legal and proper, it can direct the appropriate 
+officer to file an appeal before the CESTAT.  On plain reading 
+of Section 129A, we find that no specific time period has been 
+prescribed for the Committee of Commissioners to exercise 
+the power under sub-section (2) of Section 129A.  Section 
+129D of the Customs Act deals with similar powers of the 
+Committee of Commissioners when orders are passed by the 
+Principal 
+Commissioners 
+of 
+Customs 
+as 
+adjudicating 
+authority.  There is a similar power to direct the proper officer 
+to apply to the Appellate Tribunal.  However, sub-section (3) 
+of Section 129D imposes a specific limitation of three months 
+from the date of communication of the order of the 
+adjudicating authority.  Thus, there is no prescribed period of 
+
+ 
+ 
+ 
+Civil Appeal no.9385 of 2022 
+ 
+ 
+ 
+    Page 8 of 11 
+ 
+limitation for passing an order in exercise of the power under 
+sub-section (2) of Section 129A.  It is true that even if the law 
+does not provide for a specific period for taking a particular 
+action, the authority vested with the power to take action 
+must take the action within a reasonable time.  In the present 
+case, the relevant period of 10 months is covered by the 
+COVID-19 pandemic. During the said period, in suo motu RE: 
+COGNIZANCE FOR EXTENSION OF LIMITATION, this Court, 
+on 23rd September 2021, while disposing of Miscellaneous 
+Application No.665 of 2021, extended the period of limitation 
+provided under the statutes.  In the facts of the case, 
+considering the period of the COVID-19 pandemic, it cannot 
+be said that the Committee of Commissioners has taken an 
+unreasonably 
+long 
+time 
+to 
+decide. 
+ 
+Considering 
+the 
+extraordinary circumstances prevailing in those days due to 
+COVID-19, the decision was taken within a reasonable time. 
+The Committee took the decision on 2nd November 2021, 
+which was received by the Deputy Commissioner (Review) on 
+11th November 2021, and the appeal was preferred on 17th 
+November 2021. It is true that under Sub-Section (3) of 
+Section 129A, a period of limitation of 3 months has been 
+provided for preferring an appeal which commences on the 
+day on which the order sought to be appealed against is 
+communicated to the concerned Authority. But, even the said 
+period stood extended in view of the orders this Court passed 
+from time to time in suo motu proceedings. 
+
+ 
+ 
+ 
+Civil Appeal no.9385 of 2022 
+ 
+ 
+ 
+    Page 9 of 11 
+ 
+8. 
+The issue of undervaluation has been discussed in 
+detail in a decision of this Court in the case of Commissioner 
+of Central Excise and Service Tax, Noida v. Sanjivani 
+Non-ferrous Trading Pvt. Ltd.1. Paragraph 10 of the said 
+decision reads thus:- 
+“10. The law, thus, is clear. As per 
+Sections 14(1) and 14(1-A), the value of 
+any goods chargeable to ad valorem 
+duty is deemed to be the price as 
+referred to in that provision. Section 
+14(1) is a deeming provision as it talks 
+of “deemed value” of such goods. 
+Therefore, 
+normally, 
+the 
+assessing 
+officer is supposed to act on the basis of 
+price which is actually paid and treat 
+the 
+same 
+as 
+assessable 
+value/transaction value of the goods. 
+This, ordinarily, is the course of action 
+which needs to be followed by the 
+assessing 
+officer. 
+This 
+principle 
+of 
+arriving at transaction value to be the 
+assessable value applies. That is also 
+the effect of Rule 3(1) and Rule 4(1) of 
+the Customs Valuation Rules, namely, 
+the adjudicating authority is bound to 
+accept price actually paid or payable for 
+goods 
+as 
+the 
+transaction 
+value. 
+Exceptions are, however, carved out 
+and enumerated in Rule 4(2). As per 
+that provision, the transaction value 
+mentioned in the bills of entry can be 
+discarded in case it is found that 
+ 
+1 (2019) 2 SCC 378 
+
+ 
+ 
+ 
+Civil Appeal no.9385 of 2022 
+ 
+ 
+ 
+    Page 10 of 11 
+ 
+there are any imports of identical 
+goods or similar goods at a higher 
+price at around the same time or if 
+the buyers and sellers are related to 
+each other. In order to invoke such a 
+provision it is incumbent upon the 
+assessing officer to give reasons as to 
+why the transaction value declared in 
+the bills of entry was being rejected; 
+to establish that the price is not the 
+sole consideration; and to give the 
+reasons supported by material on the 
+basis of which the assessing officer 
+arrives at his own assessable value.” 
+  
+ 
+ 
+    (emphasis supplied) 
+In paragraph 19 of the impugned judgment, a comparative 
+table of the goods subject matter of this appeal imported by 
+the appellant and the goods imported by the appellant earlier 
+has 
+been 
+incorporated. 
+After 
+due 
+consideration, 
+the 
+adjudicating authority and CESTAT found the goods identical 
+to/similar to the ones imported earlier. We have perused the 
+said table. We find that except for the description as an 
+“unpopular 
+brand,” 
+the 
+products 
+appear 
+to 
+be 
+identical/similar. In any case, the factual finding rendered by 
+CESTAT is after a detailed consideration of the material on 
+record.   
+9. 
+At this stage, we may also make a note of the statement 
+made by an officer of the appellant during the inquiry before 
+the adjudicating authority.  In paragraph 11, he stated that 
+there is a little difference in the hardware and software 
+
+ 
+ 
+ 
+Civil Appeal no.9385 of 2022 
+ 
+ 
+ 
+    Page 11 of 11 
+ 
+functions in the disputed goods as compared to the earlier 
+versions.  In the order-in-original and in the impugned 
+judgment of CESTAT on facts, it was found that Item nos. 1 
+and 3 were identical goods, and Item no. 2 was of similar 
+goods.  Detailed reasons have been recorded in the order-in-
+original as to why the transaction value of the imported goods 
+has been discarded.  Cogent reasons have been assigned to 
+arrive at the assessable value. 
+10. Hence, in view of the findings recorded by the CESTAT, 
+we find no error in the view taken.  No fault can be found with 
+the imposition of penalties.  Hence, there is no merit in the 
+appeal and the same is dismissed with no order as to costs.  
+ 
+….…………………….J. 
+ 
+ 
+ 
+ 
+ 
+ 
+(Abhay S. Oka) 
+ 
+ 
+…..…………………...J. 
+ 
+ 
+ 
+ 
+ 
+ 
+(Pankaj Mithal) 
+New Delhi; 
+March 15, 2024.

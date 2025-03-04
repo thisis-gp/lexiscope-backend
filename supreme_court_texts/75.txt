@@ -1,0 +1,643 @@
+2024 INSC 72
+1 
+ 
+REPORTABLE 
+IN THE SUPREME COURT OF INDIA 
+CRIMINAL APPELLATE JURISDICTION 
+ 
+CRIMINAL APPEAL NO.                  OF 2024 
+(Arising out of Petition for Special Leave to Appeal 
+(Criminal) No.4415 OF 2023) 
+ 
+SACHIN GARG  
+ 
+ 
+ 
+ 
+ 
+     …APPELLANT 
+VERSUS 
+STATE OF U.P & ANR.   
+ 
+ 
+ 
+…RESPONDENTS 
+J U D G M E N T 
+ 
+ANIRUDDHA BOSE, J.  
+ 
+Leave granted. 
+2. 
+The appellant, at the material point of time, stood posted as 
+the Head of factory of Exide Industries Limited (“EIL”), a corporate 
+entity, situated at Bawal, District Rewari, Haryana.  The 
+respondent no.2, ran a proprietary concern, Ambika Gases. He 
+was the supplier of Dissolved Acetylene Gas (“DA Gas”), which is 
+used for manufacturing battery in the said factory.  So far as the 
+present appeal is concerned, the dispute is over a purchase order 
+issued for the supply of the said item.  The original purchase order 
+dated 01.04.2019 was amended twice on the basis of 
+representations made by the respondent no.2. The first 
+Digitally signed by
+NIRMALA NEGI
+Date: 2024.01.30
+17:33:31 IST
+Reason:
+Signature Not Verified
+
+2 
+ 
+amendment was made on 18.07.2019 by which the rate was 
+increased from Rs.1.55 per unit to Rs.1.65 per unit and the second 
+amendment was made on 20.12.2019 through which the rate per 
+unit was brought down to Rs.1.48 from Rs.1.65. An invoice was 
+raised by the respondent no.2 with the aforesaid rates for a total 
+sum of Rs.9,36,693.18/-. The dispute revolves around non-
+payment of the said sum.  However, it has been contended by the 
+appellant that EIL, after ascertaining the market price of DA Gas 
+from other vendors, by a letter dated 29.06.2020, reconciled the 
+accounts by informing respondent no.2 of what it claimed was foul 
+play with respect to revision of rates and appropriated the alleged 
+illegal amounts claimed by the vendor (respondent no.2) from the 
+invoice. 
+3. 
+The respondent no.2 instituted a complaint case in the Court 
+of the Chief Judicial Magistrate, Ghaziabad and the substance of 
+the complaint would be revealed from the following passages of the 
+petition 
+of 
+complaint 
+(registered 
+as 
+Misc. 
+Application 
+No.317/2020):- 
+“….The Applicant through his aboenamed work do the job 
+work of D.A. Gas. Opposite Party Sachin Garg is posted as 
+Material Head of Exide Industries Ltd. situated at Plot No. 
+179, Sector-3, Bawal, District- Rewari, Haryana and 
+Opposite Party Sachin Garg also used to issue Purchase 
+Order to the Applicant’s company on behalf of the Exide 
+Company and only the Opposite Party Sachin Garg used to 
+
+3 
+ 
+make payment of Job Work to the Applicant. Previously, the 
+Transaction of Opposite Party was normal with the 
+Applicant’s company and no problem was ever persisted in 
+the payment, due to which, the Applicant started trusting on 
+the Opposite Party and Company. Sachin Garg through the 
+aforesaid company in the capacity of Purchase Head, 
+issued Purchase Order to the Applicant’s Company, in 
+which, it was agreed between the Opposite Party and 
+Applicant to do job work @ Rs.1.65/- per piece w.e.f. 
+18.02.2019, which remained continued on the same rates 
+till December, 2019 and the Opposite Party was regularly 
+making the payment of job work to the Applicant on the 
+same rates. In the month of December, in pursuance of the 
+Purchase Order of Opposite Party, According to Purchase 
+No. 4800253593 dated 01.04.2019, done the job work of 
+Filled DA Gases HSN Code 290129910 quantity 3,07,114/- 
+pieces @ Rs.165 to the tune of Rs.5,06,738.10/-, and Filled 
+DA Gases H{SN Code 29012910 quantity 1,93,966/- pieces 
+@ Rs.1.48 per piece to the tune of Rs. 2,87,069.68/- and 
+18% GST to the tune of Rs.1,42,885.40/-0, in this manner 
+did the job work of total amount Rs.9,36,693.18/-. The 
+material Head of Opposite Company namely Sachin Garg 
+by admitting the job work done by the Applicant vide 
+Purchaser Order No. 4800253593 dated 01.04.2019, and 
+got done the job work according to the piece rate quoted by 
+the Applicant. On 03.07.2020, Applicant sent Bill/Invoice 
+No. 
+AG.SR/20-21/01 
+dated 
+02.07.2020 
+of 
+Rs.9,36,693.18/- to the Material Head of Opposite Party 
+Company namely Sachin Garg through registered post and 
+also sent the aforesaid invoice through email on 
+14.07.2020, which were received by Opposite Party Sachin 
+Garg. Applicant repeatedly requested the Opposite Party for 
+payment through email, but, the Opposite Party did not 
+make payment of Rs.9,36,693.18/- of job work done by the 
+Applicant Company in the month of December, 2019 and he 
+by keeping the Applicant in dark, kept giving assurances of 
+making full payment. When, the Applicant put more 
+pressure on the Opposite Party for payment, then, Opposite 
+Party stopped to get done the job work from the Applicant 
+Company, and on 29.06.2020, sent a letter with quotation 
+to the Applicant Company, in which, the Opposite Party has 
+fixed the rate of job work done by the Applicant company @ 
+Rs.1.40/- per piece w.e.f. April, 2019, whereas, the job 
+work of Opposite Party was completed by the Applicant 
+Company in the month of December, 2019, in which, 
+Opposite Party on 20.12.2019, requested to change the rate 
+of job work at the rate of Rs.1.48/- per piece, which was 
+accepted by the Applicant w.e.f. 20.12.2019. In this 
+manner, after 20.12.2019, Rs.1.48/- per piece and prior to 
+
+4 
+ 
+that the rate of Rs.1.65/- per piece was payable by the 
+Opposite Party, but, the Opposite Party with intention to 
+cheat the Applicant in deliberate manner, and with intention 
+to cause financial loss to him and not to pay the money, has 
+committed criminal breach of trust with the Applicant, which 
+is a cognizable offence. On demanding money by the 
+Applicant, the Opposite Party is abusing him with filthy 
+language and threatening him to kill…..” 
+(quoted verbatim from the paperbook) 
+ 
+4. 
+The learned Magistrate upon recording initial deposition of 
+Saurabh Sharma, the proprietor of the supplier firm and his father 
+Padam Kant Sharma issued summons for trial under Sections 406, 
+504 and 506 of the Indian Penal Code, 1860 (“1860 Code”) on 
+18.08.2021. 
+5. 
+The appellant had approached the High Court at Allahabad 
+under Section 482 of Code of Criminal Procedure, 1973 (“the 1973 
+Code”) 
+by 
+filing, 
+Criminal 
+Miscellaneous 
+Application 
+No.18603/2021, for quashing the said summons and also the 
+complaint case itself. The judgment of the High Court was 
+delivered dismissing the application filed by the appellant on 
+23.03.2023 and it is this judgment which is under appeal before 
+us. The main reason for dismissal of the appellant’s quashing plea 
+was that the subject-complaint involved adjudication of disputed 
+questions of fact. Referring to the judgments of this Court in the 
+cases of Neeharika Infrastructure Pvt. Ltd. -vs- State of 
+Maharashtra and Ors. [(2021) 19 SCC 401], R.P. Kapur -vs- State 
+
+5 
+ 
+of Punjab [AIR 1960 SC 866], State of Haryana and Ors. -vs- 
+Bhajan Lal and Ors. [1992 SCC (Cr.) 426], State of Bihar and 
+Anr. -vs- P. P. Sharma, IAS and Anr. [1992 SCC (Cr.) 192] and 
+lastly Zandu Pharmaceutical Works Ltd. and Ors. -vs- Mohd. 
+Sharaful Haque and Another [2005 SCC (Cr.) 283], the High 
+Court refrained from considering the defence of the accused.  
+6. 
+In the case of Neeharika Infrastructure Ltd (supra), a three-
+judge Bench of this Court examined the factors which were to be 
+considered by the High Court for quashing an F.I.R. at the 
+threshold, relating to factors which would apply to a proceeding 
+which forms the subject-matter of the present case. Referring to 
+the judgment in the case of R.P. Kapur (supra), principles for 
+quashing were set down as:-  
+“10.1 The first case on the point which is required to be 
+noticed is the decision of this Court in the case of R.P. 
+Kapur (supra). While dealing with the inherent powers of 
+the High Court under Section 561-A of the earlier Code 
+(which is pari materia with Section 482 of the Code), it is 
+observed and held that the inherent powers of the High 
+Court under Section 561 of the earlier Code cannot be 
+exercised in regard to the matters specifically covered by the 
+other provisions of the Code; the inherent jurisdiction of the 
+High Court can be exercised to quash proceedings in a 
+proper case either to prevent the abuse of the process of any 
+court or otherwise to secure the ends of justice; ordinarily 
+criminal proceedings instituted against an accused person 
+must be tried under the provisions of the Code, and the High 
+Court would be reluctant to interfere with the said 
+proceedings at an interlocutory stage. After observing this, 
+thereafter this Court then carved out some exceptions to the 
+above-stated rule, which are as under: 
+
+6 
+ 
+“(i) Where it manifestly appears that there is a 
+legal bar against the institution or continuance of 
+the criminal proceeding in respect of the offence 
+alleged. Absence of the requisite sanction may, for 
+instance, furnish cases under this category. 
+(ii) Where the allegations in the first information 
+report or the complaint, even if they are taken at 
+their face value and accepted in their entirety, do 
+not constitute the offence alleged; in such cases 
+no question of appreciating evidence arises; it is a 
+matter merely of looking at the complaint or the 
+first information report to decide whether the 
+offence alleged is disclosed or not. 
+(iii) Where the allegations made against the 
+accused person do constitute an offence alleged 
+but there is either no legal evidence adduced in 
+support of the case or the evidence adduced 
+clearly or manifestly fails to prove the charge. In 
+dealing with this class of cases it is important to 
+bear in mind the distinction between a case where 
+there is no legal evidence or where there is 
+evidence 
+which 
+is 
+manifestly 
+and 
+clearly 
+inconsistent with the accusation made and cases 
+where there is legal evidence which on its 
+appreciation may or may not support the 
+accusation 
+in 
+question. 
+In 
+exercising 
+its 
+jurisdiction under Section 561-A the High Court 
+would not embark upon an enquiry as to whether 
+the evidence in question is reliable or not. That is 
+the function of the trial Magistrate, and ordinarily 
+it would not be open to any party to invoke the 
+High Court's inherent jurisdiction and contend 
+that on a reasonable appreciation of the evidence 
+the accusation made against the accused would 
+not be sustained.”” 
+ 
+7. 
+In the same decision (i.e. Neeharika Infrastructure Ltd.) 
+(supra), the seven-point edict laid down in the case of Bhajan Lal 
+(supra) was also referred to. These are:-  
+“102.(1) Where the allegations made in the first information 
+report or the complaint, even if they are taken at their face 
+value and accepted in their entirety do not prima facie 
+
+7 
+ 
+constitute any offence or make out a case against the 
+accused. 
+(2) Where the allegations in the first information report and 
+other materials, if any, accompanying the FIR do not 
+disclose a cognizable offence, justifying an investigation by 
+police officers under Section 156(1) of the Code except under 
+an order of a Magistrate within the purview of Section 155(2) 
+of the Code. 
+(3) Where the uncontroverted allegations made in the FIR or 
+complaint and the evidence collected in support of the same 
+do not disclose the commission of any offence and make out 
+a case against the accused. 
+(4) Where the allegations in the FIR do not constitute a 
+cognizable offence but constitute only a non-cognizable 
+offence, no investigation is permitted by a police officer 
+without an order of a Magistrate as contemplated under 
+Section 155(2) of the Code. 
+(5) Where the allegations made in the FIR or complaint are 
+so absurd and inherently improbable on the basis of which 
+no prudent person can ever reach a just conclusion that 
+there is sufficient ground for proceeding against the 
+accused. 
+(6) Where there is an express legal bar engrafted in any of 
+the provisions of the Code or the Act concerned (under which 
+a criminal proceeding is instituted) to the institution and 
+continuance of the proceedings and/or where there is a 
+specific provision in the Code or the Act concerned, providing 
+efficacious redress for the grievance of the aggrieved party. 
+(7) Where a criminal proceeding is manifestly attended with 
+mala fide and/or where the proceeding is maliciously 
+instituted with an ulterior motive for wreaking vengeance on 
+the accused and with a view to spite him due to private and 
+personal grudge.” 
+ 
+8. 
+It was observed in the judgment under appeal that the 
+applicant has got the right of discharge which could be freely taken 
+up by him before the Trial Court.  Mr. Mukul Rohatgi, learned 
+senior counsel has appeared in this matter on behalf of the 
+appellant along with Mr. Guru Krishna Kumar, while the case of 
+respondent no.2 has been argued by Ms. Divya Jyoti Singh.  State 
+
+8 
+ 
+was represented before us by Mr. Sarvesh Singh Baghel. The main 
+contentions urged by Mr. Rohatgi is that the complaint made 
+against the appellant does not disclose any criminal offence and at 
+best, it is a commercial dispute, which ought to be determined by 
+a Civil Court. In so far as the allegations of commission of offence 
+under Sections 405 and 406 are concerned, he has relied on a 
+judgment of this Court in the case of Deepak Gaba and Ors. -vs- 
+State of Uttar Pradesh and Another [(2023) 3 SCC 423]. This 
+decision deals with the basic ingredients of a complaint under 
+Sections 405 and 406 of the 1860 Code and it has been held in 
+this judgment:- 
+“15. For Section 405 IPC to be attracted, the following have 
+to be established: 
+(a) the accused was entrusted with property, or entrusted 
+with dominion over property; 
+(b) the accused had dishonestly misappropriated or 
+converted to their own use that property, or dishonestly 
+used or disposed of that property or wilfully suffer any other 
+person to do so; and 
+(c) such misappropriation, conversion, use or disposal 
+should be in violation of any direction of law prescribing the 
+mode in which such trust is to be discharged, or of any legal 
+contract which the person has made, touching the discharge 
+of such trust.” 
+ 
+9. 
+The judgment in Deepak Gaba (supra) was delivered in a case 
+in which there was subsisting commercial relationship between 
+the parties and the complainant had made allegations of a forged 
+
+9 
+ 
+demand, for a sum of around rupees six and a half lakhs. On that 
+basis a summoning order was issued for trial under Section 406 of 
+the 1860 Code. A coordinate Bench of this Court held:-  
+“17. However, in the instant case, materials on record fail 
+to satisfy the ingredients of Section 405 IPC. The complaint 
+does not directly refer to the ingredients of Section 405IPC 
+and does not state how and in what manner, on facts, the 
+requirements are satisfied. Pre-summoning evidence is also 
+lacking and suffers on this account. On these aspects, the 
+summoning order is equally quiet, albeit, it states that “a 
+forged demand of Rs 6,37,252.16p had been raised by JIPL, 
+which demand is not due in terms of statements by 
+Shubhankar P. Tomar and Sakshi Tilak Chand”. A mere 
+wrong demand or claim would not meet the conditions 
+specified by Section 405IPC in the absence of evidence to 
+establish 
+entrustment, 
+dishonest 
+misappropriation, 
+conversion, use or disposal, which action should be in 
+violation of any direction of law, or legal contract touching 
+the discharge of trust. Hence, even if Respondent 2 
+complainant is of the opinion that the monetary demand or 
+claim is incorrect and not payable, given the failure to prove 
+the requirements of Section 405 IPC, an offence under the 
+same section is not constituted. In the absence of factual 
+allegations which satisfy the ingredients of the offence 
+under Section 405IPC, a mere dispute on monetary demand 
+of Rs 6,37,252.16p, does not attract criminal prosecution 
+under Section 406IPC.” 
+ 
+10. The same view was expressed by this Court in the cases of 
+Prof. R.K. Vijayasarathy and Anr. -vs- Sudha Seetharam and 
+Anr. [(2019) 16 SCC 739] and Vijay Kumar Ghai and Ors. -vs- 
+State of West Bengal and Ors. [(2022) 7 SCC 124].  The judgment 
+of this Court in the case of Dalip Kaur and Ors. -vs- Jagnar Singh 
+and Anr. [(2009) 14 SCC 696] has also been cited in support of the 
+appellant’s case and in this decision it has been, inter-alia, held:- 
+
+10 
+ 
+“10. The High Court, therefore, should have posed a question 
+as to whether any act of inducement on the part of the appellant 
+has been raised by the second respondent and whether the 
+appellant had an intention to cheat him from the very inception. 
+If the dispute between the parties was essentially a civil dispute 
+resulting from a breach of contract on the part of the appellants 
+by non-refunding the amount of advance the same would not 
+constitute an offence of cheating. Similar is the legal position in 
+respect of an offence of criminal breach of trust having regard 
+to its definition contained in Section 405 of the Penal Code.” 
+ 
+This goes for allegations relating to Section 406 of the 1860 Code. 
+11. So far as the allegations of commission of offence under 
+Sections 504 and 506 of the 1860 Code are concerned, we have 
+gone through the petition of complaint as well as the initial 
+depositions.  The allegations pertaining to the aforesaid provisions 
+of the 1860 Code surfaces in the last portion of the petition of 
+complaint.  The complainant, in his initial deposition has not made 
+any statement relatable to criminal intimidation. But his father 
+made the following statement at that stage under Section 202 of 
+the 1973 Code:-  
+“…With effect from 18.07.2019, the Opposite Party had fixed 
+rate of job work as Rs.1.65/- per piece with the company of my 
+son, which remained continued till December, 2019 and 
+Opposite Party used to make payment of job work to my son, 
+also on this rate and an amount of Rs. 9,36,693.18/- of my son 
+was due for payment on the Opposite Party, due to which, he 
+demanded the Opposite Party to make payment, but, Opposite 
+Party did not make payment and after doing calculation on less 
+rates, he said that no amount is due for payment and on 
+demanding money, the Opposite Party has abused my son with 
+filthy language and has threatened him to kill. An amount of 
+Rs. 9,36,693.18/- of my son is due for payment on the Opposite 
+Party, which he clearly refused to pay the same.” 
+(quoted verbatim from paperbook) 
+ 
+
+11 
+ 
+12. On behalf of the complainant, it has been urged that a 
+detailed description of the offending acts need not be disclosed at 
+the stage at which the appellant wants invalidation of the 
+complaint. He has drawn our attention to the judgment of this 
+Court in the case of Jagdish Ram -vs- State of Rajasthan and 
+Another [(2004) 4 SCC 432].  In this judgment it has been, inter-
+alia, held:-  
+“10…. It is well settled that notwithstanding the opinion of 
+the police, a Magistrate is empowered to take cognizance if 
+the material on record makes out a case for the said 
+purpose. The investigation is the exclusive domain of the 
+police. The taking of cognizance of the offence is an area 
+exclusively within the domain of a Magistrate. At this stage, 
+the Magistrate has to be satisfied whether there is sufficient 
+ground for proceeding and not whether there is sufficient 
+ground for conviction. Whether the evidence is adequate for 
+supporting the conviction, can be determined only at the trial 
+and not at the stage of inquiry. At the stage of issuing the 
+process to the accused, the Magistrate is not required to 
+record reasons.” 
+  
+Similar views have been expressed by this Court in the case of 
+Birla Corporation Ltd. -vs- Adventz Investments and Holdings 
+Ltd. and Ors. [(2019) 16 SCC 610] as also Smt Nagawwa -vs-
+Veeranna Shivalingappa Konjalgi and Others [(1976) 3 SCC 
+736].  
+ 
+13. As far as the allegations of criminal intimidation are 
+concerned, our attention has been drawn to the judgment of this 
+
+12 
+ 
+Court in the case of Fiona Shrikhande -vs- State of Maharashtra 
+and Another [(2013) 14 SCC 44].  It has been held in this case 
+that the petition of complaint need not repeat the actual words or 
+language of insult word by word and the complaint has to be read 
+as a whole. If the Magistrate comes to a conclusion, prima facie, 
+that there has been an intentional insult so as to provoke any 
+person to break the public peace or to commit any other offence it 
+should be sufficient to bring the complaint within the ambit of the 
+aforesaid provision.  It has also been argued on behalf of the 
+respondent no.2 that the appellant in any event has got the right 
+to apply for discharge and the petition of complaint does not suffer 
+from the defect of not having made out any offence at all. This was 
+the view taken by the High Court.  
+14. Past commercial relationship between the appellant’s 
+employer and the respondent no.2 is admitted. It would also be 
+evident from the petition of complaint the dispute between the 
+parties centred around the rate at which the assigned work was to 
+be done.  Neither in the petition of complainant nor in the initial 
+deposition of the two witnesses (that includes the complainant) the 
+ingredients of the offence under Section 405 of the 1860 Code 
+surfaced.  Such commercial disputes over variation of rate cannot 
+
+13 
+ 
+per se give rise to an offence under Section 405 of the 1860 Code 
+without presence of any aggravating factor leading to the 
+substantiation of its ingredients. We do not find any material to 
+come to a prima facie finding that there was dishonest 
+misappropriation or conversion of any material for the personal 
+use of the appellant in relation to gas supplying work done by the 
+respondent no.2.  The said work was done in course of regular 
+commercial transactions. It cannot be said that there was 
+misappropriation or conversion of the subject property, being 
+dissolved acetylene gas which was supplied to the factory for the 
+purpose of battery manufacturing at EIL.  The dispute pertains to 
+the revision of rate per unit in an ongoing commercial transaction. 
+What has emerged from the petition of complaint and the initial 
+deposition made in support thereof that the accused-appellant 
+wanted a rate variation and the entire dispute arose out of such 
+stand of the appellant. On the basis of these materials, it cannot 
+be said that there was evidence for commission of offence under 
+Section 405/406. The High Court also did not apply the test 
+formulated in the case of Dalip Kaur (supra). We have narrated 
+the relevant passage from that decision earlier. 
+
+14 
+ 
+15.  In the case of Binod Kumar and Ors. -vs- State of Bihar 
+and Another [(2014) 10 SCC 663], a coordinate Bench of this 
+Court dealt with a criminal complaint arising out of retention of 
+bill amount in course of commercial transaction. The Court found 
+essential ingredients of criminal breach of trust or dishonest 
+intention of inducement, which formed the foundation of the 
+complaint were missing.  The High Court’s judgment rejecting the 
+plea for quashing the criminal proceeding was set aside by this 
+Court. The reasoning for quashing the criminal proceeding would 
+be revealed from paragraphs 18 and 19 of the Report, which 
+reads:- 
+“18. In the present case, looking at the allegations in the 
+complaint on the face of it, we find that no allegations are 
+made attracting the ingredients of Section 405 IPC. 
+Likewise, there are no allegations as to cheating or the 
+dishonest intention of the appellants in retaining the money 
+in order to have wrongful gain to themselves or causing 
+wrongful loss to the complainant. Excepting the bald 
+allegations that the appellants did not make payment to the 
+second respondent and that the appellants utilised the 
+amounts either by themselves or for some other work, there 
+is no iota of allegation as to the dishonest intention in 
+misappropriating the property. To make out a case of 
+criminal breach of trust, it is not sufficient to show that 
+money has been retained by the appellants. It must also be 
+shown that the appellants dishonestly disposed of the same 
+in some way or dishonestly retained the same. The mere 
+fact that the appellants did not pay the money to the 
+complainant does not amount to criminal breach of trust. 
+19. Even if all the allegations in the complaint taken at the 
+face value are true, in our view, the basic essential 
+ingredients of dishonest misappropriation and cheating are 
+missing. Criminal proceedings are not a shortcut for other 
+remedies. Since no case of criminal breach of trust or 
+
+15 
+ 
+dishonest intention of inducement is made out and the 
+essential ingredients of Sections 405/420 IPC are missing, 
+the prosecution of the appellants under Sections 406/120-
+B IPC, is liable to be quashed.” 
+ 
+16. So far as the criminal complaint and the initial depositions 
+with which we are concerned in this case, the factual basis is 
+broadly similar. We have reproduced these materials earlier in this 
+judgment. We do not find they carry the ingredients of offence as 
+specified in Section 405 of the 1860 Code.   
+17. The allegation of criminal intimidation against the accused is 
+made in the complaint statements made by the appellant, no 
+particulars thereof have been given. Both in the complaint petition 
+and the initial deposition of one of the witnesses, there is only 
+reproduction of part of the statutory provision giving rise to the 
+offence of criminal intimidation.  This would constitute a mere bald 
+allegation, short of any particulars as regards to the manner in 
+which threat was conveyed.  
+18. While it is true that at the stage of issuing summons a 
+magistrate only needs to be satisfied with a prima facie case for 
+taking cognizance, the duty of the magistrate is also to be satisfied 
+whether there is sufficient ground for proceeding, as has been held 
+in the case of Jagdish Ram (supra). The same proposition of law 
+has been laid down in the case of Pepsi Foods Ltd. and Anr. -vs- 
+
+16 
+ 
+Special Judicial Magistrate and Ors. [(1998) 5 SCC 749]. The 
+learned Magistrate’s order issuing summons records the 
+background of the case in rather longish detail but reflects his 
+satisfaction in a cryptic manner. At the stage of issue of summons, 
+detailed reasoning as to why a Magistrate is issuing summons, 
+however, is not necessary. But in this case, we are satisfied that 
+the allegations made by the complainant do not give rise to the 
+offences for which the appellant has been summoned for trial. A 
+commercial dispute, which ought to have been resolved through 
+the forum of Civil Court has been given criminal colour by lifting 
+from the penal code certain words or phrases and implanting them 
+in a criminal complaint. The learned Magistrate here failed to apply 
+his mind in issuing summons and the High Court also failed to 
+exercise its jurisdiction under Section 482 of the 1973 Code to 
+prevent abuse of the power of the Criminal Court. 
+19. It is true that the appellant could seek discharge in course of 
+the proceeding itself before the concerned Court, but here we find 
+that no case at all has been made out that would justify invoking 
+the machinery of the Criminal Courts. The dispute, per se, is 
+commercial in nature having no element of criminality. 
+
+17 
+ 
+20. The appellant also wanted dismissal of the complaint and the 
+orders passed in ensuing proceeding on another ground. The 
+respondent no. 2’s allegations were against EIL, for whom he did 
+the job-work. The appellant’s argument on this point is that the 
+complaint should not have been entertained without arraigning 
+the principal company as an accused. The judgment relied upon 
+on this point is a decision of a Coordinate Bench in the case of 
+Sharad Kumar Sanghi -vs- Sangita Rane [(2015) 12 SCC 781]. 
+This was a case where complaint was made by a consumer for 
+being sold a damaged vehicle under Section 420 of the 1860 Code. 
+But arraigned as accused was the managing director of the dealer, 
+the latter being a corporate entity. Cognizance was taken in that 
+case and summons were issued. The accused failed to get relief 
+after invoking the High Court’s jurisdiction, but two-judge Bench 
+of this Court quashed the proceeding primarily on the ground that 
+the company was not made an accused. The Coordinate Bench 
+found that the allegations were made against the company, which 
+was not made a party. Allegations against the accused (managing 
+director of that company) were vague. So far the present case is 
+concerned, the ratio of the decision in the case of Sharad Kumar 
+Sanghi (supra) would not be applicable for ousting the complaint 
+
+18 
+ 
+at the threshold on this ground alone. The perceived wrongdoing 
+in this case has been attributed to the appellant, though the 
+complaint petition acknowledges that the job-work was being done 
+for EIL. Moreover, the allegation of criminal intimidation is against 
+the appellant directly – whatever be the value or quality of such 
+allegations. Thus, for that reason the complaint case cannot be 
+rejected at the nascent stage on the sole ground of not implicating 
+the company. But as otherwise we have given our reasons for 
+quashing the complaint and the summons, we do not find any 
+reason to dilate further on this point.  
+21. We accordingly set aside the impugned judgment and quash 
+the Criminal Complaint Case No.7990 of 2020 as also the 
+summoning order issued on 18.08.2021. The appeal stands 
+allowed in the above terms. All consequential steps in connection 
+with the said proceeding shall stand quashed.  
+ 
+ 
+ 
+………………………………. J.  
+(ANIRUDDHA BOSE)  
+ 
+ 
+ 
+ 
+……………………………… J.  
+(SANJAY KUMAR) 
+  
+NEW DELHI;  
+30th JANUARY, 2024

@@ -1,0 +1,563 @@
+2024 INSC 810
+1 
+ 
+REPORTABLE 
+ 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION 
+ 
+ 
+CIVIL APPEAL No. 1031 of 2022 
+ 
+ 
+VIDYASAGAR PRASAD                       
+ 
+… APPELLANT(S) 
+ 
+VERSUS 
+ 
+ 
+UCO BANK & ANR.  
+ 
+ 
+ 
+     …RESPONDENT(S) 
+ 
+ 
+J U D G M E N T 
+PAMIDIGHANTAM SRI NARASIMHA, J. 
+  
+1. 
+By the present appeal, the suspended director of the 
+Corporate Debtor assails the order of the NCLAT1 affirming the 
+order of the Adjudicating Authority2 admitting the application 
+under Section 7 of IBC3 for initiating CIRP4 proceedings against 
+the Corporate Debtor. 
+2. 
+The undisputed facts before us are that the Corporate Debtor 
+(respondent No. 2 herein), now represented by its Insolvency 
+Resolution Professional (IRP), availed loan and credit facilities from 
+ 
+1 National Company Law Appellate Tribunal in Company Appeal (AT) (Insolvency) No. 238 of 
+2020, dated 04.10.2021. 
+2 Adjudicating Authority/National Company Law Tribunal, Kolkata Bench, Kolkata order 
+dated 13.12.2019 in CP No. 254/KB/2019. 
+3 Insolvency and Bankruptcy Code, 2016. 
+4 Corporate Insolvency Resolution Process. 
+Digitally signed by
+Indu Marwah
+Date: 2024.10.22
+19:15:09 IST
+Reason:
+Signature Not Verified
+
+2 
+ 
+UCO Bank (respondent No. 1 herein) and other consortium of 
+banks 
+under 
+agreements 
+dated 
+21.06.2010, 
+30.08.2012, 
+19.07.2012 and 31.12.2012. The said loan and other credit 
+facilities were availed for funding of Corporate Debtor’s Thermal 
+Power Plant. 
+2.1 Having defaulted on repayment of principal as well as interest 
+levied thereupon, Corporate Debtor’s account was declared as 
+Non-Performing Asset (NPA) on 05.11.2014. Further, proceedings 
+under SARFAESI5 Act and DRT6 for recovery of dues were also 
+initiated. However, we are not concerned with these proceedings 
+for disposal of the present appeal.  
+3. 
+The root of the present controversy arose on 13.02.2019 
+when UCO Bank filed an application under Section 7 of the Code 
+to initiate CIRP proceeding against the Corporate Debtor before the 
+Adjudicating Authority (NCLT, Kolkata Bench). These proceedings 
+were resisted by the Corporate Debtor, primarily on the grounds of 
+limitation. Additionally, the Section 7 application was also 
+challenged on the grounds that it was not signed by a competent 
+person and also that there is no liability to pay as per the terms of 
+the agreement and as such there is no debt. 
+ 
+5 Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest.  
+6 Debts Recovery Tribunal. 
+
+3 
+ 
+4.  
+On the issue of competency of the Bank to file the petition 
+under Section 7, the Adjudicating Authority held that the General 
+Manager of Bank was legally authorized as attorney to do all acts 
+and also act on behalf of the Bank and he had the authority to sign 
+the application. On the issue relating to the existence of debt, the 
+Adjudicating Authority, examined the contract, the terms and 
+conditions of sanction letter as well as the relevant credit 
+agreements in detail and came to the conclusion that the amount 
+was disbursed as a loan and the Corporate Debtor had in-fact 
+defaulted in repayment of principal as well as interest levied 
+thereupon. Thus, the contention that there was no debt was also 
+rejected. 
+4.1   The main objection to the initiation of CIRP proceedings on 
+the ground of limitation was rejected by the Adjudicating Authority 
+on the ground that there is an acknowledgement of debt in the 
+financial statements as well as auditor’s report of the Corporate 
+Debtor for the year ending on 31.03.2017. On the basis of Section 
+238A of the Code, incorporating the Limitation Act, the 
+Adjudicating Authority relied on Section 18 of the Limitation Act 
+to 
+reckon 
+the 
+period 
+of 
+limitation 
+from 
+the 
+date 
+of 
+acknowledgement of the debt and concluded that the institution of 
+
+4 
+ 
+CIRP on 13.02.2019 is within the period of limitation. The further 
+contention of the Corporate Debtor that name of UCO Bank, the 
+financial creditor, is not specifically mentioned in the relied upon 
+entry in the balance sheet was rejected by NCLT by referring to the 
+Explanation to Section 7(1) of the Code providing that the 
+proceedings thereunder get triggered even in the case of a default 
+by debtor in respect of any financial creditor other than the 
+applicant.  
+5. 
+Aggrieved by the admission of Section 7 application, initiation 
+of CIRP and appointment of IRP, the appellant preferred an appeal 
+to the NCLAT, Principal Bench. The same arguments were 
+advanced before the NCLAT and having considered the same in 
+detail, the NCLAT dismissed the appeal with the following 
+reasoning: 
+ “11.5 Therefore, in the instant case, the balance sheet that 
+has been brought on record in the instant case before the 
+Adjudicating Authority shall be taken into consideration 
+while deciding the question of limitation and default on the 
+part of the Corporate Debtor. The said documents cannot be 
+ignored simply on the premise that it is not pleaded in the 
+Application filed in Form-1 for initiation of the Corporate 
+Insolvency Process.  
+ 
+11.6 We find that the balance sheet for the financial year 
+ending on March 31 2017, was part of the record before the 
+learned Adjudicating Authority and was annexed with 
+Section 7 Application, which was also duly admitted by the 
+Appellant during the hearing. Subsequently, the balance 
+sheet for the financial year ending will March 31 2019, was 
+annexed with the reply filed by Respondent No. 1 before this 
+
+5 
+ 
+Hon'ble Tribunal on March 02, 2020. However, as the 
+practice and procedure of this Hon'ble Tribunal, the same 
+was not accepted at the filing counter without the specific 
+mention of this Hon'ble Tribunal. Accordingly, a copy of the 
+Application for the additional document is also annexed as 
+Annexure A. Subsequently; this Hon'ble Tribunal permitted 
+such additional documents to be taken on record vide its 
+Order dated July 15 2020. 
+ 
+11.7 The Company's balance sheet is prepared in the 
+statutory format as per Schedule 3rd of the Companies Act 
+2013, which does not provide for giving the specific name of 
+every secured or unsecured creditor. 
+  
+11.8 It is further observed that the Corporate Debtor has 
+not denied that there are no outstanding dues to the UCO 
+Bank. A perusal of extract of register of charges submitted 
+with ROC, at Sr. No. 3, shows that a charge of rupees one 
+hundred and seventy-five crores created by the Corporate 
+Debtor has not been satisfied and remains outstanding. 
+  
+11.9 After the judgement of Hon'ble Supreme Court in case 
+Asset Reconstruction Company (India) Limited v. Bishal 
+Jaiswal (supra), it is settled that entries in books of accounts 
+and/or balance sheets of a Corporate Debtor would amount 
+to an acknowledgement under Section 18. 
+ 
+11.10 In the instant case, we also find that the Corporate 
+Debtor issued a letter dated June 07 2016 (Annexure A 
+Page 11 of their reply affidavit of R-1) wherein it has given 
+OTS proposal. Based on the ratio of the judgement of 
+Hon'ble Supreme Court in the case of Lakshmirattan Cotton 
+Mills Co Ltd and further reiterated in Dena Bank's case 
+(supra) that there is an acknowledgement of subsisting 
+liability of the Corporate Debtor. However, it may not 
+necessarily specify the exact nature of the liability. But it 
+indicates the jural relation between the parties, and in any 
+event, the same can also be derived by implication. Further, 
+the said Letter is not "without prejudice" basis and, 
+therefore, amounts to an unequivocal acknowledgement of 
+liability of the Corporate Debtor. A reading of the documents 
+above 
+reveals 
+that 
+the 
+Corporate 
+Debtor 
+has 
+acknowledged/subsisting liability to attract the provisions 
+of Section 18 of the Limitation Act, 1963.  
+ 
+11.11 Based on the discussion as above, we think that the 
+present Appeal is liable to be dismissed, and the interim 
+Order dated April 07, 2020, is exposed to vacated.” 
+ 
+
+6 
+ 
+6. 
+Mr. Balbir Singh, senior counsel appearing on behalf of the 
+appellant has emphatically argued only one point before us. It is 
+that there is no clear and unequivocal acknowledgement of debt of 
+the Corporate Debtor in the entries of the balance sheets. If this is 
+true, it is submitted, then the financial creditor cannot have the 
+benefit of Section 18 of the Limitation Act to extend the period of 
+limitation which commenced on 05.11.2014. 
+7. 
+The commencement of a fresh period of limitation from the 
+time of acknowledgement of the debt is part of the statutory 
+scheme. Section 238A of the Code extends the applicability of the 
+provisions of the Limitation Act to the proceedings under the Code. 
+With the extension of Limitation Act to the provisions of the Code, 
+the benefit of Section 18 of the Limitation Act dealing with the 
+effect of acknowledgement of a debt in writing applies. Considering 
+the same issue in Laxmi Pat Surana v. Union Bank of India7, the 
+Court observed: 
+“42. Notably, the provisions of the Limitation Act have been 
+made applicable to the proceedings under the Code, as far 
+as may be applicable. For, Section 238-A predicates that the 
+provisions of the Limitation Act shall, as far as may be, 
+apply to the proceedings or appeals before the adjudicating 
+authority, NCLAT, the DRT or the Debt Recovery Appellate 
+Tribunal, as the case may be. After enactment of Section 
+238-A IBC on 6-6-2018, validity whereof has been upheld 
+by this Court, it is not open to contend that the limitation for 
+filing application under Section 7 IBC would be limited to 
+ 
+7 (2021) 8 SCC 481. 
+
+7 
+ 
+Article 137 of the Limitation Act and extension of prescribed 
+period in certain cases could be only under Section 5 of the 
+Limitation Act. There is no reason to exclude the effect of 
+Section 18 of the Limitation Act to the proceedings initiated 
+under the Code. 
+ 
+43. Ordinarily, upon declaration of the loan account/debt 
+as NPA that date can be reckoned as the date of default to 
+enable the financial creditor to initiate action under Section 
+7 IBC. However, Section 7 comes into play when the 
+corporate debtor commits “default”. Section 7, consciously 
+uses the expression “default” — not the date of notifying the 
+loan account of the corporate person as NPA. Further, the 
+expression “default” has been defined in Section 3(12) to 
+mean non-payment of “debt” when whole or any part or 
+instalment of the amount of debt has become due and 
+payable and is not paid by the debtor or the corporate 
+debtor, as the case may be. In cases where the corporate 
+person had offered guarantee in respect of loan transaction, 
+the right of the financial creditor to initiate action against 
+such entity being a corporate debtor (corporate guarantor), 
+would get triggered the moment the principal borrower 
+commits default due to non-payment of debt. Thus, when 
+the principal borrower and/or the (corporate) guarantor 
+admit and acknowledge their liability after declaration of 
+NPA but before the expiration of three years therefrom 
+including the fresh period of limitation due to (successive) 
+acknowledgments, it is not possible to extricate them from 
+the renewed limitation accruing due to the effect of Section 
+18 of the Limitation Act. Section 18 of the Limitation Act gets 
+attracted the moment acknowledgment in writing signed by 
+the party against whom such right to initiate resolution 
+process under Section 7 IBC enures. Section 18 of the 
+Limitation Act would come into play every time when the 
+principal 
+borrower 
+and/or 
+the 
+corporate 
+guarantor 
+(corporate debtor), as the case may be, acknowledge their 
+liability to pay the debt. Such acknowledgment, however, 
+must be before the expiration of the prescribed period of 
+limitation including the fresh period of limitation due to 
+acknowledgment of the debt, from time to time, for 
+institution of the proceedings under Section 7 IBC. Further, 
+the acknowledgment must be of a liability in respect of 
+which the financial creditor can initiate action under Section 
+7 IBC.” 
+(emphasis supplied) 
+ 
+ 
+
+8 
+ 
+7.1 In Dena Bank v. C. Shivakumar Reddy8 after reviewing the 
+case law on the subject, this Court held; 
+“138. While it is true that default in payment of a debt 
+triggers the right to initiate the corporate resolution process, 
+and a petition under Section 7 or 9 IBC is required to be filed 
+within the period of limitation prescribed by law, which in 
+this case would be three years from the date of default by 
+virtue of Section 238-A IBC read with Article 137 of the 
+Schedule to the Limitation Act, the delay in filing a petition 
+in the NCLT is condonable under Section 5 of the Limitation 
+Act unlike delay in filing a suit. Furthermore, as observed 
+above Sections 14 and 18 of the Limitation Act are also 
+applicable to proceedings under the IBC. 
+………… 
+140. To sum up, in our considered opinion an application 
+under Section 7 IBC would not be barred by limitation, on 
+the ground that it had been filed beyond a period of three 
+years from the date of declaration of the loan account of the 
+corporate debtor as NPA, if there were an acknowledgment 
+of the debt by the corporate debtor before expiry of the 
+period of limitation of three years, in which case the period 
+of limitation would get extended by a further period of three 
+years.” 
+(emphasis supplied) 
+ 
+7.2  A reference must also be made to a three Judge Bench 
+decision in Rajendra Narottamdas Sheth v. Chandra Prakash Jain9 
+which succinctly observed; 
+“27. It is no more res integra that Section 18 of the 
+Limitation Act is applicable to applications filed under 
+Section 7 of the Code. In case the application under Section 
+7 is filed beyond the period of three years from the date of 
+default and the financial creditor furnishes the required 
+information relating to the acknowledgment of debt, in 
+writing by the corporate debtor, before the adjudicating 
+authority, with such acknowledgment having taken place 
+within the initial period of three years from the date of 
+default, a fresh period of limitation commences and the 
+ 
+8 (2021) 10 SCC 330 
+9 (2022) 5 SCC 600 
+
+9 
+ 
+application can be entertained, if filed within this extended 
+period.” 
+(emphasis supplied) 
+ 
+8.  
+In view of the above referred principles, we will now consider 
+the nuanced arguments advanced by Mr. Balbir Singh that there 
+is no unequivocal, unambiguous and specific acknowledgement of 
+debt owed to UCO Bank in the balance sheet entries of Corporate 
+Debtor for the years 2017 and 2019. In the absence of clear 
+demarcation as to what the Corporate Debtor owes to the UCO 
+Bank, the said entries cannot be relied on for the purpose of 
+extending the period of limitation in terms of Section 18 of the 
+Limitation Act. Mr. Balbir Singh further argues that even if said 
+entry is taken to be an acknowledgment of debt, the same cannot 
+aid respondent No.1’s case since it fails to mention the name of 
+financial creditor. 
+8.1 Mr. Partha Sil, counsel on behalf of respondent No. 1-Bank 
+submitted that the Balance Sheets of a company are prepared in 
+the prescribed statutory format as per Section 129, read with 
+Schedule III of the Companies Act 2013, which does not provide 
+for giving specific names of each and every Secured and Unsecured 
+creditor. In support of his submission, Mr. Partha Sil referred to 
+the judgment in Asset Reconstruction Company (India) Ltd. v. 
+
+10 
+ 
+Bishal Jaiswal10 where it was observed that there was no 
+compulsion for Companies to make any particular admissions in 
+the balance sheet, except for what is prescribed. 
+9. 
+A three Judge Bench of this Court in Bishal Jaiswal (Supra) 
+has addressed and clarified this issue by holding that; 
+“35. A perusal of the aforesaid sections would show that 
+there is no doubt that the filing of a balance sheet in 
+accordance with the provisions of the Companies Act is 
+mandatory, 
+any 
+transgression 
+of 
+the 
+same 
+being 
+punishable by law. However, what is of importance is that 
+notes that are annexed to or forming part of such financial 
+statements are expressly recognised by Section 134(7). 
+Equally, the auditor's report may also enter caveats with 
+regard to acknowledgments made in the books of accounts 
+including the balance sheet. A perusal of the aforesaid 
+would show that the statement of law contained in Bengal 
+Silk Mills  Co. v. Ismail Golam Hossain Ariff , that there is a 
+compulsion in law to prepare a balance sheet but no 
+compulsion to make any particular admission, is correct in 
+law as it would depend on the facts of each case as to 
+whether an entry made in a balance sheet qua any 
+particular creditor is unequivocal or has been entered into 
+with caveats, which then has to be examined on a case by 
+case basis to establish whether an acknowledgment of 
+liability has, in fact, been made, thereby extending 
+limitation under Section 18 of the Limitation Act.” 
+(emphasis supplied) 
+ 
+10. Having considered the specific facts and circumstances of 
+this case, the Adjudicating Authority as well as the NCLAT have 
+concurrently held that the entries in the balance sheets amount to 
+clear acknowledgment of debt. We agree with the findings. Further, 
+Note 3.4 appended to said balance sheet entry dated 31.03.2017 
+ 
+10 (2021) 6 SCC 366. 
+
+11 
+ 
+mentions that “company has made certain defaults in the 
+repayment of term loans and interest.” It further mentions of a 
+continuing default. The entry also mentions long-term borrowings. 
+The conclusions of NCLT and NCLAT that there is acknowledgment 
+of debt are unimpeachable.  
+10.1   Following the principles as expounded in the case of Bishal 
+Jaiswal (Supra), the Adjudicating Authority as well as the NCLAT 
+have examined the case in detail and have come to the conclusion 
+that the entry made in the balance sheet coupled with the note of 
+the auditor of the appellant clearly amounts to acknowledgement 
+of the liability. We see no reason whatsoever to take a different view 
+of the matter. Their findings are fortified when we examine the 
+matter from another perspective. 
+11. Adjudicating Authority and NCLAT have also considered the 
+Corporate Debtor’s proposal of One Time Settlement (OTS) to UCO 
+Bank. 
+The 
+proposal 
+made 
+by 
+letter 
+dated 
+07.06.2016 
+acknowledges that there were prior debts owed to UCO Bank. To 
+substantiate 
+the 
+argument 
+that 
+such 
+OTS 
+constituted 
+acknowledgment of debt since it relates to present and subsisting 
+liability and indicates existence of a jural relationship between the 
+parties, UCO Bank relied on judgment of this Court in 
+
+12 
+ 
+Lakshmirattan Cotton Mills Co. Ltd. and Messrs Behari Lal Ram 
+Charan v. Aluminium Corporation of India Limited11. The 
+implication of a statement about a present and subsisting debt of 
+a Corporate Debtor is articulated by this Court in the following 
+manner; 
+“9. It is clear that the statement on which the plea of 
+acknowledgment is founded must relate to a subsisting 
+liability as the section requires that it must be made before 
+the expiration of the period prescribed under the Act. It need 
+not, however, amount to a promise to pay, for, an 
+acknowledgment does not create a new right of action but 
+merely extends the period of limitation. The statement need 
+not indicate the exact nature or the specific character of the 
+liability. The words used in the statement in question, 
+however, must relate to a present subsisting liability and 
+indicate the existence of jural relationship between the 
+parties, such as, for instance, that of a debtor and a creditor 
+and the intention to admit such jural relationship. Such an 
+intention need not be in express terms and can be inferred 
+by implication from the nature of the admission and the 
+surrounding circumstances. Generally speaking, a liberal 
+construction of the statement in question should be given. 
+That of course does not mean that where a statement is 
+made without intending to admit the existence of jural 
+relationship, such intention should be fastened on the 
+person making the statement by an involved and far-
+fetched reasoning…”  
+(emphasis supplied)  
+ 
+11.1   It is also relevant to refer to judgment in Dena Bank (Supra) 
+which held as follows: 
+“139. Section 18 of the Limitation Act cannot also be 
+construed with pedantic rigidity in relation to proceedings 
+under the IBC. This Court sees no reason why an offer of one-
+time settlement of a live claim, made within the period of 
+limitation, 
+should 
+not 
+also 
+be 
+construed 
+as 
+an 
+acknowledgment to attract Section 18 of the Limitation Act…” 
+(emphasis supplied) 
+ 
+11 (1971) 1 SCC 67. 
+
+13 
+ 
+12.  Both these factors, acknowledgment of debt in the balance 
+sheet as well as in the OTS proposal, have been considered by 
+NCLAT while dismissing the appeal. The relevant portion of the 
+NCLAT findings, after considering balance sheet entries and OTS 
+letter are as follows: 
+“11.7 The Company's balance sheet is prepared in the 
+statutory format as per Schedule 3rd of the Companies Act 
+2013, which does not provide for giving the specific name of 
+every secured or unsecured creditor.  
+ 
+11.8 It is further observed that the Corporate Debtor has 
+not denied that there are no outstanding dues to the UCO 
+Bank. A perusal of extract of register of charges submitted 
+with ROC, at Sr. No. 3, shows that a charge of rupees one 
+hundred and seventy-five crores created by the Corporate 
+Debtor has not been satisfied and remains outstanding.  
+ 
+11.10 In the instant case, we also find that the Corporate 
+Debtor issued a letter dated June 07 2016 (Annexure A 
+Page 11 of their reply affidavit of R-1) wherein it has given 
+OTS proposal. Based on the ratio of the judgement of 
+Hon'ble Supreme Court in the case of Lakshmirattan Cotton 
+Mills Co Ltd and further reiterated in Dena Bank's case 
+(supra) that there is an acknowledgement of subsisting 
+liability of the Corporate Debtor. However, it may not 
+necessarily specify the exact nature of the liability. But it 
+indicates the jural relation between the parties, and in any 
+event, the same can also be derived by implication. Further, 
+the said Letter is not "without prejudice" basis and, 
+therefore, amounts to an unequivocal acknowledgement of 
+liability of the Corporate Debtor. A reading of the documents 
+above 
+reveals 
+that 
+the 
+Corporate 
+Debtor 
+has 
+acknowledged/subsisting liability to attract the provisions 
+of Section 18 of the Limitation Act, 1963.”  
+ 
+13.  Having examined the matter in detail, we are of the opinion 
+that the findings arrived at by the Adjudicating Authority and 
+NCLAT are correct in law and fact. We find no merit in the appeal. 
+
+14 
+ 
+The Civil Appeal No. 1031 of 2022 arising out of the NCLAT order 
+dated 04.10.2021 (Company Appeal (AT) (Insolvency) No. 238 of 
+2020) is dismissed accordingly.  
+14. No order as to costs. 
+ 
+………………………………....J. 
+[PAMIDIGHANTAM SRI NARASIMHA] 
+………………………………....J. 
+[SANDEEP MEHTA] 
+ 
+NEW DELHI; 
+October 22, 2024.

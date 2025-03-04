@@ -1,0 +1,405 @@
+2024 INSC 889
+1 
+ 
+REPORTABLE 
+ 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION 
+ 
+CIVIL APPEAL NO._________/2024 
+SPECIAL LEAVE PETITION (CIVIL) NO. 2272 OF 2024 
+ 
+ 
+M/S AJAY PROTECH PVT. LTD. 
+ 
+ 
+   ...APPELLANT(S) 
+VERSUS 
+GENERAL MANAGER & ANR.  
+ 
+      …RESPONDENT(S)  
+ J U D G M E N T 
+PAMIDIGHANTAM SRI NARASIMHA, J. 
+1. 
+Leave granted.  
+2. 
+The short issue in this appeal is whether the application filed 
+by the appellant under Section 29A(4) of the Arbitration and 
+Conciliation Act, 19961 for extension of the mandate of the Arbitral 
+Tribunal ought to have been allowed by the High Court. The text 
+of Section 29A was sufficient for us to come to the conclusion that 
+the Court has the power and jurisdiction to extend the period. 
+Further, in the facts and circumstances of the case, we found that 
+there is ‘sufficient cause’ for the Court to extend the period for 
+making the Award. Thus, we have allowed the appeal and extended 
+ 
+1 Hereinafter “the Act”.  
+Digitally signed by
+INDU MARWAH
+Date: 2024.11.22
+17:56:20 IST
+Reason:
+Signature Not Verified
+
+2 
+ 
+the time till 31st December, 2024 to make the Award. In this 
+context, we have also explained the purport of the expression 
+sufficient cause employed in this section. 
+3. 
+The brief facts are as follows. The appellant entered into a 
+works contract with respondent no. 1. Subsequently when 
+disputes arose, appellant sought resolution through arbitration by 
+issuing a notice on 12.02.2018. Appellant’s application under 
+Section 11 of the Act for appointment of a sole arbitrator was 
+allowed by the High Court by orders dated 08.02.2019 and 
+15.02.2019.  
+3.1 After the first meeting of the Arbitral Tribunal on 24.06.2019, 
+parties were given time to complete their pleadings, which were in-
+fact completed on 09.10.2019. The statutorily stipulated 12-month 
+period under Section 29A(1) for making the award commences 
+from this date, and would expire on 08.10.2020. Further, as the 
+parties can extend this period by another 6 months by mutual 
+consent as per Section 29A(3), upon such mutual extension the 
+time for making the award got extended till 09.04.2021. Therefore, 
+the 18-month period, which commenced from 09.10.2019, would 
+have naturally expired on 09.04.2021.  
+
+3 
+ 
+3.2 However, before the expiry of the said period, in fact even 
+before the first stretch of 12 months, the nation was affected by 
+the COVID pandemic. Taking note of this situation, this Court in 
+Re: Cognizance for Extension of Limitation by order dated 
+10.01.2022 passed orders declaring that the period between 
+15.03.2020 and 28.02.2022 shall be excluded in computing 
+periods of limitation under Sections 23(4) and 29(A) of the Act2. 
+The relevant portion of the said order is as under: 
+“5. Taking into consideration the arguments advanced by the 
+learned counsel and the impact of the surge of the virus on 
+public health and adversities faced by litigants in the 
+prevailing conditions, we deem it appropriate to dispose of MA 
+No. 21 of 2022 with the following directions: 
+*** 
+5.4. It is further clarified that the period from 15-3-2020 till 28-
+2-2022 shall also stand excluded in computing the periods 
+prescribed under Sections 23(4) and 29-A of the Arbitration 
+and Conciliation Act, 1996, Section 12-A of the Commercial 
+Courts Act, 2015 and provisos (b) and (c) of Section 138 of the 
+Negotiable Instruments Act, 1881 and any other laws, which 
+prescribe period(s) of limitation for instituting proceedings, 
+outer limits (within which the court or tribunal can condone 
+delay) and termination of proceedings.” 
+ 
+3.3 Returning to the arbitral proceedings, the Arbitral Tribunal 
+framed issues on 21.11.2019 and posted the matter for arguments 
+for December 2019 and January 2020 but was compelled to 
+adjourn the proceedings due to the pandemic. The record reveals 
+that the proceedings resumed in the year 2022, and in fact, the 
+ 
+2 In re: Cognizance for Extension of Limitation, (2022) 3 SCC 117.  
+
+4 
+ 
+hearing was concluded on 05.05.2023. It is an admitted fact that 
+the parties to the arbitration agreement have submitted before the 
+Arbitral Tribunal that they would move the Court under Section 
+29A(4) of the Act for appropriate orders for extension of time for 
+making the award. In furtherance of the undertaking, an 
+application under Section 29A(4) was filed by the appellant before 
+the Gujarat High Court on 01.08.2023.  
+4. 
+By the order dated 03.11.2023 impugned before us, the High 
+Court dismissed the application. The High Court reasoned that the 
+initial statutory period of 12 months expired on 08.10.2020, and 
+the same was extended by the mutual consent of the parties till 
+09.04.2021. Noting that the application for extension was 
+preferred only in August 2023, High Court held that there is no 
+explanation for a delay of more than 2 years, 4 months in 
+approaching it. The High Court held that the mandate of the 
+Arbitral Tribunal stood terminated on 09.04.2021, at which point 
+there was not even an application for extension of time pending 
+before it. In this view of the matter, the application was found to 
+be misconceived, and was dismissed by the order impugned before 
+us. 
+
+5 
+ 
+5. 
+We have heard Mr. Gaurav Agrawal, learned senior counsel 
+for the appellant, and Mr. Vikramjit Banerjee, learned ASG for the 
+respondents.  
+5.1 Relying on this Court’s declaration Re: Cognizance for 
+Extension of Limitation dated 10.01.2022 extending limitation on 
+account of the pandemic,3 Mr. Agrawal submits that the High 
+Court ought to have excluded the period between 15.03.2020 and 
+28.02.2022 while determining the date on which the Tribunal’s 
+mandate stood terminated. Further, he submits that the 
+respondent had agreed to apply for extension of time before the 
+Arbitral Tribunal, as is recorded in the Minutes of Arbitral Meeting 
+dated 05.05.2023.  
+5.2 Mr. Vikramjit Banerjee, ASG, submits that even if the benefit 
+of this Court’s order is considered, the Tribunal’s mandate expired 
+on 31.10.2022, and there is still a nine-month delay in filing the 
+application. Further, placing reliance on a recent decision of this 
+Court in Rohan Builders (India) Pvt. Ltd. v. Berger Paints India Ltd.4, 
+he submits that an application under Section 29A(4) must be filed 
+before the mandate of the Tribunal expires. It cannot be 
+subsequently filed as the provision stipulates termination of the 
+ 
+3 ibid.  
+4 2024 SCC OnLine SC 2494. 
+
+6 
+ 
+Tribunal’s mandate on expiry of the statutory and extendable 
+period. 
+6. 
+Having heard learned senior counsel and the learned ASG, 
+there are two issues that we must consider: 
+i. 
+Whether the application for extension can be entertained 
+if it is filed after the expiry of the Arbitral Tribunal’s 
+mandate?  
+ii. 
+If yes, do the facts and circumstances warrant an 
+extension in the present case? 
+7. 
+When must an application under Section 29A(4) be filed. The 
+first issue is no longer res integra in view of a recent decision of 
+this Court in Rohan Builders (supra). Despite Mr. Banerjee’s 
+reliance on this decision, we find that it squarely covers the issue 
+against him. Before dealing with this decision, it is necessary to 
+take note of the text and wording of the relevant portion of Section 
+29A of the Act: 
+“29A. Time limit for arbitral award.— (1) The award in matters 
+other than international commercial arbitration shall be made 
+by the arbitral tribunal within a period of twelve months from 
+the date of completion of pleadings under sub-section (4) of 
+section 23:  
+Provided that the award in the matter of international 
+commercial arbitration may be made as expeditiously as 
+possible and endeavor may be made to dispose of the matter 
+within a period of twelve months from the date of completion 
+of pleadings under sub-section (4) of section 23.  
+*** 
+
+7 
+ 
+(3) The parties may, by consent, extend the period specified in 
+sub-section (1) for making award for a further period not 
+exceeding six months. 
+(4) If the award is not made within the period specified in sub-
+section (1) or the extended period specified under sub-section 
+(3), the mandate of the arbitrator(s) shall terminate unless the 
+Court has, either prior to or after the expiry of the period so 
+specified, extended the period:  
+Provided that while extending the period under this sub-
+section, if the Court finds that the proceedings have been 
+delayed for the reasons attributable to the arbitral tribunal, 
+then, it may order reduction of fees of arbitrator(s) by not 
+exceeding five per cent. For each month of such delay: 
+Provided further that where an application under sub-section 
+(5) is pending, the mandate of the arbitrator shall continue till 
+the disposal of the said application:  
+Provided also that the arbitrator shall be given an opportunity 
+of being heard before the fees is reduced.  
+(5) The extension of period referred to in sub-section (4) may 
+be on the application of any of the parties and may be granted 
+only for sufficient cause and on such terms and conditions as 
+may be imposed by the Court.” 
+(emphasis supplied) 
+ 
+8. 
+The effect of the provision is that if the arbitral award is not 
+made within 12 months from when the pleadings are completed, 
+extendable by a further 6 months by mutual consent of parties, 
+the Tribunal’s mandate will terminate, unless the court either prior 
+or after the expiry of the period, extends it. The wording of sub-
+section (4) clearly and explicitly enables a court to extend the 
+Tribunal’s mandate after expiry of the statutory and extendable 
+period of 18 months.  
+9. 
+This Court in Rohan Builders (supra) has held that the 
+application for extension of time can be filed even after the expiry 
+
+8 
+ 
+of the period in sub-sections (1) and (3).5 Even if sub-section (4) 
+provides for the termination of the Tribunal’s mandate on the 
+expiry of the period, it recognises party autonomy to move an 
+application before the Court for further extension.6 Thus, the 
+termination of mandate under the provision is only conditional on 
+the non-filing of an extension application, and cannot be taken to 
+mean that the mandate cannot be extended once it expires.7 The 
+relevant portion of the judgment is extracted: 
+“6. 
+Section 
+29A(4) 
+is 
+the 
+provision 
+which 
+requires 
+interpretation. It states that where the award is not made 
+within the specified period of twelve or eighteen months, the 
+mandate of the arbitral tribunal will terminate. However, this 
+provision does not apply if the court has extended the period, 
+either before or after the expiry of the initial or the extended 
+term. In other words, Section 29A(4) empowers the court to 
+extend the period for making of the arbitral award beyond a 
+period of twelve months or eighteen months, as the case may 
+be. The expression “either prior to or after the expiry of the 
+period so specified” is unambiguous. It can be deduced by the 
+language that the court can extend the time where an 
+application is filed after the expiry of the period under 
+subsection (1) or the extended period in terms of sub-section 
+(3). The court has the power to extend the period for making 
+an award at any time before or after the mandated period.” 
+(emphasis supplied)  
+ 
+10. The wording of Section 29A(4) and the decision in Rohan 
+Builders (supra) clearly answer the first issue in favour of the 
+appellant, i.e., an application for extension can be filed either 
+ 
+5 Rohan Builders (supra), para 6. 
+6 ibid, paras 10 and 11.  
+7 ibid, para 12.  
+
+9 
+ 
+before or after the termination of the Tribunal’s mandate upon 
+expiry of the statutory and extendable period.  
+11. Whether extension must be granted. The next question is 
+whether an extension of time should be granted in the present 
+case. As per Section 29A(5), the decision to extend the time is an 
+exercise of discretion by the court and must be done on sufficient 
+cause being shown, and on such terms and conditions that the 
+court deems fit.8 This Court, in Rohan Builders (supra), has held: 
+“14.  In our opinion, a restrictive interpretation would lead to 
+rigour, impediments and complexities. A party would have to 
+rush to the court even when the period of arbitral mandate of 
+twelve months has not expired, notwithstanding the 
+possibility of a consent-based extension of six months under 
+Section 29A(3). Narrow interpretation presents an additional 
+challenge by relegating a faultless party to a fresh reference 
+or appointment of an arbitrator under the A&C Act, 2015, 
+thereby impeding arbitration rather than facilitating it. The 
+legislature vide the 2015 Amendment envisions arbitration as 
+a litigant-centric process by expediting disposal of cases and 
+reducing the cost of litigation. A narrow interpretation will be 
+counterproductive…. 
+15. Rohan Builders (India) Pvt. Ltd. (supra) highlights that an 
+interpretation allowing an extension application post the 
+expiry period would encourage rogue litigants and render the 
+timeline for making the award inconsequential. However, it is 
+apposite to note that under Section 29A(5), the power of the 
+court to extend the time is to be exercised only in cases where 
+there is sufficient cause for such extension. Such extension is 
+not granted mechanically on filing of the application. The 
+judicial discretion of the court in terms of the enactment acts 
+as a deterrent against any party abusing the process of law 
+or espousing a frivolous or vexatious application. Further, the 
+court can impose terms and conditions while granting an 
+extension. Delay, even on the part of the arbitral tribunal, is 
+not countenanced. The first proviso to Section 29A(4) permits 
+ 
+8 ibid, para 15.  
+
+10 
+ 
+a fee reduction of up to five percent for each month of delay 
+attributable to the arbitral tribunal.” 
+ 
+12. The issue before us is not whether the application under 
+Section 29A(4) is filed within the permissible time for seeking 
+extension, i.e., 12 months, followed by another 6 months at the 
+consent of the parties. The real issue is whether there is a sufficient 
+cause for the Court to extend the period for making of the award. 
+For considering whether there is a sufficient cause or not, it is 
+necessary to take into account the following events. As indicated 
+earlier, even before expiry of the period of 12 months under Section 
+29A(1), commencing from 09.10.2019 (date of completion of 
+pleadings), the COVID pandemic had started. The period between 
+15.03.2020 and 28.02.2022 is anyways mandated to be excluded 
+from periods of limitation.9 Therefore, from the date of completion 
+of pleadings till 15.03.2020, only a period of 5 months is taken. If 
+the remainder of the 18 months period is reckoned from 
+28.02.2022, the said period would expire on 31.03.2023. In other 
+words, the appellant would have been within the period specified 
+under Section 29A(1) read with Section 29A(3) had it filed the 
+application by such date. However, the problem arose because the 
+ 
+9 In re, Cognizance for Extension of Limitation (supra), para 5.4.  
+
+11 
+ 
+application was filed on 01.08.2023. Really speaking, it is the 
+period commencing from 31.03.2023 to 01.08.2023 that the Court 
+is to take into account for considering whether there is sufficient 
+cause to exercise the power under Section 29A(5) to extend the 
+period.  
+13. In view of the above, it is clear that the reasoning adopted by 
+the High Court in holding that there is a delay of 2 years, 4 months 
+in filing the application is erroneous.   
+14. We will have to consider if there is sufficient cause for not 
+filing the application before 31.03.2023. In the application for 
+extension, the appellant has submitted that the reasons for 
+extension of time are as follows: (i) the Arbitral Tribunal proceeded 
+with online hearings in 2022, but was required to adjourn the 
+proceedings on several occasions at the request of the respondents’ 
+counsel as the panel from which the arbitrator was appointed had 
+been changed. (ii) That the dispute involved technical and legal 
+questions, and the record of the case is bulky. (iii) That the delay 
+is neither attributable to the parties, nor to the Arbitral Tribunal, 
+who have acted in a prompt and cautious manner. (iv) The hearing 
+is complete, and only the award needs to be declared, thereby 
+leading to hardship to the parties if the time for making the award 
+
+12 
+ 
+is not extended. On these grounds, the appellant prayed for a one-
+month extension under Section 29A(4).  
+15. Efficiency in the conduct of arbitral proceedings is integral to 
+the effectiveness of the dispute resolution remedy through 
+arbitration. Efficiency is inextricably connected with expeditious 
+conclusion of arbitral proceedings. While the statute incorporates 
+party autonomy even with respect to the conduct and conclusion 
+of arbitral proceedings, there is a statutory recognition of the 
+power of the Court to step in wherever it is necessary to ensure 
+that the process of resolution of the dispute is taken to its logical 
+end, if according to the Court, the circumstances so warrant. It is 
+in this context that the Arbitration and Conciliation Act adopts the 
+well-known language of limitation statutes and provides that the 
+Court can extend the time if it finds that there is sufficient cause.  
+16. The meaning of 'sufficient cause' for extending the time to 
+make an award must take colour from the underlying purpose of 
+the arbitration process. The primary objective in rendering an 
+arbitral award is to resolve disputes through the agreed dispute 
+resolution mechanism as contracted by the parties. Therefore, 
+'sufficient cause' should be interpreted in the context of facilitating 
+effective dispute resolution.  
+
+13 
+ 
+17. Having taken note of the fact that the pandemic had 
+commenced even before the expiry of 12 months from the 
+completion of pleadings, this Court excluding the period between 
+15.03.2020 to 28.02.2023 in Re: Cognizance for Extension of 
+Limitation (supra), and the agreement between the parties on 
+05.05.2023 to seek extension of time by filing an application before 
+the Court, we are of the opinion that there is sufficient cause for 
+extension of time.  
+18. In view of the above, we allow the Civil Appeal arising out of 
+SLP (C) No. 2272/2024 and set aside the order and judgment 
+passed by the High Court in MCA No. 1/2023 dated 03.11.2023, 
+and extend the period for making of the award by the Arbitral 
+Tribunal till 31st December, 2024.  
+19. The parties shall bear their own costs.  
+ 
+………………………………....J. 
+[PAMIDIGHANTAM SRI NARASIMHA] 
+………………………………....J. 
+[SANDEEP MEHTA] 
+NEW DELHI; 
+NOVEMBER 22, 2024.

@@ -1,0 +1,489 @@
+2024 INSC 44
+ Reportable
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 1933 OF 2023
+The State of Assam and others
+ 
+ 
+…  Appellants
+Versus
+Binod Kumar and others
+ 
+… Respondents
+J U D G M E N T
+SANJAY KUMAR, J
+1.
+By judgment dated 05.12.2017, the Gauhati High Court allowed
+W.P(C). No.4752 of 2015 and held Rule 63(iii) of the Assam Police Manual
+invalid on the ground that it is in direct conflict with Section 14(2) of the
+Assam Police Act, 2007. This judgment is called in question by the State of
+Assam and its officials in the Home Department.
+2.
+While ordering notice on 07.01.2019, this Court directed that no
+coercive steps should be taken against the appellants on the basis of the
+impugned judgment. On 21.03.2023, this Court issued notice to the learned
+Attorney General for India, being of the opinion that his presence was
+necessary for effective adjudication of this appeal. 
+1
+Digitally signed by
+SNEHA DAS
+Date: 2024.01.18
+16:54:24 IST
+Reason:
+Signature Not Verified
+
+3.
+The core controversy in this case is as to who should be the
+‘Reporting Authority’ to initiate Annual Confidential Reports (ACRs)/Annual
+Performance Appraisal Reports (APARs) of Indian Police Service (IPS)
+Officers working as District Superintendents of Police (SPs) in the State of
+Assam. More particularly, the issue is whether Rule 63(iii) of the Assam
+Police  Manual  (for  brevity,  ‘the  Manual’),  which  prescribes  that  such
+assessment should be initiated by the Deputy Commissioner concerned, as
+the ‘Reporting Authority’, is lawful. The specific ground successfully urged
+before the High Court by the respondents herein, viz., IPS Officers working
+as SPs in the State of Assam, is that this Rule is violative of Section 14(2)
+of the Assam Police Act, 2007, (for brevity, ‘the Act of 2007’). 
+4.
+It would be apposite at this stage to note the tone and tenor of the
+relevant statutory provisions. Rule 63(iii) of the Manual, in the context of
+initiation of the ACR/APAR of a SP of a district, reads as follows:
+‘(iii)
+Superintendent of Police - the report should be initiated by
+Deputy Commissioner, reviewed by the Deputy Inspector General
+of Police i/c Range and sent to the Commissioner of Division. The
+Commissioner of Division will send the same with his opinion to
+the Inspector General of Police for acceptance.
+           The Inspector General of Police shall refer the report to the
+Deputy  Inspector  General  of  Police,  S.B.,  for  recording  his
+remarks regarding performance of the Superintendent of Police of
+the District in subjects pertaining to the S.B.’
+2
+
+     Section 14 of the Act of 2007 reads thus:
+‘14.
+Relationship  of  Superintendent  of  Police  with  District
+Magistrates -
+ (1) The  administration  of  the  Police  throughout  the  local
+jurisdiction of the Magistrate is vested in the Superintendent of
+Police under the general control and direction of the Deputy
+Commissioner as District Magistrate. The latter is responsible
+for keeping  peace  and  maintenance  of  law  and  order  in  a
+district and may employ the police as he thinks best for the
+purpose.
+(2) The Deputy Commissioner as District (sic.) Magistrate has
+however, no authority to interfere in the internal organization
+and discipline of the Police force, but it is his duty to bring to the
+notice of the Superintendent of Police, all cases in which the
+conduct of and qualification of Police Officer affect the general
+administration of a district.’
+5.
+As  IPS  Officers  belong  to  an  ‘All  India  Service’,  it  would  be
+pertinent to note the provisions of the All India Services (Confidential Rolls)
+Rules, 1970 (for brevity, ‘the 1970 Rules’), which were thereafter replaced
+by the All India Services (Performance Appraisal Report) Rules, 2007 (for
+brevity,  ‘the  2007  Rules’),  in  the  context  of  the  mode  and  method  of
+preparation of ACRs/APARs of IPS Officers in the rank of SPs. Rules 2(e),
+2(f) and 2(a) of the 1970 Rules defined ‘Reporting Authority’, ‘Reviewing
+Authority’ and ‘Accepting Authority’ respectively, apropos preparation of
+ACRs/APARs. These Rules read as under: -
+3
+
+‘2(e) ‘reporting authority’ means the authority who was, during
+the period for which the confidential report is written, immediately
+superior to the member of the service and such other authority as
+may be specifically empowered in this behalf by the Government;
+2(f) 
+‘reviewing  authority’  means  authority  or  authorities
+supervising the performance of the reporting authority as may be
+specifically empowered in this behalf by the Government;
+2(a)
+‘accepting  authority’ means  such  authority  or  authorities
+supervising the performance of the reviewing authority as may be
+specifically empowered in this behalf by the Government.’
+ Rule  2(e)  above  was  thereafter  amended,  vide  Notification  No.
+22012/4/87-AIS-III dated 08.12.1987, and from that date it read thus: -
+‘2(e)
+‘reporting  authority’  means  such  authority  or  authorities
+supervising  the  performance  of  the  member  of  the  Service
+reported upon as may be specifically empowered in this behalf by
+the Government.’
+6.
+The 1970 Rules continued to govern the field till the advent of the
+2007 Rules. Rules 2(j), 2(k) and 2(a) of the 2007 Rules define ‘Reporting
+Authority’,  ‘Reviewing  Authority’  and  ‘Accepting  Authority’  respectively.
+These Rules read as under: -
+‘2(j)
+‘reporting  authority’  means  such  authority  or  authorities
+supervising  the  performance  of  the  member  of  the  Service
+reported upon as may be specifically empowered in this behalf by
+the Government.
+ 2(k)
+‘reviewing  authority’ means  such  authority  or  authorities
+supervising the performance of the reporting authority as may be
+specifically empowered in this behalf by the Government.
+4
+
+ 2(a)
+‘accepting authority’ means the authority which supervises
+the performance of the reviewing authority as may be specifically
+empowered in this behalf by the Government.’
+7.
+Hitherto,  the  Police  Act,  1861,  was applicable  in  the  State  of
+Assam and the Assam Police Manual originated from it. However, upon the
+Act of 2007 being brought into force, the Police Act, 1861, was repealed in
+so far as its application to the State of Assam was concerned. The question
+presently is whether Rule 63(iii) of the Manual, which dates back to a point
+of time when the Police Act, 1861, was in force, can be said to be still valid
+and lawful in the framework of the Act of 2007 and the 2007 Rules relating
+to preparation of ACRs/APARs of IPS Officers in the rank of SPs.
+8.
+As per Rule 63(iii) of the Manual, the ACR/APAR of a SP should
+be initiated by the Deputy Commissioner concerned and the same would
+be reviewed by the Deputy Inspector General of Police in charge of the
+Range  and  then  sent  to  the  Commissioner  of  the  Division.  The
+Commissioner would then send the same with his opinion to the Inspector
+General of Police for acceptance who, in turn, would refer the report to the
+Deputy Inspector General of Police (Special Branch) for his remarks on the
+SP’s performance in subjects pertaining to that Branch.
+9.
+It is the contention of the appellants that a government servant has
+no right, much less a legal right, to insist that his/her ACR/APAR ought to
+5
+
+be initiated by a particular ‘Reporting Authority’. It is argued that there is no
+inconsistency in Rule 63(iii) when compared with the scheme of the Act of
+2007 and the 1970 Rules/2007 Rules. Reliance is placed upon the 2007
+Rules and the 1987 amendment of Rule 2(e) of the 1970 Rules, to contend
+that it is not necessary that a ‘Reporting Authority’ should be the immediate
+superior of the member of the service whose ACR/APAR is being prepared
+and it is sufficient if the authority supervises his/her performance. It is
+contended that, as Section 14(1) of the Act of 2007 vests the Deputy
+Commissioner/District Magistrate (hereinafter referred to as, ‘the Deputy
+Commissioner) with control over the functioning of the SP of that district,
+the Deputy Commissioner would be the most suitable person to report
+upon the performance of that SP. The appellants would point out that the
+SP works under the control and direction of the Deputy Commissioner, who
+has the overall responsibility of keeping peace and maintaining law and
+order in the district and who is empowered to employ the police force within
+the district as he/she thinks best for that purpose. 
+10.
+On the other hand, the respondents would point out that Section
+14(2) of the Act of 2007 makes it clear that the Deputy Commissioner
+cannot interfere with the internal organization or discipline within the police
+force in the district and can only inform the SP if the conduct and/or
+6
+
+qualification of a police officer affects the general administration of the
+district. They contend that the archaic Rule 63(iii) of the Manual is not
+compatible with the scheme obtaining under the Act of 2007 and the 2007
+Rules and that the Gauhati High Court was well justified in holding to that
+effect and invalidating it.
+11.
+At  the  outset,  we  may  note  that  the  system  of  governance
+obtaining under the Police Act, 1861, was altogether different from what it is
+now. At that time, the Deputy Commissioner exercised far wider powers,
+being the head of the criminal and police administration in the district. In
+such circumstances, it was proper that he/she should be vested with the
+power of assessing the performance of the SP of that district. Rule 63 of
+the Manual also makes this clear as it speaks of the recording officers
+being fully conversant with the quality of the work of the ‘officers working
+under them’ and goes on to say that the intention is that the work of an
+officer should be known to all his ‘superiors’ along the line. The hierarchical
+superiority of  the  Deputy Commissioner  over  the  SP in  that  setup  is,
+therefore, clear. 
+12.
+However, after the separation of powers in terms of the regime
+now prevailing, the Deputy Commissioner is no longer the head of criminal
+and police administration in the district. Presently, Section 14(1) of the Act
+7
+
+of 2007 provides that the administration of the police within the district
+vests in the SP of that district and Section 14(2) of the Act of 2007 makes it
+clear that the Deputy Commissioner would not have the power to interfere
+with the internal organization of the police in the district or with discipline
+within the police force. Notably, Rule 25(c) of the Manual empowered the
+Deputy Commissioner to order an enquiry in case of misconduct by a
+police officer, in direct variance with Section 14(2) of the Act of 2007 which
+unequivocally divests the Deputy Commissioner of such disciplinary power.
+This distinction, which was brought about in the administration of the police,
+must necessarily be kept in mind while considering the validity of the
+procedure prescribed under Rule 63(iii) of the Manual. As pointed out by
+Sir Rupert Cross  in his ‘Statutory Interpretation (3rd Edition, 1995), a
+statutory provision has to be considered first and foremost as a norm of the
+current legal system whence it takes force, as it has a legal existence
+independent of the historical contingencies of its promulgation and should
+be interpreted in the light of its place within the system of legal norms
+currently in force. These observations were quoted with approval by this
+Court in Dharani Sugars and Chemicals Limited vs. Union of India and
+others1.
+1
+ 
+(2019) 5 SCC 480
+8
+
+13.
+That apart, one must also keep in mind that IPS Officers, being
+members of an All India Service, would be amenable to the 2007 Rules.
+Section 65 of the Act of 2007 makes it clear that police personnel in the
+State of Assam shall be governed by the existing Discipline and Appeal
+Rules and other Service Conduct Rules in force, as applicable to the Indian
+Police Service, State Police Service and others serving in the State Police
+Establishment. Therefore, merely because they are deployed/deputed to
+work in the State of Assam, IPS Officers cannot be denied the benefit of the
+2007 Rules which would be applicable across the board to their ilk serving
+all over the country. It would, therefore, be incorrect to castigate such IPS
+Officers as insisting upon a ‘Reporting Authority’ of their choice. They are
+merely seeking parity with their kind working in other parts of the country. It
+is in this context that the extant 2007 Rules would have a direct impact on
+the issue under consideration. 
+14.
+The sheet anchor of the appellants’ case is the that the definition
+of “Reporting Authority’ in the 1970 Rules, post the 1987 amendment, and
+in the 2007  Rules does not  require  such  authority to  be  ‘immediately
+superior’ to the officer being reported upon. Further, it is argued that,
+thereunder,  the  Government  has  been  vested  with  the  discretion  of
+empowering any of the supervising authorities as the ‘Reporting Authority’
+9
+
+and the same would fall in the realm of policy-making. Trite to state, such
+discretion  must  be  exercised  judiciously  and  the  resultant  policy  must
+necessarily fall within the four corners of the statutory scheme. The further
+argument that, as the designated reviewing and accepting authorities are
+senior officers in the police hierarchy, it would not make a difference if the
+‘Reporting Authority’ is not from that department, needs mention only to be
+rejected. Each cog in the assessment process has its own role to play and
+this is clearly spelt out by Rule 63 of the Manual itself, which stipulates that
+inability or failure to report properly and objectively would be construed as a
+failure of the recording/reviewing officer and commented upon as such by
+the next level. On the same lines, Instruction 5 of the Instructions appended
+to Form I in the 1970 Rules, titled ‘Confidential Report for Indian Police
+Service Officers’, stipulates that if the ‘Reviewing Authority’ finds that the
+‘Reporting Authority’ made the report without due care and attention, he
+shall record a remark to that effect and the same shall be entered in his
+Confidential Roll.
+15.
+Significantly, though a ‘Reporting Authority’, as defined, is required
+to be someone who supervises the performance of the officer reported
+upon and not necessarily his/her immediate superior, there was no change
+in the definition of ‘Reviewing Authority’. Be it noted that the 1970 Rules
+10
+
+and the 2007 Rules both define ‘Reviewing Authority’ to mean the authority
+or authorities supervising the performance of the ‘Reporting Authority’, as
+may be specifically empowered in this behalf by the Government. It is in the
+backdrop of this definition of ‘Reviewing Authority’, that Rule 63(iii) of the
+Manual needs to be examined. Notably, a Deputy Commissioner, being the
+‘Reporting Authority’ thereunder, would be altogether independent of the
+police department, being either an IAS Officer or a State Civil Service
+Officer. Needles to state, performance of a Deputy Commissioner would
+not be assessed by the Deputy Inspector General of Police, the designated
+‘Reviewing Authority’ under Rule 63(iii), but by his/her own superior in the
+Administrative Service. There is, thus, a clear departure from the 1970
+Rules/2007 Rules. 
+16.
+The  definition  of  ‘Reporting  Authority’ in  the  1970  Rules,  post
+1987, and in the 2007 Rules, did away with the mandate of having the
+‘immediate superior’ of the officer reported upon undertaking that exercise
+but it still requires the ‘Reporting Authority’ to be someone who supervises
+the performance of the said officer. Ordinarily, such supervision would be
+by an officer from within the same department, who is higher in rank than
+the officer reported upon. The Government was, no doubt, given discretion
+to empower any of the authorities who supervise the performance of the
+11
+
+officer reported upon to assume such role. This discretion, however, cannot
+be construed to mean that someone from outside the department can be
+given such power, in the light of the ‘Reviewing Authority’ being defined as
+someone who supervises the performance of such ‘Reporting Authority’.
+This clearly implies that both authorities must belong to the same service or
+department. In effect, Rule 63(iii) of the Manual does not fit in with the
+scheme obtaining under the 1970 Rules and the 2007 Rules. 
+17.
+The learned Attorney General would suggest that this definition be
+given a restricted meaning to the effect that the ‘Reviewing Authority’, i.e.,
+the Deputy Inspector General of Police, would supervise the performance
+of the ‘Reporting Authority’, viz., the Deputy Commissioner, only to the
+extent of how he/she assessed the performance of the SP and no more.
+However, we are of the opinion that such a construction does not flow from
+the plain language of the definition and would require something more to be
+read into it than was intended. Reference may be made to Kanai Lal Sur
+vs. Paramnidhi Sadhukhan2, wherein this Court observed that the words
+used in a statute must be interpreted in their plain grammatical meaning
+and it is only when they are capable of two constructions that the question
+of giving effect to the policy or object of the legislation can legitimately
+arise. 
+2 
+AIR 1957 SC 907
+12
+
+18.
+Further, reading down the meaning of the definition would have
+unintended  consequences,  fully  divorced  from  the  unambiguous words
+used therein, whereby ‘Reviewing Authority’ is defined to mean that such
+an authority must be one who supervises the performance of the ‘Reporting
+Authority’ in all respects and not in relation to one function alone. 
+19.
+Pertinently, there is no discernible conflict or contradiction between
+the definitions of ‘Reporting Authority’ and ‘Reviewing Authority’ in the 1970
+Rules,  post  1987,  and  in  the  2007  Rules.  The  clear  import  of  these
+definitions is that such authorities must be from within the same service or
+department. Invocation of the doctrine of harmonious construction vis-à-vis
+these definitions, therefore, does not arise. Given the clear intent of the
+1970  Rules/2007  Rules  that  the  reporting,  reviewing  and  accepting
+authorities should be from within the same service or department, the
+question is whether breach of such requirement can be permitted in the
+State of Assam under Rule 63(iii) of the Manual. 
+20.
+In this milieu, Section 14(2) of the Act of 2007 assumes relevance.
+Section 14(1) of the Act of 2007 states that administration of the police
+within the local jurisdiction of the Deputy Commissioner is vested in the SP,
+under the general control and direction of such Deputy Commissioner, but
+Section  14(2)  makes  it  clear  that  the  Deputy  Commissioner  has  no
+13
+
+authority to interfere with the internal organization and discipline of the
+police force. This sub-section further states that it would be within the
+power and duty of the Deputy Commissioner to bring to the notice of the
+SP all such cases in which the conduct of and/or qualification of a police
+officer affects the general administration within the district and no more. On
+a plain reading, Section 14(1) and Section 14(2) of the Act of 2007 appear
+to be in derogation of each other, inasmuch as Section 14(1) vests the
+Deputy Commissioner with control over the SP but Section 14(2) makes it
+clear that such control would not extend to the Deputy Commissioner
+interfering with the internal organization or discipline within the police force
+in  the  district.  These  provisions  must  be  harmoniously  construed  by
+restricting the power vesting in the Deputy Commissioner under Section
+14(1), by duly carving out what has been excepted under Section 14(2).
+Such harmonious construction would be necessary to give effect to both
+provisions, so that they operate without conflict and a head-on collision
+(See S. Gopal Reddy vs. State of A.P.3 and Sultana Begum vs. Prem
+Chand Jain4).
+21.
+We may note that even as per the Manual, a SP is not made
+subservient  to  a  Deputy  Commissioner.  Rule  25  of  the  Manual
+3
+(1996) 4 SCC 596
+4
+(1997) 1 SCC 373
+14
+
+demonstrates this. It provides that though the SP is required to obey the
+instructions of the Deputy Commissioner in the first instance, the SP can
+thereafter  request  the Deputy Commissioner  to refer any difference of
+opinion between them on any question relating to police administration to
+the Commissioner, who would decide such reference. Moreover, the SP is
+at liberty to submit his case to the Inspector General of Police if he is
+dissatisfied with the decision of the Commissioner. It is, thus, clear that a
+SP is required to work under the ‘general control and direction’ of a Deputy
+Commissioner and obey his/her instructions but that does not place the SP
+under the hierarchical supremacy of that Deputy Commissioner. 
+22.
+Further, when liberty has been given to the SP to disagree with the
+Deputy Commissioner on any point relating to police administration and
+seek resolution of such difference of opinion through the Commissioner
+and, thereafter, the Inspector General of Police, it would be a parody to
+subject the performance assessment of such a SP to the same Deputy
+Commissioner  with  whom  he/she  had  disagreed.  Such  an  ACR/APAR
+cannot be taken to be impartial and objective, once it is preceded by a
+difference  of  opinion  between  the  SP  and  the  Deputy  Commissioner,
+leading to a reference being made to higher authorities. Such a situation
+must necessarily be avoided to maintain the sanctity of the assessment
+15
+
+process. This constitutes one more reason why the Deputy Commissioner
+should not be the ‘Reporting Authority’ of the SP of that district. 
+23.
+Significantly,  Circular  No.  11059/4/89-AIS.III,  dated  28.12.1990,
+issued by the Government of India in exercise of power under Rules 3 and
+10A of the 1970 Rules, stipulated that the ‘Reporting Authority’ should be in
+a higher grade of pay than the officer reported upon. The Government
+noted that there were instances where the ACRs of the members of All
+India Services were initiated by officers belonging to the same batch or
+drawing the same pay scale as the officer reported upon and instructed that
+the State Governments must ensure that a member of the service does not
+initiate the Confidential Report of another member of the service in the
+same grade of pay. It is, therefore, clear that the ‘Reporting Authority’ must
+necessarily be in a higher grade of pay than the officer who is being
+reported upon. It may be noticed that Rule 11 of the 2007 Rules empowers
+the Central Government to issue instructions with regard to the writing of
+the Performance Appraisal Report. However, no new instruction or circular
+has been issued in exercise of power thereunder, contrary to the earlier
+Circular dated 28.12.1990.  However, instances have been cited by the
+respondents where ACRs/APARs of the SPs in the State of Assam were
+initiated by Deputy Commissioners who were not in a higher grade of pay. 
+16
+
+24.
+In this regard, we may also note that, in State Bank of India and
+others vs. Kashinath Kher and others5, this Court held that officers
+reporting upon  performance  must  show  objectivity,  impartiality  and  fair
+assessment, without any prejudices whatsoever, and the highest sense of
+responsibility so as to inculcate devotion to duty, honesty and integrity. It
+was further observed that as officers may get demoralized by negative
+ACRs, which would be deleterious to the efficacy and efficiency of public
+service, such ACRs should be written by a superior officer of high rank.
+Earlier, in State of Haryana vs. P.C.Wadhwa, IPS, Inspector General of
+Police and another6, this Court considered whether the State Government
+could empower any authority to be the ‘Reporting Authority’ of the Inspector
+General of Police under Rule 2(e) of the 1970 Rules. It was observed that,
+from the point of view of propriety and reasonableness and having regard
+to the intention behind the Rule, which is manifest, such an authority must
+be one superior in rank to the member of the service concerned. No doubt,
+these observations were made in the context of the unamended Rule 2(e)
+of the 1970 Rules, but the principle culled out is sound and still holds good. 
+25.
+The appellants would argue that the Deputy Commissioner is the
+most suitable person to assess the performance of the SP, as he works
+5
+(1996) 8 SCC 762
+6
+ 
+(1987) 2 SCC 602
+17
+
+under  his control  and  direction,  but  we  are  not  impressed.  Form  I  in
+Appendix II to the 2007 Rules pertains to performance appraisal of all IPS
+Officers upto the level of Inspector General of Police, which would include
+SPs. Clause 6 in Rule 3 thereof, relating to appraisal by the ‘Reporting
+Authority’, provides various domain assignments wherefrom the ‘Reporting
+Authority’ is required to select any four. ‘Law and Order’ is only one of the
+twenty  named  domains,  which  would  come  within  the  purview  of  the
+Deputy Commissioner and the remaining nineteen would not be within
+his/her purview and supervision. Seized of only one of the twenty domains,
+the Deputy Commissioner would not even be competent to assess the
+overall performance of the SP. 
+26.
+On the above analysis and given the fact that the 1970 Rules/2007
+Rules define reporting, reviewing and accepting authorities to mean that
+they must all be from the same service or department, intervention by the
+Deputy Commissioner during the exercise of performance assessment of
+SPs of the districts in the State of Assam, by virtue of Rule 63(iii) of the
+Manual, cannot be countenanced, being in direct conflict therewith, and
+would tantamount to permitting the Deputy Commissioner to interfere with
+the internal organization of the police force, which would be contrary to the
+mandate of Section 14(2) of the Act of 2007.  
+18
+
+27.
+ 
+We, therefore, find no grounds to disagree with the conclusion
+arrived at by the Gauhati High Court, holding to that effect. 
+   
+The appeal is, therefore, devoid of merit and is accordingly
+dismissed. 
+Applications  for  permission  to  file  additional  documents  are
+allowed. Other pending applications, if any, shall stand closed.
+Before  parting  with  the  case,  we  place  on  record  our
+appreciation  and  gratitude  to  Mr.  R.  Venkataramani,  learned  Attorney
+General, for his erudite and able assistance.     
+Parties shall bear their own costs.
+                                                    
+………………………..,J
+(ANIRUDDHA BOSE)
+………………………..,J
+(SANJAY KUMAR)
+January 18, 2024.
+New Delhi.
+19

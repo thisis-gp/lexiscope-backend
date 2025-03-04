@@ -1,0 +1,121 @@
+2024 INSC 808
+Civil Appeal No. 8228/2019  etc.
+NON-REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 8228 OF 2019
+COMMISSIONER OF GST AND CENTRAL EXCISE
+.....
+APPELLANT
+VERSUS
+M/S CITIBANK N.A. 
+.....
+RESPONDENT
+WITH 
+CIVIL APPEAL NO. 89 OF 2021
+J U D G M E N T
+SANJIV KHANNA, J.
+We  have  heard  the  learned  counsel  appearing  for  the
+parties at some length.
+2.
+The  contention  of  the  Revenue  is  that  the  acquiring  bank
+should have paid service tax on the Merchant Discount Rate1
+minus the interchange fee, and the issuing bank should have
+paid service tax on the interchange fee.
+3.
+We are of the view that the judgment and reasoning given by
+S. Ravindra Bhat, J. is acceptable and it is in accordance
+with the provisions of Clause (iii) of Section 65 (33a) of
+1 For short, “MDR”.
+1
+Digitally signed by
+babita pandey
+Date: 2024.10.22
+17:05:02 IST
+Reason:
+Signature Not Verified
+
+Civil Appeal No. 8228/2019  etc.
+the Finance Act, 19942.
+4.
+S. Ravindra Bhat, J. rightly observes that as per Section
+65(33a)  of  the  Act,  seven  distinct  heads  of  credit  card
+services were sought to be taxed, the idea being to broaden
+the coverage of the species of services into taxation net.
+Clause (iii) thereof applies to service by any person, which
+includes service by the issuing bank and the acquiring bank.
+The use of the word ‘and’ in conjuncture is indicative of the
+legislative  intent.  MDR  is charged/levied  by  the  acquiring
+bank  at  the  first  point  in  time  and  subsumes  both  the
+acquiring bank fee and the interchange fee of the issuing
+bank, as well as the platform fee. It is the sum total of the
+three. The aforesaid charge occurs first in point of time and
+deduction  and  payment  of  service  tax  at  this  stage  is
+beneficial to the Revenue. It is not the case of the Revenue
+that payment by the acquiring bank to the issuing bank, known
+as interchange fee, is separately chargeable, in addition to
+the service tax on the MDR.
+5.
+To  support  the  conclusion,  S.  Ravindra  Bhat,  J.  has  said
+that,  in  reality,  there  is  one  unified  service  which  is
+rendered to the consumer, that is, the credit card holder,
+and the merchant. The subsequent bifurcation in the context
+and the nature of the transaction, read with Sections 66 and
+68 of the Act and Rule 5(1) of the Service Tax (Determination
+2 For short, “The Act.”
+2
+
+Civil Appeal No. 8228/2019  etc.
+of Value) Rules, 2006, is immaterial as MDR is taxable and
+service fee is to be taxed. MDR, as a service, has been taxed
+and also paid.
+6.
+We  wonder  whether  the  Revenue  would  have  accepted  the
+bifurcation as argued by them in case the acquiring bank and
+the issuing bank had taken the stand which is now taken by
+them. While interpreting a tax provision, one must keep in
+mind that the legislature ennobles the ease of collection of
+tax  and  payment  of  tax.  These  principles,  especially  when
+there is no loss of revenue, can be taken into consideration
+for interpreting a provision in case of doubt or debate.
+7.
+It is pertinent to note that even the opinion expressed by
+K.M. Joseph, J., while adopting a different interpretation of
+Section 65 (33a) of the Act, goes on to hold, vide paragraphs
+86 onwards of the judgment, that there should not be double
+taxation.  However, it has been observed thereafter that the
+onus to show that payment of service tax on the entire MDR
+was made by the acquiring bank will be on the issuing bank,
+that is, the respondent, M/s. Citibank N.A.
+8.
+We would, on the last aspect, observe that the entire data
+and details are available with the Service Tax Department and
+could  have  been  easily  ascertained  before  issuance  of  the
+show  cause  notice.  Interestingly,  the  show  cause  notice
+proceeds on the basis that, regardless of the service tax
+3
+
+Civil Appeal No. 8228/2019  etc.
+paid by the acquiring bank on the full MDR, the issuing bank
+would be liable to pay service tax on the proportion of its
+share in the MDR, which is the interchange fee. 
+9.
+We find that the entire amount of the service tax payable on
+the MDR has been paid to the Government and there is no loss
+of revenue. 
+10.
+Recording  the  aforesaid,  the  Reference  and  appeals  are
+disposed  of,  holding  that  service  tax  is  not  separately
+payable on the interchange fee, as service tax has been paid
+on the MDR.
+11.
+Pending application(s), if any, shall stand disposed of. 
+..................J.
+(SANJIV KHANNA)
+..................J.
+(SANJAY KUMAR)
+..................J.
+(R. MAHADEVAN)
+NEW DELHI;
+OCTOBER 16, 2024.
+4

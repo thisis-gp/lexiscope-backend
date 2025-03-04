@@ -1,0 +1,255 @@
+2024 INSC 536
+AP 15 of 2023 
+Reportable  
+IN THE SUPREME COURT OF INDIA 
+CIVIL ORIGINAL JURISDICTION 
+ 
+ 
+ARBITRATION PETITION (CIVIL) NO. 15 OF 2023 
+ 
+ 
+Elfit Arabia & Anr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+… Petitioners 
+ 
+Versus 
+ 
+Concept Hotel BARONS Limited & Ors 
+ 
+ 
+ 
+ 
+… Respondents 
+ 
+ 
+WITH 
+ 
+ 
+ARBITRATION PETITION (CIVIL) NO. 10 OF 2023 
+ 
+ 
+ 
+ 
+O R D E R 
+ 
+ 
+ARBITRATION PETITION (CIVIL) NO. 15 OF 2023 
+1 
+The petitioner, an entity incorporated in the United Arab Emirates, was purportedly 
+approached by the respondents to finance a telecommunication project undertaken 
+by Telesuprecon Nigeria Limited (TNL). Accordingly, the Memorandum of 
+Understanding (MoU) which forms the basis of the petition under Section 11(6) of the 
+Arbitration and Conciliation Act 19961 was executed on 1 June 2004. TNL was 
+represented by the second respondent, who is also a director of the first respondent – 
+a company incorporated in India. Pursuant to the terms of the MoU, the petitioners 
+ 
+1 “Act” 
+Digitally signed by
+Gulshan Kumar Arora
+Date: 2024.07.18
+17:32:44 IST
+Reason:
+Signature Not Verified
+
+2 
+AP 15 of 2023 
+ 
+claim to have disbursed funds on various occasions. On 2 August 2006, a 
+supplementary MoU was executed, setting out the terms of repayment and 
+settlement of the petitioners’ dues. The respondents agreed to lien their property as 
+comfort and issue cheques in support of their finances.  
+2 
+It has been stated that cheques were given to the petitioner from time to time during 
+the course of meetings between the parties to negotiate repayment. On 7 May 2011, 
+fifteen cheques which had been furnished to the petitioner for a consolidated amount 
+of Rs. 7.30 crores were presented for payment but allegedly dishonoured. Accordingly, 
+on 2 June 2011, the petitioners issued a legal notice to the respondents to implement 
+the MoU and make the necessary payment.  
+3 
+Eleven years thereafter, on 4 July 2022, the petitioners invoked arbitration in terms of 
+clause 19 of the MoU. The respondent failed to reply to the notice invoking arbitration. 
+Therefore, the petitioner issued a fresh notice dated 27 October 2022 calling upon the 
+respondent to refer the dispute to arbitration. The petitioner did not receive a response 
+to the second notice and instituted the present petition before this court for the 
+appointment of an arbitrator.  
+4 
+According to the petitioner, in the interregnum, proceedings under Section 138 of the 
+Negotiable Instruments Act 1881 were instituted against the respondents. An order of 
+acquittal was passed by the Magistrate on 23 July 2018. Proceedings are pending 
+before the High Court of Bombay in appeal.  
+5 
+The respondents contend that the claims of the petitioner are barred by limitation and 
+urge this Court to dismiss the petition. Whether a claim is barred by limitation lies 
+
+3 
+AP 15 of 2023 
+ 
+ordinarily within the domain of the arbitral tribunal. However, a court exercising 
+jurisdiction under Section 11(6) of the Act may reject ex facie non-arbitrable or dead 
+claims, to protect the other party from being drawn into a protracted arbitration 
+process,2 that is bound to eventually fail. The court must ‘cut the deadwood’ by 
+refraining from appointing an arbitrator when claims are ex facie time-barred and 
+dead, or there is no subsisting dispute.3  
+6 
+This examination does not involve a full review of contested facts but only a primary 
+review, where uncontested facts speak for themselves.4 Such limited scrutiny is 
+necessary as it is the duty of the court to protect the parties from being compelled to 
+arbitrate when the claim is demonstrably barred by limitation. If courts do not 
+intervene within this limited compass and mechanically refer every dispute to 
+arbitration, it may undermine the effectiveness of the arbitration process itself.5 
+7 
+The above principles that have been affirmed in a consistent line of precedent, flow 
+from the following observations in Vidya Drolia v. Durga Trading Corporation:6 
+“139. … Undertaking a detailed full review or a 
+long-drawn review at the referral stage would 
+obstruct and cause delay undermining the 
+integrity and efficacy of arbitration as a dispute 
+resolution mechanism. Conversely, if the court 
+becomes too reluctant to intervene, it may 
+undermine effectiveness of both the arbitration 
+and the court. There are certain cases where the 
+prima facie examination may require a deeper 
+consideration. The court's challenge is to find the 
+right amount of and the context when it would 
+ 
+2 Arif Azim Co. Ltd. v. Aptech Ltd., (2024) 5 SCC 313, para 68.  
+3 Vidya Drolia v. Durga Trading Corporation (2021) 2 SCC 1, para 154.4; BSNL v. Nortel Networks 
+(India) (P) Ltd., (2021) 5 SCC 738, para 45.1. 
+4 NTPC Ltd. v. SPML Infra Ltd., (2023) 9 SCC 385, para 27. 
+5 Ibid, para 28. 
+6 (2021) 2 SCC 1.  
+
+4 
+AP 15 of 2023 
+ 
+examine the prima facie case or exercise restraint. 
+The legal order needs a right balance between 
+avoiding arbitration obstructing tactics at referral 
+stage and protecting parties from being forced to 
+arbitrate when the matter is clearly non-arbitrable. 
+… 
+148. Section 43(1) of the Arbitration Act states that 
+the Limitation Act, 1963 shall apply to arbitrations 
+as it applies to court proceedings. Sub-section (2) 
+states that for the purposes of the Arbitration Act 
+and Limitation Act, arbitration shall be deemed to 
+have commenced on the date referred to in 
+Section 21. Limitation law is procedural and 
+normally disputes, being factual, would be for the 
+arbitrator to decide guided by the facts found 
+and the law applicable. The court at the referral 
+stage can interfere only when it is manifest that the 
+claims are ex facie time-barred and dead, or 
+there is no subsisting dispute. All other cases should 
+be referred to the Arbitral Tribunal for decision on 
+merits. …  
+… 
+154.4. Rarely as a demurrer the court may interfere 
+at Section 8 or 11 stage when it is manifestly and 
+ex facie certain that the arbitration agreement is 
+non-existent, invalid or the disputes are non-
+arbitrable, though the nature and facet of non-
+arbitrability would, to some extent, determine the 
+level and nature of judicial scrutiny. The restricted 
+and limited review is to check and protect parties 
+from being forced to arbitrate when the matter is 
+demonstrably “non-arbitrable” and to cut off the 
+deadwood. The court by default would refer the 
+matter 
+when 
+contentions 
+relating 
+to 
+non-
+arbitrability 
+are 
+plainly 
+arguable; 
+when 
+consideration in summary proceedings would be 
+insufficient and inconclusive; when facts are 
+contested; when the party opposing arbitration 
+adopts delaying tactics or impairs conduct of 
+arbitration proceedings. … ” 
+(emphasis supplied) 
+ 
+8 
+Having regard to the uncontested chronology of events detailed in paragraphs 1 to 
+4 above, it is abundantly clear that the notices invoking arbitration dated 4 July 2022 
+
+5 
+AP 15 of 2023 
+ 
+and 27 October 2022 were issued eleven years after the cause of action arose in 
+2011.7 This is well beyond the limitation period of three years,8  and the claim which is 
+sought to be raised is hopelessly barred by limitation.  
+9 
+The initiation of arbitration and criminal proceedings under Section 138 of the 
+Negotiable Instruments Act 1881 are separate and independent proceedings that 
+arise from two separate causes of action.9 Therefore, the institution of the proceedings 
+under Section 138 does not imply a ‘continuing cause of action’ for the purpose of 
+initiating arbitration, as erroneously contended by the petitioner.  
+10 
+The facts of the present case undoubtedly fall within the narrow compass of 
+interference that courts must exercise at this stage. If this Court were to refer the 
+dispute to arbitration, it would amount to compelling the parties to arbitrate a 
+‘deadwood’ claim that is ex-facie time-barred.  
+11 
+We, therefore, decline to entertain the Arbitration Petition.  
+12 
+The Arbitration Petition is accordingly dismissed. 
+13 
+Pending applications, if any, stand disposed of. 
+ 
+ARBITRATION PETITION (CIVIL) NO. 10 OF 2023 
+14 
+The companion Arbitration Petition, namely (Arbitration Petition No. 15 of 2023) has 
+ 
+7 Section 21, Arbitration and Conciliation Act, 1996. 
+8 Section 46(1), Arbitration and Conciliation Act 1996; Article 55 of the Schedule, Limitation Act, 1963.  
+9  Sri Krishna Agencies v. State of A.P., (2009) 1 SCC 69, para 7.  
+
+6 
+AP 15 of 2023 
+ 
+been dismissed by the above order.  Save and except for the date of the MoU which 
+is 26 May 2004 in the present case, the facts are similar. 
+15 
+For the reasons already indicated, we arrive at the conclusion that the claim is ex-
+facie barred by limitation. 
+16 
+The Arbitration Petition is accordingly dismissed. 
+17 
+Pending applications, if any, stand disposed of. 
+ 
+ 
+.…...…...….......………………....…CJI. 
+[Dr Dhananjaya Y Chandrachud]  
+ 
+ 
+ 
+ 
+ 
+……..…...….......………………....…..J. 
+[J B Pardiwala] 
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+.…...…...….......………………....…..J. 
+[Manoj Misra]  
+ 
+       
+New Delhi;  
+July 09, 2024 
+GKA

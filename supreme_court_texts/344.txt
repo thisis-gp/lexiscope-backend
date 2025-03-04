@@ -1,0 +1,561 @@
+2024 INSC 362
+Reportable
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+Civil Appeal No. …………... of 2024
+(@ Special Leave Petition (C) No. 5817 of` 2023)
+Deependra Yadav and others
+ 
+ 
+ … Appellants
+Versus
+State of Madhya Pradesh and others
+… Respondents
+with
+Special Leave Petition (C) No. 23514 of 2023
+&
+Special Leave Petition (C) No. 27620 of 2023
+J U D G M E N T
+SANJAY KUMAR, J
+1.
+Leave granted only in SLP (C) No. 5817 of 2023.
+2.
+One lapse on the part of the State is all it took to generate this
+litigation, impacting multitudes of job aspirants in the State of Madhya
+Pradesh. The lapse was the amendment of an existing service rule on
+1
+Digitally signed by
+Nisha Khulbey
+Date: 2024.05.01
+17:28:16 IST
+Reason:
+Signature Not Verified
+
+17.02.2020 which was recalled thereafter on 20.12.2021, restoring the rule
+to  its  original  position,  but  in  the  interregnum  that  amended  rule  was
+applied  to  an  ongoing  recruitment  process.  This  prompted  several
+challenges before the High Court of Madhya Pradesh at Jabalpur resulting
+in a spate of orders and directions leading up to these cases before us.
+3.
+The  Madhya  Pradesh  Public  Service  Commission  (MPPSC)
+issued an advertisement on 14.11.2019 proposing to select candidates for
+571 posts in the State services in accordance with the Madhya Pradesh
+State Service Examination Rules, 2015 (for brevity, ‘the Rules of 2015’).
+The Rules of 2015 were framed in exercise of power under the proviso to
+Article 309 of the Constitution of India. The Madhya Pradesh State Service
+Examination-2019 was scheduled to be held by the MPPSC for filling up
+these posts, by conducting a preliminary examination followed by the main
+examination and interviews. The preliminary examination took place on
+12.01.2020.  The  total  number  of  candidates  who  registered  for  the
+preliminary  examination  stood  at  3,64,877  but  only  3,18,130  of  them
+actually appeared for the examination. At that stage, on 17.02.2020, Rule 4
+of the Rules of 2015 was amended by the State of Madhya Pradesh. Rule
+4, as it stood prior to the amendment and to the extent relevant for the
+purposes of this adjudication, read as under:
+2
+
+‘Rule 4. Mode of preparation of select list.
+(1)(a)(i)  On  the  basis  of  marks  obtained  in  Preliminary  Examination,
+candidates numbering 15 times the vacancies as advertised category wise
+will be declared successful for Main examination subject to the condition
+that candidates have scored minimum passing marks as may be specified
+by the Commission. In addition to this, all the other candidates who get
+marks equal to “Cut Off Marks” will also be declared successful for the
+main examination.
+(ii) Firstly, a list of Candidates of unreserved category shall be prepared.
+This list will include the candidates selected on the basis of the common
+merit  from Scheduled  Castes,  Scheduled  Tribes  and  Other  Backward
+Classes,  who  have  not  taken  any  advantage/relaxation  given  to  the
+concerned category.
+(iii) Secondly, separate lists of Scheduled Castes, Scheduled Tribes and
+Other Backward Classes will be prepared.
+……
+(d) A common list of successful candidates shall be prepared after the
+preparation  of  all  four  lists,  and  examination  result  will  be  declared
+thereafter. This list will be roll number wise.’
+4.
+It is clear from a bare reading of the above Rule 4 that the result
+of the preliminary examination was to be declared by clubbing meritorious
+reservation  category  candidates,  who  had  not  availed  any  reservation
+benefit, with the meritorious unreserved category candidates and not with
+their respective reservation category candidates. While so, the amendment
+effected on 17.02.2020 brought about a sea change in this methodology. To
+the extent relevant, the amended Rule 4 of the Rules of 2015 read thus:
+3
+
+ 
+‘4. Mode of preparation of select list: -
+(1)(a)(I) On the basis of marks obtained in Preliminary Examination, -
+category  wise  candidates  numbering  15  times  of  the  vacancies  as
+advertised will be declared successful for Main examination subject to the
+condition that candidates have scored minimum passing marks as may be
+specified by the Commission. In addition to this, all the other candidates
+who get marks equal to “Cut Off Marks” will also be declared successful
+for the main examination.
+(II)  Separate  Lists  of  Candidates  applied  in  Unreserved,  Scheduled
+Castes, Scheduled Tribes, Other Backward Classes and Economically
+Weaker Section shall be prepared. Reservation shall be given to Women
+and ExServicemen in all categories as per rules and instructions issued in
+this regard from time to time.
+……
+(d) A common list of successful candidates shall be prepared after the
+preparation  of all  five  lists,  and  there  after examination  result will  be
+declared. This list will be roll number wise.
+……
+(3)(d)(I) Results of Preliminary/Main Examination, the candidates shall be
+declared  in  the  category  mentioned  as  their  category  in  their  online
+application form.
+(II)  Candidates  of  reserved  category  (Scheduled  caste/Scheduled
+Tribe/Other Backwards Classes/Economically Weaker Section) who get
+selected like general category candidates without any relaxation shall not
+be adjusted against the posts reserved for those reserved categories.
+They shall be adjusted against vacancies of unreserved category. 
+(III) But above adjustment will only be at the time of final selection, not at
+the time of preliminary/main examination.’
+5.
+In effect, the amended Rule 4 of the Rules of 2015 provided that
+adjustment and segregation of meritorious reservation category candidates
+4
+
+with meritorious unreserved category candidates would be only at the time
+of final selection and not at the time of the preliminary/main examination. 
+6.
+Surprisingly, the amended Rule 4 was applied to the ongoing
+recruitment process relating to the notified 571 vacant posts. The result of
+the preliminary examination conducted on 12.01.2020 was declared on
+21.12.2020, applying the amended Rule 4. Thus, there was no segregation
+of  meritorious  reservation  category  candidates  with  those  from  the
+unreserved category and they were shown in their respective reservation
+categories only. The number of candidates who cleared the preliminary
+examination on this basis were 10,767. 
+7.
+While so, the vires of amended Rule 4(3)(d)(III) of the Rules of
+2015 was challenged by some of the candidates in a batch of writ petitions
+before the High Court of Madhya Pradesh at Jabalpur. By interim order
+dated 22.01.2021 passed in those cases, the High Court directed that the
+recruitment process initiated pursuant to the preliminary examination result
+dated 21.12.2020 shall remain subject to the outcome of the writ petitions.
+Pursuant  thereto,  the  MPPSC  conducted  the  main  examination  of  the
+Madhya  Pradesh  State  Service  Examination-2019  from  21.03.2021  to
+26.03.2021.  While  so,  on  20.12.2021,  the  Rules  of  2015  were  again
+amended by the State of Madhya Pradesh. Thereby, the position existing
+5
+
+prior to the amendment effected on 17.02.2020 was restored. The newly
+amended Rule 4 of the Rules of 2015 read thus:
+4(1)(a)(i) On the basis of marks obtained in the preliminary examination
+category wise candidates 20 times the number of advertised vacancies
+shall  be  declared  successful  for the  main  examination  subject  to  the
+condition that the candidates have secured such minimum passing marks
+as may be specified by the Commission. In addition, all other candidates
+who  have  obtained  marks  equal  to  the  ‘cut  off  marks’ shall  also  be
+declared qualified for the main examination.
+(ii)  First  of  all,  the  cut  off  marks  of  unreserved  category  shall  be
+determined.  After  this,  those  candidates  belonging  to  the  reserved
+category (Scheduled Castes, Scheduled Tribes, Other Backward Classes
+and Economically Weaker Sections) who have obtained marks more than
+or equal to the prescribed “cut off” of the unreserved category and who
+have taken the benefit of relaxations from time to time, shall be included in
+the respective category by separating them from the list of unreserved
+category. 
+(iii) In the second phase, category-wise cut off marks of the reserved
+candidates shall be determined by preparing category-wise separate lists
+of candidates belonging to Scheduled Castes, Scheduled Tribes, Other
+Backward Classes and Economically Weaker Sections. 
+…..
+(c) After preparation of all the five lists, a common list of eligible candidates
+shall be prepared and thereafter the result shall be declared roll number
+wise.
+8.
+Further, the amended Rule 4(3)(d)(III) was altogether omitted
+from the Rules of 2015. The result of such omission and Rule 4(1)(a)(ii), as
+it presently reads, is that meritorious reservation category candidates, who
+6
+
+did not avail any benefit of relaxation, are to be clubbed with meritorious
+unreserved category candidates at the time of declaring the result of the
+preliminary examination itself. In effect, status quo ante was restored. 
+9.
+Notwithstanding  this  amendment,  the  result  of  the  main
+examination held between 21.03.2021 and 26.03.2021 was declared by the
+MPPSC on 31.12.2021 and the number of candidates who provisionally
+qualified  for  interviews  were  1918.  However,  by  judgment  dated
+07.04.2022, a Division Bench of the High Court of Madhya Pradesh at
+Jabalpur partly allowed the pending writ petitions,  viz., W.P. No. 542 of
+2021 and batch, titled ‘Kishor Choudhary vs. State of Madhya Pradesh
+and another’. Challenge in this batch of cases was not only to the validity
+of amended Rule 4(3)(d)(III) of the Rules of 2015 but also to Section 4(4) of
+the Madhya Pradesh Lok Seva (Anusuchit Jatiyon, Anusuchit Jan Jatiyon
+aur Anya Pichhade Vargon Ke Liye Arakshan) Adhiniyam, 1994 (for brevity,
+‘the Adhiniyam’). Section 4(4) of the Adhiniyam reads as follows: -
+‘4(4).
+If a person belonging to any of the categories mentioned in
+sub-section  (2)  gets  selected  on  the  basis  of  merit  in  an  open
+competition with general candidates, he shall not be adjusted against
+the vacancies reserved for such category under sub-section (2).’
+     The Division Bench upheld the validity of Section 4(4) of the
+Adhiniyam but declared Rule 4(3)(d)(III) of the Rules of 2015 ultra vires and
+7
+
+set it aside. The Division Bench directed that, resultantly, the recruitment
+process  must  be  conducted  and  completed  in  consonance  with  the
+unamended Rules of 2015. 
+10.
+Thereupon, the MPPSC issued Advertisement dated 29.09.2022
+proposing  to  reconduct  the  main  examination  in  compliance  with  the
+Division Bench judgment. This examination was proposed to be conducted
+in the second week of January, 2023. Further, on 10.10.2022, the MPPSC
+declared the revised result of the preliminary examination, in tune with the
+unamended  Rule  4  of  the  Rules  of  2015.  In  consequence,  13,080
+candidates were declared qualified for the main examination, instead of the
+10,767 candidates declared eligible earlier as per amended Rule 4(3)(d)
+(III). 
+11.
+While so, some candidates filed W.P. No. 23828 of 2022 before
+the High Court of Madhya Pradesh at Jabalpur assailing the decision of the
+MPPSC to cancel the result of the main examination held earlier on the
+ground that they would be required to reappear for the said examination
+despite clearing it in the first instance. The petitioners in SLP (C) No. 5817
+of 2023, from which this appeal arises, intervened in the said writ petition
+and they were also heard. This writ petition was filed on 13.10.2022.
+8
+
+12.
+ At that stage, Review Petition Nos. 1112 and 1175 of 2022 were
+filed  seeking  clarification  of  the  judgment  dated  07.04.2022  in  Kishor
+Choudhary (supra). However, by order dated 18.11.2022, the Division
+Bench disposed of the review petitions leaving it open to the writ Court to
+consider and interpret its earlier judgment dated 07.04.2022. This order
+was passed as the Division Bench was informed of the fact that a fresh writ
+petition, viz., W.P. No. 23828 of 2022, was pending consideration. 
+13.
+A learned Judge of the High Court of Madhya Pradesh allowed
+W.P. No. 23828 of 2022 and batch, titled ‘Harshit Jain and others vs.
+State of  Madhya  Pradesh  and  another’ on  29.11.2022.  Therein,  the
+learned Judge noted that four categories of candidates emerged:
+(i)
+the  newly  qualified  reservation  category  candidates  for  the  main
+examination (2,721, in number), as per the result dated 10.10.2022;
+(ii)
+1,918 select list candidates, who had passed the main examination
+held from 21.03.2021 to 26.03.2021 and qualified for the interview;
+(iii)
+candidates out of these 1,918 candidates, who would be ousted from
+that select list of 1,918 candidates, if the special main examination is
+conducted and the results are normalized; and
+(iv)
+8,894 candidates, out of the 10,767 candidates, who had appeared
+for the main examination earlier but could not pass it.
+9
+
+14.
+The  learned  Judge  observed  that  if  the  result  of  the  main
+examination was cancelled, a premium would be given to the candidates
+from the fourth category by reviving their candidature, though they had
+failed to qualify in the first instance, and a right would be taken away from
+candidates who had already cleared the main examination and qualified for
+the interview. The learned Judge opined that this would cause serious
+prejudice and grave injustice to candidates who were declared eligible and
+had qualified in the short-listing process and that holding the entire main
+examination afresh would not only result in incurring huge costs but would
+also cause  grave  injustice  to  a large  number  of  candidates,  who  had
+already  cleared  the  main  examination  and  were  short-listed  for  the
+interview, without any fault on their part. Holding so, the learned Judge
+invalidated the decision taken by the MPPSC on 10.10.2022, proposing to
+hold a fresh main examination by cancelling the earlier one, and directed
+the MPPSC to hold a special main examination, as was done by it earlier
+on several occasions, for the new eligible reservation category candidates,
+as per  the redrawn  preliminary examination  result.  The learned  Judge
+directed that, on the basis of the results of these two main examinations, a
+fresh list of selected candidates should be prepared in terms of the Rules of
+2015 for the interview, by merging and normalizing the two lists, as per the
+10
+
+process adopted by the MPPSC on previous occasions. This exercise was
+directed to be completed within six months. 
+15.
+Aggrieved by this judgment, three of the petitioners in SLP (C)
+No. 5817 of 2023 preferred an appeal before a Division Bench of the High
+Court. By judgment dated 25.01.2023 passed in Writ Appeal No. 1706 of
+2022, the Division Bench dismissed the appeal, holding that the order
+passed by the learned Judge was just, proper and well-reasoned and did
+not call for any interference. 
+16.
+The  judgment  dated  25.01.2023  of  the  Division  Bench  was
+assailed before this Court in SLP (C) No. 5817 of 2023, from which the
+present appeal arises. By order dated 10.04.2023, this Court rejected the
+prayer therein for interim relief but directed that, in the interest of justice,
+any proceedings/processes pursuant to the advertisement in question shall
+remain subject to the final orders to be passed in this case. 
+17.
+Prior thereto, by Advertisement dated 10.01.2023, the MPPSC
+notified that  the  main  examination  for  the  new  candidates as per  the
+revised preliminary examination result would be held from 15.04.2023 to
+20.04.2023 in compliance with the judgment dated 29.11.2022 in W.P. No.
+23828  of  2022.  Thereafter,  by  order  dated  13.01.2023,  the  MPPSC
+declared ineligible for interview some of the candidates who had cleared
+11
+
+the main examination in the first instance. This was on the basis of the
+revised preliminary examination result, whereby 398 candidates out of the
+1918  candidates  who  had  cleared  the  earlier  main  examination  stood
+ousted at the preliminary examination stage. 
+18.
+Challenging the order dated 13.01.2023, some of the affected
+candidates approached the High Court of Madhya Pradesh at Jabalpur,
+vide Writ Petition No. 4783 of 2023 and batch. The said batch of cases,
+tiled ‘Vaishali Wadhwani and others vs. The State of Madhya Pradesh
+and another’, was disposed of by a learned Judge of the High Court by
+judgment dated 23.08.2023. The learned Judge partly allowed those cases,
+but directed the MPPSC to merge and normalize the result of the first main
+examination and the result of the special main examination, held on the
+strength  of  the  revised  preliminary  examination  result,  as  directed  in
+Harshit Jain (supra).  Thereafter, the same learned Judge disposed of Writ
+Petition No. 25087 of 2023, titled  ‘Priyanka Pandey vs. The State of
+Madhya Pradesh and another’, by judgment dated 07.10.2023, holding
+that his judgment in  Vaishali Wadhwani (supra) was a judgment  in rem
+and would apply to all the candidates who passed the main examination in
+the first instance and directed the MPPSC not to discriminate between
+candidates who approached the Court and those who did not.
+12
+
+19.
+The  special  main  examination  for  the  reservation  category
+candidates who were declared eligible, in terms of the revised preliminary
+examination result, was conducted from 15.04.2023 to 20.04.2023. Their
+results were declared on 18.05.2023, after normalizing and merging the
+results of both the main examinations. The process of normalization of the
+results  of  the  two  main  examinations  was  effected  by  the  MPPSC  in
+consultation  with  and  under  the  guidance  and  advice  of  two  experts.
+Normalization was undertaken in the context of the marks obtained by
+candidates in the two main examinations by applying a formula, so as to
+bring them all on an even keel. Thereby, 1983 candidates stood qualified
+for the interview. Out of the 1983 candidates declared qualified for the
+interview, 1,520 candidates figured in the list of 1918 candidates declared
+eligible earlier,  on  the  strength  of  the  first  main  examination,  and  the
+remaining 463 candidates emerged successful either in the special main
+examination or in the normalization process. Totally, 398 candidates out of
+the 1918 candidates, who were declared eligible for the interview earlier,
+stood ousted and were no longer eligible. 
+20.
+The MPPSC then issued Notification dated 23.06.2023, calling
+upon the 1983 selected candidates to appear for the interviews. Some of
+the ousted 398 candidates filed writ petitions before the High Court and
+13
+
+were granted  interim  relief,  by permitting  them  also  to  appear  for  the
+interviews. Interviews were conducted from 09.08.2023 to 19.10.2023. 
+21.
+ The MPPSC filed Writ Appeal No. 2017 of 2023, aggrieved by
+the  judgment  in  Vaishali  Wadhwani (supra),  on  the  ground  that  it
+proceeded on the erroneous assumption that the normalization process
+was applied to the marks secured in the preliminary examination and not in
+the  two  main  examinations  held  thereafter.  By  interim  order  dated
+19.12.2023, a Division Bench of the High Court stayed the order dated
+23.08.2023  passed  in  Vaishali  Wadhwani (supra).  Aggrieved  thereby,
+Vaishali Wadhwani and others filed miscellaneous applications, seeking
+vacating of the stay granted by the Division Bench in Writ Appeal No. 2017
+of 2023. These applications were dismissed on 12.02.2024.
+22.
+We are informed that the State of Madhya Pradesh proceeded
+on the strength of the results declared after the normalization and also
+issued appointment orders to the selected candidates, thereby enabling
+them to join service. Insofar as the seven petitioners in SLP (C) No. 5817 of
+2023 are concerned, the MPPSC stated that only three of them had cleared
+the  preliminary  examination,  as  per  the  pre-revised  result  dated
+21.12.2020, and were eligible to write the main examination. However, one
+of them did not appear for the main examination while the other two did and
+14
+
+failed. Thereafter, all seven of them were declared eligible, in terms of the
+revised preliminary examination result dated 10.10.2022, but they failed the
+special  main  examination  and  in  the  process  of  normalization  held
+thereafter, as per the results declared on 18.05.2023.
+23.
+ Be it noted that Vaishali Wadhwani and others, the petitioners in
+Writ Petition No. 4783 of 2023 and batch, were successful before the High
+Court to some extent inasmuch as their writ petitions were partly allowed by
+the judgment dated 23.08.2023, but directing the MPPSC to merge and
+normalize the two lists, i.e., the result of the first main examination and the
+result of the special main examination. They, however, chose to file SLP (C)
+No. 23514 of 2023 before this Court against the said judgment dated
+23.08.2023. As already noted hereinabove, Writ Appeal No. 2017 of 2023
+was filed against the very same judgment by the MPPSC before a Division
+Bench of the High Court and the said appeal is pending consideration.
+More  importantly,  the  petitions filed  therein  by  Vaishali  Wadhwani and
+others, seeking the vacating of the stay of the judgment dated 23.08.2023,
+were dismissed and that order was not subjected to challenge by them.
+Having sought vacating of the stay order passed in relation to the judgment
+dated 23.08.2023, in effect, seeking implementation thereof, it is surprising
+that Vaishali Wadhwani and the others sought to challenge the very same
+15
+
+judgment before this Court. In any event, even if they have any grievance
+with the said judgment, it is not open to them to bypass the remedy of
+appeal available to them before the High Court itself. We are, therefore, not
+inclined to entertain their special leave petition.
+24.
+Similarly,  Mamta  Mishra,  who  was  also  a  petitioner  in  Writ
+Petition No. 4783 of 2023 along with Vaishali Wadhwani, chose to file SLP
+(C) No. 27620 of 2023 assailing the judgment dated 23.08.2023 passed
+therein. For reasons alike, as stated in the context of SLP (C) No. 23514 of
+2023 filed by Vaishali Wadhwani and others, this special leave petition also
+does not merit consideration. 
+25.
+I.A. No. 102595 of 2023 was filed by four candidates seeking to
+come on record in SLP (C) No. 5817 of 2023. They claimed to be similarly
+situated to Deependra Yadav, the first petitioner therein. IA No. 132609 of
+2023  was  filed  by  two  of  the  398  ousted  candidates,  seeking  to  be
+impleaded in SLP (C) No. 5817 of 2023. I.A. No. 228055 was filed by 182
+candidates seeking to come on record in SLP (C) No. 5817 of 2023, so as
+to support the petitioners therein. They stated that they stood ousted after
+normalization and merger of the marks secured by candidates in the two
+main examinations. However, as grievances of candidates who appeared in
+the Madhya Pradesh State Service Examination-2019 are not personal or
+16
+
+individual to them alone and we are concerned with resolving the larger
+issue, we do not consider it necessary to implead any of these individual
+candidates who were not parties before the High Court or give them a
+hearing.  In  any event,  all the  relevant  issues and  aspects have  been
+comprehensively  and  conclusively  addressed  by  the  learned  senior
+counsel/counsel appearing for the parties on record and nothing more
+remains to be added thereto.
+26.
+Further, we had requested the two experts, who had guided the
+MPPSC in undertaking the process of normalization, to appear before us
+so as to explain the methodology adopted. Having heard the two experts,
+namely  Dr.  Vastashpati  Shastri  and  Mr.  Indresh  Mangal,  we  are  fully
+satisfied that a transparent process, which was completely above board,
+was adopted to bring all the candidates onto an even platform so as to
+finalize the list of candidates eligible to be interviewed. This was done by
+applying a formula uniformly to the marks secured by all the candidates
+who appeared in the two main examinations, so that their marks would
+become comparable and enable preparation of a unified marks list. 
+27.
+Significantly,  in  State  of  U.P.  and  others  vs.  Atul  Kumar
+Dwivedi and others1, this Court had occasion to consider application of
+moderation/scaling of marks in a recruitment process and as to when such
+1
+(2022) 11 SCC 578
+17
+
+an exercise would be permissible. It was observed that normalization of
+marks means increasing and/or decreasing the marks obtained by students
+in different timing sessions (shifts) to a certain number, as observed by the
+High  Court  in  its  judgment,  and  it  was  noted  that  such  normalization
+techniques help in comparing corresponding normalized values from two or
+more different  data sets in  a way that  it eliminates the  effects of the
+variation in the scale of the data sets, i.e., a data set with large values can
+be easily compared with a data set of smaller values and the normalized
+score/percentile is obtained by applying a formula. This Court, accordingly,
+concluded  that  the  exercise  undertaken  in  adopting  the  process  of
+normalization was quite consistent with the requirements of law. This Court
+further observed that decisions made by expert bodies, including the Public
+Service  Commissions,  should  not  be  lightly  interfered  with,  unless
+instances of arbitrary and malafide exercise of power are made out. 
+28.
+On similar lines, in Tajvir Singh Sodhi and others v. State of
+Jammu and Kashmir and others2, this Court observed that interference in
+the selection process for public employment should generally be avoided,
+recognizing the importance of maintaining the autonomy and integrity of the
+selection process. Noting that Courts would recognize that the process of
+selection involves a high degree of expertise and discretion and that it
+2
+2023 SCC OnLine SC 344
+18
+
+would not be appropriate for Courts to substitute their judgment for that of a
+selection committee, it was observed that it is not within the domain of the
+Court, exercising the power of judicial review, to enter into the merits of a
+selection process, a task which is the prerogative of and is within the expert
+domain of a selection committee, subject of course to a caveat that if there
+are proven allegations of malfeasance or violations of statutory rules, only
+in such cases of inherent arbitrariness, can the Courts intervene.
+29.
+The detailed explanation by the experts being rather technical,
+we do not propose to burden this judgment with the same, but the learned
+senior counsel/counsel opposing the MPPSC, who also heard the experts,
+did not bring to our notice any lacuna in the process adopted or the formula
+applied, whereby injustice was done to any candidate or any arbitrariness
+crept in. We, therefore, hold that the process of normalization and the
+consequential  merger  of  the  marks  secured  by  the  candidates  who
+appeared in the two main examinations cannot be found fault with. 
+30.
+We may also note that Rule 4(3)(d)(III) of the Rules of 2015
+patently harmed the interests of the reservation category candidates, as
+even meritorious candidates from such categories, who had not availed any
+reservation benefit/relaxation, were to be treated as belonging to those
+reservation categories and they were not to be segregated with meritorious
+19
+
+unreserved  category  candidates  at  the  preliminary  examination  result
+stage. As a result, they continued to occupy the reservation category slots
+which  would  have  otherwise  gone  to  deserving  reservation  category
+candidates lower down in the merit list of that category, had they been
+included with meritorious unreserved category candidates on the strength
+of their marks.
+31.
+In  Saurav Yadav and others v. State of U.P. and others3, a
+3-Judge  Bench  of  this  Court  affirmed  the  principle  that  candidates
+belonging to any of the vertical reservation categories would be entitled to
+be selected in the ‘open category’ and if such candidates belonging to
+reservation categories are entitled to be selected on the basis of their own
+merit, their selection cannot be counted against the quota reserved for the
+categories  of  vertical  reservation  that  they  belong  to.  It  was  further
+observed that reservations, both vertical and horizontal, are methods of
+ensuring representation in public services and these are not to be seen as
+rigid ‘slots’, where a candidate’s merit, which otherwise entitles him to be
+shown in the  open  general category,  is foreclosed.  The Bench  further
+observed that the ‘open category’ is open to all and the only condition for a
+candidate to be shown in it is merit, regardless of whether reservation
+benefit of either type was available to him or her.
+3
+(2021) 4 SCC 542
+20
+
+32.
+This being the settled legal position, it appears that the State of
+Madhya Pradesh itself realized the harm that it was doing to the reservation
+category candidates and chose to restore Rule 4, as it stood earlier, which
+enabled  drawing  up  the  result  of  the  preliminary  examination  by
+segregating  deserving  meritorious reservation  category candidates with
+meritorious unreserved category candidates at the preliminary examination
+stage itself. As this was the process that was undertaken after the judgment
+in  Kishor Choudhary (supra), whereby a greater number of reservation
+category candidates cleared the preliminary examination and were held
+eligible to appear in the main examination, there can be no dispute with the
+legality and validity of such process.
+33.
+We may also note that the judgment in  Kishor Choudhary
+(supra) was not subjected to challenge before this Court after the dismissal
+of the review petitions. The direction therein was to conduct and complete
+the examination process in accordance with the unamended Rules of the
+2015. It was the later judgment in Harshit Jain (supra) that advocated the
+methodology of holding a special main examination for the reservation
+category candidates who were found eligible after revising the preliminary
+examination result in keeping with the unamended Rules of 2015. This
+direction was found to be justified by the Division Bench, which dismissed
+21
+
+the writ appeal by way of the impugned judgment and, in our considered
+opinion, rightly so. 
+34.
+On the above analysis, we find that the impugned judgment
+dated 25.01.2023  passed  by the  Division  Bench  of  the  High  Court  of
+Madhya Pradesh at Jabalpur in Writ Appeal No. 1706 of 2022 does not
+brook interference on any ground, be it on facts or in law. 
+The civil appeal arising out of SLP (C) No. 5817 of 2023 is,
+therefore, bereft of merit and is accordingly dismissed. 
+Further, as already mentioned hereinbefore, we are not inclined
+to entertain and consider SLP (C) Nos. 23514 and 27620 of 2023 on
+merits. The two SLPs are dismissed. 
+Pending I.A.s shall also stand dismissed.
+Parties shall bear their respective costs. 
+………………………..,J
+(C.T. RAVIKUMAR)
+………………………..,J
+(SANJAY KUMAR)
+May 1, 2024;
+New Delhi.
+22

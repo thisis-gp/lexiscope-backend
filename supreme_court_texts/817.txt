@@ -1,0 +1,371 @@
+2024 INSC 853
+      REPORTABLE 
+ 
+ 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION 
+CIVIL APPEAL NO. 12234 OF 2024 
+(ARISING OUT OF SLP (C) NO. 15562 OF 2024) 
+ 
+   
+GOQII TECHNOLOGIES PRIVATE LIMITED 
+ 
+        …APPELLANT  
+ 
+     
+          VERSUS 
+ 
+ 
+ 
+SOKRATI TECHNOLOGIES PRIVATE LIMITED                …RESPONDENT 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     J U D G M E N T 
+ 
+ 
+ 
+ 
+Digitally signed by
+SANJAY KUMAR
+Date: 2024.11.07
+17:17:28 IST
+Reason:
+Signature Not Verified
+
+Page 1 of 12 
+ 
+J. B. PARDIWALA, J.: 
+ 
+1. Leave granted.  
+2. This appeal arises from the final judgment and order dated 30.04.2024 
+(“impugned judgment”) passed by the High Court of Judicature at Bombay in 
+Commercial Arbitration Application No. 6 of 2024. The High Court dismissed 
+the application preferred by Goqii Technologies Private Limited (“the 
+appellant”) under Section 11 of the Arbitration and Conciliation Act, 1996 (“the 
+Act, 1996”) seeking appointment of an arbitrator to adjudicate disputes and 
+claims in terms of Clause 18.12 of the Master Services Agreement (“MSA”) 
+executed between the appellant and Sokrati Technologies Private Limited (“the 
+respondent”).  
+ 
+A. FACTUAL MATRIX  
+3.  The appellant, a technology-based wellness venture inter alia providing life 
+style consultancy services, executed the MSA with the respondent, an entity 
+engaged in digital marketing services, and a subsidiary of Dentsu International 
+Limited, to manage its digital advertising campaigns. The MSA was 
+subsequently extended on 29.04.2022 for a period of three years, with certain 
+amendments.  
+4. Between August 2021 and April 2022, the appellant paid a sum of Rs 
+5,53,26,690/- to the respondent for the services rendered by it. It is the case of 
+
+Page 2 of 12 
+ 
+the appellant that for the subsequent 10 invoices raised between 12.05.2022 and 
+07.10.2022, the appellant was in the process of initiating and making payments 
+when, in September 2022, certain media reports alleged malpractices in the 
+advertising industry implicating major players. It was later discovered by the 
+appellant that the Economic Offences Wing, Mumbai had lodged a complaint 
+(EOW CR No. 08 of 2022) against Dentsu International Limited, the parent 
+company of the respondent, and its senior officials alleging serious irregularities 
+and malpractices in their service. 
+5. In light of the aforesaid developments, the appellant engaged an independent 
+auditor in November 2022 to prepare a report on the activities of the respondent 
+from April 2021 to 31.12.2022. The auditor submitted its report in February 2023. 
+The conclusion given by the auditor is extracted hereinbelow:   
+“CONCLUSION  
+ 
+The average ROI for the campaigns analyzed has been 
+abysmally low at 0.35x compared to industry benchmark of 3x 
+to 4x. We estimate an overcharge of ₹4,48,53,580.  
+ 
+The audit identified significant areas of concern within the 
+media plan, including but not limited to:  
+• Media buying cost of inventory, from different publishers at 
+various points during the engagements have been found to be 
+significantly more than the industry benchmarks.  
+• Traffic was poor and exposed to the wrong audience.  
+• Number of times the ad was shown (Frequency) has been 
+increased as the reach numbers were being achieved, this 
+only shows that the targeting of the customer/audience has 
+been poor.  
+• The clicks generated were fraudulent.  
+
+Page 3 of 12 
+ 
+• The leads garnered were junk.  
+• Cost of acquisition was higher than the category competition.  
+ 
+We also recommend further detailed investigation across all 
+the media campaigns by Sokrati.” 
+ 
+ 
+6. On 22.02.2023, the respondent served a demand notice on the appellant under 
+Section 8 of the Insolvency and Bankruptcy Code, 2016 (“IBC”) seeking Rs 
+6,25,67,060/- towards the outstanding invoices. In response, on 04.03.2023, the 
+appellant rejected the demand, citing the audit findings, and invoked arbitration 
+under Clause 18.12 of the MSA. The appellant also filed a counter claim, 
+demanding a refund of Rs 5,53,26,690/- with 18% interest per annum and an 
+additional Rs 6 crore by way of damages towards the alleged misrepresentations 
+by the respondent. 
+7. Subsequently, upon failure of the respondent to comply with the arbitration 
+notice, the appellant filed Commercial Arbitration Application No. 06 of 2024 
+before the High Court, seeking appointment of a sole arbitrator to adjudicate the 
+disputes between the parties. However, on 05.10.2023, while the application was 
+pending, the respondent filed Company Petition (IB) No. 27 of 2024 under 
+Section 9 of the IBC before the National Company Law Tribunal, Mumbai 
+(NCLT, Mumbai) for initiating the corporate insolvency resolution process of 
+the appellant.  
+8. The High Court vide the impugned judgment, dismissed the application seeking 
+the appointment of an arbitrator, observing that it lacked in merit and substance. 
+
+Page 4 of 12 
+ 
+The High Court noted that the independent audit report revealed significant 
+concerns regarding the performance of the digital marketing campaigns executed 
+by the respondent. The High Court was of the view that although the report 
+highlighted poor returns on investment and inconsistent metrics, yet it did not 
+support the assertions made by the appellant regarding fraudulent practices of 
+the respondent. Further, the High Court observed that the appellant failed to 
+demonstrate any substantial discrepancies in the report that would justify 
+withholding payment for the invoices raised. It observed that while further 
+investigation was suggested in the report, the appellant’s attempt to invoke 
+arbitration based on non-existent disputes constituted a manifestly dishonest 
+claim and therefore dismissed the application. The relevant observations from 
+the impugned judgment are extracted hereinbelow:  
+“19. It can be well understood that upon the further 
+investigation, being directed to be carried out as indicated in 
+the report, if it is concluded that the services were not rendered 
+at all or they were deficient and the invoices do not deserve to 
+be cleared, the demand of the money due and payable could 
+have been resisted, but without any justification, by projecting 
+the report of the independent auditor to be its shield to avoid the 
+payment, the attempt on part of the applicant can only be 
+described as 'dishonest'. 
+ 
+A manifestly dishonest claim or a contest, which is sought to be 
+raised to a lawful demand of the money due and payable under 
+the MSA, particularly, when, while availing the services, at no 
+point of time, any deficiency in services is pointed out, but only 
+by way of defence to the invoices raised, an independent 
+agency's report is being projected, as a support to canvass the 
+deficiency in service, by attributing fraudulent acts to the 
+
+Page 5 of 12 
+ 
+respondent which, in fact, is not the finding of the independent 
+auditor. 
+ 
+Nonetheless, it is open for the applicant to follow the pursuit of 
+detail investigation across all the media campaigns by Sokrati, 
+as suggested in the report, however, without doing so, in order 
+to avoid its liability for the claims under the invoices, the 
+assertion of an arbitrable dispute, is an attempt to defeat the 
+proceedings, which may be instituted on behalf of Sokrati before 
+the Company Law Tribunal under the IBC. 
+ 
+Drawing guidance from the observations of the Apex Court in 
+case of NTPC Ltd (supra) that the limited scrutiny through the 
+eye of the needle is necessary and compelling, as it is the duty 
+of the referral code to protect the parties from being forced to 
+arbitrate, when the matter is demonstrably non- arbitrable. I am 
+convinced that an attempt is made to create a dispute when there 
+exist none at this stage. It is not just for the sake of invoking the 
+arbitration clause, because the agreement between the parties 
+provide so, the parties shall resort to arbitration, premised on 
+the basis of a purported dispute, which infact, do not exist. 
+ 
+For the aforesaid reason, I am not inclined to consider the 
+request of appointing an Arbitrator in exercise of power 
+conferred on this Court, merely because the arbitration has 
+been invoked by the applicant and it intend to take a non-
+existent dispute for arbitration. Being unconvinced with the 
+submissions of Mr. Kanade, the application seeking 
+appointment of Arbitrator is dismissed being found without any 
+merit and substance.” 
+ 
+9. Aggrieved by the aforesaid order refusing to appoint an arbitrator for 
+adjudicating the disputes between the parties, the appellant has come up before 
+this Court with the present appeal.  
+ 
+ 
+
+Page 6 of 12 
+ 
+B. SUBMISSION ON BEHALF OF THE APPELLANT 
+10. Mr. H.D. Thanvi, the learned counsel appearing for the appellant, submitted that 
+the scope of interference by a referral court acting in exercise of its jurisdiction 
+under Section 11 of the Act, 1996 is limited. At this stage, the court is required 
+to conduct a preliminary inquiry for the purpose of ascertaining whether a prima 
+facie case exists for referring the dispute to arbitration. Contrary to this narrow 
+scope, in the present case the High Court proceeded to erroneously undertake a 
+full review of the contested facts, thereby exceeding in its jurisdiction at this 
+stage. 
+11. He further submitted that the High Court failed to take into account the nature 
+of the services rendered by the respondent, along with the technical details 
+contained in the Audit Report, which require subject-matter expertise for 
+accurate determination of the disputes. Given the technical complexity of the 
+issues involved, the High Court ought to have referred the parties to arbitration. 
+12. He submitted that the finding of the High Court as regards the alleged dishonesty 
+of the appellant rests on the erroneous assumption that the appellant had not 
+raised any dispute prior to issuing the demand notice dated 22.02.2023. It was 
+contended that this finding overlooks the sequence of events and also the 
+undisputed fact that the Audit Report was provided to the appellant only in 
+February 2023, i.e., the same month in which the Demand Notice was issued. 
+
+Page 7 of 12 
+ 
+Consequently, the appellant had no prior opportunity to raise the disputes, as 
+they only came to light upon receiving the Audit Report in February 2023. The 
+appellant argued that even otherwise, it had sent multiple emails to the 
+respondent raising various objections regarding the invoices issued to the 
+appellant prior to the issuance of the Audit Report. 
+ 
+C. SUBMISSION ON BEHALF OF THE RESPONDENT 
+13. Ms. Shweta Bharti, the learned counsel appearing for the respondent, on the 
+other hand, submitted that it is settled law that before referring the parties to 
+arbitration, the High Court must reach to a prima facie satisfaction that a genuine 
+dispute exists between the parties. Furthermore, the mere inclusion of an 
+arbitration clause in a contract or agreement does not render a matter 
+automatically arbitrable and a prima facie case establishing the existence of a 
+dispute must first be made. The Court must apply a prima facie test to weed out 
+and dismiss claims that are ex facie meritless, frivolous, or dishonest. She 
+submitted that seen thus the dispute raised in the present petition is nothing more 
+than an afterthought.The counsel placed reliance on the decision of this Court in 
+Indian Oil Corporation vs. NCC Ltd.1, B&T AG v. Ministry of Defence2, and 
+ 
+1 (2023) 2 SCC 539 
+2 2023 SCC OnLine SC 657 
+
+Page 8 of 12 
+ 
+Sushma Shiv Kumar Daga & Anr. vs. Madhur Kumar Ramkrishnaji Bajaj & 
+Ors3 to fortify her submission.  
+14. She further submitted that the appellant is not entitled to any damages or refund 
+for the alleged overcharges on the services rendered by the respondent as the 
+appellant had previously not raised any concerns or identified deficiencies while 
+utilizing these services. Furthermore, the claim now raised by the appellant is 
+unfounded, vague, and lacks supporting documentation. 
+15. She submitted that the appellant has filed the present petition with a mala fide 
+intent and has approached this Court with unclean hands, being fully aware of 
+the ongoing legal proceedings before the NCLT, Mumbai. The petition of the 
+appellant is an attempt to create duplicative legal proceedings aimed at evading 
+liability for admitted dues and disrupting the CIRP process.  
+ 
+D. ANALYSIS  
+16. Having heard the learned counsels appearing for the parties and having gone 
+through the materials on record, the short question that falls for our consideration 
+is whether the High Court committed any error in dismissing the appellant’s 
+application under Section 11 of the Act, 1996.   
+ 
+ 
+3 2023 SCC OnLine SC 1683  
+
+Page 9 of 12 
+ 
+17. In a recent pronouncement, relying on the Constitution Bench judgment of this 
+Court in In Re: Interplay between Arbitration Agreements under the 
+Arbitration and Conciliation Act 1996 and the Indian Stamp Act 1899,4 this 
+Court in SBI General Insurance Co. Ltd. vs. Krish Spinning reported in 2024 
+INSC 532, summarised the law on the scope and standard of judicial scrutiny 
+that an application under Section 11(6) of the Act, 1996 can be subjected to. The 
+relevant parts are produced herein below:  
+“114. In view of the observations made by this Court in In Re: 
+Interplay (supra), it is clear that the scope of enquiry at the 
+stage of appointment of arbitrator is limited to the scrutiny of 
+prima facie existence of the arbitration agreement, and nothing 
+else. For this reason, we find it difficult to hold that the 
+observations made in Vidya Drolia (supra) and adopted in 
+NTPC v. SPML (supra) that the jurisdiction of the referral court 
+when dealing with the issue of “accord and satisfaction” under 
+Section 11 extends to weeding out ex-facie non-arbitrable and 
+frivolous disputes would continue to apply despite the 
+subsequent decision in In Re: Interplay (supra). 
+ 
+xxx xxx xxx  
+ 
+125. We are also of the view that ex-facie frivolity and 
+dishonesty in litigation is an aspect which the arbitral tribunal 
+is equally, if not more, capable to decide upon the appreciation 
+of the evidence adduced by the parties. We say so because the 
+arbitral tribunal has the benefit of going through all the relevant 
+evidence and pleadings in much more detail than the referral 
+court. If the referral court is able to see the frivolity in the 
+litigation on the basis of bare minimum pleadings, then it would 
+be incorrect to doubt that the arbitral tribunal would not be able 
+to arrive at the same inference, most likely in the first few 
+ 
+4 2023 INSC 1066. 
+
+Page 10 of 12 
+ 
+hearings itself, with the benefit of extensive pleadings and 
+evidentiary material.” 
+ 
+ 
+18. The scope of inquiry under Section 11 of the Act, 1996 is limited to ascertaining 
+the prima facie existence of an arbitration agreement. In the present case, the 
+High Court exceeded this limited scope by undertaking a detailed examination 
+of the factual matrix. The High Court erroneously proceeded to assess the 
+auditor’s report in detail and dismissed the arbitration application. In our view, 
+such an approach does not give effect to the legislative intent behind the 2015 
+amendment to the Act, 1996 which limited the judicial scrutiny at the stage of 
+Section 11 solely to the prima facie determination of the existence of an 
+arbitration agreement.  
+19. As observed in Krish Spinning (supra), frivolity in litigation too is an aspect 
+which the referral court should not decide at the stage of Section 11 as the 
+arbitrator is equally, if not more, competent to adjudicate the same. 
+20.  Before we conclude, we must clarify that the limited jurisdiction of the referral 
+Courts under Section 11 must not be misused by parties in order to force other 
+parties to the arbitration agreement to participate in a time-consuming and costly 
+arbitration process. This is possible in instances, including but not limited to, 
+where the claimant canvasses the adjudication of non-existent and mala fide 
+claims through arbitration. With a view to balance the limited scope of judicial 
+
+Page 11 of 12 
+ 
+interference of the referral Courts with the interests of the parties who might be 
+constrained to participate in the arbitration proceedings, the Arbitral Tribunal 
+may direct that the costs of the arbitration shall be borne by the party which the 
+Tribunal ultimately finds to have abused the process of law and caused 
+unnecessary harassment to the other party to the arbitration. Having said that, it 
+is clarified that the aforesaid is not to be construed as a determination of the 
+merits of the matter before us, which the Arbitral Tribunal will rightfully be 
+equipped to determine.   
+ 
+E. CONCLUSION  
+21. The existence of the arbitration agreement in Clause 18.12 of the MSA has not 
+been disputed by the respondent. The question whether there exists a valid 
+dispute to be referred to arbitration can be addressed by the Arbitral Tribunal as 
+a preliminary issue. 
+22. As a result, the appeal filed by the appellant is allowed and the impugned order 
+passed by the High Court of Bombay is hereby set aside.  
+23. We appoint Mr. S.J. Vazifdar, former Chief Justice of the Punjab & Haryana 
+High Court, as the sole arbitrator to adjudicate the disputes between the parties.  
+24. All legal contentions, including objections, if any, available to the respondent, 
+are kept open to be taken up before the learned Arbitrator.  
+
+Page 12 of 12 
+ 
+25. Pending application(s), if any, shall stand disposed of. 
+ 
+…...……..….………….……………CJI.       
+     (Dr. Dhananjaya Y. Chandrachud) 
+ 
+ 
+    
+…….…..….…….…..…………………J.          
+(J.B. Pardiwala)     
+ 
+ 
+ 
+    ………………………………………...J.  
+(Manoj Misra) 
+   
+New Delhi; 
+7th November, 2024.

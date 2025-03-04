@@ -1,0 +1,653 @@
+2024 INSC 51
+Reportable
+IN THE SUPREME COURT OF INDIA
+   CIVIL APPELLATE JURISDICTION
+Civil Appeal Nos 3736-3737 of 2023
+State Bank of India and Ors
+.... Appellant(s)
+Versus
+The Consortium of Mr Murari Lal Jalan and
+Mr Florian Fritsch and Anr
+....Respondent(s)
+WITH
+Civil Appeal Nos 4131-4134 of 2023
+Civil Appeal Nos 6427-6428 of 2023
+J U D G M E N T
+Dr Dhananjaya Y Chandrachud, CJI
+1
+This batch of appeals arises from three orders of the National Company Law
+Appellate Tribunal1.  A Resolution Plan was submitted under the Insolvency
+and Bankruptcy Code, 20162 by a consortium of Murari Lal Jalan and Florian
+Fristch in respect of the Corporate Debtor (Jet Airways Limited).  The Plan was
+voted upon and approved by the Committee of Creditors on 17 October 2020.
+The Resolution Professional then filed an application before the Adjudicating
+Authority to seek approval of the Resolution Plan. The Plan received the
+imprimatur  of  the  Adjudicating  Authority  –  the  National  Company  Law
+1 “NCLAT”
+2  “IBC”
+Digitally signed by
+Sanjay Kumar
+Date: 2024.01.23
+15:19:36 IST
+Reason:
+Signature Not Verified
+
+2
+Tribunal3 - on 22 June 20214. 
+2
+Clause 7.6 of the Resolution Plan stipulates conditions for implementation.
+Clause 7.6.1 spells out the “conditions precedent”:
+“7.6.1.  Conditions  Precedent  -  The  obligation  of  the  Resolution
+Applicant  to  re-commence  operations  as  an  aviation
+company, being the business proposed to be acquired is
+subject to the fulfilment of the following conditions after the
+Approval Date ("Conditions Precedent"):
+(a)
+Validation of AOP of the Corporate Debtor by DGCA & MoCA
+-  The  AOP  of  the  Corporate  Debtor  shall  have  been
+validated by the DGCA, the MoCA and any other relevant
+Government  Authority  and  grant  of  all  other  mandatory
+approvals  to  the  Corporate  Debtor  to  enable  it  to  re-
+commence flying operations (including commercial/ cargo
+operations) and related on-ground services.
+(b) 
+Submission and approval of the Business Plan to DGCA &
+MoCA The Business Plan of the Resolution Applicant shall
+have been submitted after the Approval Date to the DGCA
+and MoCA for their review, and approval. The Resolution
+Applicant agrees to modify its business plan to incorporate
+all reasonable changes required by the DGCA/ MoCA, which
+otherwise  does  not  make  the  business  unviable  for  the
+Resolution Applicant.
+(c) 
+Slots Allotment Approval The DGCA and MoCA shall have
+approved  the  reinstatement  of  all  the  suspended  slots
+(including the bilateral rights and traffic rights) back to Jet
+Airways/  Corporate  Debtor.  The  slots  (along  with  related
+bilateral  rights  and  traffic  rights)  can  be  allotted  to  the
+Corporate Debtor gradually as per its Business Plan with
+immediate  slots  allotment  approval  (along  with  related
+bilateral rights and traffic rights) for sectors on which Jet 2.0
+proposes  to  recommence  operations  after  the  Effective
+Date.
+(d) 
+International Traffic Rights Clearance The Corporate Debtor
+shall  have  received  the  International  Traffic  Rights
+Clearance in compliance with Applicable Laws.
+(e) 
+Demerger - The Scheme filed as part of this Resolution Plan
+shall have been approved under Applicable Laws and the
+Demerged  Employees  shall  have  demerged  from  the
+Corporate Debtor to AGSL along with all their past dues,
+liabilities and outstanding's with effect from the Approval
+Date, without the requirement of any further consent or
+approval  of  any  other  stakeholder  of  AGSL  (since  we
+understand that AGSL currently does not have any creditor)
+or  any  stakeholder  of  the  Corporate  Debtor  (including
+existing or past employee or workmen or employees' unions
+of the Corporate Debtor).”
+3
+Clause 7.6.4 contains a stipulation for “automatic withdrawal”:
+3 “NCLT”
+4 “Plan Approval Order” 
+
+3
+“Automatic Withdrawal - The Resolution Applicant is confident of
+completing all the Conditions Precedent (as set out in Clause 7.6.1
+above)  within  90  (ninety)  days  from  the  Approval  Date.  In  the
+unlikely event that all the Conditions Precedent cannot be fulfilled
+within  90  (ninety)  days,  the  Resolution  Applicant  takes  the
+responsibility of completing the outstanding Conditions Precedent
+at  the  earliest  and  seeks  to  extend  the  Conditions  Precedent
+fulfilment period by another term of maximum 180 (one hundred
+and eighty) days. If all the Conditions Precedent are not fulfilled
+within such period (i.e. 270 (two hundred and seventy) days from
+the Approval Date), then this Resolution Plan shall automatically
+stand withdrawn without any further acts, deeds, or things. On such
+withdrawal,  the  members  of  the  Resolution  Applicant  in  the
+Monitoring Committee shall resign, and the remaining members of
+the  Monitoring  Committee  shall  assume  absolute  control  of  the
+Corporate Debtor.”
+4
+In terms of Clause 7.6.1 of the Resolution Plan, the SRA is obligated to re-
+commence operations as an aviation company subject to the fulfilment of five
+conditions precedent, namely- (i) Validation of Airline Operator Permit of the
+Corporate Debtor by the Director General of Civil Aviation (DGCA) and Ministry of
+Civil Aviation (MoCA); (ii) Submission and Approval of Business Plan by DGCA
+and  MoCA,  (iii)  Slot  Allotment  Approval,  (iv)  International  Traffic  Rights’
+Clearance; and (v) Approval of Demerger of ground handling business into a
+company, namely AGSL. The date of completion of the Conditions Precedent was
+defined as the 'Effective Date'. Given the uncertainty surrounding the Effective
+Date,  the  NCLT,  in  its  Plan  Approval  Order,  mandated  the  completion  of
+Conditions Precedent and the attainment of the Effective Date within the first 90
+days from the Approval Date. The Order also granted the flexibility to request an
+extension of the 180-day timeline, allowing for an outer limit of 270 days, in
+accordance with the provisions outlined in the Resolution Plan.
+5       These conditions precedent had to be fulfilled, in any event, within an outer limit
+of  270  days  failing  which  the  Resolution  Plan  would  automatically  stand
+withdrawn. Upon this eventuality taking place, the members of the Resolution
+Applicant  in  the  Monitoring  Committee  are  to  resign,  and  the  remaining
+members of the committee are to assume absolute control over the Corporate
+Debtor. Following the Effective Date, the SRA is then required to infuse funds and
+
+4
+fulfil specified payments to stakeholders, including disbursements to Employees,
+Workmen, and other Operational Creditors, within 180 days from the Effective
+Date.
+6 
+The Successful Resolution Applicant5 and the consortium of lenders represented
+by  the  State  Bank  of  India6 were  not  ad  idem on  whether  the  conditions
+precedent were fulfilled.  The SRA took the position that all conditions precedent
+had been duly fulfilled. Consequently, on May 20 2022, the DGCA reissued an Air
+Operation Certificate, confirming the authorization for the Corporate Debtor to
+engage in commercial air operations. The SRA communicated via email to the
+Lenders, affirming compliance with all prerequisites and proposing that May 20
+2022, should be recognized as the effective date under the Resolution Plan.
+However, the lenders took a position to the contrary. On 15th November 2022,
+the SRA filed I.A. No. 3398 of 2022 (Implementation Application) and I.A. No.
+3508 of 2022 (Exclusion Application) before the NCLT seeking a determination in
+accord with its position. 
+7      By an order dated 13 January 2023, the NCLT came to the conclusion that the SRA
+was compliant with the conditions  precedent.  It allowed the Implementation
+Application,  thereby  inter  alia permitting  the  SRA  to  take  control  and
+management  of  the  Corporate  Debtor.  The  period  of  six  months  for
+implementation  would  commence  from  16  November  2022.   The  tribunal
+reasoned that: 
+(i) 
+On  21  October  2022,  the  NCLAT  confirmed  SRA's  compliance  with
+necessary conditions precedent (CPs) to the satisfaction of MC. Despite
+the lenders seeking clarification through IA 4771 of 2022, the NCLAT's
+findings were reaffirmed on 20 December 2022;
+5 “SRA”
+6 “SBI”
+
+5
+(ii) 
+There is no dispute regarding compliance with CPs at serial no. (i) and (v)
+as per the approved plan, including the validation of the Air Operator
+Certificate by DGCA and MoCA, and the approval of the demerger of the
+ground handling business into AGSL;
+(iii) 
+Concerning  CP  at  serial  no.  (ii),  the  business  plan's  submission  and
+approval to DGCA and MoCA were deemed as complete, with the issuance
+of the Air Operator Certificate (AOC), considered as implicit approval;
+(iv) 
+Regarding slot allotment approval, aligned with the plan approval order,
+confirming slots were granted as per the plan;
+(v) 
+For International Traffic Right Clearance, the requirement was deemed
+satisfied  after  successfully  recommencing  operations,  adhering  to
+applicable  laws,  and  plan  approval  order  conditions.  Consequently,  all
+Conditions Precedent were duly complied with; and 
+(vii) 
+Regarding the Exclusion Application, it was deemed appropriate to grant
+an exclusion for 180 days until November 16, 2022, in the interest of
+justice and to achieve the primary objective of maximizing assets and
+resolving the insolvency of the Corporate Debtor.
+The order of the NCLT has been challenged by SBI in appeal.  The appeal is
+pending before the NCLAT.  
+8
+On 3 March 2023, the NCLAT declined to stay the order of the NCLT, which has
+given rise to the first in the three sets of appeals being Civil Appeal Nos 3736-
+3737 of 2023.  By a subsequent order dated 26 May 2023, the NCLAT allowed an
+extension commencing from 3 March 2023 until 31 August 2023.  This order has
+given rise to the second in the batch of appeals being Civil Appeal Nos 4131-
+4134 of 2023. 
+
+6
+9
+The Resolution Plan envisaged that with an intent to settle the total outstanding
+claims made by domestic banks, foreign banks and financial institutions, the
+assenting financial creditors would be entitled to the benefit of payments and
+securities. This is described as “Summary of payments and security package”.
+Clause 6.4.4 of the Resolution Plan is titled as “Treatment of Financial Creditors”
+and is reproduced below, insofar as it is relevant:
+“Head
+Amount payable
+Security Offered
+Value of Security
+Date  of  Creation  of
+Security
+Date  of  Release  of
+Security
+Cash payment
+Up to Rs.185 crores
+PBG  of  Rs.  47.5
+crores
+Rs.  393.5  cr  (with
+BKC)
+or
+Rs. 147.5 Cr (without
+BKC)
+Effective Date
+PBG adjusted
+BKC  Property  (if
+given)
+To  be  released  on
+sale of BKC
+Mortgage over Dubai
+Property No. 1 valued
+at more than Rs. 100
+crores
+Year
+ 
+5
+ 
+or
+ 
+on
+complete  payment,
+whichever is earlier
+Cash payment
+Rs. 195 Crores
+BKC  Property  (if
+given)
+Rs. 445 Cr (with BKC)
+or
+Rs.  200  Cr  (without
+BKC)
+Effective Date
+To  be  released  on
+sale of BKC
+Mortgage over Dubai
+Property No. 1 valued
+at more than Rs. 100
+crores
+Effective Date
+Year
+ 
+5
+ 
+or
+ 
+on
+complete  payment,
+whichever is earlier
+Mortgage over Dubai
+Property No. 2 valued
+at more than Rs. 100
+crores
+Effective Date
+Cash payment
+NPV of Rs. 391 Crores
+(using  the  discount
+rate specified in the
+Evaluation Matrix)
+Mortgage over Dubai
+Property No. 1 valued
+at more than Rs. 100
+crores
+Rs. 600 Crores
+Effective Date
+Year
+ 
+5
+ 
+or
+ 
+on
+complete  payment,
+whichever is earlier”
+Mortgage over Dubai
+Property No. 2 valued
+at more than Rs. 100
+crores
+Effective Date
+Mortgage over Dubai
+Property No. 1 valued
+at more than Rs. 50
+crores 
+Effective Date
+
+7
+10
+In an effort to resolve the imbroglio, on 16 August 2023, an affidavit was filed on
+behalf of SBI, by its Chief Manager.  The affidavit stated that the lenders were
+agreeable to a certain course of action.  In other words, the lenders had agreed
+that if SRA satisfies particular criteria, including infusing Rs. 350 Crores by 31
+October 2023, adhering to the resolution plan terms, and meeting employee
+payment obligations in accordance with the NCLAT order dated 21 October 2022,
+they  would  abstain  from  challenging  exclusion/extension  of  time  issues.
+However,  the  inability  to  meet  these  conditions  necessitates  directing  the
+Corporate  Debtor  into  liquidation,  as  stipulated  in  Paragraphs  8(a)  to  (c).
+Paragraph 8 is reproduced below:
+“8.
+In the present appeal, the lenders are agreeable that in case;
+a) 
+SRA infuses Rs. 350 Crores by 31.08.2023, the date by which
+said payment is to be made as per the Resolution Plan, read
+with Order dated 26.05.2023 passed by this Hon'ble Tribunal;
+and 
+b) 
+SRA Undertakes to scrupulously follow the other terms and
+conditions of the resolution plan and 
+c) 
+SRA complies with the liabilities relating to payment to the
+employees as per order of NCLAT dated 21.10.2022 which
+has been upheld by the Hon'ble Supreme Court in its order
+dated 30.01.2023,
+the Lenders would not contest the issues relating to granting
+of exclusion/extension of time (in terms of the orders  dt.
+13.01.2023 passed by NCLT and order dt. 26.05.2023 passed
+by this Hon'ble Tribunal) as well as on the issue relating to
+compliance  of  condition  precedent  by  the  SRA  and
+accordingly undertakes  to withdraw the present Company
+Appeal  (AT)  Ins  129-130  of  2023  which  is  pending
+adjudication  before  this  Hon'ble  Tribunal  along  with  Civil
+Appeal Nos. 4131-34 of 2023 & 3736-37 of 2023 filed before
+the Hon'ble Supreme Court, on the said two issues. In other
+words, lenders would not contest the granting of exclusions
+as  well  as  on  the  issue  regarding  the  compliance  of
+Conditions Precedent, in case the aforesaid steps are taken
+by SRA without any further delay. Failing to comply with the
+conditions  mentioned  in  Para  8(a)  to  (c)  above,  the
+Corporate Debtor should be directed to go into liquidation.”
+11
+Following the affidavit, which was filed by SBI, an application was moved by the
+SRA on 18 August 2023 seeking liberty to pay the amount of Rs 350 crores as
+envisaged in the affidavit of SBI in the following manner:
+
+8
+(i)
+The first tranche of Rs 100 crores by 31 August 2023;
+(ii)
+The second tranche of Rs 100 crores by 30 September 2023; and
+(iii)
+The balance of Rs 150 crores by the adjustment of the Performance Bank
+Guarantee7 issued by the SRA in favour of the lenders.
+12
+Permission to do so was granted by the NCLAT on 28 August 2023 extending
+time until 31 August 2023 for the payment of Rs 100 crores; till 30 September
+2023 for the payment of Rs 100 crores and for the balance of Rs 150 crores by
+adjusting the payment against the PBG issued by the SRA.
+13
+The reference to the PBG was contained in the tabulated statement in clause
+6.4.4 of the Resolution Plan, which is set out above.  Apart from the above
+stipulations, it would be material to make a reference, at this stage, to certain
+provisions  of  the  Request  for  Resolution  Plans8.   Clause  3.13  of  the  RFRP
+provides for performance security. It stipulates that (i) the SRA must furnish an
+unconditional and irrevocable PBG, either INR 150 Crores or 10% of the upfront
+amount, within seven days of declaration; (ii) The PBG, following Format VIII-A,
+remains valid for 180 days or until Resolution Plan completion, extendable by
+SRA as directed by the CoC; (iii) Failure to provide the Performance Security upon
+accepting the Letter of Intent may lead to its cancellation at the discretion of the
+CoC : 
+“3.13 
+Performance Security
+3.13.1 The Successful Resolution Applicant shall furnish or cause to
+be furnished, an unconditional and irrevocable performance
+bank guarantee or a demand draft, issued by any scheduled
+commercial  bank  in  India  or  a  foreign  bank  which  is
+regulated by the central bank of a jurisdiction outside India
+which  is  compliant  with  the  Financial  Action  Task  force
+Standards  and  is  a  signatory  to  the  International
+Organisation  of  Securities  Commissions  Multilateral
+Memorandum  of  Understanding,  provided  that  it  is
+acceptable to the Resolution Professional (acting for the CoC)
+(“PBG  Bank”),  of  an  amount  of  INR  150  Crores  (Indian
+Rupees Hundred and Fifty Crores only) or 10% of upfront
+amount (payable as per the resolution plan by the Successful
+7 “PBG”
+8 “RFRP”
+
+9
+Resolution Applicant), whichever is higher in favour of “State
+Bank of India, (that is, SBI) (in its capacity as an agent of the
+CoC (and acting on behalf of the Company), within 7 (seven)
+days of declaration of the Successful Resolution Applicant, or
+by way of a direct deposit by way of the real time gross
+settlement system into a bank account held by the SBI Bank,
+the  details  of  which  shall  be  shared  separately  with  the
+Successful Resolution Applicant (“Performance Security”)
+3.13.2 If  the  Performance  Security  is  being  provided  as  a
+performance bank guarantee, it shall be in accordance with
+Format VIII-A of this RFRP (“PBG”). The PBG shall be valid, till
+the later of (i) a period of 180 days from the date of the PBG;
+and (ii) the date of completion of the implementation of the
+Resolution Plan (as determined by the RP and the (CoC) and
+shall  be  subject  to  re-issuance  or  extension  by  the
+Successful Resolution Applicant as may be required by the
+CoC  (as  assisted  by  the  Resolution  Professional)  (“PBG
+Validity”).
+3.13.3 It is hereby clarified that non-submission of the Performance
+to  permit  the  Resolution  Applicant,  along  with  the
+acceptance of the Letter of Intent, shall lead to cancellation
+of  Letter  of  Intent  issued  by  the  CoC,  unless  otherwise
+determined by the CoC at its sole discretion...”
+14
+Clause 3.13.7 empowers SBI as an agent of the Committee of Creditors to invoke
+the performance security on the occurrence of certain eventualities:
+“3.13.7 SBI, in its capacity as an agent of the CoC (and acting on
+behalf of the Company), shall have the right to invoke the
+Performance  Security  on  behalf  of  the  CoC  (and  upon
+receiving approval from the CoC), (by issuance of a written
+demand to the Bank to invoke the Performance Security, if
+provided  as  a  PBG).  The  Performance  Security  can  be
+invoked and appropriated at any time, upon occurrence of
+any of the following conditions, without any reference to the
+Resolution Applicant.
+i 
+any  of  the  condition  under  the  Letter  of  Intent  or  the
+Successful Resolution Plan are breached;
+ii 
+if  the  Resolution Applicant  fails  to  re-issue or extend the
+Performance Security (if provided as a PBG), in accordance
+with the terms of this RFRP; or
+iii 
+failure of the Successful Resolution Applicant to implement
+the Approved Resolution Plan to the satisfaction of the CoC,
+and in accordance with the terms of the Approved Resolution
+Plan.”
+15
+Clause 3.13.9 specifies that the performance security shall not be set off against
+or used as part of the consideration which the SRA proposes to offer in relation
+to the company:
+
+10
+“3.13.9  The  Performance Security shall  not be  set-off  against or
+used  as  part  of  the  consideration  that  the  Successful
+Resolution  Applicant  proposes  to  offer  in  relation  to  the
+Company,  even  if  expressly  indicated  as  such  by  the
+Successful Resolution Applicant in the Successful Resolution
+Plan.”
+16
+Clause 9.4 of the Resolution Plan specifically contemplates that the performance
+guarantee provided by the Resolution Applicant can be invoked in terms of RFRP.
+NCLAT has permitted the SRA to adjust the last tranche of Rs 150 crores by
+adjusting the PBG of Rs 150 crores.  This forms the subject matter of appeal in
+this Court. 
+17
+Mr N Venkataraman, Additional Solicitor General appearing on behalf of SBI,
+submitted that: 
+(i)
+By  its  affidavit  dated  16  August  2023,  SBI  had  clearly  stipulated  three
+conditions, among them being that the SRA must infuse Rs 350 crores by 31
+August 2023;  
+(ii)
+ The plain meaning of the expression “infuse” is that the SRA was liable to
+pay three tranches of a total amount of Rs 350 crores and the NCLAT was not
+justified at the interim stage in permitting an adjustment of the PBG of Rs 150
+crores against the obligation to deposit the last tranche;
+ 
+(iii)
+The SRA had to undertake to comply with the other terms and conditions of
+the  Resolution  Plan  besides  complying  with  the  liabilities  relating  to  the
+payment to the employees.  As regards the payment to the employees, an
+appeal filed by the SRA before this Court against the order of the NCLAT
+dated 21 October 2022 was dismissed on 30 January 2023.  Yet there is no
+compliance towards the employees and staff; and
+(iv)
+There has  been a default on the part  of the SRA  in complying with the
+conditions precedent spelt out in clause 7.6 and on various other aspects,
+including the payment of workmen’s dues, airport dues and other matters.
+
+11
+18
+The  submission  which  has  been  urged  on  behalf  of  the  lenders  has  been
+opposed on behalf of the SRA by Mr Krishnendu Datta, senior counsel.  On behalf
+of the SRA, it has been submitted that: 
+(i)
+The  Resolution  Plan  specifically  contemplates  the  adjustment  of  the  PBG
+(originally of Rs 47.5 crores, subsequently enhanced to Rs 150 crores). In
+support of this submission, reliance has been placed on the summary of
+payments  and  security  package  forming  a  part  of  clause  6.4.4  of  the
+Resolution Plan;
+(ii)
+The SRA was in the first tranche required to pay an amount of up to Rs 185
+crores against the creation of securities, namely, (i) PBG of Rs 47.5 crores; (ii)
+BKC Property (if given); and (iii) Mortgage over Dubai Property No 1 valued at
+over Rs 100 crores.  In the last column of the table, it has been stipulated
+that the securities would be released, as indicated; 
+(iii)
+The PBG was liable to be adjusted against the cash payment of the first
+tranche of Rs 185 crores; 
+(iv)
+No specific date for the release of the security in relation to the PBG has been
+mentioned; 
+(v)
+Moreover, in respect of the second tranche comprising of Rs 195 crores, there
+was no requirement to furnish any security in the form of a PBG; 
+(vi)
+The securities, in other words, were of a revolving nature, but significantly on
+the release of the PBG against a cash payment of Rs 185 crores, the PBG is
+not required to be renewed as a fresh security for the following tranches; and
+(vii)
+As regards the creation of security in respect of the Dubai property, at all
+material times, the SRA has been ready and willing to effect the security and,
+as a matter of fact, this is evident in the 37th Meeting of the Monitoring
+Committee of the Corporate Debtor held on 9 October 2023.
+
+12
+19
+While considering the rival submissions, it must be noted, at the outset, that the
+appeal, stemming from the NCLT's January 13 2023 order holding that the SRA is
+compliant  with  the  conditions  precedent  is  pending  before  the  NCLAT.
+Hence,  the  observations  in  the  present  judgment  are  confined  to  the
+arrangement which must operate during the pendency of the appeal without this
+Court expressing a final view on the merits of the appeal, which will fall for
+consideration before the NCLAT.  
+20
+The occasion for an extension of time to the SRA for the deposit of Rs 350 crores
+arose as a consequence of the affidavit which was filed by SBI before the NCLAT
+on 16 August 2023.  SBI’s affidavit envisaged that the lenders would not contest
+the issues pertaining to (a) the grant or exclusion of time; or (b) extension in
+terms of the orders which were passed by the NCLT on 13 January 2023 and 26
+May 2023; and (c) compliance of the conditions precedent by the SRA.  SBI’s
+offer was, however, subject to the fulfillment of three conditions.  The three
+conditions were:
+(i)
+The SRA must infuse an amount of Rs 350 crores by 31 August 2023 (the
+date by which the payment was to be made in terms of the Resolution
+Plan read with the order dated 26 May 2023 of NCLT);
+(ii)
+The  SRA  must  undertake  to  scrupulously  follow  the  other  terms  and
+conditions of the Resolution Plan; and
+(iii)
+The SRA must comply with the liabilities in regard to the payment to the
+employees in terms of the order of the NCLAT dated 21 October 2022
+which has been upheld by this Court on 30 January 2023.
+
+13
+21     Conditional on compliance with the three conditions set out above, SBI stated
+that  it would be willing to  withdraw  both the company  appeals  which were
+pending before the NCLAT as well as the Civil Appeals which were pending
+before this Court, details of which were set out in the affidavit.  The offer which
+was made by SBI on behalf of the lenders had to be complied with as it stood in
+the event that the SRA sought the benefit of the offer.  According to the SRA, the
+PBG was liable to be released on adjustment in terms of the Resolution Plan.
+This is a matter which would have to await an adjudication by NCLAT in the
+pending appeal.  The impugned order of the NCLAT, on the other hand, allowed
+the plea of the SRA for adjustment and consequential release of the PBG at the
+interlocutory stage.  This prima facie would not be in accordance with the tenor
+of paragraph 8 of the affidavit which was filed by SBI in which it stated that the
+lenders  would  not  contest  the  issues  in  the  pending  appeal  conditional  on
+compliance  with  the  three  conditions  which  were  set  out  in  the  affidavit.
+Infusion of Rs 350 crores, as envisaged in the affidavit, could not have been
+substituted with a direction for adjustment of the PBG, at that stage.  Infusion
+meant that the third tranche has to be paid in the same manner.  Adjustment of
+the PBG was not permissible. 
+22
+In the circumstances, we have come to the conclusion that NCLAT was not
+justified in holding, in its order dated 28 August 2023, that the last tranche of Rs
+150 crores which was to be paid would be adjusted against the PBG.   The SRA
+having deposited the first two tranches each of Rs 100 crores must comply with
+the  remaining  obligation  of  depositing  Rs  150  crores  (to  make  up  a  total
+payment of Rs 350 crores).  Having by its conduct accepted the terms set up by
+SBI it must be obligated to comply with the entirety of its obligations.  It must do
+so in strict compliance with the time schedule set out hereafter.  
+
+14
+23
+The lenders have submitted that:
+(i)
+The admitted claim of the Financial Creditors is Rs 7800 crores, while the
+package  offered  by  the  SRA  in  the  Resolution  Plan  is  Rs  4783  crores
+payable in tranches in five years;
+(ii)
+Instead of infusing Rs 350 crores, being the first tranche of payment,
+which was to be paid in 180 days, the SRA has infused a sum of Rs 187
+crores after two years, in addition to Rs 13 crores paid by a third party;
+and
+(iii)
+The lenders have already incurred Rs 386.72 crores during the CIRP and
+after the approval of the Plan towards maintaining the Corporate Debtor,
+excluding airport dues.  In addition, the lenders are incurring Rs 22.26
+crores on a monthly basis towards expenses/carrying cost for maintaining
+the Corporate Debtor.
+24
+SBI  has  stated  that  the  lenders  have  been  saddled  with  huge  recurring
+expenditure  every  month  to  maintain  the  remaining  airline  assets  of  the
+Corporate Debtor.  The lenders have been embroiled in litigation before the NCLT
+and  NCLAT  with  little  progress  on  this  ground  towards  implementing  the
+resolution  plan.   Such  a  state  of  affairs  cannot  be  permitted  to  continue
+interminably as it defeats the very object and purpose of the provisions of and
+timelines under the IBC. The timely resolution of insolvency cases is vital for
+sustaining  the  effectiveness  and  credibility  of  the  insolvency  framework.
+Therefore, concerted efforts and decisive actions are imperative to break the
+deadlock and ensure the expeditious implementation of the resolution plan.
+25
+The lenders have argued in the appeals that there has been a failure on the part
+of the SRA to comply with the conditions precedent.  If the SRA were to comply
+with the terms as envisaged in SBI’s affidavit dated 16 August 2023, evidently
+
+15
+issues pertaining to compliance with the conditions precedent were not to be
+pressed thereafter. In order to furnish this SRA a final opportunity to comply and
+consistent with the above position, we issue the following directions:
+(i)
+The  SRA  shall  peremptorily  on  or  before  31 January  2024, deposit  an
+amount of Rs 150 crores into the designated account of SBI, failing which
+the consequences under the Resolution Plan shall follow;
+(ii)
+The PBG of Rs 150 crores shall continue to remain in operation and effect,
+pending the final disposal of the appeal before NCLAT, and shall abide by
+the final outcome of the appeal and the directions that may be issued by
+NCLAT; and 
+(iii)
+Whether or not the SRA has been compliant with all the conditions of the
+Resolution Plan as well as of the conditions set out in paragraph 8 of the
+affidavit dated 16 August 2023 shall be decided by the NCLAT in the
+pending appeal.
+26
+The order dated 28 August 2023 of the NCLAT is modified in part in terms of the
+above directions and, hence, the permission which was granted to the SRA to
+adjust the last tranche of Rs 150 crores against the PBG shall stand substituted
+by the above directions.
+27
+The NCLAT is requested to endeavour an expeditious disposal of the appeal by
+the end of March 2024.
+28
+The appeals are accordingly disposed of.
+
+16
+29
+Pending applications, if any, stand disposed of.
+..…..…....…........……………….…........CJI.
+                                                                  [Dr Dhananjaya Y Chandrachud]
+…..…..…....…........……………….…........J.
+                             [J B Pardiwala]
+…..…..…....…........……………….…........J.
+                             [Manoj Misra]
+New Delhi; 
+January 18, 2024
+-S-

@@ -1,0 +1,337 @@
+2024 INSC 602
+ 
+1                             
+REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CRIMINAL APPELLATE JURISDICTION
+CRIMINAL 
+ 
+ APPEAL NO.  3369 
+ 
+ OF 2024
+[  @ SPECIAL LEAVE PETITION (CRL.) NO.4022 OF 2022
+ 
+ ]
+SRI SUJIES BENEFIT FUNDS LIMITED                           …APPELLANT
+VERSUS
+M. JAGANATHUAN
+    
+   … RESPONDENT
+J U D G M E N T
+AHSANUDDIN AMANULLAH, J.
+Heard Mr B. Ragunath, learned counsel for the appellant and
+Mr. S. Nagamuthu, learned senior counsel for the respondent.
+2.
+Leave granted.
+3. 
+The  present  appeal  arises  out  of  the  Final  Judgment  dated
+29.01.2020  (hereinafter  referred  to  as  the  “impugned  judgment”),
+passed by the learned Single Judge of the High Court of Judicature at
+Digitally signed by
+Ashwani Kumar
+Date: 2024.08.13
+17:57:18 IST
+Reason:
+Signature Not Verified
+
+ 
+2                             
+Madras (hereinafter referred to as the “High Court”) in Criminal Appeal
+No.582/ 2012, whereby the appeal filed by the appellant was dismissed
+and the judgment dated 20.06.2012 of the Vth Additional District and
+Sessions Judge, Coimbatore (hereinafter referred to as the “Appellate
+Court”) in Criminal Appeal No.186/2010, was upheld.
+BRIEF FACTS:
+4.
+The  sole  Respondent  (hereinafter  also  referred  to  as  the
+“accused”),  being  a  subscriber  of  the  Appellant-chitfund  company
+(hereinafter  also  referred  to  as  the  “complainant”),  borrowed  loan
+amounts on several dates from the Appellant over a period of about two
+years which swelled to a sum of Rs.21,09,000/- (Rupees Twenty One
+Lakhs and Nine Thousand) including interest, after eight years. The
+loans were advanced in the following manner: Rs.1,50,000/- (Rupees
+One Lakh and Fifty Thousand) was given on 09.03.1995; Rs.6,00,000/-
+(Rupees Six Lakhs) on 29.12.1995; Rs.1,00,000/- (Rupees One Lakh)
+on 22.03.1995; Rs.3,00,000/- (Rupees Three Lakhs) on 11.03.1996;
+Rs.1,00,000/-  (Rupees  One  Lakh)  on  09.04.1997;  and  finally,
+Rs.2,00,000/- (Rupees Two Lakhs) on 24.04.1997. In order to partly
+discharge  the  aforesaid  loan  amounts,  Cheque  No.0150573  dated
+03.02.2003 was issued by the accused for a sum of Rs.19,00,000/-
+
+ 
+3                             
+(Rupees Nineteen Lakhs) in favour of the complainant drawn on Indian
+Overseas  Bank,  District  Court  Extension  Counter, Coimbatore.  The
+complainant, on 04.02.2003, presented the cheque in Bank of India,
+Kurichi Industrial Estate Branch, Coimbatore which came to be returned
+on 05.02.2003 with the endorsement ‘Account Closed’. Thereafter, a
+statutory notice was issued by the complainant on 20.02.2003, reply to
+which was issued by the accused on 27.02.2003 repudiating the debt.
+Aggrieved, the complainant filed C.C.No.379/2003 before the Judicial
+Magistrate Court No.VII, Coimbatore (hereinafter referred to as the
+“Trial Court”)  for  the offence  under  Section  1381 of  the Negotiable
+Instruments Act, 1881 (hereinafter referred to as the “N.I. Act”).
+1 ‘138. Dishonour of cheque for insufficiency, etc., of funds in the account.—Where any cheque drawn by a person on
+an account maintained by him with a banker for payment of any amount of money to another person from out of that
+account for the discharge, in whole or in part, of any debt or other liability, is returned by the bank unpaid, either be-
+cause of the amount of money standing to the credit of that account is insufficient to honour the cheque or that it ex-
+ceeds the amount arranged to be paid from that account by an agreement made with that bank, such person shall be
+deemed to have committed an offence and shall, without prejudice to any other provision of this Act, be punished with
+imprisonment for a term which may extend to two years, or with fine which may extend to twice the amount of the
+cheque, or with both:
+Provided that nothing contained in this section shall apply unless—
+(a) the cheque has been presented to the bank within a period of six months  from the date on which it is
+drawn or within the period of its validity, whichever is earlier;
+(b) the payee or the holder in due course of the cheque, as the case may be, makes a demand for the
+payment  of  the  said  amount  of  money  by  giving  a  notice  in  writing,  to  the  drawer  of  the
+cheque, 69[within thirty days] of the receipt of information by him from the bank regarding the return of
+the cheque as unpaid; and
+(c) the drawer of such cheque fails to make the payment of the said amount of money to the payee or as
+the case may be, to the holder in due course of the cheque within fifteen days of the receipt of the said
+notice.
+Explanation.—For the purposes of this section, “debt or other liability” means a legally enforceable debt or
+other liability.’
+
+ 
+4                             
+5.    Before the learned Trial Court, on behalf of the complainant, the
+manager of the chit-fund company was examined as PW1 and nineteen
+exhibits  were  marked.  On  behalf  of  the  accused,  no  witness  was
+examined, however, five exhibits were marked. The learned Trial Court,
+after perusing the evidence on record and hearing the parties, passed
+judgment dated 16.08.2010 whereby it convicted the accused for the
+offence under Section 138, N.I. Act and sentenced him to undergo one
+year simple imprisonment and to pay a fine of Rs.38,00,000/- (Rupees
+Thirty Eight Lakhs) as compensation to the complainant.
+6.
+The accused filed Criminal Appeal No.186/2010 in the Appellate
+Court, challenging the conviction and sentence, along with a petition
+under Section 3912 of the Code of Criminal Procedure (hereinafter
+referred  to  as  the  “Code”),  for  letting  in  additional  evidence.  The
+Appellate Court allowed the petition filed under Section 391 of the
+Code. This order was challenged by the complainant before the High
+2 ‘391. Appellate Court may take further evidence or direct it to be taken.—(1) In dealing with any appeal under
+this Chapter, the Appellate Court, if it thinks additional evidence to be necessary, shall record its reasons
+and may either take such evidence itself, or direct it to be taken by a Magistrate, or when the Appellate
+Court is a High Court, by a Court of Session or a Magistrate.
+(2) When the additional evidence is taken by the Court of Session or the Magistrate, it or he shall
+certify such evidence to the Appellate Court, and such Court shall thereupon proceed to dispose of the ap-
+peal.
+(3) The accused or his pleader shall have the right to be present when the additional evidence is
+taken.
+(4) The taking of evidence under this section shall be subject to the provisions of Chapter XXIII, as if
+it were an inquiry.’
+
+ 
+5                             
+Court, which negatived such challenge and confirmed the order passed
+by the Appellate Court to let in additional evidence. Before the Appellate
+Court, the accused examined himself as DW1 and marked thirteen
+exhibits in order to show that substantial amounts were repaid by him to
+the complainant.
+7.  
+The Appellate Court, by judgment dated 20.06.2012, allowed the
+accused’s appeal and acquitted the respondent holding that the cheque
+was not issued towards a legally enforceable liability. The appellant filed
+Criminal Appeal No.582/2012 in the High Court impugning the judgment
+passed by the Appellate Court. The High Court dismissed such appeal
+vide the impugned judgment.
+SUBMISSIONS BY THE APPELLANT-COMPANY:
+8.
+Learned counsel for the appellant submitted that the basic folly
+committed by the Appellate Court as well as the High Court was that
+they  failed  to  appreciate  that  once  issuance  of  cheque  is
+admitted/established, there is a presumption under Sections 138, 139
+and 118(a) of the N.I. Act, which is a rebuttable presumption but the
+respondent has not discharged this burden. It is contended that the
+burden  on  the  respondent  to  rebut  the  presumption  by introducing
+
+ 
+6                             
+evidence was initially not done for no justifiable/valid reason before the
+learned Trial Court and, even upon the plea for adducing additional
+evidence under Section 391 of the Code, the presumption has not been
+dislodged  as  required  under  law,  and  still  the  accused  has  been
+acquitted.
+9.
+Learned counsel submitted that the Appellate Court has given
+benefit of doubt to the respondent by raising question about the figure
+in  the  cheque  not  fully  tallying  as  per  the  Statement  of  Accounts
+inasmuch as in Exhibit D4 for Loan No.175, the total amount borrowed
+was  shown  as  Rs.6,00,000/-  (Rupees  Six  Lakhs)  and  the  rate  of
+interest is mentioned as Rs.1.80 paise per Rs.100 per month, whereas
+in the Statement of Accounts, the balance amount is calculated at the
+rate of 3%  per month.
+10.
+It was submitted that the issue of interest was not a matter to be
+decided and even the learned Trial Court has not disputed the principal
+amount. Further, learned counsel submitted that the learned Trial Court
+has also  not  accepted that the respondent  was able to show that
+substantial amounts were returned. Thus, according to him, the dues
+still remained to be repaid against the respondent to be made good and
+so it cannot be said that the amount mentioned in the cheque which
+
+ 
+7                             
+was returned was not a legally-due amount. Learned counsel submitted
+that on such flimsy and tenuous grounds, the amount which in law was
+due to the appellant from the respondent, for which the N.I. Act has
+been brought into existence by the Parliament so that such dues which
+the accused denies but for which cheques have been issued by him are
+not honoured, a quick procedure has been prescribed to ensure that
+financial  disputes  reach  finality, has  been  totally  frustrated  by  the
+Appellate Court and erroneously upheld by the High Court.  For some
+receipts  shown  by  the  respondent  as  part  re-payment  of  the  loan
+amount,  the  contention  of  the  appellant  is  that  one  relates  to  a
+transaction by one Shri Laxmi Finance and the rest are not genuine due
+to there being omissions of signature of the cashier, Manager, etc. This
+aspect, it is submitted, has been brushed aside.
+11.
+He  summed  up  his  arguments  by  submitting  that  when  the
+respondent also could not show any proof with regard to what was the
+rate of interest decided inter-se the parties, such an issue unilaterally
+could not be decided against the appellant and further that the logic of
+the  Appellate  Court  that  the  Tamil  Nadu  Prohibition  of  Charging
+Exorbitant Interest Act, 2003 (hereinafter referred to as the “Tamil Nadu
+Act”) prohibits charging of interest on any unsecured loan beyond a
+
+ 
+8                             
+maximum of 12% per annum, in itself, was unsound as even if it is
+accepted that the rate of interest was only 1.8% per month, the amount
+over and above the maximum rate of interest would stand excluded. It
+was urged that this was no ground to disbelieve that the amount was
+legally due to the appellant from the respondent.
+SUBMISSIONS BY THE SOLE RESPONDENT-ACCUSED:
+12.
+Per contra, the learned senior counsel for the respondent raised
+a preliminary objection that the present appeal is devoid of any ques-
+tion of law, much less a substantial question of law of public import-
+ance, and does not warrant interference of this Court in exercise of dis-
+cretionary jurisdiction vested under Article 136 of the Constitution of In-
+dia.
+13.
+On merits, it was his stand that when two Courts have taken the
+view that the appellant was not able to show that the cheque amounts
+were legally due to him from the respondent, this Court may not reverse
+such finding. It was submitted that upon further evidence being pro-
+duced before the Appellate Court, it was noticed that as there is differ-
+ence in the rates of interest mentioned in the pronotes issued and the
+Statement of Accounts of the appellant, it has rightly been concluded
+
+ 
+9                             
+that the claim of the appellant that the amount mentioned in the cheque
+was legally due to him was not sustainable and thus, the same was not
+relied upon and the respondent was acquitted. It was contended by the
+learned  Senior counsel that the proceeding under the N.I. Act being
+more or less summary in nature, the Court has rightfully discharged its
+duty of being strict in scrutiny of evidence so as not to disadvantage the
+accused leading to miscarriage of justice. He submitted that the present
+appeal does not merit any consideration and sought its dismissal.
+ANALYSIS, REASONING AND CONCLUSION:
+14.
+Having considered the rival contentions, we find that the  im-
+pugned  judgment upholding the order of the Appellate Court requires
+interference.
+15.
+This Court in  Dashrath Rupsingh Rathod v State of Maha-
+rashtra, (2014) 9 SCC 129 held that “An offence under Section 138 of
+the Negotiable Instruments Act, 1881 is committed no sooner a cheque
+drawn by the accused on an account being maintained by him in a
+bank for discharge of debt/liability is returned unpaid for insufficiency of
+funds or for the reason that the amount exceeds the arrangement made
+with the bank.” The fact that the cheque was issued as a consequence
+
+ 
+10                             
+of failure to repay the loan taken by the respondent from the appellant
+to which the interest was added would more or less settle the issue.
+However, in the present case, a discrepancy  apropos the rate of in-
+terest, whether it be 1.8%, 2.4% or 3% per month was not sufficient to
+disbelieve the claim of the appellant. Though the respondent before the
+learned Trial Court had contended that there was no loan transaction
+between the parties, but still, before the Appellate Court, by way of ad-
+ditional evidence, he marked receipts to show the re-payment of loan.
+Even there, the respondent did not produce all the receipts showing
+total discharge of the loan amount, as was noted by the Appellate
+Court, and only the difference in the rates of interest as well as the find-
+ing that substantial amount has been repaid led to the acquittal of the
+respondent.
+16.
+On this issue, we would like to indicate that neither in the pro-
+notes nor in the Statement of Accounts, the principal amount has been
+disputed and the amount arrived at, as reflected in the cheque whether
+it is in respect of 1.8% interest or 3% interest per month cannot be given
+undue importance for the reason that the pronotes indicated that under
+normal circumstances, when there would be repayment by the respond-
+ent, the rate would be 1.8% per month but in the event of non-repay-
+
+ 
+11                             
+ment, how much interest by way of an added burden would lie on the re-
+spondent has not been specified. Thus, if the rate of interest of 3%  in-
+stead of 1.8% per month has been added on the principal amount and
+the amount in the cheques reflects the same, it cannot be said that the
+cheques  were  not  for  repayment  of  the  principal  amount,  totalling
+Rs.14,50,000/- (Rupees Fourteen Lakhs and Fifty Thousand). When the
+respondent does not dispute that he has handed over the cheques or
+signed on them, it was incumbent upon him, the moment he claims the
+amount(s) were repaid to the appellant to have either taken back the
+cheques or instructed the bank concerned to not honour the concerned
+cheques. However, closure of the bank accounts within a few weeks of
+issuance of the cheque raises serious questions about the conduct and
+intent of the respondent. The learned Trial Court, in our view, has  me-
+ticulously gone into each and every issue while holding in favour of the
+appellant and the Appellate Court as also the High Court have only
+gone by scrutiny of the interest amount mentioned on the pronote and
+effected in the Statement of Accounts of the appellant and the evidence
+produced before the Appellate Court by the respondent to indicate that
+some repayment(s) was/were made. This, according to us, is erroneous
+and cannot be sustained.
+
+ 
+12                             
+17.      Furthermore, the reasoning given by the Appellate Court, having
+taken note of the Tamil Nadu Act, fails to appreciate that even going by
+what has been written on the pronote i.e., 1.8% per month would lead
+to the interest being 21.6% per annum, which also is above the cap of
+12% per annum prescribed in the Tamil Nadu Act. Thus, if the parties
+amongst themselves, agreed to a rate which is not in conformity with
+the Tamil Nadu Act, it was for the respondent to raise an objection or
+move the appropriate forum for getting the same corrected/taken care
+of, so that the interest rate did not exceed 1% per month but having
+agreed to a rate of 1.8% per month, the subsequent amount of interest
+calculated @ 3% per month does not have much force for it was upon
+the respondent to challenge the rate of interest. The respondent also
+cannot be said to be a layman, and being a subscriber to a chitfund
+company, he is expected to be aware of the laws and also of what is
+beneficial for him. Having issued the pronotes, he cannot now take a
+plea in these collateral proceedings under the N.I. Act to contend that
+the rate of interest was more than what was permissible under the Tamil
+Nadu Act.
+18.
+For reasons aforesaid, the Appellate Court’s order as also the
+impugned judgment are set aside. The order of the learned Trial Court
+
+ 
+13                             
+stands restored albeit with certain modifications. It is considered appro-
+priate to direct the respondent to pay fine amounting to one and a half
+(1½) times the amount mentioned in the cheque. Accordingly, the re-
+spondent is held liable to pay an amount of Rs.28,50,000/- (Rupees
+Twenty Eight Lakhs and Fifty Thousand). Further, as has been averred
+by the respondent in his compliance affidavit that he is 86 years old and
+living with his wife who is also advanced in age and without issue, the
+sentence of imprisonment is waived, however, subject to payment, in
+terms of the present judgment within  eight months from today, failing
+which such sentence of simple imprisonment for one year shall stand
+revived.
+19.    The appeal, accordingly, stands allowed in the aforesaid terms.
+20.     Parties are left to bear their own costs.
+                                                  .………………….......................J.
+                     [HIMA KOHLI]
+                    ...………………….....................J.
+ [AHSANUDDIN AMANULLAH]
+NEW DELHI
+AUGUST 13, 2024

@@ -1,0 +1,470 @@
+2024 INSC 742
+1 
+ 
+NON-REPORTABLE 
+ 
+ 
+ 
+IN THE SUPREME COURT OF INDIA 
+ 
+CIVIL APPELLATE JURISDICTION 
+ 
+CIVIL APPEAL NO.      OF 2024 
+(ARISING OUT OF SLP (C) NO. 27699 OF 2018) 
+ 
+ 
+ 
+PUNJAB STATE CIVIL SUPPLIES 
+CORPORATION LIMITED & ANR.                       …APPELLANT(S) 
+  
+ 
+VERSUS 
+ 
+ 
+M/S SANMAN RICE MILLS & ORS.               
+…RESPONDENT(S) 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+J U D G M E N T 
+ 
+ 
+ 
+ 
+PANKAJ MITHAL, J. 
+ 
+1. 
+Leave granted. 
+2. 
+The challenge in this Civil Appeal is to the judgment and 
+order dated 10.01.2017 passed by the High Court of Punjab 
+& Haryana at Chandigarh in exercise of powers under 
+Digitally signed by
+SNEHA DAS
+Date: 2024.09.27
+17:09:36 IST
+Reason:
+Signature Not Verified
+
+2 
+ 
+Section 37 of the Arbitration and Conciliation Act, 19961 
+setting aside the order dated 07.04.2015 passed under 
+Section 34 of the Act and also the arbitral order dated 
+08.11.2012. 
+ 
+FACTS:  
+3. 
+The appellant - Punjab State Civil Supplies Corporation Ltd.2 
+entered into an agreement dated 06.10.2008 with M/s 
+Sanman Rice Mills3 whereunder the Corporation was to 
+supply paddy to the Rice Mill for the purpose of milling that 
+had to supply back the resultant rice to the Corporation.  
+4. 
+A total of 2,02,850 bags of Grade ‘A’ variety of paddy weighing 
+70,997.50 quintals was supplied by the Corporation to the 
+Rice Mill. However, after processing, the Rice Mill resupplied 
+only a part of the same with a shortfall of 35110.39 quintals 
+of rice. Thus, this shortage in quantity of rice equivalent to a 
+total cost of Rs.7,16,15,716/- was recoverable from the Rice 
+Mill. Against the aforesaid outstanding amount, the Rice Mill 
+ 
+1 hereinafter referred to as ‘the Act’ 
+2 hereinafter referred to as ‘the Corporation’ 
+3 hereinafter referred to as ‘the Rice Mill’ 
+
+3 
+ 
+paid ten cheques of Rs.50 lakh each amounting to Rs.5 crore 
+to the Corporation leaving a balance of Rs.2,16,15,716/-. 
+Thus, there arose a dispute between the parties with regard 
+to the recovery of the balance amount. The dispute was 
+referred to the Arbitrator.  
+5. 
+The Arbitrator passed an award on 08.11.2012 and awarded 
+a sum of Rs.2,67,66,804/- in favour of the Corporation as 
+against the Rice Mill. The amount awarded was to be paid 
+with interest @ 12 per cent per annum. The said award was 
+objected to by the Rice Mill by filing a petition under Section 
+34 of the Act before the Additional District Judge. It was 
+dismissed on 07.04.2015 with the finding that there is no 
+illegality in the award within the scope of interference 
+permissible under Section 34 of the Act. Not satisfied by the 
+aforesaid order, the Rice Mill filed an appeal under Section 
+37 of the Act before the High Court. The appeal has been 
+allowed by the impugned judgment and order 10.01.2017 
+and not only the judgment and order passed by the 
+Additional District Judge under Section 34 of the Act has 
+been set aside but also the Arbitral order dated 08.11.2012.  
+
+4 
+ 
+6. 
+It is in the above factual scenario that the Corporation has 
+preferred the present appeal for setting aside the impugned 
+judgment and order dated 10.01.2017 passed by the High 
+Court in an appeal under Section 37 of the Act.  
+7. 
+Learned counsel for the parties were heard at length. 
+ 
+POINT OF DETERMINATION: 
+8. 
+The short question on the submission of the parties, which 
+arises for our consideration is about the scope of powers of 
+the Appellate Court under Section 37 of the Act and whether 
+the Appellate Court was justified in setting aside the award 
+dated 08.11.2012 which had already been confirmed under 
+Section 34 of the Act.  
+ 
+LEGAL POSITION: 
+9. 
+The object of the Act is to provide for a speedy and 
+inexpensive alternative mode of settlement of dispute with 
+the minimum of intervention of the courts. Section 5 of the 
+Act is implicit in this regard and prohibits interference by the 
+judicial authority with the arbitration proceedings except 
+where so provided in Part-I of the Act. The judicial 
+
+5 
+ 
+interference, if any, is provided inter-alia only by means of 
+Sections 34 and 37 of the Act respectively.  
+10. Section 34 of the Act provides for getting an arbitral award 
+set aside by moving an application in accordance with sub-
+Section (2) and sub-Section (3) of Section 34 of the Act which 
+inter-alia provide for the grounds on which an arbitral award 
+is liable to be set aside. One of the main grounds for 
+interference or setting aside an award is where the arbitral 
+award is in conflict with the public policy of India i.e. if the 
+award is induced or affected by fraud or corruption or is in 
+contravention with the fundamental policy of Indian law or it 
+is in conflict with most basic notions of morality and justice. 
+A plain reading of Section 34 reveals that the scope of 
+interference by the court with the arbitral award under 
+Section 34 is very limited and the court is not supposed to 
+travel beyond the aforesaid scope to find out if the award is 
+good or bad. 
+11. Section 37 of the Act provides for a forum of appeal inter-alia 
+against the order setting aside or refusing to set aside an 
+arbitral award under Section 34 of the Act. The scope of 
+
+6 
+ 
+appeal is naturally akin to and limited to the grounds 
+enumerated under Section 34 of the Act. 
+12. It is pertinent to note that an arbitral award is not liable to 
+be interfered with only on the ground that the award is illegal 
+or is erroneous in law that too upon reappraisal of the 
+evidence adduced before the arbitral trial. Even an award 
+which may not be reasonable or is non-speaking to some 
+extent cannot ordinarily be interfered with by the courts. It is 
+also well settled that even if two views are possible there is 
+no scope for the court to reappraise the evidence and to take 
+the different view other than that has been taken by the 
+arbitrator. The view taken by the arbitrator is normally 
+acceptable and ought to be allowed to prevail.  
+13. In paragraph 11 of Bharat Coking Coal Ltd.  v.  L.K.Ahuja,4 
+it has been observed as under:  
+“11. There are limitations upon the scope of 
+interference in awards passed by an arbitrator. 
+When the arbitrator has applied his mind to the 
+pleadings, the evidence adduced before him and 
+the terms of the contract, there is no scope for the 
+court to reappraise the matter as if this were an 
+ 
+4 (2001) 4 SCC 86 
+
+7 
+ 
+appeal and even if two views are possible, the 
+view taken by the arbitrator would prevail. So 
+long as an award made by an arbitrator can be 
+said to be one by a reasonable person no 
+interference is called for. However, in cases 
+where an arbitrator exceeds the terms of the 
+agreement or passes an award in the absence of 
+any evidence, which is apparent on the face of 
+the award, the same could be set aside.” 
+ 
+14. It is equally well settled that the appellate power under 
+Section 37 of the Act is not akin to the normal appellate 
+jurisdiction vested in the civil courts for the reason that the 
+scope of interference of the courts with arbitral proceedings 
+or award is very limited, confined to the ambit of Section 34 
+of the Act only and even that power cannot be exercised in a 
+casual and a cavalier manner.  
+15. In Dyna Technology Private Limited  v.  Crompton 
+Greaves Limited5, the court observed as under:  
+“24. There is no dispute that Section 34 of the 
+Arbitration Act limits a challenge to an award 
+only on the grounds provided therein or as 
+interpreted by various courts. We need to be 
+cognizant of the fact that arbitral awards should 
+ 
+5 (2019) 20 SCC 1 
+
+8 
+ 
+not be interfered with in a casual and cavalier 
+manner, unless the court comes to a conclusion 
+that the perversity of the award goes to the root 
+of the matter without there being a possibility of 
+alternative interpretation which may sustain the 
+arbitral award. Section 34 is different in its 
+approach and cannot be equated with a normal 
+appellate 
+jurisdiction. 
+The 
+mandate 
+under 
+Section 34 is to respect the finality of the arbitral 
+award and the party autonomy to get their 
+dispute adjudicated by an alternative forum as 
+provided under the law. If the courts were to 
+interfere with the arbitral award in the usual 
+course on factual aspects, then the commercial 
+wisdom behind opting for alternate dispute 
+resolution would stand frustrated. 
+25. Moreover, umpteen number of judgments of 
+this Court have categorically held that the courts 
+should not interfere with an award merely 
+because an alternative view on facts and 
+interpretation of contract exists. The courts need 
+to be cautious and should defer to the view taken 
+by the Arbitral Tribunal even if the reasoning 
+provided in the award is implied unless such 
+award portrays perversity unpardonable under 
+Section 34 of the Arbitration Act.” 
+ 
+16. It is seen that the scope of interference in an appeal under 
+Section 37 of the Act is restricted and subject to the same 
+grounds on which an award can be challenged under Section 
+34 of the Act. In other words, the powers under Section 37 
+
+9 
+ 
+vested in the court of appeal are not beyond the scope of 
+interference provided under Section 34 of the Act.  
+17. In paragraph 14 of MMTC Limited    v.   Vedanta Limited,6 
+it has been held as under:  
+“14. As far as interference with an order made 
+under Section 34, as per Section 37, is concerned, 
+it cannot be disputed that such interference 
+under Section 37 cannot travel beyond the 
+restrictions laid down under Section 34. In other 
+words, 
+the 
+court 
+cannot 
+undertake 
+an 
+independent assessment of the merits of the 
+award, and must only ascertain that the exercise 
+of power by the court under Section 34 has not 
+exceeded the scope of the provision. Thus, it is 
+evident that in case an arbitral award has been 
+confirmed by the court under Section 34 and by 
+the court in an appeal under Section 37, this 
+Court must be extremely cautious and slow to 
+disturb such concurrent findings.” 
+ 
+18. 
+Recently a three-Judge Bench in Konkan Railway 
+Corporation 
+Limited 
+v. 
+Chenab 
+Bridge 
+Project 
+Undertaking7 referring to MMTC Limited (supra) held that 
+the scope of jurisdiction under Section 34 and Section 37 of 
+the Act is not like a normal appellate jurisdiction and the 
+ 
+6 (2019) 4 SCC 163 
+7 (2023) 9 SCC 85 
+
+10 
+ 
+courts should not interfere with the arbitral award lightly in 
+a casual and a cavalier manner. The mere possibility of an 
+alternative view on facts or interpretation of the contract does 
+not entitle the courts to reverse the findings of the arbitral 
+tribunal.  
+19. 
+In Bombay Slum Redevelopment Corporation Private 
+Limited  v.  Samir Narain Bhojwani8, a Division Bench of 
+this Court followed and reiterated the principle laid down in 
+the case of MMTC Limited (supra) and UHL Power Company 
+Limited v. State of Himachal Pradesh9. It quoted and 
+highlighted paragraph 16 of the latter judgment which 
+extensively relies upon MMTC Limited (supra). It reads as 
+under: 
+“16. As it is, the jurisdiction conferred on courts 
+under Section 34 of the Arbitration Act is fairly 
+narrow, when it comes to the scope of an appeal 
+under Section 37 of the Arbitration Act, the 
+jurisdiction of an appellate court in examining an 
+order, setting aside or refusing to set aside an 
+award, is all the more circumscribed. In MMTC 
+Ltd. v. Vedanta Ltd. [MMTC Ltd. v. Vedanta Ltd., 
+(2019) 4 SCC 163: (2019) 2 SCC (Civ) 293], the 
+ 
+8 2024 SCC OnLine SC 1656 
+9 (2022) 4 SCC 116 
+
+11 
+ 
+reasons for vesting such a limited jurisdiction on 
+the High Court in exercise of powers under 
+Section 34 of the Arbitration Act have been 
+explained in the following words: (SCC pp. 166-
+67, para 11)  
+"11. As far as Section 34 is concerned, 
+the position is well- settled by now that 
+the Court does not sit in appeal over the 
+arbitral award and may interfere on 
+merits on the limited ground provided 
+under Section 34(2)(b)(ii) i.e. if the 
+award is against the public policy of 
+India. As per the legal position clarified 
+through decisions of this Court prior to 
+the amendments to the 1996 Act in 
+2015, a violation of Indian public policy, 
+in turn, includes a violation of the 
+fundamental policy of Indian law, a 
+violation of the interest of India, conflict 
+with justice or morality, and the 
+existence of patent illegality in the 
+arbitral 
+award. 
+Additionally, 
+the 
+concept of the "fundamental policy of 
+Indian law" would cover compliance 
+with statutes and judicial precedents, 
+adopting 
+a 
+judicial 
+approach, 
+compliance 
+with 
+the 
+principles 
+of 
+natural 
+justice, 
+and 
+Wednesbury 
+[Associated Provincial Picture Houses 
+Ltd. v. Wednesbury Corpn., [1948] 1 
+Κ.Β. 
+223 
+(CA)] 
+reasonableness. 
+Furthermore, "patent illegality" itself 
+has been held to mean contravention of 
+the 
+substantive 
+law 
+of 
+India, 
+contravention of the 1996 Act, and 
+
+12 
+ 
+contravention of the terms of the 
+contract."” 
+ 
+CONCLUSION: 
+ 
+20. 
+In view of the above position in law on the subject, the scope 
+of the intervention of the court in arbitral matters is virtually 
+prohibited, if not absolutely barred and that the interference 
+is confined only to the extent envisaged under Section 34 of 
+the Act. The appellate power of Section 37 of the Act is 
+limited within the domain of Section 34 of the Act. It is 
+exercisable only to find out if the court, exercising power 
+under Section 34 of the Act, has acted within its limits as 
+prescribed thereunder or has exceeded or failed to exercise 
+the power so conferred. The Appellate Court has no 
+authority of law to consider the matter in dispute before the 
+arbitral tribunal on merits so as to find out as to whether 
+the decision of the arbitral tribunal is right or wrong upon 
+reappraisal of evidence as if it is sitting in an ordinary court 
+of appeal. It is only where the court exercising power under 
+Section 34 has failed to exercise its jurisdiction vested in it 
+by Section 34 or has travelled beyond its jurisdiction that 
+
+13 
+ 
+the appellate court can step in and set aside the order 
+passed under Section 34 of the Act. Its power is more akin 
+to that superintendence as is vested in civil courts while 
+exercising revisionary powers. The arbitral award is not 
+liable to be interfered unless a case for interference as set 
+out in the earlier part of the decision, is made out. It cannot 
+be disturbed only for the reason that instead of the view 
+taken by the arbitral tribunal, the other view which is also a 
+possible view is a better view according to the appellate 
+court.  
+21. 
+It must also be remembered that proceedings under Section 
+34 of the Act are summary in nature and are not like a                
+full-fledged regular civil suit. Therefore, the scope of Section 
+37 of the Act is much more summary in nature and not like 
+an ordinary civil appeal. The award as such cannot be 
+touched unless it is contrary to the substantive provision of 
+law; any provision of the Act or the terms of the agreement. 
+22. 
+In the case at hand, the arbitral award dated 08.11.2012 is 
+based upon evidence and is reasonable. It has not been 
+
+14 
+ 
+found to be against public policy of India or the fundamental 
+policy of Indian law or in conflict with the most basic notions 
+of morality and justice. It is not held to be against any 
+substantive provision of law or the Act. Therefore, the award 
+was rightly upheld by the court exercising the powers under 
+Section 34 of the Act. The Appellate Court, as such, could 
+not have set aside the award without recording any finding 
+that the award suffers from any illegality as contained in 
+Section 34 of the Act or that the court had committed error 
+in upholding the same. Merely for the reason that the view 
+of the Appellate Court is a better view than the one taken by 
+the arbitral tribunal, is no ground to set aside the award. 
+23. 
+Thus, in our opinion, the Appellate Court committed 
+manifest error of law in setting aside the order passed under 
+Section 34 of the Act and consequently the arbitral award 
+dated 08.11.2012. 
+24. 
+Accordingly, the impugned judgment and order dated 
+10.01.2017 passed under Section 37 is hereby set aside and 
+
+15 
+ 
+the arbitral award dated 08.11.2012 is restored to be 
+implemented in accordance with law. 
+25. 
+The appeal is allowed with no order as to costs. 
+26. 
+Pending application(s), if any, shall stand disposed of. 
+ 
+ 
+ 
+...................………………………….. J. 
+(PAMIDIGHANTAM SRI NARASIMHA) 
+ 
+ 
+ 
+.............……………………………….. J. 
+(PANKAJ MITHAL) 
+ 
+NEW DELHI; 
+SEPTEMBER 27, 2024

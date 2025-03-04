@@ -1,0 +1,210 @@
+2024 INSC 818
+1
+[NON-REPORTABLE]
+IN THE SUPREME COURT OF INDIA
+CRIMINAL APPELLATE JURISDICTION
+CRIMINAL APPEAL NO.3398/2024
+VIMALAKKA RAMAPPA KOLI @ TALWAR                  Appellant(s)
+                            VERSUS
+THE STATE OF KARNATAKA                          Respondent(s)
+JUDGMENT
+ABHAY S.OKA, J.
+FACTUAL ASPECTS
+1.
+The appellant-accused was prosecuted for the offences
+punishable under Sections 196, 198, and 420 of the Indian
+Penal Code, 1860 (for short, ‘the IPC’).  The allegation of
+the  prosecution  is  that  on  an  application  made  by  the
+appellant on 9th September, 2022 to the competent authority
+falsely claiming that she belongs to Hindu Holer Caste, which
+was a Scheduled Caste, a caste certificate was issued stating
+that she belongs to Hindu Holer Caste.  Based on the caste
+certificate, the appellant applied for a grant of a loan to
+Karnataka  Scheduled  Caste  and  Scheduled  Tribe  Development
+Corporation Limited, Belgaum and the loan was granted.  Later
+on, the certificate was scrutinized by the District Caste
+Verification Committee (the Committee), which concluded that
+the appellant did not belong to the Hindu Holer Caste but
+Digitally signed by
+KAVITA PAHUJA
+Date: 2024.11.20
+17:56:08 IST
+Reason:
+Signature Not Verified
+
+2
+belonged  to  the  Hindu  Talwar  Caste.  Accordingly,  the
+Committee  invalidated  the  caste  certificate.  Based  on  the
+First Information Report registered, a charge sheet was filed
+against  the  appellant  for  the  offences  punishable  under
+Sections 196, 198 and 420 of the IPC.  
+2.  The  learned  Judicial  Magistrate  passed  an  order  of
+acquittal.  In an appeal against acquittal preferred by the
+respondent-State, the Sessions Court, by judgment dated 21st
+January,  2015,  overturned  the  order  of  acquittal  and
+convicted  the  appellant  for  the  offences  punishable  under
+Sections 196, 198 and 420 of the IPC.  The appellant was
+sentenced to undergo simple imprisonment for three years and
+a  fine  of  Rs.5,000/-.   In  default,  he  was  sentenced  to
+undergo  simple  imprisonment  for  three  months.   The  same
+sentence  was  imposed  for  the  offences  punishable  under
+Sections 198 and 420 of the IPC.
+3.
+In a revision petition filed by the appellant, the High
+Court confirmed the conviction for the offences punishable
+under  Sections  198  and  420  of  the  IPC  by  the  impugned
+judgment. However, it acquitted the appellant for the offence
+punishable under Section 196 of the IPC.  The High Court
+reduced the substantive sentence to six months.
+SUBMISSIONS
+4.
+The submission of the learned counsel appearing for the
+appellant is that while overturning the order of acquittal,
+
+3
+there  is  no  finding  recorded  by  the  Sessions  Court  that
+ingredients of offences punishable under Sections 196, 198
+and 415 read with Section 420 of the IPC were proved by the
+prosecution.   He  submitted  that  the  Sessions  Court  was
+impressed by the fact that the appellant did not challenge
+the  order  cancelling  the  caste  certificate.   The  learned
+counsel  appearing  for  the  State  supported  the  impugned
+judgments of the Sessions Court and High Court.
+CONSIDERATION OF SUBMISSIONS
+5.
+We have carefully perused the judgment of the Trial and
+Sessions Courts. As far as an appeal against acquittal is
+concerned, the law is well settled. The Appellate Court has
+to examine whether the findings recorded in the acquittal
+judgment are plausible findings that could have been recorded
+based on the evidence on record.  Only if the Appellate Court
+is satisfied that the guilt of the accused is duly proved was
+the only plausible finding which could have been recorded
+based  on  the  evidence  on  record,  the  Appellate  Court  can
+overturn  the  order  of  acquittal.  In  this  case,  no  such
+finding  has  been  recorded  by  the  Sessions  Court.    Only
+because it is possible to take another view is no ground to
+overturn an order of acquittal. 
+6.
+We find that the Sessions Court has not adverted to the
+ingredients  of  the  offences  for  which  the  appellant  was
+convicted.  Perhaps the Sessions Court felt troubled because
+
+4
+there were many cases where the caste certificates issued by
+the competent authority were being invalidated, and people
+were taking undue advantage of such certificates.  Moreover,
+the  Sessions  Court  was  impressed  by  the  fact  that  the
+appellant  did  not  challenge  the  Committee’s  order
+invalidating the caste certificate.
+7.
+As there is no finding recorded that the ingredients of
+the  offences  alleged  have  been  proved,  the  order  of
+conviction passed by the Sessions Court cannot be sustained.
+Section 198 of the IPC reads thus:
+“198. Using as true a certificate known to
+be  false.—Whoever  corruptly  uses  or
+attempts to use any such certificate as a
+true  certificate,  knowing  the  same  to  be
+false  in  any  material  point,  shall  be
+punished in the same manner as if he gave
+false evidence.” 
+(Underline supplied)          
+The Section used the word “corruptly”. Therefore, it is
+obvious  that  mens  rea is  an  essential  ingredient  of  the
+offence.  Only because the appellant could not establish her
+caste claim before the Committee, one cannot conclude that
+the  appellant  corruptly  used  the  caste  certificate.
+Moreover, corruptly using the certificate is not sufficient.
+The  accused  must  have  knowledge  that  the  certificate  is
+false. The allegation that the certificate is false to the
+knowledge of the appellant must be proved by the prosecution.
+
+5
+8.
+When the competent authority grants a caste certificate,
+it can be invalidated on various grounds.  One reason can be
+that the person could not substantiate his caste claim.  The
+second  can  be  that  fabricated  or  forged  documents  were
+produced to support the caste claim. There is no finding that
+the caste certificate was invalidated on this ground.  It is
+not in dispute that the caste certificate was issued by the
+authority which was competent to issue it after following due
+procedure.  Therefore, the caste certificate, per se, cannot
+be false or fabricated. If a caste certificate is invalidated
+as the applicant could not prove his caste cannot be termed
+false only on the ground that it was invalidated. There is no
+evidence  to  show  that  the  caste  certificate  was  false.
+Therefore, the ingredients of Section 198 of the IPC were not
+made out.  
+9.  The same is the case with cheating, defined by Section
+415 of the IPC and punishable under Section 420 of the IPC.
+Fraudulent  or  dishonest  acts  are  essential  ingredients  of
+cheating.  The Sessions Court has recorded no such finding
+regarding any fraudulent or dishonest acts on the part of the
+appellant.
+10.
+This is not a case where the Committee had recorded a
+categorical  finding  on  facts  that  the  claim  made  by  the
+appellant was false.
+11.
+Considering the above discussion, it is evident that the
+
+6
+Sessions  Court  could  not  have  overturned  the  order  of
+acquittal.  The High Court while confirming the order of the
+Sessions  Court  has  not  even  considered  the  fact  that  the
+Sessions Court has not recorded a finding that ingredients of
+the  offences  were  established.  Therefore,  the  appeal  must
+succeed.  Judgment and order dated 21st January, 2015 passed
+by the Learned VII Additional District and Sessions Judge,
+Belgaum in Criminal Appeal No.2/2014 and judgment and order
+dated 11th August, 2015 passed by the High Court in Criminal
+Revision Petition No.100045/2015 are hereby set aside, and
+the  judgment  of  the  learned  Magistrate  dated  26th August,
+2013 in CC No.374/2005 is hereby restored.
+12.
+The Appeal is accordingly allowed.
+13.
+Pending application(s), if any, shall stand disposed of.
+                             ..........................J.
+                        (ABHAY S.OKA)  
+  
+   ..........................J.
+(AUGUSTINE GEORGE MASIH)
+NEW DELHI;
+OCTOBER 16, 2024.
+
+7
+ITEM NO.108               COURT NO.6            SECTION II-C
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Criminal Appeal  No.3398/2024
+VIMALAKKA RAMAPPA KOLI @TALWAR                   Appellant(s)
+                                VERSUS
+THE STATE OF KARNATAKA                          Respondent(s)
+(IA No. 95851/2024 - EXEMPTION FROM FILING O.T.
+IA No. 95848/2024 - PERMISSION TO FILE ADDITIONAL 
+DOCUMENTS/FACTS/ANNEXURES)
+ 
+Date : 16-10-2024 This matter was called on for hearing 
+today.
+CORAM : 
+         HON'BLE MR. JUSTICE ABHAY S. OKA
+         HON'BLE MR. JUSTICE AUGUSTINE GEORGE MASIH
+For Appellant(s)   Mr. Chandrashekhar A. Chakalabbi, Adv.
+                   Mr. S.K Pandey, Adv.
+                   Mr. Awanish Kumar, Adv.
+                   Mr. Anshul Rai, Adv.
+                   M/S. Dharmaprabhas Law Associates, AOR
+                   
+For Respondent(s)  Mr. D. L. Chidananda, AOR
+                   
+       UPON hearing the counsel the Court made the following
+                             O R D E R
+The  Appeal  is  allowed  in  terms  of  the  signed  Non-
+Reportable Judgment.
+Pending application(s), if any, shall stand disposed of.
+  (KAVITA PAHUJA)                            (AVGV RAMU)
+ASTT. REGISTRAR-cum-PS                     COURT MASTER (NSH)
+[Signed order is placed on the file]

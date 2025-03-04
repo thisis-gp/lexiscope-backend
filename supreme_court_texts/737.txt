@@ -1,0 +1,696 @@
+2024 INSC 763
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 1 of 19 
+ 
+REPORTABLE 
+ 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION 
+ 
+ 
+ 
+ 
+CIVIL APPEAL NO.                         OF 2024 
+[Arising out of SLP (Civil) No. 7257 of 2023] 
+ 
+ 
+ 
+ 
+SHASHI BHUSHAN 
+PRASAD SINGH 
+   ...APPELLANT(S)  
+ 
+ 
+VERSUS 
+ 
+ 
+THE STATE OF BIHAR 
+AND OTHERS  
+...RESPONDENT(S)  
+ 
+ 
+WITH 
+ 
+CIVIL APPEAL NO.                         OF 2024 
+[Arising out of SLP (Civil) No. 8967 of 2023] 
+ 
+CIVIL APPEAL NO.                          OF 2024 
+[Arising out of SLP (Civil) No. 10359 of 2023] 
+ 
+CIVIL APPEAL NO.                          OF 2024 
+[Arising out of SLP (Civil) No. 18369 of 2023] 
+ 
+CIVIL APPEAL NO.                          OF 2024 
+[Arising out of SLP (Civil) No. 22215 of 2023] 
+ 
+ 
+ 
+ 
+ 
+Digitally signed by
+Nisha Khulbey
+Date: 2024.10.04
+17:21:58 IST
+Reason:
+Signature Not Verified
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 2 of 19 
+ 
+J U D G M E N T 
+ 
+SATISH CHANDRA SHARMA, J.  
+ 
+1. 
+Leave Granted.  
+2. 
+The present batch of appeals arise out of judgement dated 
+16.02.2023, passed by the High Court of Judicature at Patna in 
+Civil Writ Jurisdiction Case No. 3411/2022 (‘CWJC’) along 
+with other connected matters (the ‘Impugned Order’),  whereby 
+the Writ Petitioners who were the unsuccessful candidates in the 
+Recruitment Process conducted pursuant to the Advertisement 
+dated 08.03.2019 for the post of Junior Engineer (Civil), had 
+challenged the vires of Rule 9(1)(ii) of the Bihar Water Resources 
+Department Subordinate Engineering (Civil) Cadre Recruitment 
+(Amendment) Rules 2017, published vide notification dated 
+07.11.2017, prescribing technical qualification eligibility for 
+selection/appointment to the technical post in the State of Bihar.  
+The appellants before this Court are the successful candidates in 
+the said Recruitment Process.  
+3. 
+The present matter begins with the issuance of 
+Advertisement No. 01/2019 dated 08.03.2019 by the Bihar 
+Technical Service Commission (‘BTSC’) inviting applications 
+for 6,379 vacancies to the post of Junior Engineer across various 
+state departments (the ‘Advertisement’). The Advertisement 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 3 of 19 
+ 
+specified that the educational qualification required for the post 
+of Junior Engineer (Civil) as under:  
+“Educational Eligibility.  
+a) 
+Junior Engineer (Civil) 
+i. 
+Diploma-in-Civil Engineering conferred by the 
+concerned Technical Educational Council/University 
+recognised by All India Council of Technical Education, 
+New Delhi.  
+ii. 
+Diploma-in-Civil Engineering through non-
+distance mode conferred by the concerned Deemed 
+University established under the UGC Act provided the 
+Deemed University is duly approved by the University 
+Grants Commission for the said Course.”  
+ 
+It is pertinent to note that this requirement is drawn from 
+and is identical to Rule 9(1)(iii) of the Bihar Water Resources 
+Department Subordinate Engineering (Civil) Cadre Recruitment 
+Rules, 2015 (the ‘Rules’) as amended in 2017.  
+4. 
+The private Respondents in the present appeal were the 
+Writ Petitioners before the High Court. They were all applicants 
+who possessed a Diploma from Private Universities/Institutions 
+established by statute and approved by the University Grants 
+Commission. Their applications were found ineligible by the 
+BTSC on the ground that their institutions were not approved by 
+the All-India Council of Technical Education (‘AICTE’). 
+Aggrieved, they approached the High Court seeking the quashing 
+of Rule 9(1)(iii) of the Rules as being inconsistent with other 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 4 of 19 
+ 
+statutory provisions and judgement of the Apex Court in 
+Bharathidasan University & Anr. vs. AICTE & Ors. 2001 (8) 
+SCC 676 wherein, on an interpretation of the provisions of the 
+All-India Council of Technical Education Act 1987, it was held 
+that Universities are excluded from the purview of technical 
+institutions and are thus not required to obtain approvals from the 
+AICTE before introducing technical courses/programs.  
+5. 
+The Writ Petitioners relied on public notice dated 
+09.02.2022 issued by the AICTE, to the VCs of all Central/State 
+and Private Universities about AICTE approval for 2022-23, 
+stating as follows:  
+“Dear Sir/Madam, 
+lt is intimated that Hon’ble Supreme Court of India in 
+case of Bharathidasan University & Another Vs AICTE 
+& Others has interpreted the provisions of the AICTE 
+Act and has held that university do not require prior 
+approval of AICTE to commence a new department of 
+course and programmes in technical education. 
+Universities have obligation or duty to conform to the 
+standards and norms laid down by the AICTE. For the 
+purpose of ensuring coordinated and integrated 
+development of technical education and maintenance of 
+standards, AICTE may cause an inspection of the 
+university, which has to be as per the provisions under 
+relevant rules/regulations of the AICTE. Further, all 
+affiliated institutions running technical education 
+programmes requires prior approval of AICTE. 
+However, it has been observed that some of the Central 
+/ State / Private Universities are taking partial approval 
+of AICTE for some selected Technical Courses / 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 5 of 19 
+ 
+Programmes, which is creating confusion among the 
+stakeholders. 
+ 
+Therefore, AICTE decided that no partial approval of 
+technical courses will be given to Universities in order 
+to avoid confusion among stakeholders. 
+ 
+Accordingly, all universities are hereby informed that 
+either they take full approval of all technical courses, 
+or they can continue without approval of AICTE.”  
+ 
+6. 
+It is relevant to note that the stand of the Writ Petitioners 
+was reinforced by the AICTE before the High Court, as made 
+explicit by their Counter Affidavit dated 12.05.2022, which read 
+as under:  
+ 
+“8. That so far the statements made in paragraph no. 
+15 of the writ petition concern it is submitted that 
+AICTE vide its public notification for approval process 
+2021-22 
+had 
+categorically 
+clarified 
+that 
+the 
+central/state public private universities are not required 
+to take approval of the AICTE for technical programs 
+except ODL and online courses.  This position has also 
+been confirmed in the public notice issued for approval 
+process 2022-23…………..” 
+ 
+7. 
+At this stage, it is apposite to observe that prior to the filing 
+of CWJC No. 3411/2022, the High Court was already hearing 
+several analogous writs challenging different provisions of the 
+Rules as applicable to the selection process under the 
+Advertisement. Accordingly, vide order dated 02.05.2019 passed 
+in CWJC No. 9887/2019, the BTSC was permitted to continue 
+the selection process, with the results to be kept in a sealed cover, 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 6 of 19 
+ 
+pending the outcome of the proceedings. This order was later 
+modified vide order dated 06.12.2019 in CWJC No. 21651/2018 
+whereby the High Court allowed the selection process to be 
+completed but directed that all orders of appointments must state 
+that appointments are subject to the outcome of the writ petitions 
+and therefore, the selected candidates cannot claim any equity.  
+8. 
+Accordingly, on 02.04.2022, the BTSC published its 
+selection list for the posts advertised under the Advertisement 
+(‘Select List’) and the selected candidates were also allotted to 
+specific departments. In compliance with the aforenoted interim 
+orders, the Select List reproduced the directions given by the 
+Court in order dated 06.12.2019 and explicitly stated that the 
+Select List shall be affected in light of the final order in the 
+pending proceedings.  
+9. 
+Thereafter, in a separate analogous writ proceeding being 
+CWJC No. 7312/2021, vide order dated 19.04.2022, Rule 4(A) 
+of the Rules which granted 40% institutional reservation to 
+diploma holders from State-run Polytechnic Institutes was found 
+to be arbitrary and unreasonable. Consequently, Select list 
+prepared in terms of Rule 4(A) was set aside and the BTSC was 
+directed to prepare a fresh select list granting 40% institutional 
+reservation to diploma holders from any polytechnic institute, 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 7 of 19 
+ 
+recognized by the AICTE and affiliated with the State Board of 
+Technical Institutions, Bihar and located within the State.  
+10. 
+Following this, the BTSC proceeded to finalise the merit 
+list under the Advertisement but were directed by the High Court 
+vide order 01.12.2022 in CWJC No. 7761/2022 to withhold the 
+declaration of results until leave is granted by the Court. A list 
+was prepared on 19.12.2022, put under sealed cover and 
+permission of the Court was sought by filing an interlocutory 
+application in CWJC No. 7761/2022 (the ‘Final Select List’). 
+The hearing of the application was adjourned after the Advocate 
+General informed the Court that the State Government was 
+contemplating a review of the entire process.  
+11. 
+On 25.01.2023, the Govt. of Bihar convened a high-level 
+meeting of Secretaries from different works departments to 
+consider the legal issues emerging from the numerous pending 
+litigations against the Rules and the Advertisement and the 
+consequent 4-year delay in appointments. A decision was taken 
+inter alia to cancel the appointment process under the 
+Advertisement and to initiate approval for the amended Rules.   
+12. 
+Once the decision dated 25.01.2023 was brought on record 
+before the High Court, the State Govt. was permitted to 
+implement its decisions dated 25.01.2023 and the Court 
+concluded that nothing remained in the matter. Accordingly, 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 8 of 19 
+ 
+CWJC No. 3411/2022 and all other analogous writs were 
+disposed of in the following manner:  
+ 
+“In the instant writ petitions, petitioners have prayed 
+for the following relief/reliefs: 
+i. For quashing of Rule 9(1)(ii) of Rules 
+“Bihar 
+Water 
+Resources 
+Department 
+Subordinate Engineering (Civil) Cadre 
+Recruitment (Amendment) Rules, 2017 
+contained in Notification no. 3950 dated 
+07.11.2017 
+prescribing 
+technical 
+qualification 
+eligibility 
+for 
+selection/appointment to the technical post 
+in the State of Bihar, as being inconsistent 
+with 
+other 
+statutory 
+provisions, 
+in 
+contravention of the Hon’ble Supreme 
+Court’s judgment and is violative of 
+fundamental rights guaranteed under the 
+Constitution of India.  
+ii. For declaration of the aforesaid rules as 
+being ultra vires to the Constitution of India 
+so far amendment of Rule -9(1)(iii) is 
+concerned.  
+iii. For any other relief/reliefs to which the 
+petitioner is found entitled to. 
+2. Matter is relating to selection and appointment to the 
+post of Junior Engineer.  In this regard, advertisement 
+was issued on 08.03.2019. From time to time, matter 
+was taken up for hearing and during the course of the 
+hearing we have noticed certain errors in the relevant 
+Rules governing the post of Junior Engineer.  
+Ultimately, State Government has taken a decision to 
+cancel the process of recruitment to the post of Junior 
+Engineer with reference to advertisement issued on 
+08.03.2019 and proposed to issue a fresh or amendment 
+of Rules while rectifying certain errors which have crept 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 9 of 19 
+ 
+in the existing Rules.  To that effect, supplementary 
+counter affidavit has been filed on behalf of respondent 
+No. 4 while enclosing decision dated 25.01.2023 vide 
+Annexure – A to the supplementary counter affidavit.   
+Perusal of the same, it is evident that certain errors 
+which have crept in the Rules would be carried in 
+amendment of relevant Rules etc.  The proposed action 
+of the State respondents reads as under:  
+‘4. After due deliberations on all aspects, it 
+was resolved that: 
+a. In view of the legal wrangle crept in 
+presently, the Recruitment process emanating 
+from the Advertisement No.01/2019 notified 
+by the Bihar Technical Service Commission 
+be cancelled.  
+b. The Department which earlier send its 
+requisition 
+for 
+appointment 
+to 
+the 
+Commission shall withdraw their respective 
+requisition from the Bihar Technical Service 
+Commission and such Department would 
+send their such requisition afresh only after 
+framing of new Recruitment Rules.  
+c. Action be also initiated for cancellation of 
+the Junior Engineer Recruitments Rules 
+which are presently in vogue in various 
+departments and thereafter, the amended 
+Junior Engineer Recruitments Rules be 
+framed.  
+d. Steps be taken as to the approval of the 
+Council of Ministers be accorded to the 
+amended junior Engineer Recruitment Rules 
+for the appointment of the Junior Engineer.’   
+3. In the light of these new developments, the present 
+petitions do not survive for consideration.  Accordingly, 
+State is permitted to carry out necessary amendment 
+and proceed afresh to advertise for the post of Junior 
+Engineer.  
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 10 of 19 
+ 
+4. From the date of last advertisement till date, almost 
+four years have elapsed, therefore, such of those 
+candidates who are likely to be over-aged with reference 
+to ensuing advertisement, for such of those candidates 
+(who are applicants to the advertisement dated 
+08.03.2019), State Government must make a provision 
+in the proposed amendment insofar as giving age 
+relaxation as a one time measure. The above exercise 
+shall be completed within a period of four months 
+from the date of receipt of this order.  
+5. Pending I.A., if any, stands disposed of. 
+6. At this stage, learned counsel for one of the contesting 
+respondent submitted that liberty may be reserved to 
+challenge the proposed amendment.   Such liberty is not 
+necessary for the reasons that as and when Rules or 
+amended rules were issued afresh, it would be a fresh 
+cause of action to the respective parties.”   
+ 
+13. 
+Learned Senior Counsels for the Appellants, Mr. Rajeev 
+Dhavan, Mr. Ranjit Kumar and Ms. Meenakshi Arora urged 
+before this Court that at the outset, the Writ Petitioners, having 
+knowingly participated in the selection process under the 
+Advertisement were bound by the doctrine of acquiescence and 
+therefore, could not have challenged the eligibility criteria post-
+facto. Reliance is placed on Punjab National Bank vs. Anit 
+Kumar Das (2021) 12 SCC 80 and The Chairman SBI & Anr. 
+vs. M.J. James (2022) 2 SCC 301.  
+14. 
+The learned counsels for the Appellants also contended 
+that the cancellation of the entire selection process after its 
+completion and preparation of the Final Select List, is unjustified 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 11 of 19 
+ 
+and amounts to changing the rules of the game after the 
+declaration of results, which is impermissible.  Reliance is placed 
+on K. Manjusree vs. State of Andhra Pradesh & Anr. (2008) 3 
+SCC 512. It is argued that the Appellants, who emerged 
+successful after the due process of selection which was carried 
+out as per the Advertisement, have a vested right to be appointed 
+and are instead being made to suffer though no fault of their own. 
+15. 
+They further contended that the decision taken by the State 
+Government and approved by the High Court amounts to 
+arbitrary action as it fails to specify the concern/anomaly with 
+Rule 9(1)(iii) which necessitated the cancellation of the entire 
+process.  
+16. 
+Learned Counsel for the Private Respondents i.e., the Writ 
+Petitioners before the High Court also contended that the 
+cancellation of the entire selection process, at such a tardy stage 
+would seriously impact their interests.  They argue that as per the 
+stand of the AICTE before the High Court, their applications 
+were eligible and should thus be reconsidered along with the 
+applications of the Appellants.   
+17. 
+Learned Senior Counsel for the State, Mr. Patwalia 
+vehemently contends that the State was well within its domain to 
+scrap the selection process considering the numerous legal issues 
+that cropped up concerning the previously applicable Rules. It is 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 12 of 19 
+ 
+brought to the notice of this Court that in furtherance of its 
+decisions, as approved by the Impugned Order, the Govt. of Bihar 
+has repealed the existing Rules and notified the Bihar 
+Subordinate Engineering (Civil/Mechanical/Electrical) Cadre 
+Rules, 2023 (the ‘New Rules’) vide Notification No. 1174 dated 
+07.03.2023. In compliance with the directions of the High Court, 
+appropriate provisions for the grant of one-time age relaxations 
+have also been made under Rule 8(2) of the New Rules. Further, 
+the BTSC has cancelled the Advertisement vide notice dated 
+10.04.2023 and fresh requisitions have been sent by the Water 
+Resources Department to the BTSC vide letter dated 21.03.2023 
+for selection against 2252 vacant posts for Junior Engineers in 
+that department.  
+18. 
+Mr. Patwalia further contends that the completion of the 
+selection process under the Advertisement, resulting in the Select 
+List and in the Final Select List was consistently carried out with 
+the rider that the appointments would be subject to the outcome 
+of the pending litigation. He argues that while the Select List was 
+partially set aside by the High Court vide order dated 19.04.2022, 
+the Final Select List was neither considered by the High Court 
+nor published, and therefore, no right to appointment vests with 
+the Appellants, making any claim to equity untenable.  
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 13 of 19 
+ 
+19. 
+At this stage, it is pertinent to note that while issuing 
+notice, this Court vide order dated 24.04.2023 directed the 
+maintenance of status quo which has persisted till date. As per the 
+most recent status report by the State, nearly 9,187 posts of Junior 
+Engineers remain vacant, drastically affecting the day-to-day 
+functioning of the State. As retirements are ongoing, the working 
+strength is continuously decreasing and is currently at 11.7%. In 
+recognition of the peculiar facts and circumstances of this case, 
+Mr. Patwalia has fairly stated before this Court that the State will 
+abide by any appropriate direction given by the Court.  
+20. 
+We have heard Learned Counsel for the parties and 
+perused the record.   
+21. 
+As evidenced above, the present case has a chequered 
+history. Before the Advertisement was released, an amendment 
+was brought to the Rules in 2017, more particularly to Rule 9, 
+which restricted the eligibility criteria only to those candidates 
+who possessed a Diploma from an institute approved by the 
+AICTE. This amendment was prima facie contrary to the 
+decision of this Court in Bharathidasan University (supra) 
+which is solidified by the stand of the AICTE before this Court 
+and their public notice dated 19.02.2022. However, despite this 
+infraction, the Advertisement contained the same restriction, 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 14 of 19 
+ 
+arbitrarily disqualifying persons like the Writ Petitioners from the 
+selection process.  
+22. 
+Thereafter, the first Select List that was prepared was 
+partly set aside vide order dated 19.04.2022 in CWJC No. 
+7312/2021 and the BTSC was directed to prepare a fresh Select 
+List as under:  
+“Accordingly, appointments made to extent in terms of 
+Rule 4(A) of amending Rules, 2017 are set aside and the 
+Bihar State Technical Selection Commission is directed 
+to prepare afresh select/merit list granting 40% 
+institutional reservation to all the diploma holders, who 
+have obtained their diploma certificate from any 
+polytechnic institutes recognized by AICTU and 
+affiliated by State Board of Technical Institutions, Bihar, 
+Patna within the State of Bihar.” 
+ 
+23. 
+Consequently, the Select List prepared on 02.04.2022 was 
+impliedly set aside and a Final Select List was prepared by the 
+BTSC in compliance with order dated 19.04.2022 but the same 
+was not released as ordered by the Patna High Court vide order 
+dated 01.12.2022 in another analogous writ proceeding being 
+CWJC No. 7761/2022 as under:  
+“…Process of selection and appointment, in terms of 
+advertisement dated 8.9.2019, is nearing completion.  
+Under these circumstances, as prayed for, we grant two 
+weeks’ time to file reply.  
+In the meanwhile, process of selection may carry on, 
+but the result shall not be declared without leave of the 
+Court.” 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 15 of 19 
+ 
+ 
+24. 
+It is pertinent to note that the order dated 19.04.2022 
+passed in CWJC No. 7312 of 2021 does not appear to have been 
+challenged further and has attained finality.  It is stated by the 
+BTSC that the Final Select List was prepared and kept under 
+sealed cover. While an application seeking release of the list was 
+pending before the High Court, the Writ Petition was withdrawn.  
+25. 
+During the present proceedings, vide order dated 
+10.09.2024, this Court sought information regarding the Final 
+Select List from the State Government and the same was 
+produced before this Court in sealed cover.  
+26. 
+Presently, despite the preparation of the Final Select List 
+which signals the conclusion of the appointment process, the 
+State Government seeks to scrap the entire process and undertake 
+a fresh appointment process under the New Rules.  In the 
+considered opinion of this Court, this amounts to effectively 
+changing the rules of the game after the game was played which 
+is impermissible and deprives the candidates of their legitimate 
+right of consideration under the previous Rules.   
+27. 
+The High Court in the impugned order has abruptly and 
+without assigning reasons and without adjudicating any issues 
+involved in the writ petitions, disposed of the same, recording the 
+statement made by the learned counsel for the State, and 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 16 of 19 
+ 
+permitted the State to amend Rules in question. Since, the entire 
+recruitment process was concluded as per the extant Rules till the 
+selection list was declared on 02.04.2022, which has not been 
+specifically set aside by the High Court, and since the AICTE has 
+also continued its stand that its approval is not necessary for the 
+private institutions, and since the order dated 19.04.2022 passed 
+in CWJC No. 7312/2021 has attained finality, in our opinion, the 
+interest of justice would be met if the State/Commission is 
+directed to prepare a fresh select list of meritorious candidates in 
+respect of the Advertisement dated 08.03.2019, keeping in view 
+the above facts and keeping in view that no appointments to the 
+post of Junior Engineer (Civil) have been made since last more 
+than ten years. 
+Hence, it is required to be directed that a fresh 
+selection list for the vacancies advertised in the Advertisement 
+dated 08.03.2019 be prepared of the meritorious candidates, 
+considering the above observations and in compliance with the 
+order dated 19.04.2022 passed by the High Court in CWJC No. 
+7312/2021 as expedient as possible and preferably within three 
+months of this order. 
+28. 
+In this regard, the field is held by the three-judge bench 
+decision of this Court in K. Manjusree (supra) wherein the Court, 
+relying on previous decisions, explicitly held that introducing 
+new requirements into the selection process after the entire 
+selection process was completed amounted to changing the rules 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 17 of 19 
+ 
+of the game after the game was played. Relevant portions of the 
+judgement are reproduced as under:  
+“27. But what could not have been done was the second 
+change, by introduction of the criterion of minimum 
+marks for the interview. The minimum marks for 
+interview had never been adopted by the Andhra 
+Pradesh High Court earlier for selection of District & 
+Sessions Judges, (Grade II). In regard to the present 
+selection, the Administrative Committee merely adopted 
+the previous procedure in vogue. The previous 
+procedure as stated above was to apply minimum marks 
+only for written examination and not for the oral 
+examination. We have referred to the proper 
+interpretation of the earlier Resolutions dated 24-7-
+2001 and 21-2-2002 and held that what was adopted on 
+30-11-2004 was only minimum marks for written 
+examination and not for the interviews. Therefore, 
+introduction of the requirement of minimum marks 
+for interview, after the entire selection process 
+(consisting of written examination and interview) was 
+completed, would amount to changing the rules of the 
+game after the game was played which is clearly 
+impermissible. We are fortified in this view by several 
+decisions of this Court. It is sufficient to refer to three of 
+them 
+— P.K. 
+Ramachandra 
+Iyer v. Union 
+of 
+India [(1984) 2 SCC 141 : 1984 SCC (L&S) 214] 
+, Umesh Chandra Shukla v. Union of India [(1985) 3 
+SCC 721 : 1985 SCC (L&S) 919] and Durgacharan 
+Misra v. State of Orissa [(1987) 4 SCC 646 : 1988 SCC 
+(L&S) 36 : (1987) 5 ATC 148]  
+32. In Maharashtra 
+SRTC v. Rajendra 
+Bhimrao 
+Mandve [(2001) 10 SCC 51 : 2002 SCC (L&S) 720] this 
+Court observed that “the rules of the game, meaning 
+thereby, that the criteria for selection cannot be altered 
+by the authorities concerned in the middle or after the 
+process of selection has commenced”. In this case the 
+position is much more serious. Here, not only the rules 
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 18 of 19 
+ 
+of the game were changed, but they were changed 
+after the game had been played and the results of the 
+game were being awaited. That is unacceptable and 
+impermissible.” 
+ 
+29. 
+Therefore, in light of the aforenoted position, the State 
+action of scrapping the entire selection process is not permissible.  
+In view of the peculiar circumstances of this case, particularly the 
+prolonged pendency leading to huge number of vacant posts that 
+hinder the Government’s functioning, this Court finds it 
+appropriate for the State/BTSC to proceed with the Fresh Select 
+List submitted in compliance with the order dated 19.04.2022 in 
+CWJC No. 7312/2021 which has attained finality, as also taking 
+into consideration as far as possible, the interest of the candidates 
+who were found successful.  Hence, the Fresh Select List must 
+be appropriately revised in the following manner: 
+(i) 
+The Fresh Select List be prepared in view of order dated 
+19.04.2022 passed by the High Court in CWJC No. 7312/2021. 
+(ii) 
+The Fresh Select List shall also include as far as possible 
+those meritorious candidates who were otherwise eligible but 
+were declared ineligible solely on account of the 2017 
+amendment to the Rules i.e., on account of their institute not 
+being recognised by the AICTE, and all similarly placed 
+successful candidates.  
+
+SLP (Civil) No. 7257 of 2023 & Ors. 
+ 
+Page 19 of 19 
+ 
+(iii) 
+The BTSC is directed to prepare the Revised Select List 
+within 3 months of this Order and the State Government is 
+directed to act upon the Revised Select List submitted by the 
+Commission within a period of 30 days thereafter.  
+30. 
+Accordingly, the present appeals are disposed of with the 
+aforenoted directions.  
+ 
+ 
+ 
+……………………………………J. 
+         [BELA M. TRIVEDI] 
+ 
+ 
+ 
+ 
+ 
+……………………………………J. 
+   [SATISH CHANDRA SHARMA] 
+ 
+NEW DELHI 
+OCTOBER 04, 2024

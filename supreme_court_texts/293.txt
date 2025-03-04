@@ -1,0 +1,457 @@
+2024 INSC 333
+ 
+Civil Appeal No. 7708 of 2014 
+ 
+Page 1 of 11 
+ 
+REPORTABLE 
+ 
+IN THE SUPREME COURT OF INDIA 
+ 
+CIVIL APPELLATE JURISDICTION 
+ 
+CIVIL APPEAL NO.              OF 2024 
+(ARISING OUT OF SPECIAL LEAVE PETITION (CIVIL) NO.8488 OF 2024)  
+ 
+ 
+ARCADIA SHIPPING LTD. 
+.....  
+APPELLANT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VERSUS 
+ 
+ 
+  
+ 
+TATA STEEL LIMITED AND OTHERS 
+.....  
+RESPONDENTS 
+ 
+ 
+O R D E R  
+ 
+SANJIV KHANNA, J. 
+Leave granted.  
+ 
+2. 
+This order gives reasons and decides a question of territorial jurisdiction under 
+the Code of Civil Procedure, 19081. 
+ 
+3. 
+We begin by briefly referring to the facts of the case and pleadings in the plaint 
+- Suit No. 458/2000: 
+ 
+o The original plaintiff is Bhushan Steel & Strips Ltd2. Bhushan Steel has 
+merged with Tata Steel Limited (respondent no. 1 before this Court). 
+o The defendant nos. 1-4 are, TYO Trading Enterprises3 (respondent no. 
+2 before this Court), Commercial Bank of Ethiopia4 (respondent no. 3 
+before this Court), Arcadia Shipping Limited5 (appellant before this 
+ 
+1 For short, “Code.” 
+2 For short, “Bhushan Steel”. 
+3 For short, “TYO Trading”. 
+4 For short, “Bank of Ethiopia”. 
+5 For short, “Arcadia”. 
+Digitally signed by
+babita pandey
+Date: 2024.04.24
+15:20:45 IST
+Reason:
+Signature Not Verified
+
+ 
+Civil Appeal No. 7708 of 2014 
+ 
+Page 2 of 11 
+ 
+Court) and M.G. Trading Worldwide Pvt Ltd6 (respondent no. 4 before 
+this Court). 
+o Bhushan Steel was, inter alia, a manufacturer of galvanized steel 
+corrugated sheets. 
+o TYO Trading was a company based in Ethiopia that had instructed its 
+agent, M.G. Trading, to place certain supply orders for galvanized steel 
+corrugated sheets with Bhushan Steel.  
+o Accordingly, M.G. Trading placed orders with Bhushan Steel, at Delhi, 
+for the supply of 400 MT of galvanized steel corrugated sheets. 
+o TYO Trading had initially opened the Letter of Credit in favour of its 
+agent M.G. Trading.  
+o Subsequently, the Letter of Credit was transferred in the name of 
+Bhushan Steel, pursuant to which, the material was dispatched by 
+Bhushan Steel, as per the supply orders.  
+o The material was loaded by the shippers, Arcadia, in their vessel - 
+Winco Pioneer, from a port in Mumbai, India to a port in Djibouti, 
+Ethiopia.  
+o Arcadia undertook the shipment vide two bills of lading7 -(i) Bill of Lading 
+No. DJB-06 for 200 MT of galvanized steel corrugated sheets and (ii) 
+Bill of Lading No. DJB-07 for 198 MT of galvanized steel corrugated 
+sheets. 
+o The freight charges for shipping were prepaid by Bhushan Steel to 
+Arcadia.  
+o Arcadia was directed to deliver the goods to the order of the Bank of 
+ 
+6 For short, “M.G. Trading”. 
+ 
+
+ 
+Civil Appeal No. 7708 of 2014 
+ 
+Page 3 of 11 
+ 
+Ethiopia, to whom documents had been submitted by Bhushan Steel 
+through their bankers, Punjab National Bank8. The documents were to 
+be negotiated under the Letter of Credit.  
+o PNB had sent the said documents to the Bank of Ethiopia for making 
+the payments. All formalities for encashing the Letter of Credit had been 
+completed by Bhushan Steel.   
+o However, Bank of Ethiopia refused to encash the Letter of Credit on the 
+grounds of discrepancies.  
+o Vide fax message dated 25.08.1999, Bhushan Steel was informed by 
+Arcadia that both the shipments had been released to the consignee, 
+TYO Trading, as they had duly presented a Bill of Lading, endorsed by 
+Bank of Ethiopia.  
+o Vide letter dated 07.09.1998, TYO Trading informed Bhushan Steel, 
+through M.G. Trading, that they had made the payment, which would be 
+released by the Bank of Ethiopia. 
+o The payment was not received by Bhushan Steel. The material was 
+delivered and could not be shipped back to Bhushan Steel. 
+o Thus, the defendants had taken a contradictory stand. While TYO 
+Trading had stated that they had paid for the goods, the Bank of Ethiopia 
+had refused to honour the Letter of Credit. Arcadia had stated that the 
+material had been released to TYO Trading upon presentation of the 
+Bill of Lading which was duly endorsed by the Bank of Ethiopia. Further, 
+PNB had returned the original documents, including the Bill of Ladings 
+to Bhushan Steel stating that they had received them without any 
+ 
+8 For short, “PNB”. 
+
+ 
+Civil Appeal No. 7708 of 2014 
+ 
+Page 4 of 11 
+ 
+encashment of the Letter of Credit by the Bank of Ethiopia.  
+o Paragraphs 22 and 29 of the plaint read as under: 
+“22. That thus the fact remains that the payment of the said 
+bill of lading has not been paid to the plaintiff and is still 
+liable to be paid to the plaintiff and the plaintiff is fully 
+entitled for an amount of US$ 2,76,510 which is the liability 
+of defendant no.l and 2 in the event of goods rightly being 
+released by defendant no. 3 after obtaining duly endorsed 
+bill of lading from defendant no. 2, but in case the goods 
+had been released without obtaining the endorsement then 
+it is the liability of defendant nos. 1, 2 and 3 jointly and 
+severally towards plaintiff for making payment thereof as 
+defendant no. 2 cannot escape its liability under any 
+circumstances as if the irrevocable Letter of Credit would 
+not have been issued by defendant no.2 duly transferred in 
+favour of plaintiff, the plaintiff would not have supplied the 
+said goods and since despite the fact that all the conditions 
+of supply was fulfilled by plaintiff of the irrevocable Letter of 
+Credit, the defendant no.2 have not released the payment, 
+therefore the liability of defendant no.2  remains in al1 
+eventuality and the liability of defendant no.3 arises if they 
+had delivered the goods without obtaining endorsement 
+from defendant no.2 and as such in order to escape their 
+liability defendant no. 3 to establish and prove that they hold 
+with them the original Bill- of Lading duly endorsed by 
+defendant no.2 to release the said goods in favour of 
+defendant no.l, otherwise defendant no.3 cannot escape its 
+liability for payment. This is so the original documents have 
+been returned back unpaid to the plaintiff by their bankers 
+Punjab National Bank and as such it is surprising as to how 
+the goods had been released by defendant no. 3 as 
+confirmed by them in favour of defendant no. 1 vide their 
+fax dated 29th August, 1999.  
+xxx  
+ 
+ 
+   xxx  
+ 
+  
+  xxx 
+29. That the cause of action arose for the first time when 
+defendant no.4 assigned the said order placed by 
+defendant no.l in favour of plaintiff; again arose on 23rd 
+June, 1998 when the goods were supplied to defendant 
+no.l 
+and 
+was sent to defendant no. 3; again arose on 7th 
+September, 1998, when defendant no. 1 confirmed 
+having made the payment to defendant no.2 and assure 
+the early release of the payment; again arose when the 
+documents were returned to the plaintiff on 23rd August, 
+
+ 
+Civil Appeal No. 7708 of 2014 
+ 
+Page 5 of 11 
+ 
+1999 when the plaintiff enquired about the status of the 
+goods; again arose on 25th August, 1999 when defendant  
+no.3 confirmed having delivered the goods to defendant 
+no.l and the authority of defendant no.2 and finally arose 
+on 29th November, 1999 when despite the legal notice 
+the defendants failed to release the payment and is a 
+continuing one.” 
+ 
+In this manner, it was pleaded that if an endorsement on the Bill of 
+Lading was made by the Bank of Ethiopia, they would be liable. Arcadia 
+would be liable if they were not able to establish and prove that the 
+original Bill of Lading was duly endorsed by the Bank of Ethiopia.  
+o Accordingly, the defendants were jointly and severally liable.  
+o Paragraph 30 of the plaint relating to the territorial jurisdiction reads as 
+under: 
+“That the cause of action arose at Delhi as the  order 
+was placed at Delhi and the payment was to be 
+released at Delhi, therefore this Hon'ble Court has got 
+the Jurisdiction to try and adjudicate upon the present 
+suit.” 
+ Bhushan Steel had thus pleaded that the High Court at Delhi 
+possessed territorial jurisdiction to decide the Suit. 
+ 
+4. 
+Vide judgement/order dated 20.12.2017, the Single Judge of the High Court at 
+Delhi recording the following findings:   
+o Bank of Ethiopia had refused to honour the Letter of Credit on account 
+of discrepancies as the goods were shipped late and the documents 
+were presented after the course of negotiation.  
+o Goods were released and in spite of efforts of Bhushan Steel to call 
+back the shipment, the goods could not be retrieved.  
+o TYO Trading Enterprises was untraceable and were proceeded ex-
+parte.  
+
+ 
+Civil Appeal No. 7708 of 2014 
+ 
+Page 6 of 11 
+ 
+o Arcadia had loaded and shipped the goods, however, they failed to 
+divulge the actual recipient in Ethiopia. Arcadia failed to inform 
+Bhushan Steel about their due compliance. Acadia had taken 
+conflicting and inconsistent stands regarding the person to whom the 
+goods were released. The original documents, including the Bills of 
+Lading were returned to Bhushan Steel and were in their possession. 
+Thus, the goods could not have been released by Arcadia without the 
+production of the original Bill of Ladings which were with Bhushan 
+Steel.  
+o Therefore, the goods were released by Arcadia unauthorisedly and 
+have not been accounted for by them. Accordingly, Arcadia is liable 
+to Bhushan Steel for the loss suffered.9 Arcadia should pay Bhushan 
+Steel the value of the goods, without any interest.  
+   
+Despite these findings, the Single Judge directed the return of the plaint on the 
+question of territorial jurisdiction, as reproduced below: 
+ “Issue No. 1 
+27. This Court agrees with defendant No.3's 
+contention that this Court lacks territorial junsdiction 
+to entertain and decide the  present suit. Apparently, 
+no cause of action arose against defendant No.3 
+within the jurisdiction of the Court to grant the relief 
+prayed for. Defendant No. 3 carries on its business at 
+Mumbai. It is not at controversy that the goods in 
+question were shipped / loaded at Mumbai, the freight 
+charges were paid there. The goods were to be 
+delivered at Djibouti Port, Ethiopia Apparently, no 
+cause of action whatsoever qua defendant No. 3 
+arose at Delhi to attract the teritorial jurisdiction of this 
+Court. This Court has no jurisdiction to entertain and 
+ 
+9 The judgment records that Arcadia had not disclosed who was the ‘Principal’, who was an undisclosed 
+foreign party. Arcadia had not produced document to show if the freight charges were received on 
+behalf of the ‘Principal’ etc.   
+
+ 
+Civil Appeal No. 7708 of 2014 
+ 
+Page 7 of 11 
+ 
+decide the present suit qua the defendant No. 3. This 
+issue is decided in favour of the defendant No.3 and 
+against the plaintiff.  
+Relief  
+28. Since this Court has no territorial jurisdiction to 
+entertain and decide the present suit qua defendant 
+No. 3, the relief claimed by the plaintiff against 
+defendant No. 3 cannot be granted. 
+ 
+29. Plaint be returned to the plaintiff to be presented 
+before the Court of Competent Jurisdiction, as per 
+law.”  
+ 
+5. 
+A Division Bench of the High Court at Delhi, vide judgment/order 09.01.2024, 
+allowed an appeal against the judgement/order passed by the Single Judge 
+dated 20.12.2017, in an appeal preferred by Tata Steel Limited. 
+ 
+6. 
+The present appeal has been preferred by the appellant – Arcadia against the 
+judgment/order of the Division Bench of the High Court at Delhi, dated 
+08.01.2024.  
+ 
+7. 
+Arcadia submits that two distinct transactions occurred: first, the sale of goods 
+and second, a shipment of goods from Mumbai to Djibouti. Arcadia 
+emphasizes that their involvement was restricted to the second transaction. 
+Notably, the supply orders, integral to the first transaction, were placed in Delhi. 
+Thus, Arcadia submits that a suit cannot be brought against them in Delhi, as 
+they were not a part of the first transaction and their businesses were located 
+out of Mumbai. 
+ 
+8. 
+In our opinion, the contention raised by Arcadia has no merit. The transactions 
+are intrinsically intertwined and cannot be compartmentalized into watertight 
+
+ 
+Civil Appeal No. 7708 of 2014 
+ 
+Page 8 of 11 
+ 
+silos. The shipment of goods was linked and connected with the sale of goods 
+by Bhushan Steel through, inter alia, the Bill of Lading. A Bill of Lading 
+essentially serves a tri-fold purpose: (a) it is receipt of the goods shipped and 
+the terms on which they have been received; (b) it is evidence for the contract 
+of carriage of goods; and (c) it is a document of title for the goods specified 
+therein. Consequently, the release of goods by the shipper, Arcadia, hinged 
+upon the presentation of the Bill of Lading by the receiver, TYO Trading at the 
+point of receipt. However, the Bill of Lading necessitated proper endorsement 
+by the Bank of Ethiopia since they were the issuers of the Letter of Credit. 
+Bhushan Steel remained the owner of the goods. In this manner, the actions 
+of Arcadia and the transactions were interconnected with each other. Upon 
+reading paragraphs 22, 29 and 30 of the plaint referred to above and after 
+perusing the facts of the case, it is clear to us that a part of the cause of action 
+had arisen in Delhi.  
+ 
+9. 
+It would be opportune to refer to the provisions of the Code. 
+ 
+10. 
+Section 20(c) of the Code accords dominus litis to the plaintiff to institute a suit 
+within local limits of whose jurisdiction the cause of action, wholly or in part 
+arises.10 Every suit is based upon the cause of action, and the situs of the 
+cause of action, even in part, will confer territorial jurisdiction on the court. The 
+expression ‘cause of action’ can be given either a restrictive or wide meaning. 
+ 
+10 “20. Other suits to be instituted where defendants reside or cause of action arises.—Subject to the 
+limitations aforesaid, every suit shall be instituted in a Court within the local limits of whose 
+jurisdiction— 
+xxx 
+ 
+ 
+ 
+ 
+ 
+xxx 
+ 
+ 
+ 
+ 
+ 
+xxx 
+(c) the cause of action, wholly or in part, arises. 
+
+ 
+Civil Appeal No. 7708 of 2014 
+ 
+Page 9 of 11 
+ 
+However, it is judicially read to mean - every fact that the plaintiff should prove 
+to support their right to the judgment.  
+ 
+11. 
+Order I Rule 3 of the Code states that the plaintiff may join as a defendant in 
+one suit, all persons against whom, the plaintiff claims the right to relief in 
+respect of, or arising out of, the same act or transaction or series of 
+transactions.11 The claim viz. the defendants can be joint, several or in the 
+alternative. Thus, it is permissible to file one civil suit, even when, separate 
+suits can be brought against such persons, when common questions of law 
+and fact arise.  
+ 
+12. 
+Order I Rule 7 of the Code permits a plaintiff who is in doubt as to the person 
+from whom they are entitled to obtain redress, to join two or more defendants 
+in order that the question as to which of the defendants is liable, and to what 
+extent, can be decided in one suit.12  
+ 
+13. 
+The supply order was placed in Delhi and the payment was to be released in 
+Delhi. Accordingly, the cause of action arose in part at Delhi, in terms of 
+Section 20(c) of the Code.  As per Order I Rules 3 and 7 of the Code, it was 
+permissible for Bhushan Steel to enjoin in a single suit all the defendants, 
+including Arcadia. Their claim of right to relief lies against all such defendants. 
+ 
+11 “3. Who may be joined as defendants.—All persons may be joined in one suit as defendants 
+where— 
+(a) any right to relief in respect of, or arising out of, the same act or transaction or series of acts or 
+transactions is alleged to exist against such persons, whether jointly, severally or in the alternative; 
+and 
+(b) if separate suits were brought against such persons, any common question of law or fact would 
+arise.” 
+12 “7. When plaintiff in doubt from whom redress is to be sought.— Where the plaintiff is in doubt as to 
+the person from whom he is entitled to obtain redress, he may join two or more defendants in order 
+that the question as to which of the defendants is liable, and to what extent, may be determined as 
+between all parties.” 
+
+ 
+Civil Appeal No. 7708 of 2014 
+ 
+Page 10 of 11 
+ 
+Further, the relief claimed was in respect of or arising out of a series of 
+transactions, the sale of goods and then their shipment, which transactions 
+were connected and synchronized with the relief claimed. The cause of action 
+could not have been adjudicated without impleading all the defendants as 
+parties. Thus, in terms of Order I Rule 3, the relief claimed by Bhushan Steel 
+lies against all the defendants, albeit to different extents and was ‘in respect of 
+and arises out of a series of transactions’. Thus, Bhushan Steel was within its 
+rights to enjoin all the defendants under a single suit as per Order I Rule 7 of 
+the Code such that the extent of liability of each defendant could be decided in 
+the same suit.   
+ 
+14. 
+Therefore, the Division Bench of the High Court was right in setting aside the 
+finding recorded by the Single Judge viz issue no. 1 – territorial jurisdiction. 
+ 
+15. 
+However, we must also record that a question of territorial jurisdiction should 
+ordinarily be decided at the outset rather than being deferred till all matters are 
+resolved. In the judgment dated 20.09.2017, the Single Judge held that no 
+liability can be fastened to TYO Trading and Bank of Ethiopia. However, it held 
+that liability could be fastened to Arcadia. In the context of the dispute in 
+question, the different and divergent stands of the defendants, the remedy was 
+to file a civil suit against the defendants, which in the facts was maintainable in   
+Delhi, a part of the cause of action having arisen in Delhi.  
+ 
+16. 
+Hence, the Single Judge erred in upholding Arcadia’s contention regarding 
+lack of territorial jurisdiction of the Delhi High Court and absence of any cause 
+of action arising against them in Delhi, based on their businesses being located 
+in Mumbai. 
+
+ 
+Civil Appeal No. 7708 of 2014 
+ 
+Page 11 of 11 
+ 
+ 
+17. 
+For the aforesaid reasons, the present civil appeal is dismissed. 
+ 
+18. 
+Pending application(s), if any, shall stand disposed of.  
+ 
+ 
+......................................J. 
+(SANJIV KHANNA) 
+ 
+ 
+......................................J. 
+(DIPANKAR DATTA) 
+ 
+NEW DELHI; 
+APRIL 16, 2024.

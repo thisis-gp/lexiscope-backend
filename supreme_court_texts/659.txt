@@ -1,0 +1,209 @@
+2024 INSC 743
+REPORTABLE
+ IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 10472     OF 2024
+(Arising out of SLP (C) No. 2792 of 2020) 
+R.P. GARG                                                                 …APPELLANT(S)
+                                                      VERSUS
+THE CHIEF GENERAL MANAGER, 
+TELECOM DEPARTMENT & ORS.
+      …RESPONDENT(S)
+J U D G M E N T
+PAMIDIGHANTAM SRI NARASIMHA, J.
+1.
+Leave granted.
+2.
+The short question before us is whether the appellant is entitled
+to post award interest on the sum awarded by the Arbitrator. The
+Arbitrator  denied  payment  of  such  interest  under  a  misplaced
+impression that the contract between the parties prohibited it. The
+executing Court1 affirmed the finding of the Arbitrator and rejected the
+prayer. However, allowing the appeal, the District Court2 held that the
+appellant  will  be  entitled  to  post  award  interest.  By  the  order
+1 Order in M.A No. 19 of 2001 dated 10.10.2002.
+2 Order passed by the District Judge in Civil Appeal no.86 of 11.11.2002 dated 04.03.2003
+1
+Digitally signed by
+Rajni Mukhi
+Date: 2024.09.27
+18:12:11 IST
+Reason:
+Signature Not Verified
+
+impugned before us, the High Court3 allowed the revision and set aside
+the District Court order while holding that the contract between the
+parties did not permit grant of post award interest. 
+2.1
+For the reasons to follow, while allowing the appeal we have held
+that as this is a case arising out of the Arbitration and Conciliation
+Act, 19964, by operation of Section 31(7)(b), the  sum  directed to be
+paid under  the  Arbitral  Award  shall carry  interest.  This  is  a  first
+principle. A sum directed to be paid by an Arbitral Award must carry
+interest. In this view of the matter, we have restored the judgment of
+the District Court granting 18% interest from the date of the award to
+its realization. The short facts are as under: 
+3.
+ A contract was executed on 17.10.1997 between the appellant
+contractor, and the Telecom Department of Haryana, Respondents 1
+and 2 herein, for trenching and laying of underground cables. Terms of
+the contract required the appellant to furnish a security of Rs. 10
+Lakhs.  Disputes  that  arose  with  respect  to  non-payment  of  bills
+submitted  by  the  appellant  during  execution  of  the  contract  were
+referred  to  Arbitrator  appointed  under  Section  11  of  the  Act  on
+24.10.2000.  
+4.
+The  Arbitrator  passed  the  Award  on  08.03.2001.  In  the  said
+Award, though the claim of the appellant was allowed, his plea for
+3 Order dated 14.05.2019 passed by the High Court of Punjab and Haryana in Civil Revision No.
+2561 of 2003
+4  Hereinafter referred to as ‘the Act’
+2
+
+interest was denied on the ground that there is a specific clause in the
+Arbitration Agreement prohibiting the same. 
+5.
+During execution of the Award, the appellant claimed payment of
+post award interest on the Award by raising a specific objection to that
+effect. However, the learned Civil Judge, Senior Division vide his order
+dated 10.10.2002 dismissed the objection and affirmed the original
+award.
+6.
+Aggrieved,  the  appellant  filed  an  appeal.  The  District  Judge
+allowed the appeal and by Order dated 04.03.2003 directed payment of
+post award interest at the rate of 18% on the Award amount. The
+appellant was also directed to approach the trial court for recovery of
+the same. 
+7.  Being aggrieved, the Telecom Department, the respondent herein,
+filed a Civil Revision Petition before the High Court which was allowed
+by the High Court by the order impugned before us. The High Court
+looked into sub-clause (iv) of Clause 1 of the Contract entered between
+parties which provides for the scope of the grant of interest on certain
+payment. The sub clause is as under:-
+“No  interest  will  be  payable  on  the  earnest  money  or
+security deposit amount or any amount  payable  to  the
+contractor under the contract.”
+8.
+Assuming  that  the  above  referred  clause  of  interest  is  an
+agreement between the parties prohibiting the grant of interest, the
+3
+
+High Court proceeded to allow the Revision and set aside the grant of
+interest.  The  High  court  referred  to  the  decision  of  this  Court  in
+Jaiprakash  Associates  Ltd.  v.  Tehri  Hydro  Development  Corporation
+(India) Ltd.5 and came to the conclusion that the Supreme Court has
+laid down a precedent that interest cannot be paid when a contractual
+clause specifically prohibits it. 
+9. We are of the opinion that the judgment of High Court is clearly
+erroneous. Firstly, the interest granted by the First Appellate Court
+only related to post award period, and therefore, for this period, the
+agreement between the parties has no bearing. Section 31(7)(b) deals
+with grant of interest for post award period i.e., from the date of the
+award till its realization.  The statutory scheme relating to grant of
+interest provided in Section 31(7) creates a distinction between interest
+payable before and after the award. So far as the interest before the
+passing of the award is concerned, it is regulated by Section 31(7)(a) of
+the Act which provides that the grant of interest shall be subject to the
+agreement  between  the  parties.  This  is  evident  from  the  specific
+expression  at  the  commencement  of  the  sub-section  which  says
+“unless otherwise agreed by the parties”.
+10.  The relevant extract of Section 31 of the Act is reproduced herein
+for ready reference:
+“31 Form and contents of arbitral award. 
+5 (2019) 17 SCC 786.
+4
+
+“…
+7(a) Unless otherwise agreed by the parties, where and
+in so far as an arbitral award is for the payment of
+money, the arbitral tribunal may include in the sum for
+which the award is made interest, at such rate as it
+deems  reasonable,  on  the  whole  or  any  part  of  the
+money, for the whole or any part of the period between
+the date on which the cause of action arose and the date
+on which the award is made.
+(b) A sum directed to be paid by an arbitral award shall,
+unless the award otherwise directs, carry interest at the
+rate  of  two  per cent, higher than  the  current  rate  of
+interest prevalent on the date of award, from the date of
+award to the date of payment.”
+11.
+So far as the entitlement of the post-award interest is concerned,
+sub-Section (b) of Section 31(7) provides that the sum directed to be
+paid by the Arbitral Tribunal shall carry interest. The rate of interest
+can  be  provided  by  the  Arbitrator  and  in  default  the  statutory
+prescription  will  apply.  Clause  (b)  of  Section  31(7)  is  therefore  in
+contrast with clause (a) and is not subject to party autonomy. In other
+words, clause (b) does not give the parties the right to “contract out”
+interest for the post-award period. The expression ‘unless the award
+otherwise directs’ in Section 31(7)(b) relates to rate of interest and not
+entitlement of interest. The only distinction made by Section 31(7)(b) is
+that  the  rate  of  interest  granted  under  the  Award  is  to  be  given
+precedence over the statutorily prescribed rate. The assumption of the
+High Court that payment of the interest for the post award period is
+subject to the contract is a clear error.
+12.
+The clear position of law that granting post-award interest is not
+subject to the contract between the parties was recently affirmed in
+5
+
+the decision of this Court in  Morgan Securities & Credits (P) Ltd. v.
+Videocon Industries Ltd.,6 wherein the court observed as follows:  
+“24. The issue before us is whether the phrase “unless the
+award otherwise directs” in Section 31(7)(b) of the Act only
+provides the arbitrator the discretion to determine the rate of
+interest or both the rate of interest and the “sum” it must be
+paid against.  At this juncture, it is crucial to note that both
+clauses (a) and (b) are qualified. While, clause (a) is qualified
+by the arbitration agreement, clause (b) is qualified by the
+arbitration award. However, the placement of the phrases is
+crucial to their interpretation. The words, “unless otherwise
+agreed by the parties” occur at the beginning of clause (a)
+qualifying the entire provision. However,  in clause (b), the
+words, “unless the award otherwise directs” occur after the
+words “a sum directed to be paid by an arbitral award shall”
+and before the words “carry interest at the rate of eighteen
+per cent”. Thereby, those words only qualify the rate of post-
+award interest.
+25.  Section  31(7)(a)  confers  a  wide  discretion  upon  the
+arbitrator in regard to the grant of pre-award interest. The
+arbitrator  has  the  discretion  to  determine  the  rate  of
+reasonable interest, the sum on which the interest is to be
+paid,  that  is  whether  on  the  whole  or  any  part  of  the
+principal  amount,  and  the  period  for  which  payment  of
+interest is to be made — whether it should be for the whole or
+any part of the period between the date on which the cause
+of action arose and the date of the award. When a discretion
+has been conferred on the arbitrator in regard to the grant of
+pre-award interest, it would be against the grain of statutory
+interpretation to presuppose that the legislative intent was to
+reduce the discretionary power of the arbitrator for the grant
+of  post-award  interest  under  clause  (b). Clause  (b)  only
+contemplates a situation where the arbitration award is silent
+on post-award interest, in which event the award-holder is
+entitled to a post-award interest of eighteen per cent.”
+13.
+The High Court, therefore, committed an error in relying on the
+decision  of  this  Court  in  Jaiprakash  (supra).  The  judgement  in
+Jaiprakash deals with the issue of prohibition of pendente-lite interest
+and will have no application to the facts of the present case where the
+6 (2023) 1 SCC 602. 
+6
+
+claim relates to post-award interest.  
+14.
+In view of the above, the appeal is allowed. The judgment of the
+High  Court  in  Civil  Revision  No.  2561  of  2003  (O&M)  dated
+14.05.2019 is set-aside, and the decision of the First Appellate Court
+in C.A No. 86 of 11.11.02 dated 04.03.2003 for granting interest @
+18% p.a. is restored. 
+15.
+Parties shall bear their own costs.
+ 
+       ……………………………….J.
+PAMIDIGHANTAM SRI NARASIMHA]
+               …..………………………….J.
+                        [SANDEEP MEHTA]
+NEW DELHI;
+SEPTEMBER 10, 2024
+7

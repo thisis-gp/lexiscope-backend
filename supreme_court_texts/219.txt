@@ -1,0 +1,697 @@
+2024 INSC 225
+1 
+ 
+ 
+REPORTABLE 
+ 
+ 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION 
+ 
+ 
+CIVIL APPEAL NO. 4420 OF 2024 
+[ARISING OUT OF SLP (C) NO. 19618 OF 2019] 
+ 
+ 
+ 
+TAPAS KUMAR DAS 
+ 
+ 
+                                   …APPELLANT 
+ 
+ 
+VS. 
+ 
+ 
+ 
+HINDUSTAN PETROLEUM  
+CORPORATION LIMITED & ORS.      
+                    …RESPONDENTS 
+ 
+ 
+ 
+J U D G M E NT 
+ 
+ 
+ 
+DIPANKAR DATTA, J.  
+ 
+ 
+THE APPEAL 
+ 
+1. 
+An intra-court appellate judgment and order1 (“impugned 
+judgment”, hereafter) of an Hon’ble Division Bench of the High 
+Court at Calcutta (“High Court”, hereafter), reversing the 
+judgment and order2 (“order”, hereafter) of a learned Single 
+Judge, is called in question in the instant civil appeal. Vide the 
+ 
+1 dated 28th March, 2019 
+2 dated 25th January, 2019 
+Digitally signed by
+Deepak Guglani
+Date: 2024.03.19
+18:25:24 IST
+Reason:
+Signature Not Verified
+
+2 
+ 
+impugned judgment, the Division Bench of the High Court allowed 
+the writ appeal3 carried by Hindustan Petroleum Corporation 
+Limited (“HPCL”, hereafter) from the order and set aside the same. 
+The Single Judge had, while allowing a writ petition4 of Mr. Tapas 
+Kumar Das (“appellant”, hereafter), directed HPCL to proceed with 
+his candidature for LPG5 distributorship. 
+BRIEF RESUME OF FACTS 
+2. 
+The facts, giving rise to this appeal, lie in a narrow compass. 
+3. 
+HPCL, Indian Oil Corporation Limited (“IOCL”, hereafter) and 
+Bharat Petroleum Corporation Limited issued a joint advertisement 
+for LPG distributorships at several locations in the 31st August, 
+2017 editions of the Bangla dailies Bartaman and Anandabazar 
+Patrika (“the Advertisement”, hereafter). Entries bearing SI. Nos. 
+1 to 607 in the Advertisement had 10 (ten) columns (“Part 1”, 
+hereafter) and those from SI. No. 608 onwards had 9 (nine) 
+columns (“Part 2”, hereafter)6. The header “Gram Panchayat” did 
+not feature in Part 2 and, hence, had 1 (one) column less than 
+Part 1. 
+4. 
+Parts 1 and 2 of the Advertisement with the headers and to the 
+extent relevant for a decision on this appeal, as per the English 
+translation placed before us, are set out hereunder: 
+ 
+3  M.A.T. No. 255 of 2019 with C.A.N. No. 1818 of 2019.  
+4  W.P. 1595 (W) of 2019. 
+5  Liquified Petroleum Gas. 
+6  The Advertisement, by itself, has not been split into Parts 1 and 2; the same has been 
+done here for ease of reference.  
+
+3 
+ 
+Part 1 
+SI. 
+No. 
+Oil 
+company 
+Location 
+(detail 
+particulars 
+of the place 
+where 
+applicable) 
+Gram 
+Panchayat 
+Block 
+District 
+Class 
+Nature 
+of 
+market / LPG 
+distributorship 
+/ City / Urban / 
+Rural 
+/ 
+Inaccessible 
+area 
+distributorship 
+ 
+Amount 
+of 
+security 
+deposit 
+(in lakh) 
+Marketing 
+plan 
+1 
+- 
+607 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+ 
+Part 2 
+SI. 
+No. 
+Oil 
+company 
+Location 
+(detail 
+particulars 
+of the place 
+where 
+applicable) 
+Block 
+District 
+Class 
+Nature of market / 
+LPG distributorship / 
+City / Urban / Rural 
+/ Inaccessible area 
+distributorship 
+ 
+Amount 
+of 
+security 
+deposit 
+(in 
+lakh) 
+Marketing 
+plan 
+608 
+- 
+623 
+[***] 
+ 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+624 
+HPC 
+Haripal 
+Haripal 
+Hooghly 
+SC 
+Rurban 
+ 
+3 
+2017-18 
+625 
+- 
+631 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+ 
+5. 
+Interested in obtaining an LPG distributorship qua Sl. No.624 
+reserved for a member of the Scheduled Caste community, i.e., 
+‘Location’ and ‘Block’ Haripal in the district of Hooghly, the 
+appellant submitted an online application for the same under the 
+‘SC’ category on 16th October, 2017. The appellant’s application 
+was found to be in order, whereupon he was called upon to 
+participate in the ensuing computerised draw of lots for selection 
+for the distributorship for Haripal. Fortune smiled on the appellant 
+and he emerged as winner in the draw of lots. HPCL informed the 
+appellant vide a letter dated 4th November, 2018 that he had been 
+declared successful and also that he was required to comply with 
+
+4 
+ 
+the instructions contained therein. Diligently, the appellant 
+deposited a demand draft of Rs. 30,000/- with HPCL and 
+submitted relevant land documents in compliance with the letter 
+dated 4th November, 2018. 
+6. 
+One Sujoy Kumar Das (“added respondent”, hereafter) lodged a 
+complaint dated 9th November, 2018 with HPCL questioning the 
+appellant’s candidature on the basis that the land offered by him 
+for the showroom was in mouza7 Gopinagar and not in mouza 
+Haripal. Incidentally, the added respondent had participated in a 
+previous round of selection conducted by HPCL for the same 
+location, i.e., Haripal, and his candidature was rejected by HPCL 
+on the ground that the land for the showroom offered by him was 
+not located in village Haripal. Upon cancellation of the appellant’s 
+candidature, the Chief Regional Manager of HPCL (“fourth 
+respondent”, hereafter) intimated the same to the added 
+respondent vide letter dated 2nd January, 2019 and assured to him 
+refund of Rs. 5,000/- which he had deposited as complaint fee, 
+shortly. 
+7. 
+Close on the heels thereof, the fourth respondent addressed a 
+letter dated 2nd January, 2019 cancelling the appellant’s 
+candidature for the LPG distributorship (“Cancellation Letter”, 
+ 
+7 As per Wilson’s Glossary of Judicial and Revenue Terms of British India, ‘Mauza’ or Mauja 
+in Hindi and Mauji in Bengali is a village, understanding by that term one or more clusters 
+of habitations, and all the lands belonging to their proprietary inhabitants : a Mauza is 
+defined by authority to be ‘a parcel or parcels of lands having a separate name in the 
+revenue records, and of known limits’.     
+
+5 
+ 
+hereafter). Therein, it was stated that the land offered by the 
+appellant for the showroom at “Plot No. LR-1220, Khatian No. LR-
+311, Mouza-Gopinagar, Gram Panchayat-Haripal Ashuthsh (sic, 
+Ashutosh), Block Haripal, District Hooghly” pursuant to a 
+registered lease dated 16th October, 20188 for a period of 16 
+(sixteen) years was beyond the advertised location; hence, the 
+appellant’s proposed showroom had failed to meet the eligibility 
+criteria as per clause 8 A(n) of the Brochure for Unified Guidelines 
+for Selection of LPG Distributorships (“Unified Guidelines”, 
+hereafter), and the deposit of Rs. 30,000/- would stand forfeited.  
+8. 
+It was then that the appellant invoked the writ jurisdiction of the 
+High Court under Article 226 of the Constitution challenging the 
+Cancellation Letter. The Single Judge, noticing that the 
+Advertisement showed the location of the distributorship as Block 
+Haripal, observed that “there was no specific requirement of Gram 
+Panchayat or mouza to disqualify” the appellant’s candidature. 
+Upon being satisfied that the land offered by the appellant for the 
+showroom was within the limits of the advertised location, the 
+learned Single Judge allowed the writ petition, set aside the 
+Cancellation Letter, and directed HPCL to proceed with the 
+evaluation of the appellant’s candidature and decide the same 
+ 
+8 the date was subsequently corrected vide letter dated 10th January, 2019 to read 16th 
+October, 2017.  
+
+6 
+ 
+within four weeks upon the appellant completing all required 
+formalities. 
+9. 
+Aggrieved by the order, HPCL invoked the appellate jurisdiction of 
+the High Court and laid a challenge thereto. The Division Bench 
+referred to the definitions of ‘Gram Panchayat’ and ‘mouza’ in the 
+West Bengal Panchayat Act, 1973 (“Panchayat Act”, hereafter) and 
+while allowing the appeal by the impugned judgment, held that 
+“mouza Haripal has a separate and distinct existence”, the 
+“offered land at mouza Gopinagar is not what is contemplated in 
+the advertisement for appointment of LPG distributors at Haripal” 
+and in such view of the matter HPCL “was justified in coming to 
+the conclusion that the writ petitioner failed to fulfil the eligibility 
+criteria”.  
+RIVAL CONTENTIONS 
+10. 
+Mr. Sudipta Kumar Bose, learned counsel appearing on behalf of 
+the appellant, seeking our interference with the impugned 
+judgment submitted inter alia that: 
+a. The Division Bench fell into error by reading into the 
+Advertisement, conditions which had not been categorically laid 
+down by HPCL. The Advertisement did not state that the 
+showroom was to be located in any particular mouza, and that 
+the Advertisement did not refer to any Gram Panchayat as the 
+specific location either.  
+
+7 
+ 
+b. The appellant had been declared as the successful candidate 
+after due verification of his eligibility and there could have been 
+no occasion for HPCL to disqualify him on the complaint of the 
+added respondent, and that too without putting the appellant 
+on notice. 
+c. HPCL, having issued the Advertisement, could not have altered 
+the rules and guidelines after the appellant was declared 
+eligible and successful. 
+d. The entries from serial no. 608 onwards in the Advertisement 
+did not bear any column for Gram Panchayat as the locations 
+therein were urban or semi-urban; implying that there was no 
+error in the Advertisement and such an omission was 
+conscious.   
+e. The Single Judge had rightly observed that the advertised 
+location for the concerned showroom was Haripal with 
+reference to specification of Block Haripal; and since the 
+appellant had offered land for the showroom at a location within 
+the jurisdictional limits of Haripal Police Station and within 
+geographical limits of Haripal Block, consequently, the same 
+should have been considered to be covered by the advertised 
+location.  
+11. 
+Mr. Parijat Sinha, learned counsel appearing for HPCL, in support 
+of upholding the impugned judgment submitted inter alia that: 
+
+8 
+ 
+a. The Unified Guidelines are comprehensive in nature and left no 
+room for ambiguity as to the location requirements to obtain 
+an LPG distributorship from inter alia HPCL. 
+b. In the State of West Bengal, villages were not identified as units 
+of revenue, but they were in fact identified as mouzas. 
+Therefore, the boundary of any village could only be defined in 
+terms of mouzas. Hence, the Advertisement had not been 
+issued for Block Haripal, but only for the mouza/village Haripal 
+as per the third column of Part 2 of the Advertisement. Hence, 
+the intention of mentioning Haripal in the third column was to 
+indicate Haripal mouza/village, and not the cluster of 
+villages/towns/cities.  
+c. Clause 8 A(n) of the Unified Guidelines provided for the 
+requirements of the showroom to be owned/leased by the 
+concerned 
+applicant 
+desirous 
+of 
+obtaining 
+an 
+LPG 
+distributorship. A reading of the Unified Guidelines, along with 
+the fact that the fifth column of Part 2 of the Advertisement 
+was for the District, the fourth column was for the Block, and 
+the third column was for the Location, meant that the third 
+column specified the uniqueness of the location intending it to 
+be for the concerned village; it would be incorrect to read the 
+third and fourth columns as being synonymous. Hence, a 
+mention of Haripal in the third column meant mouza/village 
+Haripal and not Block Haripal.   
+
+9 
+ 
+d. In this vein, since the appellant’s showroom fell within mouza 
+Gopinagar, the same made his candidature ineligible; though 
+located in Block Haripal, it was not within mouza Haripal. 
+12. 
+Appearing for the added respondent and seeking dismissal of the 
+appeal, Mr. Zoheb Hossain, learned counsel submitted inter alia 
+that: 
+a. The added respondent was a proper and necessary party in W.P. 
+1595 (W) of 2019 before the High Court since the Cancellation 
+Letter had been issued as a consequence of acceptance of the 
+complaint dated 9th November 2018. Further, the added 
+respondent’s appeal challenging the order was also decided 
+vide the impugned common judgment.  
+b. The added respondent was also an applicant for the LPG 
+distributorship as per the Advertisement, and that it would be 
+prejudicial for him if the impugned judgment were set aside or 
+modified.  
+c. HPCL had, on an earlier occasion, rejected the added 
+respondent’s candidature for LPG distributorship on grounds 
+similar to the reasons for cancellation of the appellant’s 
+distributorship and, therefore, was justified in taking a 
+consistent and uniform stand. 
+d. Extending any relief to the appellant, on facts and in the 
+circumstances, could be inappropriate.   
+ 
+
+10 
+ 
+Analysis 
+13. 
+We have heard learned counsel for the parties and perused the 
+impugned judgment of the Division Bench, the order of the Single 
+Judge as well as the other materials on record. 
+14. 
+The limited issues that we are tasked to decide in this appeal are: 
+(i) 
+Whether the land offered by the appellant for the 
+showroom is covered by the extent of “Location” 
+stipulated in the Advertisement and is compliant with 
+the Unified Guidelines? 
+(ii) 
+Whether the Division Bench was justified in its 
+interference with the order under challenge before it?  
+15. 
+A cursory look at the Advertisement informs us that it 
+contemplated the location of the relevant distributorships in the 
+manner such that the fifth column of Part 2 of the Advertisement 
+indicated the ‘District’, the fourth column the ‘Block’, and the third 
+column the “Location” with the words “particulars of the place 
+wherever applicable” following it in brackets. Also, in Part 1 of the 
+Advertisement, as noted above, there was an additional column 
+for “Gram Panchayat”. This is conspicuously missing from Part 2.  
+16. 
+Viewed thus, what we find is that HPCL intended to appoint an LPG 
+distributor at a location named Haripal, situate within Haripal block 
+in the district of Hooghly, reserved for SC, with ‘Rurban’ shown as 
+the Type of Market/Distributorship. Much would, in our opinion, 
+
+11 
+ 
+turn on ‘Rurban’ which was not noticed either by the Single Judge 
+or the Division Bench, as the discussion follows. 
+17. 
+In course of arguments, we heard Mr. Sinha submitting that there 
+was an error in not mentioning the “Gram Panchayat” in the 
+Advertisement for the subject location. In other words, there was 
+a mistake in the Advertisement insofar as Sl. No.624 is concerned. 
+However, a course correction measure was sought to be adopted 
+in the written notes of arguments filed on behalf of HPCL which, 
+as would unfold hereafter, does more harm than good to its cause. 
+It is stated in the written notes that “from Sl. No.608 onwards, all 
+of the locations advertised … were either urban or semi-urban with 
+regard to the nature of the market/LPG distributorship; hence, the 
+relevant Gram Panchayat was not mentioned in the said 
+Advertisement”. It is also stated therein that in terms of the 
+Advertisement, the appellant “ought to have offered land located 
+within (sic) in village/mouza location – Haripal (column 3), 
+which is the advertised location” (bold in original).  
+18. 
+HPCL having advertised Haripal as the location within Haripal block 
+for the LPG distributorship and without there being anything more 
+in the Advertisement with specifics as to the ‘locality’, the 
+candidature of the appellant and the land offered by him for the 
+showroom had to be considered bearing in mind the relevant 
+clauses of the Unified Guidelines, viz. clauses 1 c. i. and 1 y. 
+
+12 
+ 
+defining ‘Rurban Vitrak’9 and ‘Location’10, respectively, and 8 A (n) 
+regarding ‘Showroom’11.     
+19. 
+It would be convenient at this stage to look at Sl. Nos. 608 to 631 
+of the Advertisement, comprised in Part 2 (supra). In all but one 
+of the locations, LPG distributorships were on offer at the instance 
+of 
+IOCL. 
+Majorly, 
+the 
+locations 
+have 
+‘Type 
+of 
+Market/Distributorship’ as ‘Urban’ while the rest are ‘Rurban’. In 
+several of the locations advertised ranging between Sl. Nos. 608 
+and 631, except Sl. No.624 being the subject location, the 
+locations within brackets indicate the locality12 where the 
+concerned OMC13 intended to appoint an LPG distributor. As and 
+by way of example, one may profitably refer to Sl. Nos. 613 and 
+619. While both indicate Kolkata as locations, the former within 
+ 
+9 Rurban Vitrak: In this document, the word Rural Urban means LPG distributor located in 
+‘Urban Area’ and also providing service to the LPG Customers in specified ‘Rural Area’, 
+generally covering all villages falling within 15 Kms. From the municipal limits of the LPG 
+distributorship location and or the area specified by the respective OMCs. LPG distributors 
+servicing this area will be called Rurban Vitrak.  
+10 Location – In this document, word location means the area identified for setting up of 
+new LPG Distributor. It can be a locality/village/cluster of villages/town or city which is 
+mentioned in the Notice for Appointment of LPG Distributors.  
+11 Showroom: (Applicable only for … Rurban Vitrak … locations and not for …) 
+The applicant should ‘Own’ a suitable shop for Showroom of minimum size … as on the 
+last date for submission of application as specified either in the advertisement or 
+corrigendum (if any) at the advertised location i.e. within the municipal/town/village limits 
+of the place which is mentioned under the column of ‘location’ in the advertisement. 
+In case locality is also specified under the column of ‘location’ in the advertisement, the 
+candidate should own … in the said locality. 
+In case an applicant has more than one shop … at the advertised location or locality as 
+specified under the column of ‘location’ in the advertisement, the details of the same can 
+also be provided in the application. 
+The applicant should have ownership as defined under the term ‘Own’ … 
+Applicants having registered lease deed commencing on any date prior to the date of 
+advertisement will also be considered provided the lease is valid for a minimum period of 
+15 years from the date of advertisement. 
+…  
+12 In terms of the definition of ‘Location’, a locality could also be a location. 
+13 Oil Marketing Company. 
+
+13 
+ 
+brackets has Salt Lake within Bidhannagar Municipality and the 
+latter China Town within Kolkata Municipal Corporation areas.  We 
+read Salt Lake and China Town as the ‘locality’ in the location 
+Kolkata to sync locality with ‘Location’. It is also significant to note 
+another advertised location in the district of Hooghly. Sl. No. 610 
+indicates that in Nabagram (Konnagar), being the ‘Location’ within 
+Shrirampur block, IOCL intended to appoint an LPG distributor. We 
+take judicial notice of the fact that Konnagar is a town and also a 
+municipality in the district of Hooghly with Nabagram as the 
+locality14. However, significantly, Sl. No. 624 does not go beyond 
+indicating Haripal as the location.  
+20. 
+Judicial notice is also taken of the fact that Haripal is a community 
+development block being part of Chandannagore sub-division, in 
+the district of Hooghly, West Bengal. It is true that as per the 
+Census 2011 Report downloaded from www.census2011.co.in, 
+[being Annexure R-1/1 of the counter affidavit of HPCL filed in this 
+proceeding], Haripal and Gopinagar are villages within Haripal 
+block but, for reasons more than one, we are not persuaded to 
+accept the claim of HPCL that it intended to appoint an LPG 
+distributor at Haripal village.    
+21. 
+First, the stand taken in the written notes entirely demolishes the 
+plinth on which the impugned judgment rests. Reference to any 
+village or mouza, be it Haripal or Gopinagar, is rendered irrelevant 
+ 
+14 ‘gram’ in Nabagram is not to be mistaken for a village. 
+
+14 
+ 
+in 
+the 
+circumstances 
+in 
+the 
+light 
+of 
+the 
+‘Type 
+of 
+Market/Distributorship’ 
+being 
+shown 
+as 
+‘Rurban’ 
+in 
+the 
+Advertisement under Column 7, which has to be given the 
+meaning attributed to ‘Rurban Vitrak’ in the Unified Guidelines. If 
+appointment of a distributor were intended for a village/mouza, 
+i.e., Haripal, it defies logic why instead of ‘Gramin Vitrak’15, 
+‘Rurban Vitrak’ was shown as the ‘Type of Market/Distributorship’. 
+It is also significant to note that if HPCL meant Haripal village as 
+the intended location for appointment of an LPG distributor, it has 
+not explained why there is no reference to any Gram/Village 
+Panchayat in Part 2 (supra) although such reference is available 
+under Part 1 (supra). This, we feel, is obvious because HPCL did 
+not intend the distributor to cater to any rural area but a ‘Rurban’ 
+area which comprises of both rural and urban. 
+22. 
+Secondly, the contention of HPCL that Haripal as shown both under 
+the columns ‘Block’ and ‘Location’ are not synonymous and that 
+Haripal should be read and understood as Haripal village appears 
+to be one advanced in desperation. The appellant, or for that 
+matter any other individual interested in the distributorship, could 
+not have possibly projected his own imagination and discover all 
+the facts and circumstances that were in the contemplation of the 
+ 
+15 Gramin Vitrak: In this document, the word 'Rural Area' will have the definition of 'Rural' 
+as per census 2011. LPG distributorship located in 'Rural Area' will be called as Gramin 
+Vitrak and will service the LPG Customers of the specified rural area. Generally it will cover 
+all villages falling within 15 KMs from the boundary limits of the LPG distributorship location 
+and or the area specified by the respective OMCs. 
+
+15 
+ 
+officers of HPCL to be fulfilled by him. At the cost of repetition, 
+Haripal under the column ‘Location’ appears to be unqualified. In 
+the present case, Haripal being the advertised location and without 
+mention of locality but with the ‘Type of Market/Distributorship’ 
+being shown as ‘Rurban’, it is quite but natural for an individual to 
+perceive that land offered for the showroom, if not located 
+anywhere in the entire Haripal block, must at least be located 
+within certain identifiable limits having relation with Haripal, such 
+as the jurisdictional limits of Haripal Police Station. If indeed an 
+LPG distributor were intended to be appointed in village Haripal, 
+the ‘Type of Market/Distributorship’ would undoubtedly have been 
+shown as ‘Rural’ and included in Part 1 (supra) and not Part 2 
+(supra) of the Advertisement. Unless the relevant Part and the 
+columns thereunder of the Advertisement are interpreted in the 
+manner as above, the same would lead to utter absurdity.    
+23. 
+The problem can be viewed from another perspective. While 
+completing our task, it is not for us to adjudge the nature of the 
+Advertisement or the intention of those who were responsible for 
+drawing it up, but whether the appellant’s candidature fell within 
+the scope of the ‘Location’ as indicated in the Advertisement. 
+24. 
+Law is well settled that when an advertisement is made inviting 
+applications from the general public for appointment to a post or 
+for admission to any course or appointment of the present nature, 
+the advertisement constitutes a representation to the public and 
+
+16 
+ 
+the authority issuing it is bound by such representation. It cannot 
+act contrary to it. What bears heavy upon us is that, any person 
+of reasonable prudence could assume that since there was no 
+specific column for “Gram Panchayat” in Part 2 (supra) of the 
+Advertisement, which was present in Part 1, and the ‘Type of 
+Market/Distributorship’ was not ‘Rural’, complemented by the lack 
+of any detail – apart from Haripal in the “Location” without any 
+detailed particulars of the place, would imply that the location of 
+the concerned showroom was required to be in Haripal block and 
+any showroom on land located in Haripal block would fall within 
+the requirements of the Advertisement.  
+25. 
+We have also kept in mind that the specific words ‘mouza’ and 
+‘village’ do not find any mention in the Advertisement and 
+reference to the definitions of the same in the Panchayat Act by 
+the Division Bench as well as by Mr. Sinha in course of his 
+submissions is misconceived. An order of cancellation of the 
+candidature of an applicant, which is the subject matter of 
+challenge in a court of law, has to be defended with reference to 
+the Advertisement and the pleadings and not with reference to 
+what was in contemplation of the authority issuing the 
+Advertisement. It is the norm that a court cannot be swayed by 
+the version of a party, which is not its pleaded case, and that it 
+should confine its decision to the points of assail/defence raised in 
+the pleadings. Any such argument ought to have been traceable 
+
+17 
+ 
+in the pleadings, and could not simply have been put before this 
+Court as an afterthought.  
+26. 
+In a situation akin to this, had the appellant, or any intending 
+candidate, known in advance of such a narrower requirement, 
+then they would likely have been more vigilant in fulfilling such 
+criteria for the location of the distributorship. In arguendo, 
+unfortunately, it is HPCL’s cross to bear that the Advertisement, if 
+not incorrectly, is inadequately worded. It is not open to a writ 
+court, much less an appeal court, to direct the modification of any 
+clause/qualification in the Advertisement to suit the interest of any 
+particular candidate or the issuing authority even. Any such 
+direction would amount to re-writing the clause/qualification 
+mentioned in the Advertisement, which would be plainly 
+impermissible.  
+27. 
+Turning to the added respondent, we can only sympathize with 
+him. If at all the added respondent had earlier been the victim of 
+an arbitrary rejection of his candidature by HPCL, he ought to have 
+challenged such action by instituting an appropriate proceeding. 
+Not having so instituted, the present appeal is not an appropriate 
+proceeding where this Court can look into his grievance and 
+address it.  
+Conclusion 
+28. 
+For the reasons aforementioned, the first issue is answered in the 
+affirmative while the second in the negative. 
+
+18 
+ 
+29. 
+The impugned judgment of the Division Bench is set aside and the 
+order of the Single Judge restored. The present appeal is, 
+accordingly, allowed leaving the parties to bear their own costs. 
+30. 
+It is, however, made clear that apart from the questions that we 
+have decided, no part of our observations shall be treated as 
+expression of opinion on the further requirements/compliances, if 
+any, with regard to HPCL proceeding with the appellant’s 
+candidature for the LPG distributorship. The same may be decided 
+as per the applicable laws and guidelines by the competent 
+authority of HPCL. 
+31. 
+Since the Advertisement is more than half a decade old, we hope 
+and trust that HPCL would henceforth proceed with expedition to 
+cater to the needs of its future customers. 
+32. 
+Pending applications, if any, also stand disposed of accordingly.  
+ 
+ 
+ 
+..............................J. 
+[DIPANKAR DATTA] 
+ 
+ 
+ 
+ 
+ 
+..............................J. 
+[SANJAY KUMAR] 
+NEW DELHI; 
+19TH MARCH, 2024.

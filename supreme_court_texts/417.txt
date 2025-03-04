@@ -1,0 +1,905 @@
+2024 INSC 431
+1 
+ 
+REPORTABLE 
+ 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION 
+ 
+CIVIL APPEAL NO. 1496 OF 2023 
+ 
+United India Insurance Co. Ltd. 
+ 
+ 
+...Appellant(s) 
+Versus 
+M/s Hyundai Engineering & Construction  
+Co. Ltd. & Ors.        
+ 
+ 
+ 
+      …Respondent(s) 
+ 
+ 
+J U D G M E N T 
+PAMIDIGHANTAM SRI NARASIMHA, J. 
+1. 
+The appellant, United India Insurance Co. Ltd., an insurance 
+company, challenges the decision by the National Consumer 
+Disputes Redressal Commission (hereinafter ‘the NCDRC’), which 
+by its impugned order dated 16.01.2023 allowed the Consumer 
+Complaint No.160 of 2019 and directed the appellant to release 
+and pay an insurance claim of Rs. 39,09,92,828/-.  
+2. 
+Facts: The National Highway Authority of India (‘NHAI’), 
+respondent no. 3 herein, awarded a contract for the design, 
+construction and maintenance of a cable-stayed bridge across the 
+river Chambal on NH-76 at Kota, Rajasthan to a joint venture 
+company comprising of respondent no. 1 and respondent no. 2. 
+Digitally signed by
+Indu Marwah
+Date: 2024.05.16
+15:44:34 IST
+Reason:
+Signature Not Verified
+
+2 
+ 
+The value of the project under the contract was 
+Rs. 
+213,58,76,000/-. The contract provided that the construction 
+work was to be completed within 40 months and the joint venture 
+was thereafter assigned the task of maintaining the said bridge for 
+a period of 6 years, of which, 2 years was the ‘defect-notification 
+period’. NHAI also assigned consultancy services for design, 
+construction and maintenance of the bridge to another joint 
+venture of M/s Louis Berger Group Inc. (USA) and M/s COWI A/S 
+(Denmark). 
+3. 
+The appellant issued a Contractor’s All Risk Insurance Policy 
+covering the interest of NHAI as principal, and M/s Hyundai 
+Engineering Infrastructure Co. Ltd. along with M/s Gammon India 
+as 
+JV 
+Contractor 
+under 
+the 
+policy 
+bearing 
+No. 
+011900/44/07/03/60000001 for the period from 05.12.2007 to 
+04.12.2011 for a total amount of Rs. 213,58,76,000/-. The 
+relevant clauses of the policy are extracted as follows: 
+“SECTION I - MATERIAL DAMAGE:  
+ 
+1. The Company hereby agrees with the Insured 
+(subject to the exclusions and conditions contained 
+herein or endorsed hereon) that if, at anytime 
+during the period of insurance stated in the 
+Schedule, or during any further period of extension 
+thereof the property (except packing materials of 
+any kind) or any part thereof described in the 
+
+3 
+ 
+Schedule be lost, damaged or destroyed by any 
+cause, other than those specifically excluded 
+hereunder, in a manner necessitating replacement 
+or repair, the Company will pay or make good all 
+such loss or damage upto an amount not exceeding 
+in respect of each of the items specified in the 
+Schedule the sum set opposite thereto and not 
+exceeding in the whole the total Sum Insured 
+hereby. 
+The Company will also reimburse the Insured for 
+the cost of clearance and removal of debris 
+following upon any event giving rise to an 
+admissible claim under this Policy but not 
+exceeding in all the sum (if any) set opposite thereto 
+in the Schedule. The term debris only of the Insured 
+property and the cost of clearance and removal of 
+debris pertaining to property not Insured by the 
+policy will not be payable.”  
+ 
+“EXCLUSIONS TO SECTION - I  
+The Company, shall not, however, be liable for;  
+a) the first amount of the loss arising out of each 
+and every occurrence shown as Excess in the 
+Schedule; 
+b) loss discovered only at the time of taking an 
+inventory;  
+c) normal wear and tear, gradual deterioration due 
+to atmospheric conditions or lack of use or 
+obsolescence or otherwise, rust, scratching of 
+painted or polished surfaces or breakage of glass;  
+d) loss by damage due to faulty design;  
+e) the cost of replacement, repair or rectification of 
+defective material and/or workmanship, but this 
+exclusion shall be limited to the items immediately 
+affected and shall not be deemed to exclude loss of 
+or damage to correctly executed items resulting 
+from an accident due to such defective material 
+and/ or workmanship; 
+f) the cost necessary for rectification or correction of 
+any error during construction unless resulting in 
+physical loss or damage  
+
+4 
+ 
+g) loss of or damage to files, drawings, accounts, 
+bills, currency, stamps, deeds, evidence of debt, 
+notes, securities, cheques, packing materials such 
+as cases, boxes, crates;  
+h) any damage or penalties on account of the 
+Insured's non-fulfilment of the terms of delivery or 
+completion under this Contract of construction or of 
+any obligations assumed thereunder or lack of 
+performance including consequential loss of any 
+kind or description or for any aesthetic defects or 
+operational deficiencies;  
+i) loss of or damage to vehicles licensed for general 
+road 
+use 
+or 
+waterborne 
+vessels 
+or 
+machinery/equipment mounted or operated or 
+fixed on floating vessels/craft/barges or aircraft.” 
+ 
+4. 
+The construction project commenced in December, 2007. 
+While the construction was in progress, a part of the constructed 
+bridge collapsed on 24.12.2009, resulting in the death of 48 
+workmen. On 26.12.2009, the Ministry of Road Transport and 
+Highways, Government of India constituted a Committee of 
+Experts (hereinafter, ‘Expert Committee’) under the chairmanship 
+of the Director General (Road Development) and Special Secretary, 
+Ministry of Road Transport and Highways. The task of this 
+committee was to investigate and report the cause of the collapse. 
+An FIR was also lodged against the respondents for offences under 
+Sections 304/308 of the Indian Penal Code, 1860. After 
+investigation, a final report dated 19.03.2010 was filed wherein the 
+officials of the respondent companies were charged under the said 
+
+5 
+ 
+provisions. It was found that they were liable for the loss of 48 lives 
+due to several defects at the stage of design, construction and 
+supervision.  
+5. 
+The NHAI intimated the appellant about the incident on 
+29.12.2009 and requested the deputation of a surveyor to assess 
+the damage caused due to the accident and also sought 
+indemnification of the loss. A surveyor was appointed. He 
+commenced his work and by a letter dated 06.01.2010, he called 
+for certain details and clarifications from the respondents. While 
+furnishing the details, the respondents made a claim of Rs. 
+151,59,94,542/-. 
+6. 
+The Committee of Experts constituted by the Government of 
+India submitted its report on 07.08.2010. Relevant parts of some 
+of the important findings of the Committee are as follows: 
+ “8.2.2 Views of the Committee 
+8.2.2.1 The majority of failures in structures occur 
+during construction stages when they are most 
+vulnerable. The Chambal Bridge Accident was a 
+sudden and catastrophic structural failure. It may 
+be pointed out that the bridge was at one of its 
+critical stages at the time of the accident. […] 
+ 
+8.2.2.2  […] At this stage, as noted in para 5.8, the 
+stabilizing moment would become less than the 
+overturning moment. Uncontrolled rotation of the 
+pylon about the base would take place which 
+
+6 
+ 
+would result in its gaining momentum as it fell. 
+This is borne out by the fact that the catastrophic 
+failure involved a catapult action wherein the 
+span P3-P4 as a whole, (which was tied together 
+by prestressing cables) was thrown some 100 m 
+away. 
+ 
+8.2.2.3 The serious distress in span P3-P4 
+referred to para 8.2.2.2 could have been caused 
+by shortfall in design, poor workmanship, 
+unexpected 
+load, 
+sub-standard 
+material 
+or 
+distress in foundation P4 or a combination of some 
+of these. […] 
+ 
+8.2.2.4 It can be seen that had there been 
+additional stability devices in place (such as those 
+mentioned in para 8.2.2.1) the cycle involving 
+progressive loss of rotational restrain at the base 
+of the pylon and accentuation of distress in P3-P4 
+might not have been initiated and the collapse 
+might not have occurred.” 
+ 
+ 
+7. 
+The final conclusions of the committee are relevant for this 
+case, and are as follows: 
+         “CONCLUSIONS 
+ 
+9.1  From all the information made available by 
+the various agencies as also the analysis and 
+evaluation made by the Committee, it is felt that 
+a combination of factors such as lack of stability 
+and robustness in the partially completed 
+structure, shortfalls in design and lack of quality 
+of workmanship in the construction of span P3-
+P4 have contributed to the collapse of this bridge. 
+The trigger for initiation of the collapse appears 
+to 
+have 
+been 
+unpredictable 
+and 
+sudden 
+additional loading due to failure of supporting 
+arrangement of the form traveller.” 
+ 
+
+7 
+ 
+9.2 Since this is a design-build "Turnkey 
+Contract" which covers planning, investigation, 
+design, construction and maintenance of the 
+cable stayed bridge, the primary responsibility 
+for the collapse lies with the Contractor, M/s 
+Hyundai — Gammon (JV). The Contractors are 
+responsible for allowing the structure to reach a 
+vulnerable 
+stage 
+without 
+taking 
+adequate 
+precautions with respect 
+to stability and 
+robustness of the partially completed structure 
+and the short fall in the design. They are also 
+responsible for deficiency in workmanship in the 
+construction of span P3-P4. 
+ 
+9.3 The design for this bridge was prepared by 
+M/s SYSTRA, the Design Consultants of the 
+Contractor M/s Hyundai-Gammon (JV). Since 
+there have been shortfalls in design, the 
+responsibility for the same also lies with M/s 
+SYSTRA. 
+ 
+9.4 The Supervision Consultants for this Project 
+are M/s LBG-COWI whose duties include 
+construction supervision along with the proof-
+checking of the design through M/s COWI While 
+carrying out the proof-checking work M/s COWI 
+have not highlighted the shortfalls in the design 
+which have been observed subsequently by the 
+Committee. Further, the Supervision Consultants 
+have not been sufficiently proactive in preventing 
+lapses in workmanship. They have also given 
+tacit 
+approval 
+for 
+major 
+changes 
+during 
+construction without insisting on a proper review 
+of the design by the Contractors / Design 
+Consultants. 
+As 
+such, 
+the 
+Supervision 
+Consultants are responsible for these lapses. 
+ 
+9.5 M/s Freyssinet acted as specialist Agency to 
+M/s Hyundai for supply, installation and 
+operation of the form traveller equipment for 
+cantilever construction, post - tensioning work 
+and installation of stay cables. Since the trigger 
+
+8 
+ 
+for the collapse appears to be the failure of the 
+Freyssibar and / or the supporting arrangement 
+for the form traveller, the extent of their 
+responsibility may be examined keeping in view 
+the Contract Agreement between the concerned 
+agencies. 
+ 
+9.6 Apportioning of extent of responsibility to the 
+various agencies for the collapse of the structure 
+could be examined further by the Employer 
+(NHAI) keeping in view the contracts for this 
+Project entered into between various agencies 
+with each other and with NHAI.” 
+ 
+8. 
+On 06.12.2010, NHAI issued a show-cause notice to the 
+respondent nos. 1 and 2 calling upon them to justify as to why 
+they should not be debarred. The respondents replied to the show 
+cause notice, and after perusing the reply, the NHAI took a decision 
+to permit them to carry out the remaining part of the contract. 
+9. 
+In the meanwhile, the surveyor appointed by the appellant 
+submitted its final report on 28.02.2011. While assessing the net 
+loss at Rs. 39,09,92,828/-, the surveyor recommended to the 
+appellant that the insurance claim must be rejected as the 
+respondents no. 1 and 2 had violated the conditions of the 
+insurance policy. Based on the surveyor’s report and also the 
+findings and conclusions of the Expert Committee, the appellant 
+repudiated the insurance claim in its letter dated 21.04.2011. 
+
+9 
+ 
+10. By their letter dated 17.06.2011, respondents nos. 1 and 2 
+requested the appellants to reconsider the decision of repudiation. 
+In support of their contentions, the respondents relied on certain 
+independent reports submitted by i) Mr. Jacques Combault; ii) M/s 
+SETRA/CETE (French Ministry of Transportation Technical 
+Department); iii) M/s Halcrow Group Ltd. and iv) AECOM Asia Co. 
+Ltd. Relying on these reports, the respondents urged stated that 
+there is no fault in the design of the bridge, and this is clearly 
+reiterated by technical experts, who are specialists in the field.  
+11. As the appellant agreed to reconsider the repudiation, 
+respondents no. 1 and 2 submitted various documents in support 
+of their claim. The appellant re-considered the claim, and by a 
+letter dated 17.04.2017 informed the respondents that the original 
+decision of repudiation is affirmed as they did not find any 
+justifiable reason for accepting the claim. The relevant portion of 
+the said communication dated 17.04.2017 is as follows: 
+“We refer to your letter Ref: 17011/27/2006-
+kota/CAR/RJ-05/3909, 
+dt: 
+18.01.2017 
+and 
+Contractor letter Ref: HZ-6718, dt: 04.02.2017 
+and also the subsequent meeting held at our 
+office-Chennai. On perusal of the documents 
+provided, we find that no further points have 
+emerged in support of the claim. 
+In view of the above we regret our inability 
+to reconsider the claim which was repudiated.” 
+
+10 
+ 
+ 
+12. In the meanwhile, respondents no. 1 and 2 completed the 
+work under the contract by 31.07.2017. The bridge was 
+inaugurated and put to public use from 29.08.2017, and it is said 
+to be operating since then.  
+13. Almost after 2 years of the rejection of the claim, on 
+24.01.2019, respondents no. 1 and 2 filed a Consumer Complaint 
+No. 160 of 2019 before the NCDRC alleging deficiency in the 
+appellant’s service and unfair trade practice adopted by it. 
+14. Decision of the NCDRC: At the outset, the NCDRC rejected 
+the preliminary objection of the appellant that the summary 
+jurisdiction under the Consumer Protection Act, 1986 (hereinafter, 
+‘the CPA’) is not appropriate for dealing with complicated questions 
+of law and fact. The objection relating to limitation in filing the 
+complaint was also dismissed by holding that the period for 
+calculating the limitation would commence from 17.04.2017 and 
+not from 21.04.2011.  
+14.1    On merits of the matter, the NCDRC held that the report of 
+the Committee of Experts was inconclusive as it could not identify 
+the precise reasons for the collapse of the bridge. On the other 
+hand, the NCDRC placed reliance on the reports of i) Mr. Jacques 
+
+11 
+ 
+Combault, ii) the Halcrow Group, iii) SETRA and iv) AECOM Asia 
+Co. Ltd., and came to the conclusion that there is no defect in the 
+design of the bridge and that the respondent nos. 1 and 2 are not 
+at fault.  
+14.2    Finally, the NCDRC relied on the decision of the NHAI 
+permitting the respondent nos. 1 and 2 to proceed with the 
+construction of the remaining part of the bridge and held that if 
+the NHAI found the respondents to be competent enough to 
+continue with the contract, it can safely be concluded that they 
+were not at fault.  
+14.3    In this view of the matter, the NCDRC directed the 
+appellant to pay the respondents no. 1 and 2 a sum of Rs. 
+39,09,92,828/- with an interest at 9% p.a. from the first date of 
+repudiation, i.e., 21.04.2011.  
+14.4   Strangely, while the judgment of the NCDRC was 
+pronounced on 16.01.2023, an addendum came to be added to the 
+judgment. This addendum is undated and seeks to amend 
+paragraphs 28 and 29 and directs payment of Rs. 151,59,94,542/- 
+instead of Rs. 39,09,92,828/-. The relevant portion of the 
+addendum is extracted here for ready reference:  
+
+12 
+ 
+“32. It will be relevant to mention here that though 
+the 
+Complainant 
+No.1, 
+vide 
+letter 
+dated 
+27.02.2010 had submitted a detailed Claim 
+Statement of ₹93,67,17,876 to the Surveyor but it 
+was revised vide e-mail dated 07.03.2010 to the 
+tune of ₹149,87,44,914/-. It was again revised 
+vide letter dated 24.06.2010 (Serial No.2 of the 
+Claim Statement - ₹8,29,15,604 to ₹10,01,65,232) 
+to a final Claim of ₹151,59,94,542/-. The 
+Surveyor had, however, assessed the total loss at 
+₹39,09,92,828/- . Even though in the Written 
+Submissions filed by the Learned Counsel for the 
+Complainants they have claimed that at least a 
+net loss of ₹39,09,92,828/- be payable towards 
+the insurance claim but in my considered opinion 
+the Complainants are entitled for the payment of 
+entire loss of ₹151,59,94,542/- claimed by them.  
+ 
+33. Consequently, the Complaint is partly allowed 
+with a direction to the Insurance Company to pay 
+a sum of ₹151,59,94,542/- to the Complainants 
+along with interest @9% p.a. from the date of 
+repudiation of the claim i.e. 21.04.2011 till the 
+actual realization, within a period of 8 weeks from 
+the date of passing of the order failing which the 
+amount shall attract interest @12% p.a. for the 
+said period. The Complainants shall also be 
+entitled for a costs of ₹50,000/-.” 
+ 
+15. Mr. Dama Seshadri Naidu, learned senior counsel appearing 
+for the respondents has submitted that he is not in a position to 
+support the judgment amending the paragraphs 28 and 29 and 
+directing 
+the 
+payment 
+of 
+the 
+revised 
+amount 
+of 
+Rs. 
+151,59,94,542/-. It is unimaginable as to how the NCDRC could 
+unilaterally revise the claim from Rs. 39,09,92,828/- to Rs. 
+151,59,94,542/-, 
+without 
+hearing 
+the 
+parties 
+and 
+more 
+
+13 
+ 
+surprisingly when respondent nos. 1 and 2 have themselves filed 
+written submissions confining the claim to Rs. 39,09,92,828/-. Be 
+that as it may, in view of the submission of the learned counsel for 
+the respondent that he will confine the claim Rs. 39,09,92,828/-, 
+this issue need not detain us any further.  
+16. Analysis: Insurance is a contract of indemnification, being a 
+contract for a specific purpose1, which is to cover defined losses2. 
+The courts have to read the insurance contract strictly. 
+Essentially, the insurer cannot be asked to cover a loss that is not 
+mentioned. Exclusion clauses in insurance contracts are 
+interpreted strictly and against the insurer as they have the effect 
+of completely exempting the insurer of its liabilities.3  
+17. In Texco Marketing P. Ltd. v. TATA AIG General Insurance 
+Company Ltd.,4 while dealing with an exclusion clause, this Court 
+has held that the burden of proving the applicability of an 
+exclusionary clause lies on the insurer. At the same time, it was 
+stated that such a clause cannot be interpreted so that it conflicts 
+ 
+1 Oriental Insurance Co. Ltd. v. Sony Cheriyan, (1999) 6 SCC 451. 
+2 United India Insurance Co. Ltd. v. Levis Strauss (India) (P) Ltd., (2022) 6 SCC 1. 
+3 New India Assurance Co. Ltd. v. Rajeshwar Sharma, (2019) 2 SCC 671; 
+Canara Bank v. United India Insurance Co. Ltd., (2020) 3 SCC 455; 
+Oriental Insurance Co. Ltd. v. Samayanallur Primary Agricultural Coop. Bank, 
+(1999) 8 SCC 543. 
+4 (2023) 1 SCC 428. 
+
+14 
+ 
+with the main intention of the insurance. It is, therefore, the duty 
+of the insurer to plead and lead cogent evidence to establish the 
+application of such a clause5. The evidence must unequivocally 
+establish that the event sought to be excluded is specifically 
+covered by the exclusionary clause.6 The judicial positions on the 
+nature of an insurance contract, and how an exclusion clause is 
+to be proved, shall anchor our reasoning in the following 
+paragraphs. 
+18. Seeking to justify their repudiation, the appellant relied on 
+the affidavit of evidence by Mr. S. Anantha Padmanabhan, 
+examined as RW 2. He produced the surveyor’s report as well as 
+the Expert Committee’s report as Ex. RW 2/2. On the other hand, 
+the reports of the independent experts relied upon by the 
+respondents no. 1 and 2 were not marked as exhibits. They were 
+not adduced in evidence as none of these experts was examined as 
+a witness.  Under these circumstances, we have no hesitation in 
+coming to a conclusion that the appellants have discharged the 
+burden as enunciated in Texco (supra). 
+ 
+5 National Insurance Company Ltd. v. Vedic Resorts and Hotels Pvt. Ltd., 2023 
+SCC OnLine SC 648. 
+6 National Insurance Co. Ltd. v. Ishar Das Madan Lal, 2007 (4) SCC 105. 
+
+15 
+ 
+19. The Expert Committee was constituted by the Ministry of 
+Road Transport and Highways (‘MORTH’), Government of India. It 
+was chaired by the Director General (Road Development) and 
+Special Secretary, MORTH. The other members of the Committee 
+were Mr. Ninan Koshi DG (RD) & AS (Retd.), Prof. Mahesh Tandon, 
+Bridge Specialist, and Prof. A.K. Nagpal, Dept. of Civil Engineering, 
+IIT Delhi. We have referred to the constitution as well as the 
+expertise of the Committee only to assure ourselves that it 
+comprised of experts in the field of civil engineering. It is also 
+indicative of the fact that the members were independent and well-
+qualified to examine and submit a report. We would, therefore, be 
+justified in relying on the findings of the Expert Committee. In fact, 
+the NCDRC’s opinion about the Expert Committee is not about 
+lack of credibility, or lack of expertise, rather its opinion was only 
+that the Committee was not conclusive in its findings.  
+20. The proof of the pudding is in its eating - we will straight away 
+refer to the relevant portions of the Expert Committee’s report.  
+Referring to the variations introduced on-site without any approval 
+by the design checker, the Committee held as follows: 
+“5.1.2 Since this is a Design Build Contract, the 
+Contractors M/s Hyundai-Gammon (JV) had 
+appointed M/s SYSTRA of France as their Design 
+
+16 
+ 
+Consultant. The designs prepared by M/s 
+SYSTRA were proof checked by M/s COWI, the 
+Proof Check Consultant. During the course of 
+presentations and discussions with various 
+agencies, there were some contradictions in the 
+stand taken by M/s SYSTRA and M/s COWI as 
+regards the extent of proof checking of designs by 
+the Proof Check Consultant. In fact, M/s COWI in 
+their submission dated 28th May, 2010 (Annexure 
+L-21) have stated as follows: “The Design Checker 
+verified the Final Design prior to start of 
+construction. The variations introduced on site 
+were introduced by the BOT Contractor. We expect 
+that all variations were subject to verification and 
+approval of the Designer. The Design Checker was 
+not requested to review any design verification 
+following variations on site from the Final Design. 
+[…]”  
+(emphasis supplied) 
+20.1    The Committee noted that each lateral span of the bridge 
+was supposed to be a monolithic structure. A lateral span is the 
+structure between two support pillars. However, the collapsed 
+lateral span was cast in multiple parts, as noted in the following 
+paragraph: 
+“5.3.3 M/s SYSTRA have expressed vide their 
+submission dated 17th April, 2010 (Annexure  
+H-11, page 3) that they have envisaged “one go” 
+(i.e. monolithic construction) for each lateral span 
+during the development of the design. However, 
+during actual construction the lateral span P3-P4 
+was cast in seven parts. The lower part of the box 
+girder (U-shaped section comprising bottom slab 
+and webs upto about mid height) was concreted 
+in four different stages with three vertical 
+construction joints. The upper part of the box 
+girder (comprising deck slab and top half of the 
+
+17 
+ 
+webs) was later concreted in three stages (with 
+two vertical construction joints). It has been 
+informed by M/s Hyundai-Gammon JV vide their 
+letter HN-1656 dated 1st September, 2009 
+(Annexure L-18, page 3) that M/s SYSTRA, the 
+designer of the main bridge including lateral 
+spans, were aware of this. In fact, Mr. J. Mirailles 
+of M/s SYSTRA had visited the site in the month 
+of July 2009 and stayed there for a couple of 
+weeks to inspect the ongoing construction. The 
+construction of lateral span P3- P4 in parts was 
+being carried out at that time…” 
+ 
+“5.3.5 The query of the Committee regarding 
+position 
+of 
+M/s 
+LBG-COWI 
+in 
+respect 
+of 
+applicability of Clauses of AASHTO relating to 
+“Segmentally Constructed Bridges” to the design 
+of lateral span P3-P4, was discussed with Mr. 
+Nielsen of M/s COWI on 23rd June, 2010. Mr. 
+Nielsen mentioned that as per his understanding, 
+it was a case of segmental construction. […]”  
+(emphasis supplied) 
+ 
+20.2    The Committee noted that the point at which the cable was 
+going to be suspended with the pylon was crucial. It observed that 
+the height at which the suspension took place was 77 metres, 
+whereas, it was supposed to be 40 metres. The relevant paragraph 
+is as follows: 
+“6.2 The drawing No.A104-DWG-MB-FD-1301 
+REV. 1 dated 28th May, 2009 [Annexure H-01(ii)] 
+shows that the lateral spans P3-P4 as well as P2-
+P3, should have been completed and external 
+tendons tensioned before the first stay cable was 
+installed. The steel box for anchoring the first stay 
+cable was to be placed in the pylon at the height 
+of 33.30m. Also, the first cantilever segment 
+towards the river side from P4 was to be 
+
+18 
+ 
+constructed only after the lateral spans P3-P4 and 
+P2-P3 had been completed and fully prestressed. 
+It is seen that this sequence was changed in the 
+actual construction. Further, drawing No.A104-
+DWG-MB-FD-846 REV. 2(c) dated (??)/07/09 
+[Annexure H-01(ii)] specifically mentions that 
+“tendons tensioning on span P2-P3 must be 
+performed before pouring segment S10”. This 
+requirement was also changed during actual 
+construction. […]  
+6.3 …This implies that the height of the pylon 
+should have been about 40 m at the time of 
+tensioning of first stay cable at cantilever segment 
+S10. However, it is seen that at the time of casting 
+of segment S10, the free-standing pylon had 
+already been constructed to a height of 77 m.”  
+   (emphasis supplied) 
+ 
+20.3    The other relevant portions cited to us from the Committee’s 
+Report include para 6.5, which speaks about the changes in the 
+sequence of construction without consulting or informing the 
+design consultants of the project. Para 6.8 was relied on to 
+highlight further discrepancies between the approved drawing 
+plans and the actual construction. Concrete batching plants 
+involved were of a lower capacity, leading to delays in construction 
+of the lateral spans. Para 8.1.2 (iii) was also brought to our notice, 
+as it spoke about the changes which were brought about without a 
+proper technical review. The conclusions of the committee have 
+already been quoted by us in paragraph 7 above, and it was found 
+that:  
+
+19 
+ 
+a) a combination of factors such as lack of stability and 
+robustness in the structure, shortfall in design, lack of 
+quality workmanship have all contributed to the 
+collapse;  
+b) the primary responsibility lies with the contractor, M/s 
+Hyundai and Gammon (JV) who are responsible for 
+allowing the structure to reach a vulnerable stage 
+without taking adequate precautions and there is a 
+shortfall in the design; 
+c) there were shortcomings in the design for the bridge 
+prepared by M/s SYSTRA and the responsibility for the 
+design lies with M/s SYSTRA; 
+d) M/S COWI, the supervision consultants have not 
+highlighted the shortfall in the design. M/s COWI has 
+not been sufficiently proactive in preventing lapses in 
+workmanship. They have given tacit approvals for 
+major changes without insisting on a proper review of 
+the design; 
+e) The trigger for the collapse appears to be the failure of 
+M/s Freyssinet. Their responsibility must be examined 
+in detail.  
+
+20 
+ 
+21. We are inclined to accept the appellant’s submission that 
+there is sufficient evidence to justify repudiation of the claim on 
+the basis of the exclusion clause. On the other hand, there is 
+absolutely no evidence on behalf of the respondents. His argument 
+is only that the Surveyor/Committee report is not clinching, it is 
+open ended and does not hold that the respondents no. 1 and 2 
+are responsible for the negligence.  
+22. We will now refer to the surveyor’s report, the findings of 
+which are as follows:  
+“C) After a detailed study of the Insured’s 
+submission vide their letter dt;27.02.2010 and 
+several rounds of face to face interactions with the 
+Insured’s Engineers at site, we derived the 
+following inferences;  
+ 
+1). The junction at Pylon P4, was the most critical 
+and vulnerable in the entire construction and had 
+to be handled with due care and diligence.  
+ 
+2). It was clear and obvious, that, an unstable 
+equilibrium has been created at this junction, 
+(where, the over turning moment was in excess of 
+resisting moment), due to the shearing of the slab 
+in lateral span P3 -P4 at about 15 mts from the P4 
+junction, which has caused the tilting of the Pylon, 
+dragging with it, spans P3-P4, P3-P2 and Piers P4, 
+P3. The shearing of the slab is purely a Design 
+aspect.  
+ 
+3). The restraints imposed on the movement of the 
+Bearings at P4 were released by the Insured prior 
+to completion of the main spans, which facilitated 
+
+21 
+ 
+movement of Pylon along with Lateral spans and 
+this is one of the most significant factors, 
+contributing to this massive failure.  
+ 
+4). The sequence of operations in the construction 
+of the Bridge were changed in actual construction 
+to make up for the time lost and this has adversely 
+affected the stability of the P4 joint.   
+ 
+5). Raising Pylon P4 to an abnormal height of 77 
+mts (out of 80 mts) without any lateral anchorage 
+in the form of stringers, had left the Pylon P4 
+exposed to heavy wind pressure and in a state of 
+unstable equilibrium, ready to collapse at any 
+time, with the application of a little external force 
+in excess.  
+ 
+6). We were informed that, the concreting of 
+Lateral span P3-P4 was done in 7 stages, 
+whereas, it should have been done at ONE GO. 
+This leaves vertical joints which are vulnerable. 
+We also noted that, the Insured had to resort to 
+concreting in stages, due to insufficient Batching 
+Plants.  
+ 
+7). Change in allocation of works amongst the 
+Joint Venture Partners also played a key role in 
+the quality of workmanship. At several places, 
+M/s.Gammon had to carryout the jobs, supposed 
+to have been carried out by M.s,Hyundai. Even in 
+the affected location of P4, the construction of Pier 
+P4 was the responsibility of M/s. Hyundai, 
+whereas, it was carried out by M/s Gammon.  
+ 
+8). Lack of co-ordination and planning between 
+proof checking consultant and design consultants 
+could have been streamlined. 
+ 
+[…] 
+ 
+
+22 
+ 
+11). The sequence of concreting carried out on the 
+date of failure, as informed to us, was different 
+from the versions of the Insured. […]”  
+ 
+23. It is important to note that the surveyor was examined as 
+RW-1 
+and 
+his 
+evidence 
+remained 
+unrebutted. 
+In 
+National   Insurance   Company   Ltd.   v.   Hareshwar 
+Enterprises (P) Ltd.7 and National Insurance Company Ltd. v. Vedic 
+Resorts and Hotels Pvt. Ltd.,8 this court has held that the 
+surveyor’s report is a credible evidence and the court may rely on 
+it until a more reliable evidence is brought on record. In the 
+present case, the surveyor’s report was the evidence tendered by 
+the insurance company, and it has not been treated as unreliable 
+by the NCDRC. 
+24. Mr. Naidu, appearing on behalf of the respondents, 
+commenced his submission by referring to certain portions of the 
+judgment of this court in Texco (supra) to emphasise that 
+exclusionary clauses place extraordinary burden on the insurance 
+company. We have already answered this question by referring to 
+the evidence adduced by the appellant, which we consider to be a 
+sufficient discharge of the burden. On the Expert Committee’s 
+ 
+7 (2021) SCC Online SC 628. 
+8 2023 SCC OnLine SC 648. 
+
+23 
+ 
+report, Mr. Naidu has re-iterated the finding of the NCDRC that it 
+is inconclusive apart from being a mere opinion. Even this 
+submission stands answered by extracting specific and categorical 
+findings of the Committee as well as the surveyor’s report.  
+25. Mr. Naidu sought to draw support from the reports of 
+independent experts on the issue of design to establish that the 
+respondents are not at fault. Mr. Naidu sought to rely on reports 
+by (i) Mr. Jacques Combault; (ii) M/s SETRA/CETE (French 
+Ministry of Transportation Technical Department); (iii) M/s 
+Halcrow Group Ltd.; and (iv) AECOM Asia Co. Ltd.  
+26. At the outset, the concerned experts were never examined 
+before the NCDRC. Further, these reports were not based on site-
+inspection. They are all theoretical in nature. For example, the 
+report Mr. Jacques Combault is based on: 
+“The analysis reported in the following pages is 
+based on:  
+- 
+The description of Bridge Concept as proposed 
+by Systra  
+- 
+The Main characteristics of the Structural 
+Concept as proposed by Systra  
+- 
+The State of the Art in the field of prestressed 
+concrete cable stayed bridges  
+- 
+Examples of similar bridges successfully 
+achieved in the past” 
+ 
+ 
+
+24 
+ 
+After a theoretical analysis, the following conclusion is drawn: 
+“The structural concept of the Chambal Bridge as 
+proposed by Systra is: -  
+- 
+perfectly fitting the site-conditions  
+- 
+conforming to the state of the art in the field of 
+cable stayed bridges  
+The construction methods, as proposed by Systra, 
+are simple and proven processes well adapted to 
+the structural concept.” 
+ 
+ 
+27. 
+A similar approach was adopted by the other experts. On the 
+other hand, the surveyor has examined himself and adduced 
+documents. Further, there is sufficient evidence to indicate that 
+the surveyor has made site-visits and the proof of that was part of 
+the pleadings filed before us.  
+28. The submission that NHAI continuing the contract with 
+respondent nos. 1 and 2 and they have, in fact, completed the 
+contract does not impress us. The continuation of work by 
+respondent nos. 1 and 2 could be due to various reasons. Even if 
+the NHAI’s decision to continue is taken to be a valid economic 
+decision, that by itself cannot be a reason for not applying the 
+applicable clause of the contract if such applicability is otherwise 
+proved by cogent evidence.   
+29. For the reasons stated above, we are of the opinion that the 
+NCDRC fell into a clear error of law and fact in allowing the 
+
+25 
+ 
+consumer complaint for multiple reasons. As we have not agreed 
+with the preliminary objection of the appellant to reject the 
+complaint and relegate the respondents to civil court, we made 
+extra efforts to examine the facts in detail. It is for this reason that 
+the evidentiary value of the reports, their scope and ambit, and 
+their contents were examined by us in some detail.  
+30. For the reasons stated above, we allow the appeal and set-
+aside the impugned order dated 16.01.2023 passed by the NCDRC 
+in Consumer Complaint No. 160 of 2019. 
+31.   Pending applications, if any, shall be disposed of. 
+32.   There shall be no order as to costs. 
+ 
+……………………………….J. 
+                               [PAMIDIGHANTAM SRI NARASIMHA] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+……………………………….J. 
+[ARAVIND KUMAR] 
+ 
+NEW DELHI; 
+May 16, 2024

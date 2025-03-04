@@ -1,0 +1,571 @@
+2024 INSC 236
+1 
+ 
+ 
+                                          REPORTABLE 
+ 
+ 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION 
+ 
+CIVIL APPEAL NO. 1666 OF 2015 
+ 
+SATYANAND SINGH     
+                    
+                         …APPELLANT 
+VS. 
+UNION OF INDIA & ORS.                                                …RESPONDENTS 
+ 
+J U D G M E N T 
+ 
+DIPANKAR DATTA, J.  
+ 
+THE CHALLENGE 
+ 
+1. 
+The present civil appeal lays a challenge to the judgment and order dated 
+05th September, 2012 (“impugned judgment”, hereafter) of the Principal 
+Bench of the Armed Forces Tribunal at New Delhi (“AFT”, hereafter), 
+whereby the AFT rejected the appellant’s prayer seeking reference of his 
+diagnosis as AIDS inflicted, to a fresh Medical Board.  
+ 
+Digitally signed by
+babita pandey
+Date: 2024.03.20
+17:44:44 IST
+Reason:
+Signature Not Verified
+
+2 
+ 
+BRIEF RESUME OF FACTS 
+ 
+2. 
+The factual matrix of the case, insofar as is relevant for the purpose of a 
+decision on this appeal, is noted hereinbelow:  
+(i) 
+The appellant was enrolled in the Indian Army on 30th October, 1993 
+as a Havaldar. He continued discharging his duties on a clerical post 
+without impediment until the year 1999, when he began suffering 
+from fever, headache and vomiting. For treatment he was referred to 
+the Jabalpur Military Hospital. Here, the appellant tested positive for 
+HIV. 
+(ii) On 9th January, 2000, the Army Headquarters issued a Notice 
+(“Notice”, hereafter) stating that all persons who are HIV+ve and are 
+suffering from pulmonary or extrapulmonary tuberculosis, would be 
+considered as AIDS cases.  
+(iii) Thereafter, on 20th August, 2001, the appellant developed similar 
+symptoms yet again, for which he was referred to the Jabalpur Military 
+Hospital. The doctors there prescribed certain medicines to the 
+appellant, which he claims led to his developing double vision. The 
+appellant was referred to the Command Hospital at Pune for further 
+treatment.  
+(iv) In view of the appellant’s ocular afflictions, the doctors, suspecting 
+the same to be a symptom of neuro-tuberculosis, began treating him 
+for the same. Vide Medical Report dated 14th September, 2001 
+(“Medical Report” hereafter), the appellant was reported to be 
+suffering from “AIDS defining illness in the form of neuro-
+
+3 
+ 
+tuberculosis”, and thus was officially diagnosed with AIDS. The 
+appellant was then recommended to be invalided out in the “P5” 
+category. Per the medical categorisation of the Army, “P5” referred to 
+those persons who were suffering from “gross limitations in physical 
+capacity and stamina”. 
+(v) As a consequence of the report dated 14th September, 2001, the 
+appellant was referred to the Invaliding Medical Board (“IMB” 
+hereafter), which confirmed his diagnosis of suffering from AIDS.  
+(vi) On 26th December, 2001, after 8 years and 58 days of service, at the 
+young age of 27, the appellant was discharged from service under 
+Rule 13 (3), Item III(iii) of the Army Rules, 19541 (“Rules” hereafter) 
+on the ground of having been found medically unfit for further service.  
+(vii) On 23rd May 2003, the “Guidelines for Management and Prevention of 
+HIV/AIDS Infection in the Armed Forces” (“2003 Guidelines” 
+hereafter) came into force. In a shift from the Notice, the said policy 
+included into its consideration the CD4 cell count of the personnel, 
+and that the condition for invalidment would be, inter alia, a CD4 cell 
+count below 200 cells/mm3. 
+(viii) The appellant approached the Madhya Pradesh High Court, seeking 
+quashing of the discharge order dated 26th December, 2001 and 
+reinstatement with all consequential benefits. A learned Judge of the 
+High Court, vide order dated 20th April, 2006, allowed the appellant’s 
+writ petition.  
+ 
+1 An enrolled person under the Army Act who has been attested on the ground of being found 
+medically unfit for further service could be discharged by the Commanding Officer, to be carried 
+out only on the recommendation of an invaliding Board. 
+
+4 
+ 
+(ix) However, in exercise of intra-court appeal jurisdiction, an Hon’ble 
+Division Bench of the High Court vide its order dated 28th March, 2007 
+reversed the order under appeal. The Division Bench observed that in 
+accordance with Para 355 (f)2 of the Regulations for the Army, 1987 
+(“Regulations”, hereafter), the appellant was not discharged solely on 
+the ground of having contracted a sexually transmitted disease. The 
+appellant’s discharge from service was held to be valid on the ground 
+that AIDS would incapacitate his physical capacity, thus coming within 
+the ambit of Rule 13 of the Rules. An application for review of the said 
+order was also dismissed vide order dated 27th August, 2007.  
+(x) The appellant challenged both the orders before the Supreme Court. 
+A 3-Judge Bench of this Court vide order dated 01st April, 2009 
+allowed the appellant to withdraw his appeal, while directing that he 
+could avail of the available statutory remedies.  
+(xi) The appellant availed of his statutory remedy by making an 
+application to the Director General Armed Forces Medical Service 
+(“DGAFMS” hereafter) seeking a Review Medical Board. The DGAFMS, 
+vide order dated 20th October, 2009, rejected the appellant’s prayer 
+on the ground that the criteria for discharge was satisfied in terms of 
+the Army’s prevailing policy at the time, i.e., the “Guidelines for 
+ 
+2 "355. Contraction of sexually transmitted disease - The following principles will be observed in 
+dealing with OR including reservists and non - combatants, who contracts sexually transmitted 
+disease: 
+f) An OR is not to be discharged from service solely on account of his having contracted sexually 
+transmitted disease. If, however, he has been absent from duty on account of sexually 
+transmitted disease for a total period of four months, whether continuous or not, his case may 
+be brought to the notice of the authority empowered to order his discharge from the service, for 
+consideration as to whether he should be discharged from the service under the table annexed 
+to Army Rule 13 item III if attested, and under item IV if not attested. 
+
+5 
+ 
+Prevention and Control of HIV Infections in the Armed Forces” dated 
+30th November, 1992 (“1992 Guidelines” hereafter). Furthermore, the 
+appellant was also denied disability pension, AIDS being categorised 
+as a self-inflicted condition. 
+(xii) The order passed by the DGAFMS was subjected to challenge by the 
+appellant before the AFT which, vide the impugned judgment, 
+rejected his prayer on the ground that the Medical Report had 
+concluded after sufficient investigation and detail that he was 
+suffering from (i) CNS Tuberculosis and (ii) Immune Surveillance for 
+HIV. The IMB, which confirmed the findings of the Medical Report, was 
+held to have been rightly constituted with the required experts. The 
+appellant argued that he was misdiagnosed with AIDS, his CD4 cell 
+count being 379 cells/mm3 till as late as 05.08.2012 as opposed to 
+the benchmark of 200 cells/mm3 set by the World Health 
+Organisation. The AFT rejected this argument on the ground that such 
+a CD4 cell count was marginal and would not entitle the appellant to 
+be declared AIDS free, thus obviating the need for referring him to a 
+Review Medical Board.  
+CONTENTIONS OF THE PARTIES 
+3. 
+Learned counsel for the appellant, Ms. Kawalpreet Kaur, relied on the 1992 
+Guidelines to argue that in terms thereof, all personnel with HIV infection 
+were to be retained in service, the only restriction on their employment 
+being, inter alia, that they would not be posted to high altitude areas. Ms. 
+Kaur further contended that there had been an error in diagnosis in the 
+
+6 
+ 
+Medical Report itself, since the appellant never suffered from tuberculosis 
+which was taken as a defining illness for AIDS. It was urged that the 
+appellant was merely suffering from double vision, which cleared up by 
+15th November, 2001. However, the doctors misdiagnosed the appellant’s 
+double vision for a tuberculosis related symptom of blindness. 
+Consequently, in view of the Notice, the appellant having been found to be 
+both HIV+ve and suffering from tuberculosis, was invalided from service. 
+Ms. Kaul further argued that as per the Army’s 2003 Guidelines, the 
+appellant was fit for service since his CD4 cell count remained above 
+200/mm3 till as late as 2012. This defining indicator for AIDS was argued 
+to have been erroneously disregarded by both, the IMB and the AFT. In 
+support of the same, it was further argued that the appellant was 
+asymptomatic till date, without undergoing any anti-retro viral therapy as 
+would have been prescribed for a person suffering from AIDS; thus, 
+establishing without a doubt, that the appellant never developed AIDS to 
+begin with. Ms. Kaur concluded by arguing that the appellant’s case was 
+one of wrongful discharge, based on a wrong diagnosis.  
+4. 
+Per contra, Mr. Balasubramanian, learned senior counsel for the 
+respondents contended that the appellant had never been discharged 
+solely on the basis of his HIV+ve status, the same being evident from his 
+uninterrupted service from 1999 till April 2001. The doctors at the time, 
+on the basis of their best professional judgment and giving due regard to 
+the medical knowledge prevalent in 2001, diagnosed the appellant with 
+neuro-tuberculosis, which led to a change in status of the appellant from 
+HIV+ve to “AIDS related complex”. It was further argued that the appellant 
+
+7 
+ 
+responded well to anti-tuberculosis treatment, thus confirming the 
+diagnosis of the time. It was further contended that his survival ought to 
+be attributed to be a natural variation in the course of the disease rather 
+than a misdiagnosis on the part of the medical professionals. With respect 
+to the appellant’s allegation that his double vision was mistaken for 
+blindness, Mr. Balasubramanian further argued that the appellant had 
+placed no documents on record to prove such a claim, and that the 
+tuberculosis diagnosis was made only after detailed investigations. It was 
+also argued that AIDS would expectedly lead to a deterioration in the 
+health of the appellant, which is why he was discharged under the P5 
+category, having been found grossly unfit for medical service. 
+ANALYSIS 
+5. 
+We have heard learned counsel for the parties and perused the impugned 
+judgment as well as the other materials on record. 
+6. 
+The AFT, in the impugned judgment, has referred to extensive medical 
+literature citing the hazards of HIV and how it can lead to a deterioration 
+in the physical condition of those who get detected as HIV+ve. However, 
+while the medical literature contemplates myriad infirmities which 
+accompany such a disease and consequently render an individual unfit for 
+military service, the AFT failed to observe that the appellant in the present 
+case was not diagnosed with any such symptoms. The appellant was 
+treated by the Command Hospital at Pune in 2001, and by the respondents’ 
+admission, successfully responded to the treatment administered. Nothing 
+
+8 
+ 
+has been brought on record to indicate that the appellant was thereafter 
+unfit to continue in service as a Clerk.  
+7. 
+We have no doubt in our mind that this is a case of wrong diagnosis and 
+false alarm with imperilling consequences for the appellant. The 
+respondents’ contention that doctors in 2001 have used their best 
+professional judgment to opine that the appellant was HIV+ve, in our 
+opinion, should be rejected, in the absence of any medical literature to 
+show that the test results as per then prevailing medical standards justify 
+the diagnosis that the appellant was suffering from AIDS defining illness. 
+On the other hand, there are lapses galore on the part of the respondents. 
+They were, in spite of being aware of the adverse and pernicious impact 
+on the appellant, grossly careless and negligent. 
+8. 
+The appellant was diagnosed with neuro tuberculosis, which diagnosis was 
+without examination by a neurologist whose opinion, according to us, 
+would seem to be elementary. The AFT’s opinion that the need of the 
+medical specialist was fulfilled by placing an oncologist on Board is 
+something with which we cannot agree. The appellant while serving in the 
+army was being prematurely discharged; thus extreme caution and care 
+in ensuring correct diagnoses was required. The respondents have 
+deliberately tried to cover up the wrong diagnosis in spite of the 2003 
+Guidelines and the test reports of the appellant. The respondents had the 
+opportunity from 2007 onwards to rectify and correct themselves after the 
+order of the single Judge of the High Court dated 20th April, 2006. The 
+Medical Board, which was  constituted  upon the appellant availing the 
+statutory remedy, arbitrarily, wrongly and in our opinion deliberately vide 
+
+9 
+ 
+order dated 20th October, 2009 rejected the appellant’s prayer on flimsy 
+and wrong grounds by applying the 1992 Guidelines. Even disability 
+pension was denied by categorising the appellant as suffering from AIDS, 
+a self-inflicted condition.  
+9. 
+Significantly, the appellant had submitted between the period of 2007 and 
+2012, as many as four diagnostic reports, showing that his CD4 cell count 
+was above 300 cells/mm3, as opposed to the respondents’ 2003 Guidelines 
+defining an AIDS illness to be one where the CD4 cell count is below 200 
+cells/mm3.  
+10. 
+The apathetic attitude of the respondents to the appellant’s plight is 
+evident in the repeated submission that has been made before all fora, 
+i.e., the appellant’s case had been re-examined several times and thus did 
+not merit another look. It is borne out from the record that other than the 
+Medical Report, which the appellant alleges was made by a doctor who did 
+not treat him, and the review of such report by the IMB, his case was never 
+again considered on its merits. The dismissal of the appellant’s application 
+by the DGAFMS vide order dated 20th October, 2009 can only be called 
+perfunctory at best, since it did not take into account any of the material 
+subsequently produced by the appellant.   
+11. 
+The respondents’ submissions, as elaborate as they may be, in defence of 
+the AIDS diagnosis which was used to discharge the appellant from 
+service, are rendered unworthy of acceptance on the face of his existence 
+today, as an asymptomatic HIV+ve individual without the intervention of 
+any anti-retroviral therapy.  
+
+10 
+ 
+12. 
+The severance of the employer – employee relationship can never be said 
+to be an easy choice, for it not only results in the employee losing his 
+livelihood, but also affects those who depend on him for their survival. And 
+if the employer happens to be the Indian Army, the loss is even greater, 
+since it has the effect of suddenly displacing a soldier from the regimented 
+lifestyle of the military. The appellant, who was trained to live a disciplined 
+life since the tender age of 19, was unnecessarily and without cogent 
+reason thrust into civilian life with little warning or preparation. The 
+psychological trauma that such displacement can bring about needs no 
+elaboration. However, the cruel passage of time has unfortunately 
+rendered the appellant’s original hopes of reinstatement an unrealised 
+dream.  
+13. 
+The appellant, as an alternative relief, has consistently prayed for disability 
+pension but was denied the same on the ground that the disease is self-
+inflicted.  
+14. 
+At this juncture, we consider it apposite to refer to certain provisions of 
+the Notice published by the Army: 
+“4. Pulmonary Tuberculosis and HIV infection will not be 
+assessed separately for attributability / aggravation. HIV 
+aggravation is a 'STD' and hence AIDS is self-inflicted, neither 
+attributable nor aggravated. 
+ 
+5. The policy on awarding longevity and percentage of 
+disability for HIV+ve service personnel brought before 
+release medical Board is as follows :-  
+‘As per existing instructions, JCOs/ORs or their equivalent 
+in the Navy/Air Force placed in permanent low Medical 
+category are permitted to continue in service only in case 
+the Unit COs render a certificate to the effect that sheltered 
+appointment shall be provided. Otherwise such individuals 
+are brought before Release Medical Board for releasing 
+
+11 
+ 
+from service. It is unlikely that HIV positive cases in perm 
+low 
+Medical 
+Category 
+would 
+be 
+given 
+sheltered 
+appointment and recommended for retention in service by 
+unit cos'. 
+ 
+6. Following procedure will be followed in HIV+ve service 
+personnel brought before Release Medical Board. 
+a) Longevity: By the time HIV+ve case is brought before 
+Release Medical Board, it is likely that he had acquired the 
+infection about 1-2 years earlier. Therefore, it is likely that he 
+would develop AIDS within next 6-8 years. After development 
+of AIDS the average life span is only 1-2 years. Therefore 
+loading of age by 2 years at the time of Release Medical Board 
+is considered appropriate. 
+b) Percentage of disability: In fact viral multiplication during 
+this period is average and the immune system being 
+systematically destroyed. Apart from infection, HIV+ve cases 
+will suffer emotionally, psychologically and socially. Taking all 
+these 
+factors 
+in 
+consideration, 
+40% 
+disability 
+for 
+asymptomatic cases and upto 100% for symptomatic cases 
+will be awarded.” 
+ 
+15. 
+A perusal of the Notice reveals that in terms of Para 6A, a person who has 
+been diagnosed as HIV+ve was expected to develop AIDS within 6-8 years, 
+and thereafter, have a limited lifespan of only 1-2 years. We cannot help 
+but record reservation as the policy reflects the systemic discriminatory 
+practice and predisposition treating HIV as aggravation of STD and AIDS 
+is self-inflicted. In arguendo, even going by the respondents' own policy, 
+the appellant could not be said to be suffering from AIDS since, in flagrant 
+defiance of the policy assessment, the appellant is reportedly still alive and 
+suffering from no serious ailment. 
+16. 
+A further examination of the respondents’ policy reveals that though AIDS 
+was always deemed to be a self-inflicted disease, there was still a provision 
+for conferring disability status to those afflicted with the same. Yet, time 
+and again, we find the respondents here have mechanically denied the 
+
+12 
+ 
+appellant’s request for disability status in a most arbitrary and 
+unreasonable manner. It is pertinent to note that in yet another instance 
+of the deep-rooted bias against individuals diagnosed as HIV+ve, the 
+Notice allows for sheltered appointments to those diagnosed with such a 
+condition, while in the same breath stating that the provision of such 
+sheltered appointments is an unlikely possibility. 
+17. 
+We may note here that in CPL Ashish Kumar Chauhan v. Commanding 
+Officer3, the concerned member of the Air Force was diagnosed as HIV+ve 
+because of a blood transfusion that did not proceed along laid down 
+protocol and went awfully wrong for which this Court had to award 
+appropriate quantum of compensation. Reference is made to the said 
+decision at this stage only to highlight that AIDS is not always a self-
+inflicted disease and there appears to have been no worthy attempt on the 
+part of the respondents to ascertain the root cause of the appellant’s 
+physical distress.   
+18. 
+The Constitution, through its Preamble, guarantees to all its people 
+‘Justice’, in the deliverance of which, the Courts of the land have developed 
+a nuanced compensatory jurisprudence through a catena of judgments, 
+for a wide compass of situations.   
+19. 
+This Court, towards the end of the last century held in D.K. Basu v. State 
+of West Bengal4 that: 
+“54. Thus, to sum up, it is now a well-accepted proposition in 
+most of the jurisdictions, that monetary or pecuniary 
+compensation is an appropriate and indeed an effective and 
+sometimes perhaps the only suitable remedy for redressal of 
+the established infringement of the fundamental right to life 
+ 
+3 2023 SCC OnLine SC 1220 
+4 (1997) 1 SCC 416 
+
+13 
+ 
+of a citizen by the public servants and the State is vicariously 
+liable for their acts.” 
+ 
+20. 
+In P.S.R. Sadhanantham v. Arunachalam5, this 
+Court while 
+emphasising its power to do full and complete justice, ruminated:  
+“6. The jural reach and plural range of that judicial process to 
+remove injustice in a given society is a sure index of the 
+versatile genius of law-inaction as a delivery system of social 
+justice. By this standard, our constitutional order vests in the 
+summit Court of jurisdiction to do justice, at once 
+omnipresent and omnipotent but controlled and guided by 
+that refined yet flexible censor called judicial discretion. This 
+nidus of power and process, which master-minds the broad 
+observance throughout the Republic of justice according to 
+law, is Article 136.” 
+ 
+21. 
+While discussing award of ‘just compensation’ in a personal injury case, 
+this Court in K. Suresh v. New India Assurance Co. Ltd.6 had the 
+occasion to observe that: 
+“10. It is noteworthy to state that an adjudicating authority, 
+while determining the quantum of compensation, has to keep 
+in view the sufferings of the injured person which would 
+include his inability to lead a full life, his incapacity to enjoy 
+the normal amenities which he would have enjoyed but for 
+the injuries and his ability to earn as much as he used to earn 
+or could have earned. Hence, while computing compensation 
+the approach of the Tribunal or a court has to be broad based. 
+Needless to say, it would involve some guesswork as there 
+cannot be any mathematical exactitude or a precise formula 
+to determine the quantum of compensation. In determination 
+of 
+compensation 
+the 
+fundamental 
+criterion 
+of 
+“just 
+compensation” should be inhered.” 
+ 
+22. 
+Not too long ago, in CPL Ashish Kumar Chauhan (supra), this Court 
+while awarding compensation to a person discharged from the Indian Air 
+Force, ruled:  
+“103. ***People sign up to join the armed forces with 
+considerable enthusiasm and a sense of patriotic duty. This 
+entails a conscious decision to put their lives on the line and 
+be prepared for the ultimate sacrifice of their lives. A 
+ 
+5 (1980) 3 SCC 141 
+6 (2012) 12 SCC 274 
+
+14 
+ 
+corresponding duty is cast upon all state functionaries, 
+including echelons of power within the armed forces to 
+ensure that the highest standards of safety (physical/mental 
+wellbeing, medical fitness as well as wellness) are 
+maintained. This is absolutely the minimum required of the 
+military/air force employer for not only assuring the morale of 
+the forces but also showing the sense of how such personnel 
+matter and their lives count, which reinforces their 
+commitment and confidence. Any flagging from these 
+standards - as the multiple instances in the present case have 
+established, only entails a loss of confidence in the personnel, 
+undermines their morale and injects a sense of bitterness and 
+despair not only to the individual concerned but to the entire 
+force, leaving a sense of injustice. When a young person, 
+from either sex (as is now a days the case) enrols or joins 
+any armed forces, at all times, their expectation is to be 
+treated with dignity and honour. The present case has 
+demonstrated again and again how dignity, honour and 
+compassion towards the appellant were completely lacking in 
+behaviour by the respondent employer. Repeatedly the record 
+displays a sense of disdain, and discrimination, even a hint of 
+stigma, attached to the appellant, in the attitude of the 
+respondent employer. Although this court has attempted to 
+give tangible relief, at the end of the day it realizes that no 
+amount of compensation in monetary terms can undo the 
+harm caused by such behaviour which has shaken the 
+foundation of the appellant's dignity, robbed him of honour 
+and rendered him not only desperate even cynical.” 
+ 
+23. It has been submitted by the counsel for the appellant that he is presently 
+aged 50 years and is into a small business of his own. Having considered 
+the plight of the appellant, which his employer failed to address, as well as 
+the social stigma attached to persons who are diagnosed as HIV+ve 
+patients, coupled with the position that the appellant’s reinstatement in 
+service is not an available option now and also that direction for grant of 
+pension, which we propose to make, cannot be considered an equitable 
+restitution of what the appellant has suffered by reason of psychological, 
+financial and physical trauma, we deem it fit to additionally award him 
+monetary compensation. 
+
+15 
+ 
+24. Having been discharged from the services of the Indian Army at the prime 
+age of 27, the appellant was robbed of the opportunity of further serving 
+the nation for many more years on account of a most unfortunate turn of 
+events, the responsibility for which can lie on no shoulders other than the 
+respondents 2 to 4. It is also borne from the record that the appellant 
+neither received his leave encashment, nor received reimbursement for the 
+expenses incurred by him in medical tests.  
+25. We would be remiss in not recognising the particular circumstances of the 
+appellant’s discharge from service which compounded the agony of the 
+process, i.e., a wrongful diagnosis of AIDS and subsequent termination of 
+services on the same ground. It is no secret that despite the enactment of 
+the Human Immunodeficiency Virus and Acquired Immune Deficiency 
+Syndrome (Prevention and Control) Act, 2017, and the slew of awareness 
+measures taken by Governments in recent times, the stigma and 
+discrimination which lamentably accompanies an HIV+ve diagnosis is still 
+an illness that afflicts the minds of society today. The discriminatory 
+sentiment of deeming persons who are HIV+ve to be unfit for employment, 
+is starkly evident from the way in which the appellant has been responded 
+to and treated by the various authorities. By misdiagnosing the appellant 
+with AIDS, the respondents indubitably subjected the appellant to further 
+misery in not only combating social stigma against a disease which the 
+appellant never suffered from but also from the dreadful thought of an 
+imminent death resulting from an incurable disease. 
+26. In view of the extreme mental agony thus undergone by the appellant, in 
+not only facing the apathetic attitude of the respondents 2 to 4 but in facing 
+
+16 
+ 
+the concomitant social stigma and the looming large death scare that 
+accompanied such a discharge from the armed forces, we deem it fit to 
+award a lumpsum compensation of Rs.50,00,000/- (Rupees fifty lakh only) 
+towards compensation on account of wrongful termination of services, leave 
+encashment dues, non-reimbursement of medical expenses and the social 
+stigma faced, to be paid  by the respondents 2 – 4 to the appellant within 
+eight weeks from the date of this judgment without fail. In addition to the 
+above, the appellant shall be entitled to pension in accordance with law as 
+if he had continued in service as Havaldar and on completion of the required 
+years of service retired as such, without being invalided. We make it clear 
+that since the appellant had not continued in service beyond 26th December, 
+2001 and there was no occasion to assess his performance for securing a 
+promotion, he shall not be entitled to raise any plea in relation thereto. 
+However, in computing the quantum of pension payable to the appellant, 
+the respondents shall take into account allowances / increments that the 
+appellant would have been entitled to, had he continued in service till the 
+date of his retirement as Havaldar.    
+27. For the reasons aforesaid, the impugned judgment is set aside and the civil 
+appeal stands allowed.  
+28. We are conscious that whatever amount by way of compensation has been 
+directed to be paid to the appellant, by the respondents 2 to 4, can in no 
+manner compensate for the ordeal he had to face over the years; there 
+could never be an appropriate substitute for such adversity but such 
+financial compensation might act as a balm to soothe the mind and steady 
+the future. Now that we have been informed that the appellant is active and 
+
+17 
+ 
+involved in a business of his own, our prayers are with him to lead a long 
+and healthy life.  
+……………………………………J   
+(SANJIV KHANNA) 
+ 
+ 
+ 
+ 
+ 
+ 
+                           
+……………………………………J   
+(DIPANKAR DATTA) 
+New Delhi; 
+20th March, 2024.

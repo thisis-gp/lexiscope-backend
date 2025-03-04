@@ -1,0 +1,203 @@
+2024 INSC 944
+1
+REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NOS.12849-12856/2024
+(@ Special Leave Petition(C)Nos. 15368-15375/2020)
+KIRPAL SINGH                                        Appellant(s)
+                                VERSUS
+GOVERNMENT OF INDIA, NEW DELHI & ORS.               Respondent(s)
+O R D E R
+1.
+Leave granted.
+2.
+These appeals arise from the judgment and order passed by
+the  High  Court  of  Punjab  &  Haryana  at  Chandigarh  dated
+19.10.2019 in FAO Nos. 800/2013, 7453, 7454, 8136/2014, 1278,
+1290, 2000 and 2887/2015. The short question that arises for
+consideration is whether the period commencing from 20.10.2011
+to  20.01.2012  should  be  condoned  under  Section  14  of  the
+Limitation Act while reckoning the period of limitation for
+filing  objections  under  Arbitration  and  Conciliation  Act,
+19961  incorporated in the National Highways Act, 19562. 
+3.
+The  facts  relevant  for  our  decision  are  that  the  land
+belonging  to  the  appellant  was  acquired  under  the  NH  Act
+1 Hereinafter referred to as  “the Arbitration Act”
+2  Hereinafter referred to as “the NH Act”
+Digitally signed by
+INDU MARWAH
+Date: 2024.12.09
+17:44:52 IST
+Reason:
+Signature Not Verified
+
+2
+leading to passing of an award dated 25.07.2011. Application
+for a certified copy of the award was made on 12.08.2011 and
+the  same  was  received  on  08.09.2011.  Thereafter,  a  Regular
+First Appeal was filed before the High Court on 20.10.2011 on
+an erroneous understanding.
+4.
+The Registry of the High Court notified certain defects
+on 09.11.2011 and it is said to have been received by the
+concerned Advocate only on 20.01.2012. It is only thereafter
+when the appellant came to know about the appropriate action
+available to him, being the statutory remedy under Section 34
+of  the  Arbitration  Act,  and  he  took  steps  and  instituted
+proceedings under Section 34 of the said Act on 23.02.2012.
+5.
+The District Judge took up the application under Section
+34 of the Act and by his order dated 16.05.2012 dismissed the
+same  on  the  ground  that  it  is  barred  by  limitation  as
+determined by this Court in the case of  Union of India Vs.
+Popular Construction Co.3. The appeal under Section 37 of the
+Arbitration  Act  was  also  dismissed  by  the  order  impugned
+before us.
+6.
+Mr. Gaurav Agarwal, learned Senior Advocate appearing for
+the appellant has submitted that his client is entitled to the
+exclusion  of  period  from  20.10.2011  to  20.01.2012  under
+Section 14 of the Limitation Act. For this purpose, he relied
+3  2002( 1) RCR (Civil) 124 
+
+3
+on  the  judgment  of  this  Court  in  Consolidated  Engineering
+Enterprises vs. Principal Secretary, Irrigation Department and
+Others4.   The  relevant  portion  of  the  judgment  is  quoted
+hereunder:
+“23.At  this  stage  it  would  be  relevant  to
+ascertain whether there is any express provision in
+the Act of 1996, which excludes the applicability
+of Section 14 of the Limitation Act.  On review of
+the provisions of the Act of 1996 this Court finds
+that there is no provision in the said Act which
+excludes  the  applicability  of  the  provisions  of
+Section 14 of the said Act…..
+Hence,  Section  43  incorporating  the  Limitation
+Act  will  apply  to  the  proceedings  in  the
+arbitration as it applies to the proceedings of a
+suit in the court. Sub-section (4) of Section 43,
+inter alia, provides that where the court orders
+that  an  arbitral  award  be  set  aside,  the  period
+between the commencement of the arbitration and the
+date of the order of the court shall be excluded in
+computing  the  time  prescribed  by  the  Limitation
+Act, 1963, for the commencement of the proceedings
+with respect to the dispute soc submitted. If the
+period between the commencement of the arbitration
+proceedings  till  the  award  is  set  aside  by  the
+court, has to be excluded in computing the period
+of  limitation  provided  for  any  proceedings  with
+respect o the dispute, there is no good reason as
+to why it should not be held that the to provisions
+of  Section  14  of  the  Limitation  Act  would  be
+applicable  to  an  application  submitted  under
+Section 34 of the Act of 1996, more particularly d
+where no provision is to be found in the Act of
+1996, which excludes the applicability of Section
+14 of the Limitation Act, to an application made
+under Section 34 of the Act. It is to be noticed
+that the powers under Section 34 of the Act can be
+exercised by the court only if the aggrieved party
+makes  an  application.  The  jurisdiction  under
+Section  34  of  the  Act,  cannot  be  exercised  suo
+motu. The total period of four months within which
+an  application,  for  setting  aside  an  arbitral
+award,  has  to  be  made  is  not  unusually  long.
+Section  34  of  the  Act  of  1996  would  be  unduly
+4 2008 (7) SCC 169
+
+4
+oppressive, if it is held that the provisions of
+Section 14 of the Limitation Act are not applicable
+to it, because cases are no doubt conceivable where
+an  aggrieved  party,  despite  exercise  of  due
+diligence  and  good  faith,  is  unable  to  make  an
+application within a period of four months. From
+the scheme and language of Section 34 of the Act of
+1996, the intention of the legislature to exclude
+the applicability of Section 14 of the Limitation
+Act is not manifest. It is well to remember that
+Section 14 of the Limitation Act does not provide
+for a fresh period of limitation but only provides
+for  the  exclusion  of  a  certain  period.  Having
+regard to the legislative intent, it will have to
+be held that the provisions of Section 14 of the
+Limitation Act, 1963 would be applicable to g an
+application submitted under Section 34 of the Act
+of 1996 for setting aside an arbitral award.”
+7.
+On  the  other  hand,  Mr.  Rajat  Sangwan,  learned  counsel
+appearing  for  respondent  Nos.1  and  2  (National  Highway
+Authority of India) has vehemently contended that the periods
+of  limitation  under  the  Arbitration  Act  are  sacrosanct  and
+these provisions are strictly interpreted by the Courts. He
+would further submit that, even assuming that Section 14 of
+the  Limitation  Act  is  applicable,  the  benefit  of  the  said
+section cannot be extended beyond 20.10.2011. In other words,
+his submission is that the period commencing from 09.11.2011
+to the filing of Section 34 petition being 23.02.2012, should
+not be condoned.
+8.
+Further, Mr. Rajat Sangwan, would also submit that the
+language of Section 14 is mandatory and on the basis of the
+said  provision  it  cannot  be  said  that  the  appellant  has
+exercised due diligence in approaching the Court by filing the
+
+5
+Section 34 petition. He also argued that strict enforcement of
+time-lines  under  the  Arbitration  Act  are  recognized  and
+incorporated  under  the  National  Highways  Act.  For  this
+purpose, he referred to sub-section 7 of Section 3(G) of the
+NH Act.
+9.
+Having  considered  the  matter  in  detail,  we  are  of  the
+opinion  that  the  issue  is  covered  by  the  decision  of  this
+court  in
+ Consolidated  Engg.  Enterprises  v.  Principal
+Secretary, Irrigation Dept.5 (supra).
+10.
+We may hasten to add that when the substantive remedies
+under  Sections  34  and/or  37  of  the  Arbitration  Act  are  by
+their  very  nature  limited  in  their  scope  due  to  statutory
+prescription6,  it  is  necessary  to  interpret  the  limitation
+provisions  liberally,  or  else,  even  that  limited  window  to
+challenge an arbitral award will be lost. The remedies under
+Sections 34 and 37 are precious. Courts of law will keep in
+mind  the  need  to  secure  and  protect  such  a  remedy  while
+calculating  the  period  of  limitation  for  invoking  these
+jurisdictions.
+11. Applying Section 14 of the Limitation Act, we hold that
+there is sufficient cause for excluding the period commencing
+from 20.10.2011 to 23.02.2012. In view of the fact that this
+5 2008 (7) SCC 169.
+6 Arbitration and Conciliation Act, 1996.
+
+6
+period  is  excluded,  the  appellant  will  be  entitled  to  the
+statutory remedy under Section 34 of the Act.  
+12.
+In view of the above, we allow the appeals, set aside the
+judgment  and  order  passed  by  the  High  Court  in  FAO  Nos.
+800/2013(O&M), 2000/2015(O&M), 1278/2015(O&M), 1290/2015(O&M),
+7453/2014(O&M),  7454/2014(O&M),  2887/2015(O&M)  and  8136/2014
+(O&M)  dated  19.10.2019  and  also  the  order  of  the  District
+Judge, Jalandhar dated 16.05.2012 and restore the Section 34
+petition in Arbitration No.3435/2012 to its original number.
+We  further  direct  the  District  Judge,  Jalandhar  to  issue
+notice to all the parties, hear them and decide the petition
+as per law. 
+13.
+With  the  above  observations,  the  civil  appeals  are
+disposed of.
+14.
+There shall be no order as to costs.
+…………………………………………J.
+    [PAMIDIGHANTAM SRI NARASIMHA]
+        
+…………………………………………J.
+[MANOJ MISRA]
+New Delhi
+November 21,2024.

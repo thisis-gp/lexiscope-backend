@@ -1,0 +1,140 @@
+2024 INSC 84
+REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CRIMINAL APPELLATE JURISDICTION
+CRIMINAL APPEAL NO. 516 OF 2024
+[arising out of Special Leave Petition (Crl.) No. 298 of 2023]
+ATAMJIT SINGH
+     
+             …APPELLANT(S) 
+VERSUS
+STATE (NCT OF DELHI) & ANR.            
+               …RESPONDENT(S)
+O R D E R
+1.
+Leave granted. 
+2.
+This is an appeal instituted at the instance of the original complainant of a
+complaint lodged under inter alia Section 138 of the Negotiable Instruments Act,
+1881  (the  “NI  Act”)  (the  “Underlying  Complaint”)  assailing  an  order  dated
+06.09.2022 passed by the High Court of Delhi (the “High Court”) in CRL. M.C.
+No. 556 of 2019 whereunder the High Court quashed an order dated 03.08.2017
+passed by the Metropolitan Magistrate -10, South-East, Saket Court (the “Trial
+Court”) summoning Mr. Amrit Sandhu Coaster/Respondent No. 2 in relation to the
+commission  of  an  offence  under  Section  138  of  the  NI  Act  (the  “Impugned
+Order”). 
+3.
+The High Court by way of the Impugned Order deemed it appropriate to quash
+the underlying proceedings on the principal premise that as on the date of the
+issuance  of  the  summoning  order,  the  underlying  debt  and/or  liability  qua
+Respondent No. 2 was time barred. 
+Page 1 of 3
+Digitally signed by
+Neetu Khajuria
+Date: 2024.02.05
+15:09:10 IST
+Reason:
+Signature Not Verified
+
+4.
+Prima-facie from the materials placed before us, it is revealed that pursuant to
+various transactions entered into by and between the (i) Appellant; (ii) Respondent
+No. 2; and (iii) Jasween Sandhu i.e., Accused No. 2 in the Underlying Complaint,
+allegedly pertaining to year 2011, the Appellant was owed a sum of approximately
+Rs.20,10,000/- (Rupees Twenty Lakh Ten Thousand). Accordingly Respondent No. 2
+issued a cheque bearing number 329623 dated 06.03.2017 drawn on Syndicate Bank,
+Branch  West  Punjabi  Bagh,  Central  Market,  New  Delhi-110026  for  a  sum  of
+Rs.20,00,000/- (Rupees Twenty Lakh) in favour of the appellant (the “Subject
+Cheque”).
+5.
+Upon a perusal of the Impugned Judgement, it is disclosed that High Court has
+relied upon (i) the Assured Returns Agreement dated 16.09.2011; and (ii) other
+receipts issued by the Appellant to Respondent No. 2, all of which pertain to
+transaction(s) entered into in the year 2011 to conclude that in the absence of an
+acknowledgment of any underlying debt between 2011 and the date of issuance of
+the Subject Cheque i.e., 06.03.2017, the underlying debt could not be held to be
+legally  enforceable  debt  or  liability  on  account  of  being  barred  by  limitation.
+Accordingly, in the aforesaid circumstances, the prosecution of Respondent        No.
+2 under Section 138 of the NI Act was held to be improper; and accordingly, by way
+of impugned judgment, the High Court quashed the summoning order issued by the
+Trial Court; and the Underlying Complaint. 
+6.
+At the threshold, it would be apposite to refer to decisions of this Court in
+Yogesh  Jain  v.  Sumesh  Chadha,  Criminal  Appeal  Nos.  1760-1761  of  2022
+whereunder this Court has opined on the scope of interference by the High Court in
+proceedings under 138 of the NI Act qua an allegedly time barred debt at the stage of
+issuance of summons, whilst exercising its jurisdiction under Section 482 of the
+Code of Criminal Procedure, 1973 (the “CrPC”). The operative paragraph in Yogesh
+Jain (Supra) has been reproduced as under:
+Page 2 of 3
+
+“8.  Once  a  cheque  is  issued  and  upon  getting  dishonoured  a
+statutory notice is issued, it is for the Accused to dislodge the legal
+presumption available Under Sections 118 and 139 reply of the N.I.
+Act. Whether the cheque in question had been issued for a time
+barred debt or not, itself prima facie, is a matter of evidence and
+could not have been adjudicated in an application filed by the
+Accused Under Section 482 of the CrPC.”
+7.
+From  a  perusal  of  legal  position  enunciated  above,  it  is  clear  that  the
+classification of the underlying debt or liability as being barred by limitation is a
+question that must be decided based on the evidence adduced by the parties. We
+agree with aforesaid opinion.  Undoubtedly, the question regarding the time barred
+nature of an underlying debt or liability in proceedings under Section 138 of the NI
+Act is a mixed question of law and fact which ought not to be decided by the High
+Court exercising jurisdiction under Section 482 of the CrPC. 
+8.
+Accordingly, the appeal is allowed, and the Impugned Order is set aside. The
+proceedings emanating from the Underlying Complaint i.e., CC No. 6437 of 2017 is
+restored to the file of the Trial Court. 
+9.
+Pending application(s), if any, are disposed of.  No order as to costs. 
+                                                                                 ……………………………………J.
+               (VIKRAM NATH)
+……………………………………J.
+                (SATISH CHANDRA SHARMA)
+NEW DELHI
+JANUARY 22, 2024
+Page 3 of 3
+
+ITEM NO.49               COURT NO.8               SECTION II-C
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Petition(s) for Special Leave to Appeal (Crl.)  No(s).  298/2023
+(Arising out of impugned final judgment and order dated  06-09-
+2022 in CRLMC No. 556/2019 passed by the High Court Of Delhi At 
+New Delhi)
+ATAMJIT SINGH                                      Petitioner(s)
+                                VERSUS
+STATE (NCT OF DELHI) & ANR.                        Respondent(s)
+(IA No. 199663/2022 - EXEMPTION FROM FILING C/C OF THE IMPUGNED 
+JUDGMENT)
+ 
+Date : 22-01-2024 This matter was called on for hearing today.
+CORAM : 
+         HON'BLE MR. JUSTICE VIKRAM NATH
+         HON'BLE MR. JUSTICE SATISH CHANDRA SHARMA
+For Petitioner(s)  Mr. Sudeep Sehgal, Adv.
+                   Mr. Sandeep Singh, AOR
+                   
+For Respondent(s)  Mr. Vikramjit Banerjee, Adv.
+                   Mr. Mukesh Kumar Maroria, AOR
+                   Mr. Bharat Sood, Adv.
+                   Mr. Saransh Kumar, Adv.
+                   Mr. Vishnu Shankar Jain, Adv.
+                   Mr. Shaurya Rai, Adv.
+                   Mr. Madhav Sinhal, Adv.
+                   
+                   Ms. Deeksha Ladi Kakar, AOR
+        UPON hearing the counsel the Court made the following
+                             O R D E R
+Leave granted.
+The  appeal  is  allowed  in  terms  of  the  signed
+order.
+Pending application(s), if any, are disposed of.
+(NEETU KHAJURIA)
+ASTT. REGISTRAR-cum-PS
+(RANJANA SHAILEY)
+COURT MASTER
+                   (Signed order is placed on the file.)
+Page 4 of 3

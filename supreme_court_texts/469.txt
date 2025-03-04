@@ -1,0 +1,1203 @@
+2024 INSC 496
+1 
+ 
+REPORTABLE 
+ 
+ IN THE SUPREME COURT OF INDIA 
+  CIVIL APPELLATE JURISDICTION 
+ 
+CIVIL APPEAL NO. 353 OF 2008 
+ 
+ 
+M/S DAIMLER CHRYSLER INDIA 
+PVT. LTD.   
+ 
+ 
+ 
+ 
+ 
+ 
+   …APPELLANT(S) 
+ 
+ 
+ 
+ 
+       
+   VERSUS 
+M/S CONTROLS & SWITCHGEAR  
+COMPANY LTD. & ANR.                
+ 
+ 
+ …RESPONDENT(S) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WITH 
+ 
+C.A. NO. 19536-19537 OF 2017 
+ 
+MERCEDES BENZ INDIA  
+PVT. LTD. & ANR. 
+ 
+ 
+ 
+ 
+ 
+   …APPELLANT(S) 
+ 
+VERSUS 
+ 
+CG POWER AND INDUSTRIAL  
+SOLUTIONS LTD. & ORS.  
+ 
+ 
+ 
+ …RESPONDENT(S) 
+ 
+WITH 
+ 
+C.A. NO. 2633 OF 2018 
+ 
+M/S. CG POWER AND INDUSTRIAL  
+SOLUTIONS LTD.  
+ 
+ 
+ 
+ 
+ 
+    …APPELLANT(S) 
+ 
+VERSUS 
+ 
+MERCEDES BENZ INDIA PVT. LTD. & ORS.  
+ …RESPONDENT(S) 
+ 
+ 
+ 
+Digitally signed by
+RAVI ARORA
+Date: 2024.07.09
+17:23:33 IST
+Reason:
+Signature Not Verified
+
+2 
+ 
+J U D G M E N T 
+ 
+BELA M. TRIVEDI, J. 
+ 
+1. Though factually different, these appeals involve common question 
+of law - whether the purchase of a vehicle/good by a Company for the 
+use/personal use of its directors would amount to purchase for 
+“commercial purpose” within the meaning of Section 2(1)(d) of the 
+Consumer Protection Act, 1986 (now re-enacted as Consumer 
+Protection Act, 2019)? 
+2. The CA No. 353 of 2008 has been filed by the appellant - M/s Daimler 
+Chrysler India Pvt. Ltd., now known as Mercedes Benz India Pvt. Ltd. 
+(original opponent no. 1) arising out of the Original Petition No. 09 of 
+2006 filed by the respondent no. 1 - M/s Controls and Switchgear 
+Company Ltd. (original complainant), challenging the impugned 
+judgment and order dated 17.09.2007 passed by the National 
+Consumer Disputes Redressal Commission (hereinafter referred to 
+as the National Commission), in the said O.P. No. 9/2006. 
+3. The CA Nos. 19536-19537 of 2017 have been preferred by the 
+appellant - Mercedes Benz India Pvt. Ltd. and Anr. (original opponent 
+nos. 1 and 2) arising out of the Consumer Case No. 51 of 2006 filed 
+by the respondent no. 1 - CG Power and Industrial Solutions Ltd. and 
+Mr. Sudhir M. Trehan, M.D. of respondent no. 1, (original 
+
+3 
+ 
+complainants), challenging the impugned orders dated 08.07.2016 
+and 11.09.2017 passed by the National Commission in the said C.C. 
+No. 51/2006.  The cross appeal being no. CA No. 2633 of 2018 has 
+been preferred by the appellant – M/s CG Power and Industrial 
+Solutions Ltd. (original complainant no. 1) against the respondents - 
+Mercedes Benz India Pvt. Ltd. and Ors. (original opponents) 
+challenging the judgment and order dated 11.09.2017 passed in the 
+said Consumer No. 51 of 2006 by the National Commission, in so far 
+as it is against M/s. C.G. Power. 
+4. At the outset, it may be noted that in Original Petition No. 09 of 2006 
+(from which CA No. 353 of 2008 arises), the National Commission 
+vide the impugned order dated 17.09.2007 after holding that the 
+Complainant-Company being a legal entity, was entitled to file a 
+Complaint, and that the cars purchased for the use of the directors of 
+the Company, not used for any activity directly connected with 
+commercial purpose of earning profit, could not be said to have been 
+purchased by the complainant-company for “commercial purpose”, 
+had directed the appellant (original opponent no. 1) to replace the Car 
+no. DL-5CR-0333 with a new car of the same or similar model, or in 
+the alternative refund its full purchase price, namely one half of the 
+amount of Rs. 1,15,72,280/- which was paid by the complainant to 
+the opposite parties for the purchase of the two vehicles in question, 
+
+4 
+ 
+and take back the vehicle. It may further be noted that vide the said 
+impugned order dated 17.09.2007, the National Commission had 
+also passed the order with regard to the second car being car no. DL-
+9CV-5555, purchased by the complainant. In respect of that part of 
+the order pertaining to the second car, the appellant had preferred an 
+appeal being CA No. 6042 of 2007 before this Court. The said Appeal 
+came to be disposed of vide the order dated 11.01.2008 by this Court. 
+Hence, now, we are concerned with the impugned order dated 
+17.09.2007 pertaining to the car no. DL-5CR-0333 only, so far as the 
+CA No. 353 of 2008 is concerned. 
+5. It is further pertinent to note that the findings recorded in the said 
+judgment and order dated 17.09.2007 in Original Petition No. 09 of 
+2006 with regard to the maintainability of the Complaint at the 
+instance of the complainant-company in respect of the car purchased 
+for the use/personal use of the director of the company, being in 
+conflict with the findings recorded by an another two-member Bench 
+of the National Commission in case of General Motors Pvt. Ltd. Vs. 
+G.S. Fertilizers Pvt. Ltd.1 in which it was held inter alia that the 
+vehicle purchased by a company for its Managing Director would 
+amount to its purchase for a commercial purpose, the matter was 
+ 
+1 II (2013) CPJ 72 (NC) 
+
+5 
+ 
+referred to the three-member Bench of the National Commission. The 
+three-member Bench in the Consumer Complaint No. 51 of 2006 vide 
+the impugned judgment and order dated 08.07.2016 held as under: 
+“11(a) If a car or any other goods are obtained or any services 
+are hired or availed by a company for the use/personal use of its 
+directors or employees, such a transaction does not amount to 
+purchase of goods or hiring or availing of services for a 
+commercial purpose, irrespective of whether the goods or 
+services are used solely for the personal purposes of the 
+directors or employees of the company or they are used primarily 
+for the use of the directors or employees of the company and 
+incidentally for the purposes of the company. 
+ 
+(b) The purchase of a car or any other goods or hiring or availing 
+of services by a company for the purposes of the company 
+amount to purchase for a commercial purpose, even if such a car 
+or other goods or such services are incidentally used by the 
+directors or employees of the company for their personal 
+purposes.” 
+ 
+6. The appellants - Mercedes Benz India Pvt. Ltd. (the original 
+opponents in Consumer Complaint No. 51/2006) challenged the said 
+Judgment and Order dated 08.07.2016 passed by the three-member 
+Bench of the National Commission, before this Court by preferring an 
+Appeal being C.A. No. 10410 of 2016. This Court disposed of the said 
+Appeal by passing following order on 20.02.2017: - 
+“Heard Mr. Shyam Divan, learned senior counsel along with Mr. 
+Vineet Maheshwari, learned counsel appearing for the petitioner 
+and Mr. Amir Singh Pasrich, learned counsel appearing for the 
+1st respondent.  
+The present appeal calls in question the legal propriety of the 
+order dated 8.7.2016 passed by the National Consumer Disputes 
+Redressal Commission, Bench No. 1, New Delhi (for short, 'the 
+National Commission’) in Consumer Complaint No. 51 of 2006 
+
+6 
+ 
+repelling the submission of the appellant that the complaint 
+before the said Commission is not maintainable.  
+Having heard learned counsel for the parties, we are of the 
+considered opinion that the National Commission should 
+adjudicate the dispute finally and thereafter it will be open to the 
+appellant to challenge the order of maintainability, i.e., the 
+present order as well as the final order. The National Commission 
+is requested to dispose of the Consumer Complaint No. 51 of 
+2006 within three months hence.  
+With the aforesaid observation and liberty, the civil appeal stands 
+disposed of. There shall be no order as to costs.” 
+ 
+7. Thereafter, the National Commission adjudicated the disputes 
+between the parties on merits vide the impugned judgment and order 
+dated 11.09.2017 and disposed of the Consumer Case No. 51 of 
+2006 by giving following directions: 
+“(i) The opposite parties No.1 & 2 shall pay a sum of Rs.5.00 lacs 
+to complainant No.1 for the deficiency in the services rendered 
+to it on account of the airbags of the car having not 
+deployed/triggered; 
+ 
+(ii) The opposite parties No.1 & 2 shall pay a sum of Rs.5.00 lacs 
+as compensation to complainant No.1 for the unfair trade practice 
+indulged into by them; 
+ 
+(iii) The Opposite Parties No.1 & 2 shall, in the Owner’s Manual 
+to be provided to the buyers of their E-class Cars, as well as on 
+their website, provide adequate information with respect to the 
+deployment triggering of the airbags of the vehicle, in 
+consultation with AAUI. 
+(iv)The opposite parties No.1 & 2 shall pay a sum of Rs. 25,000/- 
+as the cost of litigation to complainant No.1. 
+(v) The payment in terms of this order shall be made and the 
+directions contained herein will be complied within three months 
+from today.” 
+ 
+8.  As stated earlier, the said two orders 08.07.2016 and 11.09.2017 
+passed in Consumer case no. 51 of 2006 have been challenged by 
+
+7 
+ 
+the appellants-Mercedes Benz by way of C.A. No. 19536-19537 of 
+2017. The Cross Appeal being C.A. No. 2633 has been preferred by 
+M/s CG Power and Industrial Solutions Ltd. (original complainant), 
+being aggrieved by the judgment and order dated 11.09.2017 passed 
+by the National Commission. 
+9. The common bone of contention raised by the learned counsels 
+appearing for the appellants - M/s Daimler Chrysler India Pvt. Ltd., 
+(now Mercedes Benz India Pvt. Ltd.) in their respective Appeals is 
+that the purchase of car/vehicle by a company for the use/personal 
+use of its directors could not be said to be the purchase of vehicle for 
+self-employment to earn its livelihood, but it has to be construed as 
+the purchase of vehicle for “commercial purposes”, and therefore 
+such company would fall outside the purview of the definition of 
+“consumer” within the meaning of Section 2(1)(d) of the said Act.  In 
+this regard it would be apt to reproduce the relevant part of the 
+definition of “Consumer” as contained in Section 2(1)(d) of the Act, 
+which reads as under- 
+“2(1)(d) “consumer” means any person who,— 
+ 
+ (i) buys any goods for a consideration which has been paid or 
+promised or partly paid and partly promised, or under any system 
+of deferred payment and includes any user of such goods other 
+than the person who buys such goods for consideration paid or 
+promised or partly paid or partly promised, or under any system 
+of deferred payment when such use is made with the approval of 
+such person, but does not include a person who obtains such 
+goods for resale or for any commercial purpose; or 
+
+8 
+ 
+(ii)…. 
+ 
+Explanation.—For the purposes of this clause, “commercial 
+purpose” does not include use by a person of goods bought and 
+used by him and services availed by him exclusively for the 
+purposes of earning his livelihood by means of self-employment;” 
+ 
+10. From the bare reading of the said definition, it is discernible that the 
+definition of “consumer” does not include a person who obtains any 
+goods for “resale” or for “any commercial purpose”. Though what is 
+“commercial purpose” has not been defined under the Act, it has been 
+interpreted in catena of decisions by this Court. 
+11. In Laxmi Engineering Works vs. P.S.G Industrial Institute2 this 
+Court after discussing the earlier decisions concluded inter alia that 
+whether the purpose for which a person has bought goods is a 
+“commercial purpose” within a meaning of definition of expression 
+“consumer” in Section 2(1)(d) of the Act, is always a question of fact 
+to be decided in the facts and circumstances of each case. 
+12. In Lilavati Kirtilal Mehta Medical Trust vs. Unique Shanti 
+Developers and Others3, this Court culled out broad principles for 
+determining whether an activity or transaction is for a “commercial 
+purpose” or not, while holding that though no strait jacket formula 
+could be adopted in every case. 
+ 
+ 
+2 (1995) 3 SCC 583 
+3 (2020) 2 SCC 265 
+ 
+
+9 
+ 
+“19. To summarise from the above discussion, though a strait 
+jacket formula cannot be adopted in every case, the following 
+broad principles can be culled out for determining whether an 
+activity or transaction is “for a commercial purpose”: 
+19.1. The question of whether a transaction is for a commercial 
+purpose would depend upon the facts and circumstances of each 
+case. However, ordinarily, “commercial purpose” is understood 
+to include manufacturing/industrial activity or business-to-
+business transactions between commercial entities. 
+19.2. The purchase of the good or service should have a close 
+and direct nexus with a profit-generating activity. 
+19.3. The identity of the person making the purchase or the value 
+of the transaction is not conclusive to the question of whether it 
+is for a commercial purpose. It has to be seen whether the 
+dominant intention or dominant purpose for the transaction was 
+to facilitate some kind of profit generation for the purchaser 
+and/or their beneficiary. 
+19.4. If it is found that the dominant purpose behind purchasing 
+the good or service was for the personal use and consumption of 
+the purchaser and/or their beneficiary, or is otherwise not linked 
+to any commercial activity, the question of whether such a 
+purchase was for the purpose of “generating livelihood by means 
+of self-employment” need not be looked into.” 
+ 
+13. Further in the case of Shrikant G. Mantri vs. Punjab National 
+Bank4, this Court observed thus-  
+“50. It is thus clear, that this Court has held that the question, as 
+to whether a transaction is for a commercial purpose would 
+depend upon the facts and circumstances of each case. 
+However, ordinarily, “commercial purpose” is understood to 
+include manufacturing/industrial activity or business-to-
+business transactions between commercial entities; that the 
+purchase of the good or service should have a close and 
+direct nexus with a profit-generating activity; that the 
+identity of the person making the purchase or the value of 
+the transaction is not conclusive for determining the 
+question as to whether it is for a commercial purpose or not. 
+What is relevant is the dominant intention or dominant 
+purpose for the transaction and as to whether the same was 
+to facilitate some kind of profit generation for the purchaser 
+and/or their beneficiary. It has further been held that if the 
+dominant purpose behind purchasing the good or service was for 
+the personal use and the consumption of the purchaser and/or 
+ 
+4  (2022) 5 SCC 42 
+
+10 
+ 
+their beneficiary, or is otherwise not linked to any commercial 
+activity, then the question of whether such a purchase was for 
+the purpose of “generating livelihood by means of self-
+employment” need not be looked into.” 
+ 
+14. In the case of National Insurance Company Limited vs. Harsolia 
+Motors and Others5, this Court while relying and emphasizing on the 
+principles laid down in Lilavati Kirtilal Mehta Medical Trust (supra) 
+noted that what needs to be seen while determining whether the 
+object purchased is being used for commercial purpose or not, is 
+whether the dominant intention or dominant purpose for the 
+transaction was to facilitate some kind of profit generation for the 
+purchaser and/or their beneficiary. What needs to be determined is 
+whether the object had a close and direct nexus with the profit 
+generating activity and whether the dominant intention or dominant 
+purpose for the transaction was to facilitate some kind of profit 
+generation for the purchaser and/or their beneficiary. 
+15. Further in the case Rohit Chaudhary and Another vs. Vipul 
+Limited6, it was held as follows – 
+“15. The expression “commercial purpose” has not been defined 
+under the Act. In the absence thereof we have to go by its 
+ordinary meaning. “Commercial” denotes “pertaining to 
+commerce” (Chamber's Twentieth Century Dictionary); it means 
+“connected” with or engaged in commerce; mercantile; 
+“having profit as the main aim” (Collin's English Dictionary); 
+ 
+5  (2023) 8 SCC 362 
+6  (2024) 1 SCC 8 
+
+11 
+ 
+relate to or is connected with trade and traffic or commerce in 
+general, is occupied with business and commerce. 
+16. 
+The 
+Explanation 
+[added 
+by 
+Consumer 
+Protection 
+(Amendment) Act 50 of 1993 replacing Ordinance 24 of 1993 
+w.e.f. 18-6-1993] excludes certain purposes from the purview of 
+the expression “commercial purpose” — a case of explanation to 
+an exception to amplify this definition by way of an illustration 
+would certainly clear the clouds surrounding such interpretation. 
+For instance, a person who buys a car for his personal use would 
+certainly be a consumer, but if purchased for plying the car for 
+commercial purposes, namely, as a taxi, it can be said that it is 
+for a commercial purpose. However, the Explanation clarifies that 
+even purchases in certain situations for “commercial purposes” 
+would not take within its sweep the purchaser out of the definition 
+of expression “consumer”. In other words, if the commercial use 
+is by the purchaser himself for the purpose of earning his 
+livelihood by means of self-employment, such purchaser of 
+goods would continue to be a “consumer”. 
+17. This Court in Lilavati Kirtilal Mehta Medical Trust v. Unique 
+Shanti Developers [Lilavati Kirtilal Mehta Medical Trust v. Unique 
+Shanti Developers, (2020) 2 SCC 265 : (2020) 1 SCC (Civ) 320] 
+, has held that a straitjacket formula cannot be adopted in 
+every case and the broad principles which can be curled out 
+for determining whether an activity or transaction is for a 
+commercial 
+purpose 
+would 
+depend 
+on 
+facts 
+and 
+circumstances of each case. 
+18. Thus, if the dominant purpose of purchasing the goods or 
+services is for a profit motive and this fact is evident from the 
+record, such purchaser would not fall within the four corners of 
+the definition of “consumer”. On the other hand, if the answer is 
+in the negative, namely, if such person purchases the goods or 
+services is not for any commercial purpose and for one's own 
+use, it cannot be gainsaid even in such circumstances the 
+transaction would be for a commercial purpose attributing profit 
+motive and thereby excluding such person from the definition of 
+“consumer”.” 
+16. The sum and substance of the above decisions is that to determine 
+whether the goods purchased by a person (which would include a 
+legal entity like a company) were for a commercial purpose or not, 
+within the definition of a “consumer” as contemplated in Section 
+
+12 
+ 
+2(1)(d) of the said Act, would depend upon facts and circumstances 
+of each case. However ordinarily “commercial purpose” is understood 
+to include manufacturing/industrial activity or business-to-business 
+transactions between commercial entities. The purchase of the goods 
+should have a close and direct nexus with a profit generating activity. 
+It has to be seen whether the dominant intention or dominant purpose 
+for the transaction was to facilitate some kind of profit generation for 
+the purchaser and/or their beneficiary. If it is found that the dominant 
+purpose behind purchasing the goods was for the personal use and 
+consumption of the purchaser and/or their beneficiary, or was 
+otherwise not linked to any commercial activity, the question of 
+whether such a purchase was for the purpose of “generating 
+livelihood by means of self-employment” need not be looked into. 
+Again, the said determination cannot be restricted in a straitjacket 
+formula and it has to be decided on case-to-case basis. 
+I. 
+CIVIL APPEAL NO. 353 OF 2008 
+17. So far as the CA No. 353/2008 is concerned, it appears that as per 
+the case of the respondent no. 1 (original complainant), it had 
+purchased two cars for the use by its Whole-time Executive Directors 
+as part of their perquisites and the said high priced luxury cars were 
+in fact being used by them for their personal use and for the use of 
+their immediate family members. It was strenuously urged by the 
+
+13 
+ 
+learned senior counsel Ms. Arora for the appellant that if the car in 
+question was purchased by the respondent no. 1 for the personal use 
+of its Director, it must carry a requisite form attested by the Chartered 
+Accountant along with the Income Tax returns of the concerned 
+Director, and since such document or form having never been 
+submitted and produced before the Commission, it was required to be 
+presumed that the car was purchased by the respondent no. 1-
+company for its commercial purpose. Such a submission could not be 
+accepted. It is trite to say that when a consumer files a complaint 
+alleging defects in the goods purchased by him from the opponent 
+seller, and if the opponent-seller raises an objection with regard to the 
+maintainability of the consumer complaint on the ground that the 
+goods in question were purchased by the complainant-buyer for its 
+commercial purpose, the onus to prove that they were purchased for 
+“commercial purpose” and therefore, such goods would fall outside 
+the definition of “consumer” contained in Section 2(1)(d) of the Act, 
+would be on the opponent-seller and not on the complainant-buyer. 
+In the instant case, it has been specifically asserted by the 
+respondent-complainant that the car in question was purchased by it 
+for the personal use of its Whole-time Director and for his immediate 
+family members, and the dominant purpose of purchasing the car was 
+to treat it as a part of the perquisite to the Director.  There is nothing 
+
+14 
+ 
+on record worth the name to show that the said car was used for any 
+commercial purpose by the respondent-complainant. Even if it is 
+presumed that the respondent-complainant company had taken 
+benefit of deduction available to it under the Income Tax Act, 
+nonetheless in absence of any material placed on record to suggest 
+that such purchase of car had a nexus or was linked to any profit 
+generating activity of the company, it could not be said that such a 
+high-priced luxurious car was purchased by the respondent no. 1 for 
+its “commercial purpose”.  
+18. As regards the defects in the car, both the sides have heavily placed 
+reliance upon the correspondence which took place between them 
+after the purchase of the car by the respondent no. 1 and after the 
+defects were detected in the car. The said correspondence has also 
+been tabulated by National Commission in the impugned order from 
+which  it appears that within a very short time after the purchase of 
+the car in question on 31.03.2003, one of the directors of the 
+respondent-company namely Mr. Ashok Khanna had taken the car 
+out from Delhi for going to Chandigarh and Dehradun in April, 2003 
+and found that “sitting at the back seat, the center  hump on the floor 
+over the drive shaft of the vehicle was excessively heated and 
+particularly so on the left side of the center hump". The said defect 
+was immediately reported to the appellant and the respondent no. 2, 
+
+15 
+ 
+however after examining the vehicle they had reported that everything 
+was fine and nothing unusual was observed. Since, the said 
+complaint of heating persisted, the respondent-complainant again 
+requested the appellant to rectify the defect. Thereafter, several 
+correspondences ensued between the parties. It is pertinent to note 
+that in the letter dated 21.08.2003, it was stated by the appellant that 
+“although the area (center hump) was observed to be warm, it is not 
+a defect”. In its letter dated 02.07.2004, the respondent no. 2 who 
+happened to be the dealer of the appellant required the complainant-
+company with regard to the center hump to keep it under observation 
+over a longer distance and to report the matter in case of any 
+abnormalities, had confirmed that the AC control unit was found to be 
+defective. Thereafter, on the respondent-company having made the 
+complaint of excessive heating on the center hump more prominently 
+on long drives out of station, the car was once again inspected by the 
+engineers of the appellant-company, who had informed the 
+respondent-complainant vide letter dated 03.12.2004 that “on account 
+of the catalytic converter fitted underneath the car, these cars do heat 
+a lot”, and advised that “the matter could be resolved by adjusting the 
+rear air-conditioning vents suitably”. It appears that thereafter 
+repeated requests/complaints having been made by the respondent-
+complainant, the respondent no. 2 wrote vide the letter dated 
+
+16 
+ 
+22.12.2004 that the exhaust pipe of the car needed replacement. The 
+respondent-complainant again wrote to the appellant vide the letter 
+dated 23.12.2004 that though they were offering to replace the 
+exhaust pipe, it was not only the center portion which was heating up 
+but the entire floor was heating up with excessive heat and therefore, 
+the vehicle needed to be replaced. The respondent-complainant 
+ultimately wrote a letter dated 21.03.2005 to the appellant reiterating 
+the persisting problem of hump heating despite a catena of 
+experiments carried out towards rectification of the malfunctioning of 
+the car and requested for the replacement of the vehicle. The said 
+request having been rejected by the appellant on 30.03.2005, the 
+complaint was filed by the respondent-complainant before the 
+National Commission. 
+19. It appears that on the submission made on behalf of the appellant that 
+it would call the concerned Engineer for examining the vehicle, the 
+National Commission vide order dated 10.08.2006 directed that the 
+vehicle would be examined by the Engineer of the appellant in 
+presence of the respondent No.1 or its representative. Pursuant to the 
+said order, Mr. Stephen Lobo, Manager Field Service working at Pune 
+Office of the Appellant, conducted a test drive alongwith the 
+representative of the respondent – complainant, and submitted his 
+affidavit to the Commission. However, the temperature recorded by 
+
+17 
+ 
+the said Manager of the Appellant having been disputed by the 
+respondent - complainant, the National Commission vide the order 
+dated 25.09.2006 appointed one Joint Registrar and one Deputy 
+Registrar of the Commission as Local Commissioners, further 
+directing them to travel in the cars in question separately on 
+07.10.2006 for more than 300 kms towards Rishikesh side. 
+Accordingly, the Local Commissioners travelled and submitted their 
+respective reports before the Commissioner. 
+20. In view of the order dated 10.08.2006 passed by the National 
+Commission the test drive was conducted by the engineers of the 
+appellant in presence of the respondent-complainant on 21.08.2006 
+and the result of the test drive of the car DL-5CA-0333 was as under: 
+Chassis No. 
+Time 
+Kms 
+Temp 
+Gauge I 
+Temp 
+Gauge II 
+Remark Ambient 
+Temp 
+WDB 
+2201676A 
+326003 
+ 
+ 
+Provided 
+by DCIPL 
+Provided 
+by C&S 
+ 
+ 
+1 start 
+11.45 
+41523 
+32.5 
+39 
+ 
+38 
+2 
+13.15 
+41577 
+19.7 
+44 
+ 
+36 
+3 
+14.35 
+41632 
+17.00 
+51 
+ 
+35.5 
+4 
+16.11 
+41673 
+19.1 
+50 
+ 
+34 
+5 
+17.22 
+41723 
+19.6 
+53 
+ 
+34.5 
+6 
+19.23 
+41769 
+19.4 
+49 
+ 
+36.5 
+7 
+20.18 
+41823 
+17.4 
+48 
+ 
+35 
+ 
+21. Again, the National Commission having passed the order on 
+25.09.2006, appointing the Local Commissioners for measuring the 
+temperature of the hump of the car, in presence of representatives of 
+both the parties, the Local Commissioners had travelled on 
+
+18 
+ 
+07.10.2006 in the car in question for more than 300 kms. towards 
+Rishikesh side, and submitted the report regarding the temperature 
+of the running car at a distance of every 50 kms. as under: 
+S. No. 
+Time 
+Km. 
+Temp. gauge 
+1 of DCIPL 
+(Degree) 
+Temp. gauge 
+2 of C & S 
+(Degree) 
+Ambient 
+(Degree) 
+1. 
+8.30 AM 
+43649 
+33.2 
+39 
+25.5 
+2. 
+9.45 AM 
+43699 
+38.6 
+46 
+30.5 
+3. 
+10.45 AM 
+43749 
+38.6 
+47 
+32 
+4. 
+11.05 AM 
+43759 
+39.5 
+47 
+34 
+5. 
+12.40 PM 
+43799 
+38.6 
+46 
+32 
+6. 
+1.55 PM 
+43850 
+37.3 
+47 
+32 
+ 
+Return Journey 
+7. 
+4.00 PM 
+43866 
+35.7 
+39 
+35 
+8. 
+5.00 PM 
+43899 
+37.3 
+47 
+33 
+9. 
+6.00 PM 
+43950 
+38.1 
+46 
+29 
+10. 
+7.50 PM 
+44000 
+38.1 
+45 
+29.5 
+11. 
+9.00 PM 
+44050 
+37 
+44 
+30 
+12. 
+10.00 PM 
+44083 
+38.2 
+46 
+29.5 
+ 
+ 
+The Local Commissioner in his report dated 09.10.2006, had made 
+following note with regard to the car in question: - 
+ 
+“1. The sensor gauge fixed by the opposite party was 1 mm 
+above while the sensor gauge provided by the complainant was 
+fixed on the mat. The same can be seen with the help of 
+photographs taken by the parties. 
+ 
+2. While traveling in the car the temperature recorded by the 
+sensor gauges generally showing the increasing tendency. 
+ 
+3. There is a variation of 5 - 9 degree temperature between the 
+temperatures noted down from the two sensor gauges provided 
+by the parties. 
+ 
+4. On perusing the temperature chart, it is found that the 
+temperature recorded by both the sensor gauges is higher than 
+ambient temperature throughout the journey.” 
+ 
+ 
+22. It is further pertinent to note that pending the said proceedings before 
+the National Commission, the appellant had made two applications, 
+
+19 
+ 
+one on 12.10.2006 seeking permission to make one more effort by 
+providing additional insulation to address the concerns of the 
+complainant in regard to the high temperature at the left hand side of 
+the hump felt by it, and the other application seeking prayer to permit 
+to test the complainant’s car by an appropriate laboratory, or in the 
+alternative to dispose of the matter with direction to provide an 
+additional insulation to the hump of the cars being used by the 
+complainant or in the alternative to hold that the used car be resold 
+by the complainant to the appellant (opponent no. 1) for present 
+market value/book value. The respondent-complainant having not 
+agreed to the said proposals made in the said applications, the 
+National Commission vide the order dated 06.02.2007 had rejected 
+the said applications. 
+23. From the afore-discussed documents/applications produced on 
+record before the National Commission, it was clearly established by 
+the respondent-complainant that an excessive heat was generated in 
+the car, and particularly, the center hump on the floor over the drive 
+shaft was felt excessively heated as also the left side of the center 
+hump. As rightly submitted by the learned counsel for the respondent-
+complainant, after continuous trial and error method of rectification 
+conducted to remove the defect of overheating, since the said 
+complaint persisted, the appellant had moved the applications 
+
+20 
+ 
+seeking permission of the Commission to make one more effort by 
+providing additional insulation, and also for permitting the appellant 
+to repurchase the car in question for the market value/book value as 
+it existed at the relevant time in 2007. The market value of the car in 
+question as on 25.11.2006 was stated to be Rs. 34 lakhs, and the 
+book value thereof as on 31.12.2006 was stated to be about Rs. 36 
+lakhs. The appellant though not admitted specifically about the said 
+defects in the car, had indirectly stated in the said application seeking 
+permission to provide additional insulation to the effect that the warm 
+surface of hump/tunnel was a natural physical characteristic of the 
+car and hence could not be altered to a large extent and that the 
+additional insulation could be fitted by a minor modification. The said 
+statements in the said applications read with the other 
+materials/documents on record as also the reports of the Local 
+Commissioner appointed by the National Commission, has led us to 
+come to an irresistible conclusion that the inherent defect of 
+overheating of the car in question had persisted despite the appellant 
+having provided the rectification measures like providing additional 
+insulation in the car, which had caused great inconvenience and 
+discomfort to the passengers seated in the car in question. The 
+advice given by the technical expert of the appellants that the 
+overheated portions of the rear cabin of the car should be cooled by 
+
+21 
+ 
+directing the draft from the air-conditioning vents towards the said 
+portion, was not only an illogical advice but was an absolute improper 
+advice given to conceal the defect in the car.  
+24. Considering the affidavits, correspondences, reports and the other 
+material on record, we have no hesitation in holding that such 
+overheating of the surface of hump and the overall high temperature 
+in the car was a fault, imperfection or shortcoming in the quality or 
+standard which was expected to be maintained by the appellants 
+under the contract with the respondent-complainant and therefore 
+was a ‘defect’ within the meaning of Section 2(1)(f) of the said Act. 
+25. People do not purchase the high-end luxurious cars to suffer 
+discomfort more particularly when they buy the vehicle keeping 
+utmost faith in the supplier who would make the representations in 
+the brochures or the advertisements projecting and promoting such 
+cars as the finest and safest automobile in the world. The respondent-
+complainant having suffered great inconvenience, discomfort and 
+also the waste of time and energy in pursuing the litigations, we are 
+of the opinion that the impugned order passed by the National 
+Commission of awarding the compensation by directing the 
+appellants to refund the purchase price i.e., Rs. 58 lakhs approx. to 
+the respondent-complainant, and take back the car (vehicle) as such 
+does not warrant any interference. However, at this juncture, it may 
+
+22 
+ 
+be noted that the impugned order was passed on 17.09.2007 and 
+before that pending the proceedings, the appellant had already made 
+an offer in the year 2006 to repurchase the car in question as per the 
+market value of the car as of November 2006 to be Rs. 34 lakhs or at 
+the book value of the car as of December 2006 to be about Rs. 36 
+lakhs, however the respondent had not agreed to the said proposal, 
+and continued to use the said car for about seventeen years till this 
+date. Therefore, having regard to the said offer made by the 
+appellants, and having regard to the subsequent event of the 
+respondent-complainant having retained and used the car in question 
+for about seventeen years, we are of the opinion that the interest of 
+justice and balance of equity would be met if the respondent-
+complainant is permitted to retain the car in question and the 
+appellant is directed to refund Rs. 36 lakhs instead of Rs. 58 lakhs as 
+directed by the National Commission in the impugned order.  
+II.  CIVIL APPEAL NOS. 19536-19537/2017 AND 2633/2018 
+26. So far as C.A. No. 19536-19537/2017 filed by the appellants - 
+Mercedes Benz India Private Ltd. and another (Original Opponents) 
+and the cross Appeal being C.A. No.2633 of 2018 filed by M/s C.G. 
+Power and Industrial Solutions Ltd., (Original Complainant No.1) 
+arising out of Consumer Complaint No. 51/2006  are concerned, as 
+stated hereinabove, after the challenge of the order dated 08.07.2016 
+
+23 
+ 
+passed by the National Commission in the said case, before this 
+Court by way of filing C.A. No.10410/2016, this Court had disposed 
+of the said Appeal by directing the National Commission to adjudicate 
+the dispute between the parties finally, leaving it open for the 
+appellant Mercedes Benz to challenge the order on maintainability as 
+well as the final order. Accordingly, the final order having been passed 
+by the Commission, the appellant has challenged the order dated 
+08.07.2016 as well as the final order dated 11.09.2017 by way of 
+instant appeals, and the cross appeal has been filed by the 
+respondent-complainant against the order dated 11.09.2017. 
+27. In the instant case, the respondent nos. 1 and 2 (Original 
+Complainants) had filed the complaint being Consumer Complaint 
+No. 51/2006 before the National Commission, alleging inter alia that 
+in October 2002, the appellants (original opponents) had launched a 
+new Mercedes Benz, E-Class - E 240 petrol version (hereinafter 
+referred to as the car in question). At the time of launch of e-class 
+model, the appellants had proclaimed and elaborated safety system 
+of e-class inter alia that it included front airbags, side airbags, and 
+window airbags, automatic child seat recognition and central locking 
+with crash sensors, and that it was the safest place on the road etc. 
+The correct operation of the airbags was also guaranteed by the 
+appellants. Based on such representations and especially of the 
+
+24 
+ 
+safety features, the respondent no. 1 on 27.11.2002 had purchased 
+the car in question bearing registration No. MH-01-GA-6245 from the 
+appellants for its Managing Director-respondent No. 2 for a total 
+consideration of Rs.45,38,123/-. 
+28. It was further alleged in the complaint by the respondents that on an 
+official trip on 17.01.2006 at 06:20 A.M, the respondent No.2 was 
+returning from Nasik to Mumbai. At that time, the car in question was 
+being driven by the company driver Mr. Madhukar Ganpat Shinde, 
+while the respondent no. 2 was seated in the back seat of the car. On 
+Nasik express, NH-3, a goods carrier coming from the opposite side, 
+collided head-on with the car, and the impact of the collision was so 
+high that the entire front portion of the car was smashed, however 
+none of the airbags opened. As a result, thereof, the driver suffered 
+the injuries on his neck, arms and forehead, whereas the respondent 
+no. 2 suffered grievous injuries on his face, a deep gash on the 
+forehead fracture at the nasal bone and nasal septum, fracture of the 
+C1 vertebra at the anterior and posterior arches and fracture of C2 
+vertebra. The respondent no. 2 had to be hospitalized for more than 
+six weeks and even after the discharge he was advised strict bedrest 
+at home. It took very long time for him to recover and resume the 
+work. According to the respondents-complainants, if the airbags had 
+opened at the right time, as represented by the appellants-
+
+25 
+ 
+opponents, the respondent no. 2 might have suffered less or no 
+injuries. The complainants had also filed an FIR with the police station 
+at Nasik on 17.01.2006. On 20.01.2006, the car was taken by the 
+respondent No. 3 being authorized service centre and a detailed 
+inspection and assessment of cost for the repairs was made. It was 
+also alleged that in number of cases the airbags had failed to deploy 
+at the time of accidents and people had suffered grievous injuries or 
+had died also. Due to the said accident, not only that respondent no.2 
+had suffered grave injuries, agony and mental trauma, his family 
+members and the respondent-company itself, had suffered lot of 
+inconvenience and 
+financial 
+loss. 
+It 
+appears 
+that 
+lot 
+of 
+correspondence had ensued between the parties, and ultimately the 
+respondents-complainants 
+had 
+filed 
+the 
+complaint 
+seeking 
+compensation under the various heads. 
+29. On the maintainability of the complaint, though the learned Senior 
+Advocate Mr. Dhruv Mehta had strenuously urged that the purchase 
+of the car by the respondent no. 1 company for the use of the 
+respondent no.2 i.e., its director would tantamount to purchase for 
+commercial purpose, the said submission cannot be accepted in view 
+of the elaborate discussion and reasonings recorded by us 
+hereinbefore while dealing with the issue in C.A. No. 353/2008. In this 
+case also the appellants had failed to bring on record any material to 
+
+26 
+ 
+show that the dominant purpose or dominant use of the car in 
+question was for commercial purpose or that the purchase of the car 
+had any nexus or was linked with any profit generating activity of the 
+respondent no. 1 company. We therefore confirm the finding recorded 
+by the three-member Bench of the National Commission in the order 
+dated 08.07.2016 on the maintainability of the complaint filed by the 
+respondent-complainant company. 
+30. On the merits of the claim made by the respondents – complainants, 
+it was sought to be submitted by Learned Senior Advocate Mr. Dhruv 
+Mehta for the appellants-original opponents that the complainants did 
+not lead any expert evidence or any other evidence to establish that 
+there was any defect in the front airbags of the car in question and in 
+absence of any such evidence, the National Commission could not 
+have concluded that the front airbags of the car were defective.  
+According to him, the Commission had committed gross error in 
+discarding the report of the expert produced by the appellants, who 
+had stated as to why deployment of the driver’s airbag was not 
+required in this case. According to him, since, the driver was 
+sufficiently restrained by the seat belt, there was no need for the front 
+airbag to deploy at the time of accident and the front passenger 
+airbag would be triggered only if the front passenger seat was 
+occupied, whereas in the instant case, the complainant no. 2 was 
+
+27 
+ 
+sitting at the rear left seat and therefore the front passenger’s airbag 
+could not have deployed. In any case, runs the submission of Mr. 
+Mehta, the complainants had already sold out the car during the 
+pendency of the proceedings before the National Commission and 
+thereby had created a situation where the Commission could not 
+have inspected the car in question. He further submitted that there 
+was no “unfair trade practice” practiced by the appellants and the 
+damages/compensation awarded by the Commission was without 
+any legal basis. 
+31. The Senior Learned Advocate Mr. Prashanto Chandra Sen appearing 
+on behalf of the respondents-complainants however vehemently 
+submitted that admittedly neither the front airbags nor the side 
+airbags of the car deployed as a result of the accident. The appellants 
+had not produced on record the owner’s manual and the features of 
+the airbags given in the owner’s manual on record produced by the 
+complainants did not disclose as to what was the pre-determined 
+level at which the airbags would deploy. According to him, the 
+appellants had misrepresented that their car was the safest place on 
+the road and that the provision of airbags was an additional safety 
+measure not only for the front passengers but also for the rear 
+passengers. According to him, since the owner’s manual did not 
+contain accurate and complete information as regards the safety 
+
+28 
+ 
+measure of airbags, and the appellants having misrepresented about 
+the safety measures at the time of the promotion of the car, it was 
+rightly construed as an “unfair trade practice” on the part of the 
+appellants by the Commission, however, the Commission had 
+committed an error in not awarding exemplary damages to the 
+respondents-complainants. 
+32. In the instant case, there are certain undisputed facts as transpiring 
+from the record, like that the purchase of the car was by the 
+respondent no.1 for the respondent no. 2 its Managing Director. The 
+occurrence of the accident on 17.01.2006 is not disputed. It is also 
+not disputed that at the time of accident, the driver of the car was 
+wearing the seat belt, whereas the respondent No. 2 who was sitting 
+on the rear left side seat did not wear the seat belt. It is also not 
+disputed that neither the airbags on the front side nor the airbags on 
+the side of the respondent no. 2 had opened at the time of accident, 
+as a result thereof, the respondent no. 2 sustained grievous injuries, 
+and the driver sustained some minor injuries. It is also not disputed 
+that neither the respondents nor the appellants had produced on 
+record the owner’s manual of 2002 i.e. the year when the car in 
+question was purchased by the respondents, though it was 
+specifically directed by the Commission to produce the same by 
+passing the order on 24.08.2017. Though subsequently, the 
+
+29 
+ 
+complainant had produced on record one owner’s manual, the same 
+did not appear to be of the relevant year by the Commission. The 
+appellants-opponents had produced on record certain photographs 
+as also the reports of technical experts of the appellants. 
+33. The National Commission after considering the material on record 
+disposed of the complaint of the respondents - complainants directing 
+the appellants to pay a sum of Rs. 5 lakhs to the complainant no. 1 
+for the deficiency in the services rendered to it on account of the 
+airbags of the car having not deployed/ triggered and further directed 
+the appellants to pay a sum of Rs. 5 lakhs as compensation to the 
+complainant no. 1 for the unfair trade practice indulged into by them, 
+and a sum of Rs.25,000/- as cost of litigation.  
+34. The National Commission after elaborately considering the Owner’s 
+Manual produced by the complainants, as the appellants - opponents 
+had failed to produce the owner’s manual of the relevant year 2002 
+when the car was purchased by the complainants and the other 
+material on record, observed in Para no. 9 and 10 of the impugned 
+judgment dated 11th September, 2017 as under: - 
+“9. It is evident from a perusal of the above referred extract from 
+the Manual that the side airbags are triggered only on the side 
+on which an impact occurs in an accident and that the said 
+airbags are independent of the front airbags. Since, admittedly, 
+there was no impact on the side of the car in which complainant 
+no.2 was sitting at the time of the accident, the side airbag would 
+obviously not have triggered. Even otherwise the airbags on the 
+
+30 
+ 
+side will not trigger in the event of frontal accident unless the 
+airbags system is such as to trigger every airbag irrespective of 
+the side on which the impact occurs in an accident. Similarly, 
+window bags which are independent of the front airbags also 
+trigger on the side on which the impact occurs. Therefore, the 
+window airbags would not have triggered in this case since there 
+was no impact on the sides on which the window bags were 
+provided in the vehicle. 
+10. As far as the front airbags are concerned, it is stated in the 
+Manual that they are triggered if (i) a front-end impact occurs (ii) 
+if collision happens at a force exceeding a ‘predetermined level.’ 
+The Manual however, does not disclose as to what the said 
+predetermined level was. If the front airbags were not to deploy 
+in every accident resulting in front end impact, the opposite 
+parties, in my view, ought to have disclosed to the buyers as to 
+what the predetermined level necessary to trigger the front 
+passenger airbag were. In the absence of such a disclosure in 
+the Owner’s Manual, as far as the functioning of the front 
+passenger airbags are concerned would be deficient, on account 
+of its not providing the requisite information to the buyer.  
+Section 2(1)(r) of the Consumer Protection Act, 1986 to the 
+extent it is relevant provides that unfair trade practice means a 
+trade practice which for the purpose of promoting the sale, use 
+or supply of any goods adopts any unfair method or unfair or 
+deceptive practice including that the goods are of a particular 
+standard and quality. It is alleged in the complaint that the 
+opposite parties at the time of launching E-Class Model 
+highlighted its safety system, including airbags while proclaiming 
+the vehicle to be the safest place on the road. Obviously, the 
+opposite parties were seeking to encash upon the safety features 
+of the vehicle, including the airbags provided therein, for the 
+purpose of selling the vehicle. Therefore, it would be necessary 
+for them to disclose to the buyers as to what the predetermined 
+levels, necessary for triggering the front airbags of the vehicle 
+were. Highlighting the safety features including the airbags for 
+selling the vehicle, without such a disclosure, in my opinion, 
+constituted an unfair and deceptive trade practice. It is only the 
+opposite parties which knew what would be the level which would 
+trigger the frontal airbags in the event of an accident. Therefore, 
+the aforesaid material information ought not to have been 
+withheld while selling the vehicle. The opposite parties therefore, 
+indulged in unfair trade practice or the purpose or promoting the 
+sale of their vehicle.” 
+ 
+
+31 
+ 
+35. The National Commission also considered the report of Mr. Lothar 
+Ralf Schusdzarra, the Technical Expert and Senior Engineer working 
+with the Appellant Company who had inspected the car after the 
+accident, and the photographs forming part of the report of the 
+technical expert, and observed that the vehicle that is the car in 
+question, had frontal accidental with another vehicle stated to be a 
+container truck which had a higher chassis, and that the front portion 
+of the car was badly damaged as a result of the said accident. The 
+said photographs also corroborated with the depositions of the driver 
+Mr. Madhukar Shinde and the respondent-complainant no. 2 Mr. 
+Mohan Trehan which established that the front portion of the vehicle 
+was smashed when it was hit by the truck and the collision of car with 
+the truck was quite impactful. 
+36.  There was nothing on record produced by the appellants to show 
+that they had disclosed either in the Owner’s Manual or in the 
+Brochure about the limited functioning of the airbags, which 
+according to them was an additional safety measure in the car. On 
+the contrary, as per the case of the respondents-complainants a 
+misrepresentation was made by the appellants at the time of 
+promotion of the car in question that e-class car had a safety system 
+which included front airbags, side-airbags and window airbags. Even 
+if it is accepted that the airbags would deploy only when the seat belt 
+
+32 
+ 
+was fastened by the passenger, in the instant case admittedly, the 
+frontal airbags of the car were not deployed though the driver had 
+already fastened the seat belt. Thus, the defect in the car was clearly 
+established so far as non-deployment of frontal airbags was 
+concerned.  
+37. Incomplete disclosure or non-disclosure of the complete details with 
+regard to the functioning of the airbags at the time of promotion of the 
+car, has rightly been considered by the National Commission as the 
+“unfair trade practice” on the part of the appellants, and awarded a 
+sum of Rs. 5 lakhs towards it. The National Commission has also 
+rightly balanced the equity by awarding Rs. 5 lakhs only towards the 
+deficiency in service on account of the frontal airbags of the car 
+having not deployed at the time of accident. 
+38. Since the National Commission has considered in detail the evidence 
+and the material on record adduced by the both the parties, in our 
+opinion the well-considered judgment dated 11th September 2017 
+passed by the National Commission does not warrant any 
+interference. 
+39. It is needless to say that a trade practice which for the purpose of 
+promoting the sale of any goods by adopting deceptive practice like 
+falsely representing that the goods are of a particular standard, 
+
+33 
+ 
+quality, style or model, would amount to “unfair trade practice” within 
+the meaning of Section 2(1)(r) of the said Act. 
+40.  In that view of the matter, following order is passed: - 
+I. 
+C.A. No. 353/2008 
+The respondent-complainant is permitted to retain the car 
+bearing registration no. DL-9CV-5555. The appellant is directed 
+to refund Rs. 36,00,000/- (Rupees thirty-six lakhs) to the 
+respondent by way of compensation within three months from 
+the date of this order, failing which the appellant shall pay 
+interest at the rate of 9% per annum thereon from the date of 
+this order till payment. The Appeal stands partly allowed. 
+II. 
+C.A. No. 19536 & 19537/2017 and C.A. No. 2633/2018  
+All the three Appeals are dismissed.  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                         ……………………………J. 
+             
+ 
+ 
+ 
+ 
+        (BELA M. TRIVEDI) 
+ 
+ 
+ 
+ 
+        .………………………….. J. 
+                                                                         (PANKAJ MITHAL) 
+NEW DELHI; 
+JULY 09, 2024.

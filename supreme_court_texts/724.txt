@@ -1,0 +1,359 @@
+2024 INSC 768
+Reportable
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+Civil Appeal Nos 10046-10047 of 2024
+Kerala State Electricity Board Ltd
+     
+Appellant
+ 
+Versus
+Jhabua Power Limited and Others
+                
+Respondent(s)
+J U D G M E N T 
+1.
+These appeals arise from a judgment of the Appellate Tribunal for Electricity1
+dated 26 July 2024.
+2.
+Kerala State Electricity Board Limited, the appellant, floated two separate
+tenders for the procurement of power through a competitive bidding process
+under Section 63 of the Electricity Act 20032. The first was for procuring 450
+MW of power and the second was for 400 MW.
+1
+“APTEL”
+2 “Act”
+1
+Digitally signed by
+Chetan Kumar
+Date: 2024.10.14
+11:30:50 IST
+Reason:
+Signature Not Verified
+
+3.
+Two entities emerged as L1 bidders in respect of the two tenders which were
+floated. However, the L1 bidders did not bid for the entire tender quantum.
+The L1 bidder in the first bid offered to supply only 200 MW out of the total
+quantum of 450 MW. Similarly, the L1 bidder in the second bid offered to
+supply only 100 MW as against the 400 MW for which the bid had been
+invited. The appellant invited the other bidders to match the tariff quoted by
+the L1 bidders for the remaining quantum. None of the other bidders in the
+first bid were willing to match the tariff quoted by the L1 bidder therein.
+However, in relation to the second bid, the L2 to L5 bidders conveyed their
+willingness to match the tariffs quoted by the L1 bidder.
+4.
+With regard to the first bid, despite the L2 bidder refusing to match the tariff
+of the L1 bidder, the appellant accepted its tariff for 115 MW and justified it
+on the ground that the tariff was competitive and less than the tariff quoted
+by the L1 bidder in the second bid. Since the tariff quoted by the remaining
+bidders in the first bid was either equal to or more than the tariff derived in
+the second bid, the appellant did not consider their offers. Therefore, in the
+first bid out of the tendered quantity of 450 MW, the appellant accepted
+offers for a quantum of 315 MW and issued letters of acceptance to L1 and
+L2 for 200 MW and 115 MW, respectively.
+5.
+With regard to the second bid, the appellant accepted the offers of the L2,
+L3, L4 and L5 bidders, who matched the tariff quoted by the L1 bidder. As
+against the tendered quantity of 400 MW, the appellant accepted offers for a
+2
+
+total quantum of 550 MW. The appellant justified this decision in view of the
+“likely power shortages in the forthcoming years” and on the ground that the
+tariff offered was competitive.
+6.
+Seven  Power  Supply  Agreements3 were  accordingly  executed  with  the
+various generators for a total quantum of 865 MW of power. The appellant
+sought the approval of the Kerala State Electricity Regulatory Commission4 to
+adopt the tariff laid down in the respective PSAs. The KSERC  prima facie
+observed  that  the  appellant  had  deviated  from  the  standard  bidding
+guidelines issued by the Ministry of Power, Government of India5 and failed to
+obtain prior approval from the KSERC or the Central Government in relation
+to these deviations. Accordingly, by an Order dated 30 August 2016, the
+KSERC approved the PSAs with the L1 bidders in both bids, but with regard to
+the remaining PSAs, it deferred the decision to obtain the approval of the
+Central Government and the views of the Government of Kerala with respect
+to the process of bidding which was adopted by the appellant.6
+7.
+In view of the critical need for power procurement in the state, KSERC passed
+orders in 2016-2017 permitting the appellant to provisionally procure power
+from the generators and, as a consequence, the appellant states that it has
+been procuring power under the four PSAs since then till 2023.
+3
+“PSAs”
+4
+“KSERC”
+5 “standard bidding guidelines”
+6
+OP No. 13 of 2015
+3
+
+8.
+In  2020,  the  appellant  moved  the  KSERC  seeking  approval  of  the  fuel
+surcharge rate under some of the unapproved PPAs in the second bid. The
+KSERC did not approve the fuel surcharge rate and directed the appellant to
+limit payment at the rate of the L1 bidder in the second bid until the PSAs
+were approved. The case travelled to the APTEL and in parallel, the appellant
+filed a petition before the KSERC seeking final orders on the approval of the
+PSAs. The order of the APTEL was challenged before this Court, and KSERC
+was called upon to decide the petition for final approval expeditiously, in no
+later than three months.7
+9.
+By an order dated 10 May 2023, KSERC declined to grant approval for the
+PSAs and concluded that the tariff determined by the appellant did not follow
+a  transparent  process  and  grossly  deviated  from  the  standard  bidding
+guidelines.  KSERC  further  held  that  the  deviations  were  against  public
+interest and created long-term financial implications for the consumers and
+the state.8 The appellant moved the APTEL in appeal.
+10.
+On 10 October 2023, while the appeal was pending before the APTEL, the
+Government of Kerala invoked the provisions of Section 108 of the Act9 and
+issued policy directions highlighting the public interest that would be served
+7
+Civil Appeal No. 41/2021
+8
+OP No. 05 of 2021
+9
+S.108, Electricity Act 2003. [Section 108. (Directions by State Government): ---- (1) In the
+discharge of its functions, the State Commission shall be guided by such directions in matters of
+policy involving public interest as the State Government may give to it in writing. 
+(2) If any question arises as to whether any such direction relates to a matter of policy involving
+public interest, the decision of the State Government thereon shall be final]
+4
+
+by approving the PSAs. The state government opined that the non-approval
+of the PSAs would compel the appellant to purchase power at higher rates,
+resulting in immense financial implications and a power crisis in the state.
+The liability of higher rates of power procurement would, it was opined, be
+passed  on to  the consumers,  increasing  the  cost  of power  in  the  state.
+Alternative means, it was opined, should have been sought earlier and the
+public should not be held liable for procedural flaws. The Government of
+Kerala, accordingly, directed as follows:
+“NOW THEREFORE, after detailed examination of the
+matter,  considering  all  facts  and  observations,
+without  prejudice  to  any  enquiry  ongoing  in  the
+matter  and  without  ratifying  the  procedural
+irregularities pointed out by KSERC, keeping in view
+the  larger  interest  of  the  public,  the  Government
+deems  it  appropriate  to  invoke  the  power  under
+section 108 of Electricity Act 2003 and accordingly,
+in exercise of the said power, Government hereby
+direct  Kerala  State  Electricity  Regulatory
+Commission to reconsider/review their orders
+in  O.P  No.5/2021  filed  by
+ Kerala  State
+Electricity  Board  Limited,  in  accordance  with
+the  policy  of  the  Government  for  the  best
+interest of the State and public at large.”
+(emphasis supplied)
+11.
+In view of the above directive, the appellant  withdrew its appeal before
+APTEL. While allowing the request for withdrawal, APTEL by its order dated
+31 October 2023, directed as follows:
+“We consider it appropriate, in such circumstances,
+to permit the Appeal to be withdrawn, with liberty to
+the Appellant to invoke the review jurisdiction of the
+Commission.  It  is  made  clear  that  the  order  now
+passed by us shall  not disable the Appellant, if
+need  be  later,  from  availing  their  appellate
+5
+
+remedy against the original  order passed by
+the Commission dated 10.05.2023.”
+(emphasis supplied)
+12.
+The appellant moved a petition before the KSERC seeking a review of its
+order dated 10 May 2023. On 29 December 2023, KSERC allowed the review
+petition and approved the four PSAs in view of the public interest highlighted
+in the policy directions issued under Section 108 by the State government.
+The KSERC held that it was bound by the directions of the state government.
+Further,  it  was  held  that  the  subsequent  directions  issued  by  the  state
+government fell within the ambit of “any other sufficient reasons” to review a
+previous  order,  as  required  by  Order  XLVII  Rule  1  of  the  Code  of  Civil
+Procedure 190810 read with Section 94 of the Act.
+13.
+Two of the generators who are now respondents before this Court, moved the
+APTEL in appeal. They contended that the above order of the KSERC violated
+Order XLVII Rule 1 of the CPC read with Section 94 of the Act as it was passed
+solely  on  the  ground  that  a  subsequent  direction  issued  by  the  State
+Government under Section 108 is binding on the KSERC.
+14.
+By its impugned judgment, APTEL allowed the appeals and set aside the
+order of KSERC. The findings of the APTEL are summarized below.
+ 
+a.
+After recapitulating the decisions of this Court pertaining to the scope of the
+phrase “any other sufficient reasons” in Order XLVII Rule 1 of the CPC, the
+APTEL held that the threshold was not satisfied in the present case. The
+10 “CPC”
+6
+
+KSERC failed to point out any error in its previous order and instead relied
+solely on the subsequent directions issued by the state government under
+Section 108 to review its earlier order. None of the grounds which weighed
+with  the  KSERC  in  its  previous  order  were  even  referred  to,  thereby,
+defeating the purpose for which the power of review is exercised; 
+b.
+The  APTEL  traced  the  decisions  of  this  Court  and  its  own  decisions
+pertaining to the scope of Section 108 of the Act and held that the KSERC
+was  not  bound  by  the  directives  of  the  state  government.  The  state
+government  could  not  have  issued  a  directive  to  compel  the  KSERC  to
+exercise its quasi-judicial powers in a particular manner. Such powers are to
+be exercised independently by the KSERC in accordance with the Act; and 
+c. APTEL held that Section 86(1)(b) of the Act expressly confers the function of
+regulating the price at which electricity should be procured by distribution
+licensees from  generating companies  to  the KSERC.  Under the  Act,  this
+power must be exercised solely in terms of Sections 62 and 63 of the Act.
+While approving the tariff under Section 63 of the Act, the KSERC can only
+adopt the tariff if it has been determined through a transparent process of
+bidding  and  is  in  accordance  with  the  standard  bidding  guidelines.  The
+KSERC had, in the exercise of its power under Section 86(1)(b) read with
+Section 63, already passed an order, declining to adopt the tariff, since it
+was satisfied that the process of bidding was not in accordance with the
+standard bidding guidelines. A policy directive could not, therefore, override
+the statutory functions already exercised by the KSERC.
+7
+
+15.
+We have heard Mr V Giri, senior counsel appearing on behalf of the appellant.
+Mr  Aryama  Sundaram,  senior  counsel  appears  for  the  first  respondent
+(Jhabua Power Limited) and Dr Abhishek Manu Singhvi, senior counsel for the
+second respondent (Jindal India Power Thermal Limited).
+16.
+We are in agreement with the judgment of APTEL insofar as it holds that the
+directive which was issued by the State government under Section 108 could
+not have displaced the adjudicatory function which was entrusted to KSERC.
+The State government while issuing a policy directive in the exercise of its
+power  under  Section  108  cannot  impinge  on  the  adjudicatory  discretion
+which is vested in an authority under the Act. In this regard, we may helpfully
+refer to the observations of this Court in A.P. TRANSCO v. Sai Renewable
+Power  (P)  Ltd.,11 in  the  context  of a  similar  provision  in  the  erstwhile
+Andhra Pradesh Electricity Reforms Act 1998 (which was repealed by the
+Electricity Act  2003). A two-judge bench of this Court, speaking through
+Justice Swatanter Kumar, observed:
+“59. Section  12  of  the  Act  vests  the  State
+Government with the power to issue policy directions
+on  matters  concerning  electricity  in  the  State
+including the overall planning and coordination.  All
+policy directions shall be issued by the State
+Government  consistent  with  the  objects
+sought  to  be  achieved  by  this  Act  and,
+accordingly,  shall  not  adversely  affect  or
+interfere with the functions and powers of the
+Regulatory  Commission  including,  but  not
+limited  to,  determination  of  the  structure  of
+tariffs  for  supply  of  electricity  to  various
+11 (2011) 11 SCC 34.
+8
+
+classes of consumers. The State Government is
+further  expected  to  consult  the  Regulatory
+Commission in regard to the proposed legislation or
+rules concerning any policy direction and shall duly
+take  into  account  the  recommendation  by  the
+Regulatory  Commission  on  all  such  matters.  Thus
+the  scheme  of  these  provisions  is  to  grant
+supremacy to the Regulatory Commission and
+the State is not expected to take any policy
+decision  or  planning  which  would  adversely
+affect  the  functioning  of  the  Regulatory
+Commission  or  interfere  with  its  functions.
+This provision also clearly implies that fixation
+of  tariff  is  the  function  of  the  Regulatory
+Commission and the State Government has a
+minimum role in that regard.”
+17.
+That the state regulatory commissions are not ‘bound’ by the directions of
+the state government, or the Central Government is also evident from the
+text of Section 108. The provision reads: “In the discharge of its functions,
+the State Commission shall be guided by such directions in matters of policy
+…”. This indicates that the state commission shall only be ‘guided’ by the
+directions issued by the state government and is not automatically bound by
+them. This interpretation is strengthened by the divergence in the language
+used in other provisions of the Act, such as Section 11 of the Act which reads
+as follows: 
+“Section 11. (Directions to generating companies):
+--- (1) Appropriate Government may specify that a
+generating  company
+ shall,  in  extraordinary
+circumstances operate and maintain any generating
+station  in  accordance  with  the  directions  of  that
+Government. 
+Explanation. - For the purposes of this section, the
+expression  “extraordinary  circumstances”  means
+circumstances arising out of threat to security of the
+9
+
+State,  public  order  or  a  natural  calamity  or  such
+other circumstances arising in the public interest. 
+…”
+18.
+The  above  provision  uses  mandatory  language  and  provides  that  the
+generating company “shall … operate and maintain any generating station in
+accordance  with  the  directions  of  that  Government”  in  extraordinary
+circumstances. This can be distinguished from the language in Section 108,
+which  merely  requires  that  the  state  commission  “be  guided  by”  the
+directions of the State Government.  The provision, in no manner, seeks to
+control the exercise of quasi-judicial power by the state commissions based
+on directions issued by the state government.
+19.
+Similarly, the findings of the APTEL on the limited scope of the review are
+also consistent with settled law. Section 94(f) of the Act provides that the
+state commission has the same powers as vested in a civil court under the
+CPC in respect of reviewing its decisions, directions and orders. Order XLVII
+Rule 1 of the CPC provides for review on limited grounds. An order cannot be
+made the subject of an appeal under the garb of a review. While reviewing an
+order,  the  court  or  tribunal  must  be  satisfied  that  there  was  an  error
+apparent in its previous order, which warrants the exercise of its power to
+review. While allowing the review petitions, the KSERC failed to explain how
+this threshold was met and did not point out any errors of that nature in its
+previous  order.  Instead,  sole  reliance  was  placed  on  the  subsequent
+directions of the State Government, which highlighted the purported ‘public
+10
+
+interest’ that would be served by approving the PSAs. Therefore, there is no
+infirmity in the decision of the APTEL to set aside the order of KSERC on the
+ground that it exceeded its jurisdiction under Section 94 of the Act.
+ 
+20.
+We are in agreement with the judgement of the APTEL on the above aspects.
+However, having said so, it emerges from the earlier order of APTEL dated 31
+October 2023, that while permitting the appeal filed by the appellant to be
+withdrawn,  APTEL  had  permitted  the  appellant  to  invoke  the  review
+jurisdiction of KSERC. APTEL, however, expressly made it clear that “the
+order now passed … shall not disable the appellant, if need be later, from
+availing their appellate  remedy against the original order passed by the
+Commission dated 10.05.2023”.
+21.
+Consequently, while we do not find fault with the impugned order of APTEL
+insofar as it set aside the order passed by KSERC, at the same time, the
+appropriate course of action would be to allow for restoration of the original
+appeal filed against the order of KSERC dated 10 May 2023. This appeal,
+being Appeal No 518 of 2023, shall stand restored to the file of APTEL.
+22.
+We, however, clarify that issues which are covered by the impugned order of
+APTEL shall not be re-agitated. The appeal which has been restored to the
+file of APTEL shall, in other words, be considered on any other grounds that
+were raised before APTEL prior to the withdrawal of the appeal.
+11
+
+23.
+The appeals shall stand disposed of accordingly.
+24.
+Pending applications, if any, stand disposed of.
+ 
+ 
+ 
+….....…...….......…………………..CJI.
+                                                                 [Dr Dhananjaya Y Chandrachud]
+..…....…........……………….…........J.
+                             
+[J B Pardiwala]
+..…....…........……………….…........J.
+                             
+[Manoj Misra]
+ 
+New Delhi; 
+September 30, 2024
+CKB
+12

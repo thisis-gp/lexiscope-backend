@@ -1,0 +1,357 @@
+2024 INSC 603
+1 
+Reportable  
+ 
+ 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION 
+ 
+ 
+Civil Appeal No 8605 of 2024 
+(Arising out of SLP(C) No 32962 of 2018) 
+ 
+ 
+ 
+ 
+Doli Rani Saha 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.... Appellant 
+ 
+Versus 
+ 
+Union of India 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+....Respondent 
+ 
+ 
+ 
+ 
+O R D E R 
+ 
+Table of Contents 
+A. Background and submissions ................................................................................... 2 
+B. Decisions of the Railway Claims Tribunal and the High Court ................................ 4 
+C. The errors in the judgments of the Railway Claims Tribunal and the High Court . 6 
+D. Compensation and interest ........................................................................................ 9 
+ 
+ 
+ 
+ 
+ 
+Digitally signed by
+Sanjay Kumar
+Date: 2024.08.13
+15:16:34 IST
+Reason:
+Signature Not Verified
+
+2 
+A. 
+Background and submissions 
+1. 
+The case of the appellant is that her brother, Swapan Kumar Saha, suffered a fatal 
+fall from a moving train, (No 5658; Kanchanjanga Express) at KM 373/9, Dolma 
+Gate on 5 September 2003, resulting in his death. The body of the deceased was 
+recovered three days after the incident, on 8 September 2003.  
+2. 
+The appellant filed a claim petition under Section 16 of the Railway Claims 
+Tribunal Act 1987 before the Guwahati Bench of the Railway Claims Tribunal1 
+seeking compensation of Rs 4,00,000 arising from the death of her brother. By its 
+judgment dated 17 March 2009, the Tribunal dismissed the claim, concluding that 
+the deceased was not travelling on the train. The review petition against this 
+judgment was dismissed on 29 September 2010.  
+3. 
+The decision of the Tribunal was assailed in first appeal before the Gauhati High 
+Court. The High Court dismissed the first appeal by its judgment dated 7 January 
+2014 in MFA No 288 of 2010. A review petition against this judgment (bearing 
+Review Petition No 41 of 2014) was also dismissed on 13 November 2014. The 
+appeal arises from this judgment of the High Court.   
+4. 
+We have heard Mr Abhinav Hansaria, counsel, in support of the appeal and Mr 
+Vikramjit Banerjee, Additional Solicitor General, with Mr Ishaan Swarana Sharma, 
+counsel, for the respondent. 
+5. 
+The submission of the appellant is that in concluding that the deceased was not 
+travelling in the train on 5 September 2023, both the High Court and the Tribunal 
+ 
+1 “Tribunal” 
+
+3 
+have overlooked the findings contained in the final report dated 6 November 2003 
+submitted by the Investigating Officer2 to the Sub-Divisional Magistrate, Rangiya.  
+According to the submission, the above report also includes an extract from the 
+post-mortem report which indicated that the cause of death was due to head 
+injuries resulting from a “blunt force impact”. The estimated time of death was 
+determined to be between forty-eight and seventy-two hours before the conduct of 
+the post-mortem. 
+6. 
+In support of the claim that compensation ought to be awarded to the appellant, Mr 
+Hansaria submitted that: 
+a. It is not necessary to produce a valid ticket to claim compensation under 
+Section 124A of the Railways Act 1989,3 in view of the decision in Union of 
+India v Rina Devi4; 
+b. The law laid down by this Court in successive decisions has clarified the test 
+by which the amount of compensation under the Railways Act must be 
+computed, including the entitlement of the claimant in case of an increase in 
+the permissible amount; and 
+c. The appellant should be awarded interest as admissible in law. 
+7. 
+In response, the respondent argued that the appellant had not provided a reason 
+for the delay in the discovery of the body of the deceased. It argued that other 
+employees of the Railways were bound to have chanced upon the body in the 
+ 
+2 “IO” 
+3 “Railways Act” 
+4 (2019) 3 SCC 572 
+
+4 
+days after the alleged date of death. It supported the judgments of the Tribunal 
+and the High Court.  
+8. 
+Written submissions have been submitted on behalf of the appellant as well as the 
+respondent. 
+B. 
+Decisions of the Railway Claims Tribunal and the High Court 
+9. 
+Before turning to the issue at hand, it is necessary to briefly advert to the 
+judgments of the Tribunal and the High Court. The Tribunal framed the following 
+issues for consideration: 
+a. Whether the deceased was a bona fide passenger of the train in question on 
+the date of incident;  
+b. Whether the incident as alleged in the claim application took place and was 
+covered within the definition of an untoward incident under Section 123(c) of 
+the Railways Act; and 
+c. Whether the appellant was entitled to compensation, and what the relief should 
+be, if any. 
+10. The appellant (AW-1) deposed in support of the claim, together with her cousin, 
+Deepak Saha (AW-2). Both witnesses were cross examined. The railways did not 
+produce either oral or documentary evidence. After considering the material on 
+record and hearing the parties, the Tribunal found as follows: 
+a. No ticket was found with the deceased, whose body was found on 8 
+September 2003; 
+
+5 
+b. Neither AW-1 nor AW-2 were eye witnesses to the death; 
+c. There was nothing else on record to show that the deceased boarded the train; 
+and 
+d. The appellant was required to produce the best evidence but did not do so. 
+The report of the IO was not sufficient to rebut the presumption under Section 
+191 of the Railways Act. 
+The Tribunal concluded that there was no evidence to prove that the deceased 
+died as a consequence of falling off the train. It found that compensation was 
+therefore not payable to the appellant. It later dismissed the application for review 
+of its judgment on the ground that no new facts were placed on record which 
+would warrant a review. The Tribunal also observed that the secret witnesses 
+examined by the IO were not examined.  
+11. On appeal, the High Court dismissed the appeal against the decision of the 
+Tribunal. By its judgment dated 7 January 2014, the High Court held that: 
+a. From the material available on record, it appeared that the body of the 
+deceased was found lying near the railway track. However, nothing on record 
+indicated that the deceased was travelling as a passenger on the train; 
+b. The post-mortem report indicated that the death took place between forty-eight 
+and seventy-two hours before the conduct of the post-mortem, which was on 9 
+September 2003 at 1:30 pm. From this, it cannot conclusively be held that the 
+deceased died on 5 September 2003; and 
+
+6 
+c. The report filed by the IO is not supported by substantive material. Since he 
+had no personal knowledge regarding the cause of death, his report cannot be 
+accepted as evidence of the fact that the deceased was travelling as a 
+passenger on the train in question. 
+The Court therefore concluded that the appellant failed to establish that the 
+deceased was travelling as a passenger on 5 September 2023 on the train in 
+question.  
+12. The High Court later dismissed the review petition preferred by the appellant. It 
+held that: 
+a. The material facts as well as the questions of law had been considered in the 
+judgment under review; and 
+b. The report of the IO was based on a “secret enquiry” conducted by him. The 
+IO did not disclose the material facts which led him to conclude that the 
+deceased was travelling in the train. Further, he was not examined. The 
+opinion of the IO, as recorded in his report, was therefore not substantiated. 
+Therefore, the High Court concluded that the appellant had not made out a case 
+that there was an error apparent on the face of the record.  
+C. 
+The errors in the judgments of the Railway Claims Tribunal and the High 
+Court 
+13. From the recapitulation of the various judicial pronouncements leading to the 
+present appeal, it can be seen that the primary issue is whether the deceased was 
+
+7 
+travelling on the train in question. In Rina Devi (supra), a two-Judge Bench of this 
+Court considered the question of the party on which the burden of proof will lie in 
+cases where the body of the deceased is found on railway premises. This Court 
+held that the initial burden would be on the claimant, which could be discharged by 
+filing an affidavit of the relevant facts. Once the claimant did so, the burden would 
+then shift to the Railways. Significantly, it also held that the mere absence of a 
+ticket would not negate the claim that the deceased was a bona fide passenger. 
+The relevant extract from the ruling of the Court is reproduced below: 
+“29. We thus hold that mere presence of a body 
+on the railway premises will not be conclusive to 
+hold that injured or deceased was a bona fide 
+passenger for which claim for compensation 
+could be maintained. However, mere absence 
+of ticket with such injured or deceased will 
+not negative the claim that he was a bona 
+fide passenger. Initial burden will be on the 
+claimant which can be discharged by filing 
+an affidavit of the relevant facts and burden 
+will then shift on the Railways and the issue 
+can be decided on the facts shown or the 
+attending circumstances. This will have to be 
+dealt with from case to case on the basis of facts 
+found. The legal position in this regard will stand 
+explained accordingly.” 
+ 
+(emphasis supplied) 
+ 
+ 
+14. In the present case, the appellant had duly filed an affidavit stating the facts and 
+adverting to the report arising from the investigation conducted by the respondent, 
+which showed that the deceased was travelling on the train and that his death was 
+caused by a fall during the course of his travel. The burden of proof then shifted to 
+the Railways, which has not discharged its burden. Therefore, the presumption 
+that the deceased was a bona fide passenger on the train in question was not 
+rebutted.  
+
+8 
+ 
+ 
+ 
+15. Further, the report of the IO indicates the details mentioned in the post-mortem 
+report. It states that the cause of death was due to an injury sustained on the head 
+and that all injuries were antemortem and caused by “blunt force impact”. It also 
+states that forty-eight to seventy-two hours had passed since the time of death.  
+16. The High Court noticed the time of death estimated by the post-mortem report. 
+From this, it concluded that it was not possible to hold that the deceased died on 5 
+September 2003 because the post-mortem examination was conducted on 9 
+September 2003 at about 1:30 pm. It appears that the High Court was of the 
+opinion that the deceased died later than 5 September 2003 because the post-
+mortem report indicated that forty-eight to seventy-two hours had passed since the 
+time of death. However, the High Court did not notice that the IO indicated that the 
+deceased fell off the train at approximately 11:15 pm on 5 September 2003.  
+17. Seventy-two hours prior to the conduct of the post-mortem would be about 1:30 
+pm on 6 December 2003. This would be about thirteen to fourteen hours after the 
+deceased fell off the train. Conclusions in post-mortem reports as to the time of 
+death are approximations. This is also indicated by the fact that they usually 
+provide a window of time in which the deceased may have died. A margin of error 
+of about half a day in cases where compensation is at issue is not 
+disproportionate, where the evidence is otherwise corroborated by the material on 
+record. In this case, the estimation as to the time of death in the post-mortem 
+report differs from the time at which the IO stated that the deceased fell off the 
+train by about half a day. The report of the IO otherwise corroborated that the 
+
+9 
+deceased fell from the train. Further, the post-mortem report also stated that the 
+deceased sustained antemortem injuries due to blunt force. Hence, from the 
+material on record, it can be concluded that the deceased was a bona fide 
+passenger on the train in question and that he sustained grave injuries leading to 
+his death, due to his fall from the train. Compensation is therefore due to the 
+appellant.     
+D. 
+Compensation and interest 
+18. The decision in Rina Devi (supra) holds as follows on the aspect of compensation: 
+“19. 
+Accordingly, 
+we 
+conclude 
+that 
+compensation will be payable as applicable on 
+the date of the accident with interest as may be 
+considered reasonable from time to time on the 
+same pattern as in accident claim cases. If the 
+amount so calculated is less than the amount 
+prescribed as on the date of the award of the 
+Tribunal, the claimant will be entitled to higher of 
+the two amounts. This order will not affect the 
+awards which have already become final and 
+where limitation for challenging such awards has 
+expired, this order will not by itself be a ground 
+for condonation of delay. Seeming conflict in 
+Rathi Menon [Rathi Menon v. Union of India, 
+(2001) 3 SCC 714, para 30 : 2001 SCC (Cri) 
+1311] and Kalandi Charan Sahoo [Kalandi 
+Charan Sahoo v. South-East Central Railways, 
+(2019) 12 SCC 387 : 2017 SCC OnLine SC 
+1638] stands explained accordingly. The four-
+Judge Bench judgment in Pratap Narain Singh 
+Deo [Pratap Narain Singh Deo v. Srinivas 
+Sabata, (1976) 1 SCC 289 : 1976 SCC (L&S) 
+52] holds the field on the subject and squarely 
+applies to the present situation. Compensation 
+as applicable on the date of the accident has to 
+be given with reasonable interest and to give 
+effect to the mandate of beneficial legislation, if 
+compensation as provided on the date of award 
+of the Tribunal is higher than unrevised amount 
+with interest, the higher of the two amounts has 
+to be given.” 
+ 
+ 
+ 
+ 
+
+10 
+The decision in Rina Devi (supra) has subsequently been followed in Union of 
+India v. Radha Yadav5 and in Kamukayi and others v. Union of India and 
+Others.6  
+19. In Rina Devi (supra), this Court held that the claimant would be entitled to interest 
+from the date of the accident and, in case the amount so calculated is less than 
+the amount prescribed as on the date of the grant of compensation, the claimant 
+would be entitled to the higher of the two amounts. The principle which has been 
+laid down in Rina Devi (supra) serves a salutary purpose.  This was noticed in the 
+decision in Radha Yadav (supra) where it was observed that “the idea is to afford 
+the benefit of the amendment, to the extent possible”. 
+20. In 2003, the compensation payable for the death of a passenger was Rs 4,00,000, 
+as provided under Schedule I of the Railway Accidents (Compensation) Rules 
+1990, as amended by the Railway Accidents and Untoward Incidents 
+(Compensation) Amendment Rules 1997.  The compensation payable for the 
+death of a passenger as on date is Rs 8,00,000, which was enhanced by a 
+notification bearing GSR 1165(E) dated 22 December 2016. 
+21. Following the judgment in Rina Devi (supra), from which we see no reason to 
+depart, we hold that the appellant is entitled to compensation quantified at Rs 
+8,00,000.  The compensation shall be paid by the respondent to the appellant by 
+30 September 2024, failing which the amount awarded by this Court shall carry 
+interest at the rate of six per cent per annum from the date of the order of this 
+Court until payment. 
+ 
+5 (2019) 3 SCC 410 
+6 2023 SCC Online SC 642 
+
+11 
+22. The District Legal Services Authority, Kokrajhar shall provide all details, including 
+the address of the appellant, so as to facilitate payment by the respondent in terms 
+of the above directions. If the appellant has a bank account, including a Jan Dhan 
+account, details shall be provided by the DLSA to the respondent so that the 
+transfer of funds is made seamlessly to the appellant.   
+23. The appeal is disposed of in the above terms. 
+24. Pending applications, if any, stand disposed of. 
+ 
+..…..…....…........……………….…........CJI. 
+                                                                                [Dr Dhananjaya Y Chandrachud] 
+ 
+ 
+ 
+…..…..…....…........……………….…........J. 
+                                     [J B Pardiwala]  
+ 
+ 
+ 
+…..…..…....…........……………….…........J. 
+                                    [Manoj Misra] 
+ 
+ 
+New Delhi;  
+August 09, 2024

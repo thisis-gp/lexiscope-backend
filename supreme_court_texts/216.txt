@@ -1,0 +1,554 @@
+2024 INSC 218
+1 
+ 
+REPORTABLE 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION  
+CIVIL APPEAL NOS.___________OF 2024 
+[Arising out of Special Leave Petition (Civil) Nos.7573-7574 of 
+2021] 
+ 
+NBCC (INDIA) LIMITED  
+ 
+    
+ ...APPELLANT (S) 
+  
+VERSUS 
+ZILLION INFRAPROJECTS PVT.LTD. 
+ ...RESPONDENT (S) 
+ 
+ 
+ 
+ 
+J U D G M E N T 
+ 
+B.R. GAVAI, J. 
+1. 
+Leave granted.  
+2. 
+The present appeals challenge the interim order dated 12th 
+March 2021 and final judgment & order dated 9th April 2021, 
+passed by the learned Single Judge of the High Court of Delhi 
+(hereinafter, “High Court”), in Arbitration Petition (Arb. P.) No. 44 
+Digitally signed by
+Deepak Singh
+Date: 2024.03.19
+15:55:42 IST
+Reason:
+Signature Not Verified
+
+2 
+ 
+of 2021, whereby the High Court allowed the application under 
+Section 11(6) of the Arbitration & Conciliation Act 1996 
+(hereinafter referred to as, “the Arbitration Act”) and appointed 
+the Sole Arbitrator to adjudicate the dispute between the parties 
+to the present lis, arising from the Letter of Intent dated 4th 
+December 2006.  
+3. 
+Facts, in brief, giving rise to the present appeals are as 
+follows: 
+3.1 The appellant, NBCC (India) Limited (Formerly known as 
+National Buildings Construction Corporation Ltd.), is a Public 
+Limited Company and Government of India undertaking, 
+engaged in construction of power plants and other infrastructure 
+projects on EPC and/or PMC basis.  
+3.2 The respondent, M/s Zillion Infraprojects Pvt. Ltd. 
+(Formerly known as Durha Constructions Pvt. Ltd.), is a Private 
+Limited 
+Company, 
+engaged 
+in 
+the 
+construction 
+and 
+infrastructure sector.   
+
+3 
+ 
+3.3 The appellant issued an invitation for tender, being NIT No. 
+01-WEIR/06 dated 3rd November 2006, for “Construction of Weir 
+with Allied Structures across river Damodar at DVC, CTPS, 
+Chandrapura, Dist – Bokaro, Jharkhand – Package “A” 
+(hereinafter referred to as, “Construction of the Weir”), containing 
+inter-alia, the General Conditions of Contract, Special Conditions 
+of Contract, Bill of Quantity, etc. (collectively referred to as, 
+“Tender Documents”).   
+3.4 In response to the aforementioned tender, the Respondent 
+submitted its Techno Commercial Bid on 16th November 2006.  
+3.5 On fulfilment of the tender criteria, vide Letter of Intent No. 
+AGM/RAN/CTPS-AWARD/06/1660 dated 4th December 2006, 
+the appellant awarded the contract for Construction of the Weir 
+to the respondent for a total value of Rs. 19,08,46,612/-.  
+3.6 With the passage of time, certain disputes arose between 
+the parties to the present lis & as a result, the respondent issued 
+a notice dated 6th March 2020, in terms of Clause 3.34 of Section 
+III Volume II of the Tender Documents (GCC), thereby invoking 
+
+4 
+ 
+arbitration and further seeking consent of the appellant for the 
+appointment of a former Judge of a High Court, as Sole 
+Arbitrator.  
+3.7 The appellant did not respond to the aforementioned notice 
+invoking arbitration, so the respondent filed an application at the 
+High Court under Section 11(6) of the Arbitration Act. 
+3.8 Vide interim order dated 12th March 2021, the High Court 
+allowed the Arbitration Petition and proposed the appointment 
+of a former Judge of the High Court, as the Sole Arbitrator, to 
+adjudicate the dispute between the parties.  
+3.9 Vide final judgment & order dated 9th April 2021, the High 
+Court confirmed the proposed appointment of the former Judge 
+of the Delhi High Court, as the Sole Arbitrator. 
+3.10 Aggrieved by the orders of the learned single judge of the 
+High Court, the appellant filed the present appeals thereby 
+challenging both the interim order and the final judgement & 
+order.  
+
+5 
+ 
+3.11 This Court vide order dated 23rd July, 2021, issued notice 
+and stay of further proceedings of the arbitration was granted.  
+4. 
+We have heard Shri Gopal Sankaranarayanan, learned 
+Senior Counsel appearing on behalf of the appellant & Shri Sumit 
+Kumar, learned counsel appearing on behalf of the respondent. 
+5. 
+Shri Gopal Sankaranarayanan, learned Senior Counsel 
+appearing for the appellant submits that the High Court has 
+grossly erred in invoking its power under Section 11(6) of the 
+Arbitration Act.  It is submitted that Clause 2.0 of the Letter of 
+Intent dated 4th December 2006 (“L.O.I.” for short) though states 
+that all terms and conditions as contained in the tender issued 
+by the Damodar Valley Corporation (“DVC” for short) to the NBCC 
+shall apply mutatis mutandis, it also makes it clear that where 
+the terms and conditions have been expressly modified by the 
+NBCC, the same would not be applicable.  It is submitted that 
+Clause 1.0 of the L.O.I. specifically states that various conditions, 
+i.e., contractual, financial and technical mentioned in the 
+documents contained therein shall be binding on the respondent 
+
+6 
+ 
+for execution of works and they shall form part of the agreement.  
+Clause 10.0 also states that the L.O.I. shall also form a part of 
+the agreement.  It is submitted that the intention is amply clear 
+from Clause 7.0 of the L.O.I., which states that the redressal of 
+dispute between the NBCC and the respondent shall only be 
+through civil courts having jurisdiction of Delhi alone.  It further 
+states that the laws applicable to the contract between the parties 
+shall be the laws enforceable in India.  It is submitted that merely 
+on account of reference in the L.O.I. to the terms and conditions 
+as contained in the tender issued by the DVC to the NBCC, 
+Clause 3.34 of the Additional Terms & Conditions of Contract 
+would not apply in view of specific modification as stated in 
+Clause 2.0 of the L.O.I.   
+6. 
+Learned Senior Counsel submits that a mere reference to 
+the terms and conditions without there being an incorporation in 
+the L.O.I. would not make the lis between the parties amenable 
+to the arbitration proceedings.  Relying on the judgment of this 
+Court in the case of M.R. Engineers and Contractors Private 
+
+7 
+ 
+Limited vs. Som Datt Builders Limited1, he submits that 
+unless the L.O.I. specifically provides for incorporation of the 
+arbitration clause, a reference to the arbitration proceedings 
+would not be permitted in view of the provisions of sub-section 
+(5) of Section 7 of the Arbitration Act.   
+7. 
+Shri Sumit Kumar, learned counsel appearing for the 
+respondent, on the contrary, submits that there is a specific 
+reference in Clause 2.0 of the L.O.I. to the terms and conditions 
+in the tender issued by the DVC to the NBCC.  He submits that 
+the only modification is that under Clause 3.34 of the Additional 
+Terms & Conditions of Contract, the jurisdiction is vested with 
+the Court in the City of Kolkata only, whereas in the L.O.I. the 
+jurisdiction would be vested in the civil courts having jurisdiction 
+of Delhi alone.  It is submitted that the learned single judge of 
+the Delhi High Court has rightly considered this aspect and as 
+such, no interference would be warranted in the impugned order.  
+ 
+1 (2009) 7 SCC 696 
+
+8 
+ 
+8. 
+Sub-section (5) of Section 7 of the Arbitration Act reads 
+thus: 
+ 
+ 
+“7. 
+Arbitration Agreement.-1)………………. 
+xxx xxx xxx 
+(5) 
+The reference in a contract to a 
+document containing an arbitration clause 
+constitutes an arbitration agreement if the 
+contract is in writing and the reference is 
+such as to make that arbitration clause part 
+of the contract.” 
+ 
+9. 
+The issue is no more res integra.  The provisions of sub-
+section (5) of Section 7 of the Arbitration Act have been 
+considered by this Court in the case of M.R. Engineers and 
+Contractors Private Limited (supra).  After considering the 
+relevant passages from Russell on Arbitration and various English 
+judgments, this Court held thus: 
+“24. The scope and intent of Section 7(5) of 
+the Act may therefore be summarised thus: 
+(i) An arbitration clause in another 
+document, would get incorporated into a 
+contract by reference, if the following 
+conditions are fulfilled: 
+
+9 
+ 
+(1) the contract should contain a 
+clear reference to the documents 
+containing arbitration clause, 
+(2) the reference to the other 
+document should clearly indicate an 
+intention 
+to 
+incorporate 
+the 
+arbitration clause into the contract, 
+(3) the arbitration clause should be 
+appropriate, 
+that 
+is 
+capable 
+of 
+application in respect of disputes 
+under the contract and should not be 
+repugnant to any term of the contract. 
+(ii) When the parties enter into a 
+contract, making a general reference to 
+another contract, such general reference 
+would not have the effect of incorporating 
+the arbitration clause from the referred 
+document into the contract between the 
+parties. The arbitration clause from 
+another contract can be incorporated 
+into the contract (where such reference is 
+made), only by a specific reference to 
+arbitration clause. 
+(iii) Where a contract between the 
+parties provides that the execution or 
+performance of that contract shall be in 
+terms 
+of 
+another 
+contract 
+(which 
+contains the terms and conditions 
+relating to performance and a provision 
+for settlement of disputes by arbitration), 
+then, the terms of the referred contract 
+in 
+regard 
+to 
+execution/performance 
+
+10 
+ 
+alone will apply, and not the arbitration 
+agreement in the referred contract, 
+unless there is special reference to the 
+arbitration clause also. 
+(iv) Where the contract provides that 
+the 
+standard 
+form 
+of 
+terms 
+and 
+conditions of an independent trade or 
+professional institution (as for example 
+the standard terms and conditions of a 
+trade 
+association 
+or 
+architects 
+association) will bind them or apply to 
+the contract, such standard form of 
+terms and conditions including any 
+provision 
+for 
+arbitration 
+in 
+such 
+standard terms and conditions, shall be 
+deemed to be incorporated by reference. 
+Sometimes the contract may also say 
+that the parties are familiar with those 
+terms and conditions or that the parties 
+have read and understood the said terms 
+and conditions. 
+(v) Where the contract between the 
+parties stipulates that the conditions of 
+contract of one of the parties to the 
+contract shall form a part of their 
+contract (as for example the general 
+conditions of contract of the Government 
+where the Government is a party), the 
+arbitration clause forming part of such 
+general conditions of contract will apply 
+to the contract between the parties.” 
+ 
+
+11 
+ 
+10. It could thus be seen that this Court has held that when the 
+parties enter into a contract, making a general reference to 
+another contract, such general reference would not have the 
+effect of incorporating the arbitration clause from the referred 
+document into the contract between the parties.  It has been held 
+that the arbitration clause from another contract can be 
+incorporated into the contract (where such reference is made), 
+only by a specific reference to arbitration clause.  It has further 
+been held that where a contract between the parties provides that 
+the execution or performance of that contract shall be in terms 
+of another contract (which contains the terms and conditions 
+relating to performance and a provision for settlement of disputes 
+by arbitration), then, the terms of the referred contract in regard 
+to execution/performance alone will apply, and not the 
+arbitration agreement in the referred contract, unless there is 
+special reference to the arbitration clause also. 
+11. This Court further held that where the contract provides 
+that the standard form of terms and conditions of an independent 
+
+12 
+ 
+trade or professional institution will bind them or apply to the 
+contract, such standard form of terms and conditions including 
+any provision for arbitration in such standard terms and 
+conditions, shall be deemed to be incorporated by reference. It 
+has been held that sometimes the contract may also say that the 
+parties are familiar with those terms and conditions or that the 
+parties have read and understood the said terms and conditions. 
+It has also been held that where the contract between the parties 
+stipulates that the conditions of contract of one of the parties to 
+the contract shall form a part of their contract, the arbitration 
+clause forming part of such general conditions of contract will 
+apply to the contract between the parties. 
+12. A perusal of sub-section (5) of Section 7 of the Arbitration 
+Act itself would reveal that it provides for a conscious acceptance 
+of the arbitration clause from another document, by the parties, 
+as a part of their contract, before such arbitration clause could 
+be read as a part of the contract between the parties.   
+
+13 
+ 
+13. It is thus clear that a reference to the document in the 
+contract should be such that shows the intention to incorporate 
+the arbitration clause contained in the document into the 
+contract.   
+14. The law laid down in the case of M.R. Engineers and 
+Contractors Private Limited (supra) has been followed by this 
+Court in the cases of Duro Felguera, S.A. vs Gangavaram Port 
+Limited2 
+and 
+Elite 
+Engineering 
+and 
+Construction 
+(Hyderabad) Private Limited represented by its Managing 
+Director vs Techtrans Construction India Private Limited 
+represented by its Managing Director3. 
+15. No doubt that this Court in the case of Inox Wind Limited 
+vs Thermocables Limited4 has distinguished the law laid down 
+in the case of M.R. Engineers and Contractors Private Limited 
+(supra).  In the said case (i.e. Inox Wind Limited), this Court has 
+held that though general reference to an earlier contract is not 
+ 
+2 (2017) 9 SCC 729 
+3 (2018) 4 SCC 281 
+4 (2018) 2 SCC 519 
+
+14 
+ 
+sufficient for incorporation of an arbitration clause in the later 
+contract, a general reference to a standard form would be enough 
+for incorporation of the arbitration clause.  Though this Court in 
+the case of Inox Wind Limited (supra) agrees with the judgment 
+in the case of M.R. Engineers and Contractors Private Limited 
+(supra), it holds that general reference to a standard form of 
+contract of one party along with those of trade associations and 
+professional bodies will be sufficient to incorporate the 
+arbitration clause. In the said case (i.e. Inox Wind Limited), this 
+Court found that the purchase order was issued by the appellant 
+therein in which it was categorically mentioned that the supply 
+would be as per the terms mentioned therein and in the attached 
+standard terms and conditions. The respondent therein by his 
+letter had confirmed its acceptance. This Court found that the 
+case before it was a case of a single-contract and not two-contract 
+case and, therefore, held that the arbitration clause as mentioned 
+in the terms and conditions would be applicable.   
+
+15 
+ 
+16. The present case is a ‘two-contract’ case and not a ‘single-
+contract’ case.  
+17. It will be relevant to refer to Clause 3.34 of the Additional 
+Terms & Conditions of Contract as contained in the tender issued 
+by the DVC to the NBCC.  Clause 3.34 reads thus: 
+“3.34  
+SETTLEMENT OF DISPUTES & 
+ 
+ 
+ 
+ARBITRATION 
+ 
+Any dispute(s) or difference(s) arising out of or 
+in connection with the contract shall to the 
+extent possible be settled amicably between 
+the owner and supplier/contractor. 
+ 
+In the event of any dispute or difference 
+whatsoever arising under the contract or in 
+connection therewith including any question 
+relating 
+to 
+existence 
+meaning 
+and 
+interpretation of the contract or any alleged 
+breach thereof the same shall be referred to 
+the sole arbitration of the Secretary, CEO of 
+Damodar Valley Corporation, Kolkata-54 or to 
+a person appointed by him for that purpose.  
+The arbitration shall be conducted 
+in 
+accordance with the provisions of arbitration 
+and 
+conciliation 
+law 
+1996 
+and 
+the 
+decision/judgment of Arbitrator shall be final 
+and binding on both the parties. 
+ 
+
+16 
+ 
+All suits arising out of this enquiry and 
+subsequent purchase order, if any, are 
+subject jurisdiction of court in the City of 
+Kolkata only and no other door when 
+resolution/settlement 
+through 
+mutual 
+discussion and arbitration fails.” 
+ 
+18. No doubt that Clause 3.34 provides for a reference of the 
+dispute to the sole arbitration of the Secretary, CEO of Damodar 
+Valley Corporation, Kolkata-54 or to a person appointed by him 
+for that purpose.   
+19. It will also be apposite to refer to Clauses 1.0, 2.0, 7.0 and 
+10.0 of the L.O.I., which read thus: 
+“1.0 The work shall be executed you on 
+contractual, financial and technical 
+conditions of contract as contained in 
+the following documents which shall 
+be applicable and binding on you for 
+execution of works and shall form part 
+of 
+agreement with 
+you 
+as 
+also 
+mentioned in the above mentioned 
+NIT-01/WEIR/06 dated November 3, 
+2006.   
+(a) 
+Notice Inviting Tender 
+(b) 
+General Conditions of Contract 
+(c) 
+Special Conditions of Contract 
+(d) 
+Bill of Quantity 
+ 
+
+17 
+ 
+2.0 All terms and conditions as contained 
+in the tender issued by DVC to NBCC 
+shall apply mutatis mutandis except 
+where these have been expressly 
+modified by NBCC. 
+ 
+7.0 The redressal of dispute between 
+NBCC and you shall only be through 
+civil courts having jurisdiction of Delhi 
+alone.  The laws applicable to this 
+contract shall be the laws enforceable 
+in India.  
+ 
+10.0 This letter of intent shall also form a 
+part of the agreement.  
+ 
+20. In view of Clause 1.0, the documents stated therein shall 
+also form part of the agreement.  In view of Clause 2.0, all terms 
+and conditions as contained in the tender issued by the DVC to 
+the NBCC shall apply mutatis mutandis except where these have 
+been expressly modified by the NBCC.  Clause 7.0 specifically 
+provides that the redressal of dispute between the NBCC and the 
+respondent shall only be through civil courts having jurisdiction 
+of Delhi alone.  Clause 10.0 further provides that the L.O.I. shall 
+also form a part of the agreement.  
+
+18 
+ 
+21. It is thus clear that the intention between the parties is very 
+clear.  Clause 7.0 of the L.O.I. which also forms part of the 
+agreement specifically provides that the redressal of the dispute 
+between the NBCC and the respondent shall only be through civil 
+courts having jurisdiction of Delhi alone.  It is pertinent to note 
+that Clause 7.0 of the L.O.I. specifically uses the word “only” 
+before the words “be through civil courts having jurisdiction of 
+Delhi alone”. 
+22. As already discussed herein above, when there is a 
+reference in the second contract to the terms and conditions of 
+the first contract, the arbitration clause would not ipso facto be 
+applicable to the second contract unless there is a specific 
+mention/reference thereto. 
+23. We are of the considered view that the present case is not a 
+case of ‘incorporation’ but a case of ‘reference’.  As such, a general 
+reference would not have the effect of incorporating the 
+arbitration clause.  In any case, Clause 7.0 of the L.O.I., which is 
+also a part of the agreement, makes it amply clear that the 
+
+19 
+ 
+redressal of the dispute between the NBCC and the respondent 
+has to be only through civil courts having jurisdiction of 
+Delhi alone.   
+24. In that view of the matter, we find that the learned single 
+judge of the Delhi High Court has erred in allowing the 
+application of the respondent.  The appeals are accordingly 
+allowed.  The impugned orders are quashed and set aside. There 
+shall be no order as to costs. 
+25. Pending applications, if any, shall stand disposed of.  
+ 
+ 
+ 
+ 
+ 
+…….........................J.        
+[B.R. GAVAI] 
+ 
+ 
+ 
+ 
+ 
+ 
+…….........................J.        
+[SANDEEP MEHTA] 
+NEW DELHI; 
+MARCH 19, 2024

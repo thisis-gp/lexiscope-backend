@@ -1,0 +1,434 @@
+2024 INSC 195
+MA 486/2024
+Reportable
+IN THE SUPREME COURT OF INDIA
+CIVIL ORIGINAL JURISDICTION
+Miscellaneous Application No 486 of 2024
+In
+Writ Petition (Civil) No 880 of 2017
+State Bank of India
+     
+      
+Applicant
+ 
+Versus
+Association for Democratic Reforms and Others  
+Respondents
+W I T H
+Contempt Petition (Civil) No 138 of 2024
+In 
+Writ Petition (Civil) No 880 of 2017
+&
+Contempt Petition (Civil) No 140 of 2024
+In 
+Writ Petition (Civil) No 59 of 2018
+1
+Digitally signed by
+CHETAN KUMAR
+Date: 2024.03.12
+11:15:20 IST
+Reason:
+Signature Not Verified
+
+MA 486/2024
+O R D E R
+1 
+By a judgment dated 15 February 20241, this Court declared the Electoral
+Bond Scheme and the provisions of the Finance Act 2017 which amended the
+provisions of the Representation of People Act 1951 and the Income Tax Act
+1961, unconstitutional on the ground that the non-disclosure of information
+regarding  the  funding  of  political  parties  is  violative  of  the  right  to
+information  of  citizens  under  Article  19(1)(a)  of  the  Constitution.  The
+amendments  which  were  introduced  by  the  Finance  Act  2017  to  the
+provisions  of  the  Companies  Act  2013,  permitting  unlimited  funding  of
+political parties by corporate entities were held to be arbitrary and violative
+of Article 14 of the Constitution.
+2
+In  order  to  give  full  effect  to  the  judgment  which  was  rendered  by  the
+Constitution Bench, this Court directed the State Bank of India2, which was
+the authorized Bank to deal with Electoral Bonds under the Electoral Bond
+Scheme  to  submit  details  of  the  Electoral  Bonds  purchased  by  the
+contributors and redeemed by political parties between 12 April 2019 (the
+date  on  which  an  interim  order  was  passed  by  this  Court  directing  the
+Election Commission of India3 to collect details of the contributions) till 15
+February 2024 (the date of the judgment). 
+1 2024 INSC 113
+2 “SBI”
+3
+“ECI”
+2
+
+MA 486/2024
+3
+This Court directed the SBI to submit the following details by 6 March 2024 to
+the ECI:
+(a)
+Details  of  each  Electoral  Bond  purchased  including  the  date  of
+purchase,  the  name  of  the  purchaser  and  the  denomination  of  the
+Electoral Bond; and 
+(b)
+Details of each Electoral Bond redeemed by political parties including
+the date of encashment and the denomination of the Electoral Bond.
+4
+The ECI was directed to collate the information to be submitted by the SBI
+and publish it on its website by 13 March 2024. The directions of this Court
+are extracted below:
+“219. In view of our discussion above, the following directions
+are issued:
+a. 
+The  issuing  bank  shall  herewith  stop  the  issuance  of
+Electoral Bonds;
+b. 
+SBI shall submit details of the Electoral Bonds purchased
+since the Interim order of this Court dated 12 April 2019
+till date to the ECI. The details shall include the date of
+purchase  of  each  Electoral  Bond,  the  name  of  the
+purchaser  of  the  bond  and  the  denomination  of  the
+Electoral Bond purchased;
+c. 
+SBI shall submit the details of political parties which have
+received contributions through Electoral Bonds since the
+interim order of this Court dated 12 April 2019 till date to
+the ECI. SBI must disclose details of each Electoral Bond
+encashed by political parties which shall Include the date
+of  encashment  and  the  denomination  of  the  Electoral
+Bond;
+3
+
+MA 486/2024
+d. 
+SBI shall submit the above information to the ECI within
+three weeks from the date of this judgment, that is, by 6
+March 2024;
+e. 
+The ECI shall publish the information shared by the SBI on
+Its official website within one week of the receipt of the
+Information, that is, by 13 March 2024; and
+f. 
+Electoral  Bonds  which  are  within  the  validity  period  of
+fifteen days but that which have not been encashed by
+the political party yet shall be returned by the political
+party or the purchaser depending on who is in possession
+of the bond to the issuing bank. The Issuing bank, upon
+the return of the valid bond, shall refund the amount to
+the purchaser's account.”
+5
+The SBI filed a Miscellaneous Application before this Court two days before
+the expiry of the deadline seeking an extension of time until 30 June 2024 for
+complying with the directions. The petitioners before this Court – Association
+for  Democratic  Reforms4 and  the  Communist  Party  of  India  (Marxist)  -
+instituted a petition invoking the contempt jurisdiction of this Court against
+SBI for willful disobedience of the order of this Court.
+6
+In support of the application by the SBI, we have heard Mr Harish N Salve,
+senior counsel. Mr Salve submitted that the information which was received
+by the SBI was maintained in two separate silos and was maintained with the
+utmost secrecy to fulfill the core purpose of the Electoral Bond Scheme. The
+learned Senior counsel submitted that there is no difficulty in the disclosure
+of information available in two separate silos which are referred to in (b) and
+4 “ADR”
+4
+
+MA 486/2024
+(c) of the operative directions. The counsel submitted that this exercise can
+be completed within three weeks. However, it is submitted that the difficulty
+of SBI arose since it construed the direction of this Court as requiring it to
+carry  out  a  matching  exercise  of  the  donor  and  bond  details  with  the
+corresponding details pertaining to encashment by political parties. 
+7
+While evaluating the submission made on behalf of the SBI, a reference to
+some of the key aspects of the Scheme would be in order at this stage.
+Clause 7(4) of the Electoral Bond Scheme stipulates that the information
+furnished by the buyer of an Electoral Bond shall be treated as confidential
+by the authorized bank and shall be disclosed only when called upon to do so
+by  a  competent  court  or  upon  the  registration  of  an  offence  by  a  law
+enforcement agency. Thus, in terms of the provisions of the Electoral Bond
+Scheme itself, SBI is mandated to disclose information when demanded by a
+court. What has to be analyzed is whether SBI is justified in seeking an
+extension of time.
+8
+The  SBI  seeks  an  extension  of  time  on  the  ground  that  the  process  of
+“decoding the Electoral Bonds and matching the donor to the donations” is a
+complex and time-consuming exercise. To substantiate this argument, the
+SBI has averred that:
+(a) 
+Information  is  not  available  in  a  digital  format:  Clause  7.1.2  of  the
+Standard Operating Procedure regarding the sale and redemption of
+5
+
+MA 486/2024
+Electoral Bonds stipulates that “no details of bond purchaser including
+KYC and other details will be entered in the core banking system.” Thus,
+the details of the purchases of bonds are not available centrally; 
+(b) 
+The donor details and the recipient details are available in two separate
+silos: The details of the purchasers of Electoral Bonds were kept in a
+sealed  cover  at  the  designated  branch.  These  sealed  covers  were
+deposited in the main branch of the SBI in Mumbai at the end of each
+phase of the issuance of the Electoral Bonds. The information on the
+redemption of Electoral Bonds (that is, the original bond and the pay-in
+slip) were stored in a sealed cover and sent to the SBI, Mumbai Branch;
+(c) 
+Matching of information in the two silos is a time-consuming process:
+The matching of the information on the purchase and redemption of
+Electoral  Bonds  would  be  a  time-consuming  process  since  donor
+information and redemption information is maintained in two separate
+silos, independent of each other; and
+(d) 
+There is a large number of data sets to decipher: A total of 22,217
+bonds were purchased between 12 April 2019 to 15 February 2024. This
+would cumulatively add up to 44,434 data sets since there are two silos
+of information. In other words, the compilation of this information would
+be a time-consuming process because of the large number of data-sets.
+6
+
+MA 486/2024
+9 
+The crux of the submission of the SBI is that the matching of information to
+ascertain  who  contributed  to  which  political  party  is  a  time-consuming
+process  since  the  information  is  maintained  in  two  separate  silos.  The
+operative directions of this Court directed the SBI to disclose the transactions
+as set out in direction (b) and direction (c) extracted above. The SBI submits
+in its application itself that the donor details and redemption details are
+available, albeit in separate silos. In other words, the directions which have
+been issued by this Court require the SBI to disclose the information which is
+readily available with it.
+10 
+At this stage, it would be material to refer to the FAQs on Electoral Bonds
+published by the SBI which states that the ‘Know Your Customer’5 documents
+must  be  submitted  by  the  purchaser  each  time  the  Electoral  Bond  is
+purchased, irrespective  of whether  the purchaser  has  a  KYC  verified SBI
+account6. That is, one set of documents (the Electoral Bond application form,
+KYC documents and pay-in slip) can only be used to purchase one Electoral
+Bond7. Contributors who have an SBI account as well as those who do not
+5 “KYC”
+6 FAQ Question No.  16.  I  have  an  SBI  Bank  Account,  Do  I  still  need  to  Re-submit  the  KYC  
+Documents? Yes. KYC norms will be applicable regardless of whether the applicant is an SBI  
+account holder or a non-SBI account holder.
+7 FAQ Question No. 45. Can I use more than one Instrument with one Electoral Bond Application 
+Form?  No.  On  single  set  Documents  i.e.  Electoral  Bond  Application  Form,  KYC  Documents,  
+Citizenship Documents and Pay-in slip for purchase of Electoral Bonds, Donor can use only one 
+Instrument. In case Donor desires to use another Instrument, he/she has to submit another set of 
+documents i.e. Electoral Bond Application Form, KYC Documents, Citizenship Documents and Pay-
+in slip to the Authorized SBI Branch.
+7
+
+MA 486/2024
+have to submit the Electoral Bond application, KYC documentation and proof
+of payment through NEFT, cheque or demand draft.8 Thus, the details of the
+Electoral Bonds which have been purchased and which have been directed to
+be disclosed by this Court are readily available.
+11 
+Similarly, the FAQs on Electoral Bonds published by the SBI with respect to
+redemption of  Bonds  states  that  each political party  can  open  only one
+current account for Electoral Bond redemption.9 The current account could be
+8 FAQ Question No. 19: I am not maintaining account with any Branch of State Bank of India. How 
+can I purchase Electoral Bond? Purchaser not maintaining account with State Bank of India can 
+purchase Electoral Bond through a. Cheque / DD drawn in favour of the Authorized SBI Branch 
+and payable at the local Clearing House.
+Steps involved: 
+i.
+Purchaser  submits  the  Electoral  Bond  Application  Form  alongwith  pay-in-slip,
+Citizenship & KYC documents and Cheque/ DD at Authorized SBI Branch. The same need to be
+submitted at least three working days before the closure of the scheme, so that clear funds for
+issuance of Electoral Bonds, are available with the Authorized SBI Branch. In case of payment
+through DD, a confirmation letter from the DD issuance Branch on the prescribed format should
+also be provided.
+ii.
+The Cheque/ DD should be in favour of “State Bank of India A/c Electoral Bond
+Scheme -2018” 
+iii.
+Once the Citizenship and KYC documents are verified the instrument will be sent in
+clearing. Tear off portion of pay-in-slip will be handed over to the Applicant. iv. On the third
+working day the Purchaser/ Authorised Representative need to visit the Branch with the tear off
+portion of pay-in-slip and collect the EB from the Branch against acknowledgment.
+9 FAQ Question No. 4. For redemption of Electoral Bond, can a Political Party open Current Account 
+with any Bank? No. The Current Account will be opened only in the presently 4 Authorized SBI
+Branches as under:
+(i) Chennai Main Branch (00800): 84, Rajaji Salai, Chennai – 600001
+(ii) Kolkata Main Branch (00001):Samriddhi Bhawan, 1, Strand Road, Kolkata –700001
+8
+
+MA 486/2024
+opened by the political party only in twenty-nine designated branches all
+over the country. Thus, information about a political party’s encashment of
+Electoral Bonds would only be stored in these branches which would be
+clearly accessible. The authorized branches must submit the pay-in-slip and
+other details to the main branch. There is no dispute about the fact that this
+process was duly followed.
+12 
+Together  with  the  application  which  has  been  filed  by  the  SBI  for  the
+extension of time, ADR has filed a contempt petition in which it submits that
+the information which was directed to be disclosed by this Court can easily
+be disclosed by the SBI because of the unique number which is printed on
+the Electoral Bond. Irrespective of whether the unique identification number
+which is not discernible to the naked eye will enable the disclosure of details,
+the  submissions  of  SBI  in  the  application  sufficiently  indicate  that  the
+information which has been directed to be disclosed by this Court is readily
+available.
+13
+In view  of  the discussion,  the Miscellaneous  Application  filed  by  the SBI
+seeking an extension of time for the disclosure of details of the purchase and
+redemption of Electoral Bonds until 30 June 2024 is dismissed. SBI is directed
+to disclose the details by the close of business hours on 12 March 2024. 
+(iii) Mumbai Main Branch (00300): Horniman Circle, Fort, Mumbai - 400001
+(iv) New Delhi Main Branch (00691) : 11, Parliament Street, New Delhi – 110 001.
+This was updated to 29 Branches later.
+9
+
+MA 486/2024
+14
+ECI  shall  compile  the  information  and  publish  the  details  on  its  official
+website no later than by 5 pm on 15 March 2024.
+15 
+During the pendency of the proceedings before the Constitution Bench, ECI
+had, in compliance with the interim order passed by this Court, filed its
+statements which have been maintained in the custody of the Court. Copies
+of the statements which were filed by the ECI before this Court would be
+maintained in the Office of the ECI. ECI shall forthwith publish the details of
+the information which was supplied to this Court in pursuance of the interim
+orders on its official website.
+16
+The SBI shall file an affidavit of its Chairman and Managing Director upon
+compliance with the directions which have been issued above. We are not
+inclined to exercise the contempt jurisdiction at this stage bearing in mind
+the application which was submitted for extension of time. However, we
+place SBI on notice that this Court will be inclined to proceed against it for
+willful  disobedience  of  the  judgment  if  SBI  does  not  comply  with  the
+directions of this Court as set out in its judgment dated 15 February 2024 by
+the timelines indicated in this order.
+17
+The Miscellaneous Application for extension of time shall accordingly stand
+dismissed. The Contempt Petitions shall stand disposed of at this stage in the
+above terms.
+10
+
+MA 486/2024
+18
+Pending applications, if any, stand disposed of.
+ 
+ 
+….....…...….......…………………..CJI.
+                                                                 [Dr Dhananjaya Y Chandrachud]
+..…....…........……………….…........J.
+                             
+[Sanjiv Khanna]
+..…....…........……………….…........J.
+                             
+[B R Gavai]
+..…....…........……………….…........J.
+                             
+[J B Pardiwala]
+..…....…........……………….…........J.
+                             
+[Manoj Misra]
+ 
+New Delhi; 
+March 11, 2024
+CKB
+11
+
+MA 486/2024
+ITEM NO.301+302+305          COURT NO.1               SECTION PIL-W
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+Miscellaneous Application No.486/2024 In W.P.(C) No.880/2017
+(Arising out of impugned final judgment and order dated 15-02-2024
+in W.P.(C) No. No. 880/2017 passed by the Supreme Court of India)
+STATE BANK OF INDIA                                
+Petitioner(s)
+                                VERSUS
+ASSOCIATION FOR DEMOCRATIC REFORMS & ORS.         
+Respondent(s)
+(FOR ADMISSION and IA No.57595/2024-INTERVENTION/IMPLEADMENT and IA
+No.57604/2024-CLARIFICATION/DIRECTION
+ 
+and
+ 
+IA
+ 
+No.57592/2024-
+APPLICATION FOR PERMISSION)
+WITH Contempt Petition (C) No.138/2024 In W.P.(C) No.880/2017
+Contempt Petition (C) No.140/2024 In W.P.(C) No.59/2018
+(With IA No.61563/2024-EXEMPTION FROM FILING O.T.) 
+ 
+Date : 11-03-2024 These matters were called on for hearing today.
+CORAM : 
+         
+HON'BLE THE CHIEF JUSTICE
+         
+HON'BLE MR. JUSTICE SANJIV KHANNA
+         
+HON'BLE MR. JUSTICE B.R. GAVAI
+         
+HON'BLE MR. JUSTICE J.B. PARDIWALA
+         
+HON'BLE MR. JUSTICE MANOJ MISRA
+For Petitioner(s)
+Mr. Harish Salve, Sr. Adv.
+                   Mr. Tushar Mehta, SG
+                   Mr. Sanjay Kapur, AOR
+                   Ms. Divya Singh Pundir, Adv.
+                   Mr. Devesh Dubey, Adv.
+12
+
+MA 486/2024
+                   Ms. Mahima Kapur, Adv.
+                   Ms. Mansi Kapur, Adv.
+                   Mrs. Shubhra Kapur, Adv.
+                   Mr. Arjun Bhatia, Adv.
+                   Mr. Surya Prakash, Adv.
+                  
+Ms. Isha Virmani, Adv.    
+CPC 138/2024
+Mr. Prashant Bhushan, AOR
+                   Ms. Neha Rathi, Adv.
+                   Mr. Pranav Sachdeva, Adv.
+                   Ms. Kajal Giri, Adv.
+                   Ms. Shivani Kapoor, Adv.
+                   Mr. Kamal Kishore, Adv.               
+CPC 140/2024
+Mr. Shadan Farasat, AOR
+                   Mr. Harshit Anand, Adv.
+                   Mr. Abhishek Babbar, Adv.
+                   Ms. Hrishika Jain, Adv.
+                   Ms. Natasha Maheshwari, Adv.
+                   Ms. Mreganka Kukreja, Adv.
+                   Mr. Aman Naqvi, Adv.
+                   
+For Respondent(s)
+Mr. Tushar mehta, SG
+Mr. R. Balasubramanium, Sr. Adv.
+Ms. Seema Bengani, Adv.
+Mr. Shyam Gopal, Adv.
+Ms. Shradha Deshmukh, Adv.
+Mr. Chinmayee Chandra, Adv.
+Mr. Kanu Agrawal, Adv.
+Mr. Rajat Nair, Adv.
+Mr. Raman Yadav, Adv.
+Mr. Chitvan Singhal, Adv.
+Mr. Abhishek Kr. Pandey, Adv.
+Mr. Kartikay Aggarwal, Adv.
+Mr. Kukesh Kr. Singh, Adv.
+Ameyakirama Thanvi, Adv.
+Mr. Kapil Sibal, Sr. Adv.
+                    
+13
+
+MA 486/2024
+UPON hearing the counsel the Court made the following
+                             O R D E R
+1
+The Miscellaneous Application for extension of time is dismissed and the
+Contempt Petitions are disposed of in terms of the signed reportable order.
+2
+Pending applications, if any, stand disposed of.
+(CHETAN KUMAR)
+    
+(SAROJ KUMARI GAUR)
+       A.R.-cum-P.S.    
+      
+Assistant Registrar
+(Signed reportable order is placed on the file)
+14

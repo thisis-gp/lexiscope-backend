@@ -1,0 +1,696 @@
+2024 INSC 253
+ 
+Page 1 of 24 
+ 
+REPORTABLE 
+ 
+IN THE SUPREME COURT OF INDIA 
+ORIGINAL JURISDICTION 
+Original Suit No. 1 of 2024 
+ 
+State of Kerala 
+…Plaintiff(s) 
+versus 
+Union of India 
+…Defendant(s) 
+ 
+with 
+ 
+I.A. No. 6149 of 2024 
+ORDER 
+SURYA KANT, J. 
+ 
+1. 
+State of Kerala has instituted this Original Suit under Article 
+131 of the Constitution of India against the Union of India, 
+challenging, inter alia, the following (collectively, the “Impugned 
+Actions”): 
+(a) 
+Amendment Act No. 13 of 2018 (dated 28.03.2018): 
+By this Amendment Act, the Parliament has amended Section 
+4 of the Fiscal Responsibility and Budget Management Act, 
+Digitally signed by
+Deepak Singh
+Date: 2024.04.01
+13:22:21 IST
+Reason:
+Signature Not Verified
+
+ 
+Page 2 of 24 
+ 
+2003, whereby the Central Government is obligated to ensure 
+that the aggregate debt of the Central Government and the 
+State Governments does not exceed sixty percent of the gross 
+domestic product by the end of Financial Year (F.Y.) 2024-25; 
+(b) 
+Letter No. 40(1)/PF-S/2023-24 (dated 27.03.2023):  
+Through this letter, the Defendant has imposed a ‘Net 
+Borrowing Ceiling’ on the Plaintiff - State, to restrict the 
+maximum possible borrowing that Plaintiff could make under 
+law. This ceiling was quantified as three percent of the 
+projected Gross State Domestic Product (GSDP) for the F.Y. 
+2023-24, which came to INR 32,442 crores. This Net 
+Borrowing Ceiling covered all sources of borrowings, 
+including open market borrowings, loans from Financial 
+Institutions, and the liabilities arising out of the Public 
+Account of the Plaintiff. Additionally, to prevent the States 
+from by-passing the Net Borrowing Ceiling by using State-
+Owned Enterprises, the ceiling has also been applied to 
+certain borrowings by such enterprises; and 
+ 
+
+ 
+Page 3 of 24 
+ 
+(c) 
+Letter 
+No. 
+40(12)/PF-S/2023-24/OMB-52 
+(dated 
+11.08.2023): 
+In this letter, the Defendant has accorded its consent to the 
+Plaintiff to raise open market borrowing of INR 1,330 crores. 
+It has also noted that the total open market borrowing 
+allowed to the Plaintiff for the F.Y. 2023-24 was INR 21,852 
+crores.  
+2. 
+The instant suit has been filed on the premise that by 
+undertaking the Impugned Actions, the Defendant - Union of India 
+has exceeded its power under Article 293 of the Constitution of 
+India, which provides: 
+“293. Borrowing by States.— 
+(1) Subject to the provisions of this article, the 
+executive power of a State extends to borrowing 
+within the territory of India upon the security of the 
+Consolidated Fund of the State within such limits, if 
+any, as may from time to time be fixed by the 
+Legislature of such State by law and to the giving of 
+guarantees within such limits, if any, as may be so 
+fixed.  
+(2) The Government of India may, subject to such 
+conditions as may be laid down by or under any law 
+made by Parliament, make loans to any State or, so 
+long as any limits fixed under article 292 are not 
+exceeded, give guarantees in respect of loans raised 
+by any State, and any sums required for the purpose 
+of making such loans shall be charged on the 
+Consolidated Fund of India.  
+(3) A State may not without the consent of the 
+Government of India raise any loan if there is still 
+
+ 
+Page 4 of 24 
+ 
+outstanding any part of a loan which has been made 
+to the State by the Government of India or by its 
+predecessor Government, or in respect of which a 
+guarantee has been given by the Government of 
+India or by its predecessor Government.  
+(4) A consent under clause (3) may be granted 
+subject to such conditions, if any, as the Government 
+of India may think fit to impose.” 
+3. 
+Besides the afore-mentioned final relief in the suit, the 
+Plaintiff -State also seeks interim injunction, inter alia, to mandate 
+Union of India: (a) to restore the position that existed before the 
+Defendant imposed ceiling on all the borrowings of the Plaintiff; 
+and (b) to enable the Plaintiff to borrow INR 26,226 crores on an 
+immediate basis. 
+4. 
+We have heard Mr. Kapil Sibal, Ld. Senior Advocate, for the 
+Plaintiff - State, and Mr. R. Venkataramani, Ld. Attorney General 
+for India and Mr. N. Venkataraman, Ld. Additional Solicitor 
+General of India, on behalf of the Defendant – Union of India at a 
+considerable length, and have perused the Plaint and other 
+documents on record on the issue of maintainability of suit as well 
+as the interim relief sought by the Plaintiff - State.  
+5. 
+In support of its prayer for the interim injunction, the Plaintiff 
+- State has mainly urged that: (i) under Article 293 of the 
+Constitution, the Union of India does not have the power to 
+
+ 
+Page 5 of 24 
+ 
+regulate all the borrowings of a State and conditions can be 
+imposed only on the loans sought from the Central Government; 
+(ii) the liabilities arising out of the Public Account and State-Owned 
+Enterprises cannot be included in the borrowings of the Plaintiff; 
+(iii) the Plaintiff – State is in dire need of INR 26,226 crores to pay 
+dues arising out of various budgetary obligations including 
+dearness allowance, pension scheme, subsidies, etc.; (iv) there has 
+been under-utilization of permissible borrowing space from 
+previous years, which the Plaintiff should be allowed to use now; 
+(v) the over-borrowing from the years before F.Y. 2023-24 cannot 
+be adjusted from the Net Borrowing Ceiling of this F.Y. and must 
+instead be repaid at the date of maturity of such borrowing; and 
+(vi) the debt is sustainable because it satisfies the Domar model, 
+such that the GSDP of the Plaintiff – State is rising faster than the 
+effective interest rate. 
+6. 
+Per contra, the Defendant – Union of India controverted the 
+Plaintiff’s interim claim and has argued that: (i) since management 
+of public finance is a national issue, the Union of India has the 
+power to regulate all the borrowings of the Plaintiff - State to 
+maintain the fiscal health of the country; (ii) the liabilities arising 
+out of Public Account and State-Owned enterprises can be 
+
+ 
+Page 6 of 24 
+ 
+included in the borrowings of the Plaintiff since they may be used 
+to by-pass the borrowing ceiling; (iii) the pending dues have arisen 
+on account of the fiscal mismanagement by the State of Kerala and 
+are not a consequence of regulation of borrowing by the Union of 
+India; (iv) the Plaintiff’s contention regarding under-utilized 
+borrowing space from the previous years is based on erroneous 
+facts; (v) the over-borrowing done in a F.Y. has to be adjusted 
+against the borrowing amount of the next F.Ys.; and (vi) the fiscal 
+health of the country will be jeopardized if the Plaintiff – State is 
+allowed to undertake more debt. 
+7. 
+On a critical analysis of the contentions of both the sides, it 
+seems to us that the instant suit raises more than one substantial 
+questions regarding interpretation of the Constitution, including: 
+(a) 
+What is the true import and interpretation of the 
+following expression contained in Article 131 of the 
+Constitution: “if and in so far as the dispute involves any 
+question (whether of law or fact) on which the existence or 
+extent of a legal right depends”?  
+(b) 
+Does Article 293 of the Constitution vest a State with an 
+enforceable right to raise borrowing from the Union 
+
+ 
+Page 7 of 24 
+ 
+government and/or other sources? If yes, to what extent such 
+right can be regulated by the Union government?  
+(c) 
+Can the borrowing by State-Owned Enterprises and 
+liabilities arising out of the Public Account be included under 
+the purview of Article 293(3) of the Constitution? 
+(d) 
+What is the scope and extent of Judicial Review 
+exercisable by this Court with respect to a fiscal policy, which 
+is purportedly in conflict with the object and spirit of Article 
+293 of the Constitution? 
+8. 
+Since Article 293 of the Constitution has not been so far the 
+subject to any authoritative interpretation by this Court, in our 
+considered opinion, the aforesaid questions squarely fall within the 
+ambit of Article 145(3) of the Constitution. We, therefore, deem it 
+appropriate to refer these questions for pronouncement by a Bench 
+comprising five judges. 
+9. 
+In addition, and as a necessary corollary to these questions, 
+it appears that on merits also, various questions of significant 
+importance impacting the Federal Structure of Governance as 
+embedded in our Constitution, like, the following, arise for 
+consideration: 
+
+ 
+Page 8 of 24 
+ 
+(a) 
+Is 
+fiscal 
+decentralization 
+an 
+aspect 
+of 
+Indian 
+Federalism? If yes, do the Impugned Actions taken by the 
+Defendant purportedly to maintain the fiscal health of the 
+country violate such Principles of Federalism? 
+(b) 
+Are the Impugned Actions violative of Article 14 of the 
+Constitution on the ground of ‘manifest arbitrariness’ or on 
+the basis of differential treatment meted out to the Plaintiff 
+vis-à-vis other States? 
+(c) 
+What has been the past practice regarding regulation of 
+the Plaintiff’s borrowing by the Defendant? If such practice 
+has been restrictive of Plaintiff’s borrowings, can it estop the 
+Plaintiff from bringing the present suit? Conversely, if such 
+practice has not been restrictive, can it serve as the basis for 
+the Plaintiff’s legitimate expectations against the Defendant - 
+Union of India? 
+(d) 
+Are the restrictions imposed by the Impugned Actions 
+in conflict with the role assigned to the Reserve Bank of India 
+as the public debt manager of the Plaintiff? 
+
+ 
+Page 9 of 24 
+ 
+(e) 
+Is it mandatory to have prior consultation with States 
+for giving effect to the recommendations of Finance 
+Commission? 
+10. The Registry is accordingly directed to place this matter 
+before Hon’ble the Chief Justice of India for the constitution of an 
+appropriate Bench to answer the aforementioned questions and/or 
+such other issues as may be identified by the Five-Judge Bench. 
+11. We may now advert to the issue as to whether, pending the 
+decision on the questions formulated above, the Plaintiff – State 
+can be granted the ad-interim injunction as briefly noticed in 
+paragraph 3 of this Order?  
+12. The globally acknowledged golden principles, collectively 
+known as the Triple-Test, are followed by the Courts across the 
+jurisdictions as the pre-requisites before a party can be 
+mandatorily injuncted to do or to refrain from doing a particular 
+thing. These three cardinal factors, that are deeply embedded in 
+the Indian jurisprudence as well, are: 
+(a) 
+A ‘Prima facie case’, which necessitates that as per the 
+material placed on record, the plaintiff is likely to succeed in 
+the final determination of the case;   
+
+ 
+Page 10 of 24 
+ 
+(b) 
+‘Balance of convenience’, such that the prejudice likely 
+to be caused to the plaintiff due to rejection of the interim 
+relief will be higher than the inconvenience that the 
+defendant may face if the relief is so granted; and 
+(c) 
+‘Irreparable injury’, which means that if the relief is not 
+granted, the plaintiff will face an irreversible injury that 
+cannot be compensated in monetary terms. 
+13. At this juncture, it is necessary to distinguish the standard 
+of scrutiny in applying these parameters for ‘prohibitory’ and 
+‘mandatory’ injunctions. Prohibitory injunctions vary from 
+mandatory injunctions in terms of the nature of relief that is 
+sought. While the former seeks to restrain the defendant from 
+doing something, the latter compels the defendant to take a 
+positive step.1 For instance, hypothetically, in the context of a 
+construction dispute, if a plaintiff seeks to prevent the defendant 
+from demolishing a structure, it would be deemed a prohibitory 
+injunction. Whereas, if a plaintiff wants to compel the defendant 
+to demolish a structure, then this would amount to mandatory 
+injunction. 
+ 
+1 State of Haryana v. State of Punjab, (2004) 12 SCC 673, para 37-38. 
+
+ 
+Page 11 of 24 
+ 
+14. In that sense, prohibitory injunctions are forward-looking, 
+such that they seek to restrict a future course of action. 
+Conversely, mandatory injunctions are backward-looking, because 
+they require the defendant to take an active step and undo the past 
+action.2 Since mandatory injunctions require the defendant to take 
+a positive action instead of merely being restrained from 
+performing an act, they carry a graver risk of prejudice for the 
+defendant if the final outcome subsequently turns out to be in its 
+favour. For instance, in the example above, preventing the 
+demolition of a structure for the time being cannot be perceived to 
+be on the same pedestal as mandating the demolition of a 
+construction. While the former may still be undone, i.e., the 
+defendant may still be compelled to demolish the structure should 
+the plaintiff succeeds in his final claim, undoing the latter, i.e., 
+rebuilding the construction, would cause graver injustice. The 
+Courts are, therefore, relatively more cautious in granting 
+mandatory injunction as compared to prohibitory injunction and 
+thus, require the plaintiff to establish a stronger case.3 
+15. Reverting to the facts of the case in hand, the Plaintiff – State 
+has sought mandatory injunction and not a prohibitory one. 
+ 
+2 Shepherd Homes Ltd. v. Sandham, [1970] 3 WLR 348. 
+3 Id., Dorab Cawasji Warden v. Coomi Sorab Warden, (1990) 2 SCC 117, para 16. 
+
+ 
+Page 12 of 24 
+ 
+Instead of arguing that the Defendant – Union of India should 
+refrain from imposing a Net Borrowing Ceiling during the next F.Y., 
+the Plaintiff has applied for a backward-looking injunction, i.e., for 
+an injunction to undo the imposition of the Net Borrowing Ceiling 
+that covered various liabilities and to restore the position that 
+existed before such ceiling. Hence, the Plaintiff is required to meet 
+a higher standard for the triple-test of interim relief as mentioned 
+in paragraph 12 above of this order. 
+16. Coming to the first factor, i.e., the prima facie case, the 
+Plaintiff – State has raised various substantive questions of 
+constitutional interpretation. Generally speaking, the phrase 
+‘prima facie case’ is not a term of art and it simply signifies that at 
+first sight the plaintiff has a strong case. According to Webster’s 
+International Dictionary, ‘prima facie case’ means a case 
+established by ‘prima facie evidence’, which in turn means the 
+evidence that is sufficient in law to raise a presumption of fact 
+unless rebutted. 
+17. The Plaintiff – State has argued that based on the States 
+Finance Accounts audited by the Comptroller and Auditor General 
+of India and the achievements of the fiscal deficit targets, the 
+Plaintiff – State has under-utilized permissible borrowing space in 
+
+ 
+Page 13 of 24 
+ 
+the last three F.Ys. (2020-21, 2021-22 and 2022-23) to the extent 
+of INR 24,434 crores. The Plaintiff – State contends that even going 
+by the stand of the Union, the under-utilized space of the Plaintiff 
+for the said period borrowings is INR 10,722 crores, which it 
+should be allowed to borrow. 
+18. Mr. Kapil Sibal, learned Senior Counsel for the Plaintiff – 
+State, submitted that under the recommendations of the 15th 
+Finance Commission, the State is entitled to borrow up to the 
+maximum permissible fiscal deficit for the year. He relied on 
+paragraphs 12.64 and 12.65 of the Report of the 15th Finance 
+Commission, which read as under: 
+“12.64 If a State is not able to fully utilise its 
+sanctioned borrowing limit, as specified above, 
+in any particular year during the first four 
+years of our award period (2021-22 to 2024 -
+25), it will have the option of availing this 
+unutilised borrowing amount (calculated in 
+rupees) in any of the subsequent years within 
+our award period.  
+12.65 Based on these assumptions, we have worked 
+out the debt path for States, as presented in Table 
+12.4. Since all estimated revenue deficits are met by 
+equivalent provision of revenue deficit grant, the 
+revenue surpluses run by the States are reflected by 
+the negative numbers on revenue deficit presented in 
+the table. The State debt in aggregate tapers off 
+gradually after 2022-23. This is similar to the 
+pattern in the debt path of the Union shown in Table 
+12.2. The State-specific indicative debt paths are 
+given in Annex 12.1. 
+ 
+
+ 
+Page 14 of 24 
+ 
+Table 12.4: Indicative Deficit and Debt Path for 
+State Governments 
+(% of GSDP) 
+ 
+2020-
+21 
+2021-
+22 
+2022-
+23 
+2023-
+24 
+2024-
+25 
+2025-
+26 
+Revenue 
+deficit* 
+-0.1 
+-0.5 
+-0.8 
+-1.2 
+-1.7 
+-2.5 
+Fiscal 
+deficit 
+4.5 
+4.0 
+3.5 
+3.0 
+3.0 
+3.0 
+Total 
+liabilities 
+33.1 
+32.6 
+33.3 
+33.1 
+32.8 
+32.5 
+*negative values indicate surplus and positive 
+values indicate deficit 
+Note: While arriving at the total liabilities of States 
+for the year 2021-22, an aggregate fiscal deficit of 
+3.5 per cent of GSDP is taken because some States 
+may not avail of the full unconditional net borrowing 
+space of 4 per cent.” 
+19. According to the learned Senior Counsel, since the fiscal 
+deficit for 2023-24 is 3% of GSDP, they should be allowed the full 
+borrowing without any restrictions. 
+20. Mr. N. Venkataraman, learned ASG, controverted the 
+submission of the Plaintiff – State.  According to learned ASG, 
+while the figures as projected by the State are themselves in 
+dispute, the State is not entitled to borrow the amounts as claimed 
+since the over-borrowing by the State of Kerala from F.Ys. 2016-
+17 to 2019-20 is INR 14,479 crores.  According to him, if these 
+over-borrowings are factored in the borrowing space, it will be 
+found that the State has not under-utilized but over-utilized its 
+borrowing capacity by INR 2,941.82 crores till F.Y. 2022-23.  The 
+
+ 
+Page 15 of 24 
+ 
+learned ASG, relying on paragraph 14.64 of the Report of the 14th 
+Finance Commission, contended that if the State is not able to fully 
+utilize its sanctioned borrowings limit of 3% of GSDP in any 
+particular year during the first four years of the award period 
+(2015-16 to 2018-19), the State will have the option of availing this 
+un-utilized borrowing amount (calculated in Rupees) only in the 
+following year within the award period.  However, there is a 
+difference between under-utilization of the borrowing limit and 
+over-utilization of the borrowing limit. Learned ASG maintained 
+that over-utilization is dealt with in Annexure 14.2 of Chapter-XIV 
+in the Report of the 14th Finance Commission, which clearly 
+prescribes as under: 
+“Case II. Over-utilizing the borrowing amount: 
+ 
+If a State, in a given year, borrows over and above 
+the sanctioned borrowing limit by x amount, then in 
+the succeeding year, the same x amount of the 
+previous year will be deducted from the States 
+borrowing limit of that year.” 
+ 
+21. According to learned ASG, the Plaintiff – State is wrong in 
+contending that such deduction in the succeeding year can only 
+be made within the award period of the 14th Finance Commission.  
+He explained that over-borrowings of the previous year were 
+adjusted for the F.Ys. 2021-22, 2022-23 and 2023-24 (as on date) 
+
+ 
+Page 16 of 24 
+ 
+to the tune of INR 9,197.15 crores, INR 13,067.78 crores and INR 
+4,354.72 crores respectively. According to learned ASG, the State 
+was fully conscious of the correct position in law and had rightly 
+acquiesced in the adjustments of the over-borrowings.  Having 
+acquiesced, it does not lie in the mouth of the Plaintiff – State to 
+contend that once the period for the 15th Finance Commission has 
+set in from F.Ys. 2021-22 to 2025-26, the over-borrowings of the 
+previous years have absolutely no relevance.  Learned ASG 
+vehemently argued that the Plaintiff is wrong in contending that a 
+reading of the report of the 14th and 15th Finance Commission 
+indicates that for both under-utilization and over-utilization, all 
+adjustments have to be made within the period covered by the 
+Report of the Commission. 
+22. Prima facie, we are inclined to accept the argument of the 
+Union that where there is over-utilization of the borrowing limit in 
+the previous year, to the extent of over-borrowing, deductions are 
+permissible in the succeeding year, even beyond the award period 
+of the 14th Finance Commission.  This is, however, a matter which 
+will have to be finally decided in the suit. 
+23. At this stage, based on the contentions of the Plaintiff – State 
+with which we are not prima facie convinced, permitting any 
+
+ 
+Page 17 of 24 
+ 
+borrowing—whether INR 24,434 crores as claimed in the written 
+note or INR 10,722 crores as alternatively claimed—would not be 
+tenable. 
+24. In fact, it has been admitted by the Plaintiff – State that there 
+has been over-borrowing/over-utilization of the borrowing limit 
+between the F.Ys. 2017-18 and 2019-20.  It is not denied that if, 
+as contended by the Union, such over-borrowings are adjustable 
+in the succeeding years, then the State has already exhausted its 
+borrowing limits for the F.Y. 2023-24. 
+25. We find, prima facie, that there is a difference in the 
+mechanism which operates when there is under-utilization of 
+borrowing and when there is over-utilization of borrowing. The 
+Plaintiff – State has not been able to demonstrate at this stage that 
+even after adjusting the over-borrowings of the previous year, there 
+is fiscal space to borrow. 
+26. Our attention has also been invited to the Kerala Fiscal 
+Responsibility Act, 2003.  The Act is enacted to provide for the 
+responsibility of the government to ensure prudence in fiscal 
+management and fiscal stability by progressive elimination of 
+revenue deficit and sustainable debt management consistent with 
+fiscal stability, greater transparency in fiscal operations of the 
+
+ 
+Page 18 of 24 
+ 
+government and conduct of fiscal policy in a medium term fiscal 
+framework and for matters connected there with and incidental 
+thereto.  The Preamble of the Act also states that it was felt 
+expedient to provide for the responsibility of the government to 
+ensure prudence in fiscal management and fiscal stability by 
+progressive elimination of revenue deficit and sustainable debt 
+management consistent with fiscal stability. 
+27. In view of above, we find prima facie merit in the submission 
+of the Union of India that after inclusion of off budget borrowing 
+for F.Y. 2022-23 and adjustments for over-borrowing of past years, 
+the State has no unutilized fiscal space and that the State has 
+over-utilized its fiscal space.  Hence, we are unable to accept the 
+argument of the Plaintiff at the interim stage that there is fiscal 
+space of unutilized borrowing of either INR 10,722 crores as was 
+orally prayed during the hearing or INR 24,434 Crores which was 
+the borrowing claimed in the negotiations with the Union. 
+28. Therefore, the Plaintiff – State has failed to establish a prima 
+facie case regarding its contention on under-utilization of 
+borrowing. Further, with respect to its other contentions, while the 
+Plaintiff has sought to construe Article 293 restrictively to limit the 
+Central government’s power only to the loans granted by it, the 
+
+ 
+Page 19 of 24 
+ 
+Defendant has contended that if Article 293 is read in such a 
+manner, it would render this provision redundant as the Central 
+Government has an inherent power as a lender to impose 
+conditions on such loans even in the absence of any express 
+constitutional provision. Similarly, the Defendant has contested 
+the Plaintiff’s narrow reading of the term ‘borrowing’ and has 
+argued that off-budget borrowings could also be included in the 
+same if they are used to by-pass the conditions imposed under 
+Article 293 of the Constitution. 
+29. Since this Article has not been the subject of an authoritative 
+pronouncement of this Court so far, we cannot readily accept the 
+Plaintiff’s contention over the Defendant’s interpretation by taking 
+it on face value. In this regard, we have referred the matter to a 
+larger bench of five judges, as mentioned in paragraph 10 of this 
+order.  
+30. Hence, on consideration of the limited material available on 
+record so far, the Plaintiff – State has not established a prima facie 
+case to the extent required in the instant suit. 
+31. With respect to the second prong for claiming the interim 
+relief, the Plaintiff – State has argued that if the interim injunction 
+is not granted, it is likely to face extreme financial hardship on 
+
+ 
+Page 20 of 24 
+ 
+account of its pending dues. As against this, the Defendant – Union 
+of India has highlighted the grave consequences regarding the 
+fiscal health of the country if the Plaintiff is allowed the interim 
+relief. The Union of India has argued that additional borrowing by 
+the State will have spill-over effects and may raise the prices of 
+borrowing in the market, possibly crowding out the borrowing by 
+private investors. This may then have an adverse impact on the 
+production of goods and services in the market, possibly affecting 
+the economic well-being of every citizen. Since the Central 
+government borrows money from outside the country and lends 
+money to the State governments, borrowings of the States are 
+intricately linked to the creditworthiness of the country in the 
+international market. Hence, the Union of India argued that in 
+case such borrowings by State Governments are not regulated, it 
+may negatively impact the macro-economic growth and stability of 
+the entire nation. 
+32. On a comparative evaluation of the submissions, it seems to 
+us that the mischief that is likely to ensue in the event of granting 
+the interim relief, will be far greater than rejecting the same. If we 
+grant the interim injunction and the suit is eventually dismissed, 
+turning back the adverse effects on the entire nation at such a 
+
+ 
+Page 21 of 24 
+ 
+large scale would be nearly impossible. Au contraire, if the interim 
+relief is declined at this stage and the Plaintiff - State succeeds 
+subsequently in the final outcome of the suit, it can still pay the 
+pending dues, may be with some added burden, which can be 
+suitably passed on the judgment - debtor. The balance of 
+convenience, thus, clearly lies in favour of the Defendant – Union 
+of India. 
+33. Finally, as regards to the third pre-condition, we find that the 
+Plaintiff – State has sought to equate ‘financial hardship’ with 
+‘irreparable injury’. It appears prima facie that ‘monetary damage’ 
+is not an irreparable loss, as the Court can always balance the 
+equities in its final outcome by ensuring that pending claims are 
+adjusted along with resultant additional liability on the opposite 
+party. 
+34. We may hasten to remind ourselves at this stage that 
+according to the Defendant-Union of India, the Plaintiff – State is 
+apparently a highly debt stressed State that has mismanaged its 
+finances. This statement, however, is strongly refuted by the State. 
+According to the Union, the Plaintiff has the highest ratio of 
+Pension to Total Revenue Expenditure among all States and 
+requires urgent measures to reduce its expenditure. Instead of 
+
+ 
+Page 22 of 24 
+ 
+doing so, the Plaintiff is borrowing more funds to meet its day-to-
+day expenses such as salaries and pensions. Accordingly, the 
+Defendant has contended that the financial hardship is not 
+attributable to the regulation of Plaintiff’s borrowing and is 
+actually a consequence of its own actions. Furthermore, the 
+Defendant maintains that restriction on the borrowing is a step 
+towards the betterment of fiscal health of the State because if such 
+borrowings are not restricted, the Plaintiff’s position will become 
+more precarious, leading to a vicious cycle of deteriorating 
+financial health and increased borrowing to repair the same. 
+35. If the State has essentially created financial hardship 
+because of its own financial mismanagement, such hardship 
+cannot be held to be an irreparable injury that would necessitate 
+an interim relief against Union. There is an arguable point that if 
+we were to issue interim mandatory injunction in such like cases, 
+it might set a bad precedent in law that would enable the States to 
+flout fiscal policies and still successfully claim additional 
+borrowings. 
+36. In any case, we cannot be oblivious of the fact that in light of 
+the Plaintiff’s contention regarding pending financial dues, the 
+Defendant has already made an offer to allow additional borrowing. 
+
+ 
+Page 23 of 24 
+ 
+In a meeting dated 15.02.2024, the Defendant first offered consent 
+for INR 13,608 crores, out of which INR 11,731 crore was subject 
+to the pre-requisite of withdrawal of the suit, a condition that we 
+disapproved of. Subsequently, in a meeting dated 08.03.2024, the 
+Union offered a consent for INR 5,000 crores. Further, vide 
+circulars dated 08.03.2024 and 19.03.2024, the Union has 
+accorded consent for INR 8,742 crores and INR 4,866 crores 
+respectively, which comes to a sum total of INR 13,608 crores. 
+Even if we assume that the financial hardship of the Plaintiff is 
+partly a result of the Defendant’s Regulations, during the course 
+of hearing this interim application, the concern has been assuaged 
+by the Defendant – Union of India to some extent so as to bail out 
+the Plaintiff – State from the current crisis. The Plaintiff thus has 
+secured substantial relief during the pendency of this interim 
+application. 
+37. To sum up, we are of the view that since the Plaintiff – State 
+has failed to establish the three prongs of proving prima facie case, 
+balance of convenience and irreparable injury, State of Kerala is 
+not entitled to the interim injunction, as prayed for. 
+38. In light of the above observations, I.A. No. 6149 of 2024 is 
+disposed off. 
+
+ 
+Page 24 of 24 
+ 
+39. It is clarified that the observations made hereinabove are for 
+the limited purpose of deciding the prayer for ad-interim injunction 
+and shall have no bearing on the final outcome of the Original Suit. 
+40. The main case be placed before Hon’ble the Chief Justice of 
+India for constitution of an appropriate Bench. 
+ 
+ 
+………..………………… J. 
+(SURYA KANT) 
+ 
+ 
+…………………………… J. 
+(K.V. VISWANATHAN) 
+ 
+NEW DELHI 
+DATED: 01.04.2024

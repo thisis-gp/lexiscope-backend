@@ -1,0 +1,288 @@
+2024 INSC 805
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORTABLE 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION 
+ 
+CIVIL APPEAL NO.________/2024 
+Arising out of SLP (C) No. 4940 of 2022 
+ 
+CENTRAL WAREHOUSING CORPORATION & ANR.   ...APPELLANT(S) 
+ 
+  VERSUS 
+ 
+M/S SIDHARTHA TILES & SANITARY PVT. LTD     ...RESPONDENT(S) 
+ 
+J U D G M E N T 
+PAMIDIGHANTAM SRI NARASIMHA, J. 
+ 
+1. 
+Leave granted. 
+2. 
+The questions of law formulated in this appeal is, whether the 
+Public Premises Act, 1971 overrides the Arbitration and Conciliation 
+Act, 1996. If the said question is answered in negative, the only 
+question that survives is, whether the High Court committed any error 
+in appointing the arbitrator while exercising the jurisdiction under 
+Section 11 of the Arbitration and Conciliation Act, 1996 (‘hereinafter 
+referred as the Act’). Having examined the matter in detail, it is clear 
+that the said question does not arise in the facts and circumstances of 
+the case. We are guided by the existence of the Arbitration Clause and 
+the decision of this Court in SBI General Insurance Co. Ltd. vs. Krish 
+Digitally signed by
+Indu Marwah
+Date: 2024.10.21
+18:19:16 IST
+Reason:
+Signature Not Verified
+
+2 
+ 
+Spinning1 which discussed the scope of referral court’s interference 
+when a valid arbitration clause exists. 
+3. 
+A brief conspectus of the facts is as follows. The appellant is a 
+statutory body under the Warehousing Corporations Act, 1962, and is 
+under the administrative control of the Ministry of Consumer Affairs, 
+Government of India. As it was providing warehousing facilities, the 
+respondent, a company engaged in the business of trading ceramic tiles 
+and sanitary ware, had approached the appellant for storage of its 
+goods. The appellant agreed and provided a storage space of 1295 sq. 
+mtrs. and possession of this space was handed over to the respondent 
+on 12.09.2012, even before an agreement could be entered between the 
+parties. 
+4. 
+Lease agreement on 26.09.2012 governing the contractual 
+relationship provided under Clause 1 that the space will remain with 
+the respondent for a period of 3 years from 12.09.2012. Thus, the 
+contract was due to expire by efflux of time by 11.09.2015. This lease 
+was made subject to a ‘renewal by mutual consent’ as per Clause 2. 
+The rate of storage was fixed at Rs. 131 per square meter per month. 
+What is relevant for us is Clause 16 of the agreement, incorporating the 
+arbitration clause. 
+ 
+1 2024 SCC OnLine SC 1754 
+
+3 
+ 
+5. 
+Even before the expiry of the lease, the storage charges were said 
+to have been revised on a pan India basis w.e.f. 01.11.2012. The 
+revision of the storage charges was communicated to the respondent 
+and by a letter dated 04.10.2012, a demand for enhanced payment 
+w.e.f. 01.11.2012 was raised. The appellant renewed the said demand 
+on 10.05.2013 and 31.12.2014 and intimated that if the amount is not 
+paid, it will be inferred that the respondent is not interested in retaining 
+the facility. While the matter was pending, the storage charges were 
+further revised w.e.f. 01.04.2015 by a letter dated 05.03.2015 when the 
+respondent was informed that the tariff will be at the rate of Rs.177/- 
+per sq. mtr. per month. 
+6. 
+In turn, the respondent is said to have intimated the appellant 
+that it is interested in continuing the facility but sought renewal of the 
+agreement dated 26.09.2012 by also committing that any arrears due 
+as per the original agreement would be cleared.  
+7. 
+On 16.09.2015, the appellant is supposed to have rejected the 
+request for renewal of the agreement and has in turn raised a demand 
+of Rs. 16,10,004/. In view of the fact that the respondent had not 
+vacated the premises despite the lease’s expiry on 11.09.2015, the 
+appellant invoked the provisions of the Public Premises (Eviction of 
+Unauthorised Occupants) Act, 1971 (hereinafter the Public Premises 
+Act).  
+
+4 
+ 
+8. 
+It is an admitted fact that even before the order of the Estate 
+Officer under the Public Premises Act could be passed, the respondent 
+is said to have vacated the premises on 13.11.2015. The Estate Officer 
+any way passed his order on 31.12.2015 holding that the respondent 
+was in unauthorised possession only from 11.09.2015 (i.e. when the 
+lease expired) to 13.11.2015 (when premises were vacated) and also 
+directed payment of certain dues as indicated in the demand notice. 
+9. 
+It is in the above referred background that the respondent invoked 
+arbitration by filing an application under Section 11(6) of the Act for 
+the appointment of an arbitrator in view of a subsisting arbitration 
+clause in the agreement. The said clause is as under: 
+“16. All disputes and differences arising out of or in any 
+way touching upon or concerning this agreement 
+whatsoever shall be referred to the sole Arbitration of any 
+person appointed by the Managing Director, Central 
+Warehousing Corporation New Delhi. The Award of such 
+Arbitrator shall be final and binding on the Parties to this 
+agreement. It is a term of this agreement that in the event 
+of such arbitrator to whom the matter is originally 
+referred / being transferred or vacating his office or being 
+unable to act for any reason the Central Warehousing 
+Corporation at that time shall appoint any other person to 
+act as Arbitrator in accordance with the terms of this 
+agreement. Such person shall be entitled to proceed with 
+the reference from the stage at which it was left by his 
+predecessors. The Arbitrator shall give a speaking 
+award. 
+The venue of Arbitration shall be at such place as may be 
+fixed by the Arbitrator at his sole discretion. 
+The cost of arbitration shall be borne by the parties as per 
+the decision of the Arbitrator. 
+The Arbitrator shall give separate award respect of each 
+dispute or difference referred him, 
+
+5 
+ 
+ In to Subject as aforesaid, the Arbitration & Conciliation 
+Act, 1996 shall apply to the Arbitration proceedings 
+under this clause.” 
+ 
+10. The application under Section 11 specifically speaks about the 
+dispute that has arisen under the agreement dated 26.09.2012. 
+Broadly, they relate to the right of renewal of the contract and also the 
+legality and propriety of the revision of rates during the subsistence of 
+the agreement. 
+11. The High Court considered the matter in detail and came to the 
+conclusion that the claims made in the notice followed by the 
+application under Section 11 are clearly covered by the arbitration 
+clause. The relevant portions of the High Court Judgment is as under: 
+“12. On going through the same, it is seen that as per the 
+said clause all disputes and differences arising out of or 
+in any way touching upon or concerning the agreement 
+have to be referred to the sole arbitration of any person 
+appointed by the Managing Director of the Corporation. 
+Award of such arbitrator shall be final and binding on the 
+parties to the agreement. The arbitrator shall also decide 
+the venue of arbitration and the cost of arbitration shall 
+be borne by the parties as per the decision of the 
+arbitrator. The arbitrator is required to give separate 
+award in respect of each dispute or difference referred to 
+him. Thus, the crucial words in Clause 16 are "all 
+disputes and differences arising out of or in any way 
+touching upon or concerning the agreement. According to 
+the petitioner, the agreement for dedicated warehousing 
+entered into between the parties on 26.09.2012 clearly 
+mentioned the rate of storage charge i.e. Rs. 131-00 per 
+square meter per month. But the Corporation unilaterally 
+enhanced the storage charge rate with effect from 
+01.11.2012 at the gross area rate of Rs.157-00 per 
+Square meter per month and net area rate of Rs.216-00 
+per square meter per month. 
+
+6 
+ 
+13. The second area of dispute is with regard to 
+extension of the agreement for dedicated warehousing. 
+As per Clause No 1 the period of dedicated warehousing 
+was for three years with effect from 12.09.2012, but both 
+the parties had the option of renewing the agreement for 
+a further period as mutually agreed upon on expiry of the 
+term of the agreement. It is on these two issues that notice 
+of arbitration was given to the Managing Director of the 
+Corporation by the petitioner on 23.09.2015. As per the 
+postal tracking (page32 of the paper book), the same was 
+delivered on 26.09.2015. In any case respondent has not 
+disputed receipt of the notice. According to the 
+respondent, it is not an arbitral dispute being beyond the 
+agreement.” 
+ 
+12. Questioning the judgment and order passed by the High Court, 
+referring the dispute to arbitration, the appellant filed the present 
+appeal. Though the question relating to whether the Public Premises 
+Act will override the Arbitration Act has been raised and argued before 
+the High Court. This court issued notice in the special leave petition on 
+the basis of the question so formulated. We could have dismissed the 
+special leave petition on this very ground but as notice was issued on 
+this point and the appeal has been pending for some time, we 
+considered it appropriate to hear the appellant on this question and 
+decide the case. We will first answer the issue relating to the 
+applicability of the Public Premises Act.  
+13. Re: Whether the Public Premises Act, 1971 overrides the Arbitration 
+and Conciliation Act, 1996:  This submission has to fail. The reasons 
+are simple and straight forward. The dispute that is raised in the 
+
+7 
+ 
+Section 11 application relate to promises and reciprocal promises 
+arising out of the agreement dated 26.09.2012. The right of renewal as 
+well as the legality and propriety of the enhanced demand arose during 
+the subsistence of the agreement. It will be on the interpretation, 
+construction and the obligations arising out of the agreement that the 
+respondent’s claim rests. On the other hand, The Public Premises Act 
+authorises the ejectment of a tenant in unauthorised occupation of 
+public premises and for consequential directions. The original lease as 
+it were, validly subsisted till 11.09.2015 and the dispute between the 
+parties related to the period commencing from 12.09.2012 to 
+11.09.2015, when the lease expired. The Public Premises Act would not 
+even cast a shadow on this period. In so far as the dispute relating to 
+this right of renewal is concerned, it depends on the terms of the 
+agreement. The Public Premises Act neither bars nor overlaps with the 
+scope and ambit of proceedings that were initiated under the 
+Arbitration and Conciliation Act.  
+14. Whether the High Court committed any error in appointing the 
+arbitrator while exercising the jurisdiction under Section 11: We have 
+already extracted the relevant portion of the order passed by the High 
+Court. The revision of storage charges occurred during the subsistence 
+of the contract. Its legality and propriety will depend on the terms of 
+the agreement dated 26.09.2012. Similarly, the right of renewal will 
+
+8 
+ 
+also be based on and a construct of the said agreement. These two 
+disputes will undoubtedly arise out of the agreement between the 
+parties and the resolution of such disputes is clearly covered by the 
+arbitration clause (Cl. 16 of the agreement). After the recent decision of 
+this court in SBI General Insurance Co. (supra) the remit of the referral 
+court to consider an application under Section 11(6) is clear and 
+unambiguous. We need to just examine the existence of an arbitration 
+agreement. The context is clearly delineated in paras 110-111 and 114 
+of the judgment which are extracted below for ready reference. 
+“110. The scope of examination under Section 11(6-A) is 
+confined to the existence of an arbitration agreement on 
+the basis of Section 7. The examination of validity of the 
+arbitration agreement is also limited to the requirement of 
+formal validity such as the requirement that the 
+agreement should be in writing. 
+111. The use of the term ‘examination’ under Section 
+11(6-A) as distinguished from the use of the term ‘rule’ 
+under Section 16 implies that the scope of enquiry under 
+section 11(6-A) is limited to a prima facie scrutiny of the 
+existence of the arbitration agreement, and does not 
+include a contested or laborious enquiry, which is left for 
+the arbitral tribunal to ‘rule’ under Section 16. The prima 
+facie view on existence of the arbitration agreement 
+taken by the referral court does not bind either the 
+arbitral tribunal or the court enforcing the arbitral award. 
+[…] 
+114. In view of the observations made by this Court in In 
+Re : Interplay (supra), it is clear that the scope of enquiry 
+at the stage of appointment of arbitrator is limited to the 
+scrutiny of prima facie existence of the arbitration 
+agreement, and nothing else.[…]”  
+(emphasis supplied) 
+15.   For the reasons stated above, we have no hesitation in rejecting 
+the petition and we further hold that the appellant must bear the costs 
+for this unnecessary litigation which we quantify at Rs. 50,000/-.  
+
+9 
+ 
+16. As the arbitration proceedings were stayed due to the pendency of 
+this appeal by the order dated 01.04.2022, while dismissing this appeal 
+we direct that the arbitral tribunal shall resume the proceedings and 
+endeavour to deliver the award as expeditiously as possible.  
+17. The appeal is dismissed in terms of the above order. 
+………………………………....J. 
+[PAMIDIGHANTAM SRI NARASIMHA] 
+………………………………....J. 
+[SANDEEP MEHTA] 
+NEW DELHI; 
+October 21, 2024.

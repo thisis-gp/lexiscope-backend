@@ -1,0 +1,604 @@
+2024 INSC 520
+1 
+ 
+ 
+ 
+NON-REPORTABLE 
+ 
+IN THE SUPREME COURT OF INDIA 
+CIVIL APPELLATE JURISDICTION 
+CIVIL APPEAL NO. __________OF 2024 
+      [ARISING OUT OF SLP (CIVIL) NO.  6920 OF 2023] 
+ 
+M/s OMSAIRAM STEELS & ALLOYS 
+PVT. LTD.  
+ 
+ 
+     
+ 
+                 … APPELLANT 
+ 
+VS. 
+ 
+DIRECTOR OF MINES AND GEOLOGY, 
+BBSR & ORS.                    
+ 
+ 
+ 
+ 
+… RESPONDENTS 
+ 
+ 
+ 
+J U D G M E N T 
+ 
+DIPANKAR DATTA, J. 
+ 
+Leave granted. 
+2. 
+The final judgment and order dated 29th March, 2023 of the High Court 
+of Orissa1, dismissing the writ petition2 presented by the appellant, is 
+under assail in the present appeal.  
+ 
+1 High Court 
+2 Writ Petition (Civil) 9630/2023 
+Digitally signed by
+RADHA SHARMA
+Date: 2024.07.15
+16:09:10 IST
+Reason:
+Signature Not Verified
+
+2 
+ 
+3. 
+We find in the array of parties three respondents. The Director of Mines 
+and Geology, Bhubaneshwar is the first respondent, under whose aegis 
+MSTC Ltd., i.e., the second respondent, conducted an e-auction which 
+forms the genesis for the present appeal. State of Odisha is the third and 
+final respondent.    
+4. 
+The factual matrix relevant for deciding the present appeal, as discerned 
+from the records, is that: 
+I. 
+The third respondent floated a tender document for e-auction of 
+mining lease of, inter alia, Orahuri manganese and iron ore block 
+on 09th January, 2023.  
+II. 
+To participate in the process to follow, the appellant submitted 
+the requisite fees of Rs 5,00,000/- (Rupees five lakh only). 
+Thereupon, the appellant was permitted to submit its online bid.  
+III. 
+Clause 14 of the tender document mandated the submission of 
+Bid Security in a sum of Rs 9,12,21,315/- (Rupees nine crore 
+twelve lakh twenty-one thousand three hundred and fifteen only) 
+in the form of a bank guarantee in favour of the first respondent, 
+which too the appellant complied with on 17th February, 2023. 
+IV. 
+The Mineral Auction Rules, 20153, promulgated under the Mines 
+and Minerals (Development and Regulation) Act, contemplate a 
+two-round process – (i) submission of technical bids and initial 
+price offers; and (ii) selection of technically qualified bidders for 
+participation in the e-auction. Per requirements of the e-auction, 
+ 
+3 MA Rules 
+
+3 
+ 
+the qualified bidders have to propose their Final Price Offer, over 
+and above the Floor Price, with each bidder being allowed to 
+make a higher bid by a minimum increment of 0.05%. Each 
+bidder would have 8 (eight) minutes’ time from the last highest 
+bid to enhance their bid, and upon the expiry of eight minutes, 
+the last highest bid prevailing would triumph as the winning bid. 
+V. 
+The appellant cleared the first round of the process and was 
+subsequently informed that the e-auction would be conducted 
+from 11.00 AM to 1.00 PM (subject to auto extension of eight 
+minutes) on 21st March, 2023 for which the Floor Price would be 
+84.00%. 
+VI. 
+As scheduled, the auction process commenced on 21st March, 
+2023 and it lasted for almost seven hours, possibly much beyond 
+what the first respondent had anticipated. In due course of time, 
+the bidders went on enhancing their bids, so much so that the 
+bids at 06.09 PM had increased from 84% to 104.05% after 136 
+(one hundred thirty six) attempts made by the bidders. At 06.13 
+PM, the appellant intending to better the bid by the minimum 
+margin of 0.05% once again made its entry in the online portal, 
+but contrary to its intended submission of 104.10%, entered a 
+bid of 140.10% at the overall 137th attempt. With no bidder 
+countering the same, the e-auction concluded at 6.17 PM with 
+the last bid recorded as that of the appellant at 140.10%. 
+
+4 
+ 
+VII. 
+Having realized that it had committed a mistake, if not a blunder, 
+the appellant made frantic calls to the first respondent. Since the 
+calls went unheeded, the appellant by an email sent to the first 
+respondent at 08.17 PM sought to inform it of the mistake and 
+prayed for rectification of its bid. The email sent by the appellant 
+contained, inter alia, the following prayer: 
+“*** 
+ 
+Subject – Regarding Miss (sic, Mis) Bidding in Orahuri 
+manganese & Iron Ore Mineral Block NIT dated January 09, 
+2023 
+ 
+*** 
+With reference to the above subject, it is to inform that while 
+bidding for the above mentioned Orahuri Manganese & Iron 
+ore Mineral Block, the running Bid Percentage of Competitor 
+was 140.05 (sic, 104.05), by mistake, we mentioned 140.10 
+instead of 104.10. Please guide us that how to rectify the 
+mistake in this regard and oblige. 
+Thanking you in anticipation and expecting due direction. 
+***” 
+ 
+VIII. 
+The next day, i.e. 22nd March, 2023, the first respondent replied 
+to the appellant. Inability to allow the appellant rectify its 
+mistake was expressed due to the e-auction having attained 
+completion. The return email reads as follows:  
+“*** 
+In response to the email, with regards to rectification of the 
+mistake during the auction of Orahuri Manganese & Iron ore 
+block, it was verified at the MSTC portal that no other bidder 
+has submitted 24.05% prior to your bid and the last bid 
+submitted as 140.10% by your firm on the same was closed 
+as Final Price Offer.  
+As such, since the e-auction process for Orahuri Manganese 
+& Iron ore has already been completed. As I have been 
+directed to inform you that the request for rectification of last 
+
+5 
+ 
+bid is not acceptable and hence the request is hereby 
+rejected being devoid of any merit.  
+***” 
+ 
+IX. 
+Vide letter dated 24th March, 20234, the first respondent 
+informed the appellant of its bid of 140.10% having been 
+accepted, being the highest bid, and that it was declared as the 
+Preferred Bidder. In view of rule 10 of the MA Rules stipulating 
+that the preferred bidder is required to deposit the first 
+instalment of the upfront payment within fifteen days of such 
+declaration, failing which, the security deposit would stand 
+forfeited, the appellant was directed to deposit Rs 3,64,88,526/- 
+(Rupees three crore sixty four lakh eighty eight thousand five 
+hundred twenty-six only).  
+X. 
+Aggrieved thereby, the appellant invoked the writ jurisdiction of 
+the High Court, characterizing the mistake to be a bona fide and 
+inadvertent human error and prayed that the impugned 
+communication be quashed, and that the e-auction process for 
+grant of the mining lease be re-commenced.  
+XI. 
+The High Court, vide the impugned judgment, held that the 
+appellant having admitted to have made a bid of 140.10%, such 
+bid could not at a subsequent stage be pleaded as a mistake. 
+The appellant was further held to be bound by its bid. The dispute 
+was also held to be beyond the confines of the writ jurisdiction 
+ 
+4 impugned communication 
+
+6 
+ 
+of the High Court, which led to summary dismissal of the 
+appellant’s writ petition.  
+5. 
+The appellant has taken exception to this judgment of the High Court in 
+the present appeal on multiple grounds. As noted by the High Court, 
+there is no dispute that the appellant had made the highest bid of 
+140.10%. The task before us is limited to determining whether the 
+appellant can attribute this bid to a bona fide mistake, and pray for re-
+commencement of the e-auction process. 
+6. 
+Mr. Rohatgi, learned senior counsel for the appellant, in laying a 
+challenge to the impugned judgment advanced the following 
+submissions: 
+a) In a bidding period of 7 hours starting from 11.00 AM till 18.09 
+PM, the bids had only increased from 84.00% to 104.05%, i.e., 
+an increment of only 20.05%. On most of the occasions the 
+bidders enhanced their bid by 0.05%, which was the minimum in 
+terms of the terms and conditions of the tender document. It is 
+only on certain stray occasions that the bidding went beyond 
+0.5%. The highest enhancement was by 5.05% at 1.19 PM by a 
+bidder other than the appellant. In course of the entire bidding, 
+the appellant enhanced the prevailing bid 47 (forty seven) out of 
+137 (one hundred thirty seven) times and its enhancement 
+ranged between 0.05% and 2.00%. The appellant also sought to 
+enhance its bid by 0.05% at the 137th attempt but purely because 
+of a human error, instead of 104.10%, what it entered was 
+
+7 
+ 
+140.10%. No reasonable businessman would submit a bid of 
+140.10% as against the prevailing highest bid of 104.05%, i.e., 
+an increase of 36.05%, when the minimum required increment 
+was only 0.05%. Forfeiture of the security deposit of Rs 
+9,12,21,315/- (Rupees nine crore twelve lakh twenty one 
+thousand three hundred and fifteen only) on the appellant’s 
+failure to deposit the first instalment of the upfront payment of Rs 
+3,64,88,526/- (Rupees three crore sixty four lakh eighty eight 
+thousand five hundred twenty six only), as threatened vide the 
+impugned communication, is a disproportionate punishment 
+sought to be inflicted on it for what was a bona fide human error. 
+b) The appellant is being forced to accept an exorbitant, unrealistic 
+and unsustainable bid of 140.10%, which the appellant never 
+intended to make.  
+c) Notwithstanding the error being entirely human and inadvertent 
+in nature, the e-auction platform offered no scope for rectification 
+of any error. The system merely allowed the appellant to see its 
+bid figure in words, mistaken though it may have been, but there 
+existed no method for correction or cancellation of the bid.  
+7. 
+Per contra, Mr. Prakash Ranjan Nayak, learned counsel for the 
+respondents submitted that the e-auction process had attained finality, 
+and the appellant could not be allowed to reopen the same for what it 
+claims was a mistake on its part.  
+
+8 
+ 
+8. 
+We have heard learned counsel for the parties and perused the 
+impugned judgment as well as the other materials on record. 
+9. 
+The first respondent, by way of additional information, informed this 
+Court that once a bid is typed by the bidders on the e-auction platform, 
+after clicking on the ‘Bid’ button, the system displays a pop-up showing 
+the bid amount both numerically and in words. The bidder then has to 
+authenticate the bid with a Digital Signature Certificate; once the 
+signature is validated, the bid is recorded by the system. This formality, 
+according to the respondents, the appellant complied and hence, it 
+cannot be permitted to turn around and say that the bid of 140.10% 
+was by mistake.   
+10. 
+Both parties have submitted to us a visual step-by-step of how the e-
+auction process functions, and a perusal of the same makes it evident 
+that once the bidder enters the numerical value and clicks on ‘Bid’, a 
+pop-up does appear showing the bid in numerical and in words; 
+however, the system does not apparently provide any option to cancel 
+such bid or to re-type the bid amount, should any error or mistake in 
+the bid be noticed. The only option the system pop-up gives to the 
+bidder is to submit the bid with the Digital Signature Certificate with no 
+scope for rectification or retraction. We, thus, presume that in case of 
+an error or mistake, a bidder may choose not to submit the bid with the 
+Digital Signature Certificate with the result that it has to quit the 
+process. This lends weight to the appellant’s submission that there was 
+
+9 
+ 
+indeed a human error or mistake, rectification of which was not 
+permitted by the system.  
+11. 
+We now proceed to examine the issue whether such an error or a 
+mistake would entitle the appellant to request for a fresh e-auction 
+process.  
+12. 
+It is well settled that, normally, the courts would be loath to interfere in 
+commercial matters, especially when such interference has the effect of 
+delaying the execution of mega projects of national importance.  
+13. 
+This Court, in Silppi Constructions Contractors v. Union of India 
+and Ors5 held:  
+“19. This Court being the guardian of fundamental rights is duty 
+bound to interfere when there is arbitrariness, irrationality, mala 
+fides and bias. However, this Court in all the aforesaid decisions 
+has cautioned time and again that courts should exercise a lot of 
+restraint while exercising their powers of judicial review in 
+contractual or commercial matters. This Court is normally loathe 
+to interfere in contractual matters unless a clear-cut case of 
+arbitrariness or mala fides or bias or irrationality is made 
+out……The Courts must realize their limitations and the havoc 
+which needless interference in commercial matters can cause. In 
+contracts involving technical issues the courts should be even 
+more reluctant because most of us in judges' robes do not have 
+the necessary expertise to adjudicate upon technical issues 
+beyond our domain. As laid down in the judgments cited above 
+the courts should not use a magnifying glass while scanning the 
+tenders and make every small mistake appear like a big blunder. 
+In fact, the courts must give ‘fair play in the joints’ to the 
+government and public sector undertakings in matters of contract. 
+Courts must also not interfere where such interference will cause 
+unnecessary loss to the public exchequer” 
+(emphasis ours) 
+ 
+14. 
+Thus, it is evident that while undertaking the exercise of judicial review 
+of matters relating to tenders, the court has to strike a fair balance 
+ 
+5 2019 SCC OnLine SC 1133 
+
+10 
+ 
+between the interests of the Government, which is always expected to 
+advance the financial interests of the State, and private entities. As 
+observed by this Court, not every small mistake must be perceived 
+through the lens of a magnifying glass and blown up unreasonably. The 
+present case is precisely of such a nature. A mere typographical error 
+forms the fulcrum of the present lis and, thus, the principles of 
+proportionality, reasonableness and equity demand that the appellant’s 
+grievance be heard.  
+15. 
+The grounds on which equitable relief can be sought, when the premise 
+for such a relief is a mere mistake, was laid down by this Court in W. 
+B. State Electricity Board v. Patel Engg. Co. Ltd.6, in the following 
+words:  
+“27. Exceptions to the above general principle of seeking relief in 
+equity on the ground of mistake, as can be culled out from the 
+same para, are: 
+(1) Where the mistake might have been avoided by the exercise 
+of ordinary care and diligence on the part of the bidder; but where 
+the offeree of the bid has or is deemed to have knowledge of the 
+mistake, he cannot be permitted to take advantage of such a 
+mistake. 
+(2) Where the bidder on discovery of the mistake fails to act 
+promptly in informing to the authority concerned and request for 
+rectification, withdrawal or cancellation of bid on the ground of 
+clerical mistake is not made before opening of all the bids. 
+(3) Where the bidder fails to follow the rules and regulations set 
+forth in the advertisement for bids as to the time when bidders 
+may withdraw their offer; however where the mistake is 
+discovered after opening of bids, the bidder may be permitted to 
+withdraw the bid.” 
+ 
+ 
+6 (2001) 2 SCC 451 
+
+11 
+ 
+16. 
+While deciding Patel Engineering Co. Ltd. (supra), this Court was 
+referred by senior counsel for the respondents 1 to 4 therein to 
+paragraph 84 of the American Jurisprudence (2nd Edn., Vol 64, p. 944) 
+and it was felt useful to quote the same. We too find it prudent to 
+reproduce the relevant passage hereinbelow: 
+“As a general rule, equitable relief will be granted to a bidder for 
+a public contract where he has made a material mistake of fact in 
+the bid which he submitted, and where, upon the discovery of that 
+mistake, he acts promptly in informing the public authorities and 
+requesting withdrawal of his bid or opportunity to rectify his 
+mistake particularly when he does so before any formal contract 
+is entered into.” 
+ 
+17. 
+This Court, on the facts of the case in Patel Engineering Co. Ltd. 
+(supra), held that negligent mistakes in bid documents could not be 
+permitted to be corrected on the basis of equity. There, the bidders had 
+merely informed the State authorities of the alleged mistake in their bid 
+more than two months after the same was announced in front of all the 
+bidders who responded to the tender.  
+18. 
+The present case notably has certain features on facts, which makes it 
+distinguishable from the case in Patel Engineering Co. Ltd. (supra). 
+Here, it is not disputed that the appellant made multiple calls to the first 
+respondent immediately upon realising that it had committed an error., 
+Specific averments made by the appellant are present in the pleadings 
+that upon realisation of its mistake, telephone calls were made to the 
+first respondent, as well as to the helpline numbers of the second 
+respondent, both of which went unanswered. The respondents, in their 
+counter affidavit, have not specifically denied the said averments; 
+
+12 
+ 
+hence, 
+by 
+application 
+of 
+the 
+doctrine 
+of 
+non-traverse, 
+the 
+aforementioned averments are deemed to have been admitted by the 
+respondents.  
+19. 
+The appellant’s bona fide intent to rectify the error or mistake is also 
+evident from the email dated 21st March, 2023, which was sent at 08.17 
+PM being exactly two hours after the e-auction process had concluded 
+at 06.17 PM. Although the email does not specifically refer to the 
+numerous phone calls claimed to have been made by the appellant, 
+nothing much turns on it in the absence of rebuttal by the respondents 
+as noted above. Furthermore, unlike the case in Patel Engineering 
+Co. Ltd. (supra) where the tender rules provided for a limited extent of 
+correction, no such rule was brought to our notice in the present case 
+allowing the bidders at least some scope of correction. Rule 20 of the 
+MA Rules allows rectification of clerical or arithmetic mistakes only with 
+respect to orders passed by the Government or authorities thereunder, 
+but not bids of the nature under consideration.  
+20. 
+Despite the respondents’ contention to the contrary, it is evident that 
+there was no opportunity available on the platform for the appellant to 
+rectify the error in the bid, having once entered it. Even if any bidder 
+like the appellant had realized that the bid amount requires to be 
+rectified, it could not have done so because of the system not permitting 
+such a course. It had either to suffer the effects of the error or mistake, 
+i.e., forfeiture of Bid Security on failure to deposit the first instalment 
+of the upfront payment, or quit the process realising such error / 
+
+13 
+ 
+mistake having been committed by it. It seems that anyone committing 
+an error or mistake in submitting the bid and seeking to rectify it would 
+be caught between the devil and the deep sea. Upon discovery of the 
+error or mistake that was committed, the appellants have satisfied us 
+on the point that they wasted no time in informing the respondents and 
+sought an opportunity to rectify the same. 
+21. 
+Applying the test laid down by this Court in Patel Engineering Co. Ltd. 
+(supra) and considering the trend of bids offered by the bidders as 
+noticed in paragraph 4 supra, it is found that in the present case – (i) 
+the bidders had only 8 (eight) minutes to enhance their bid; (ii) the 
+appellant offered its bid of 140.10% within 4 (four) minutes of the last 
+bid of 104.05%; (iii) there is sufficient material on record to suggest 
+that the appellant did not consciously enhance its bid to 140.10% to 
+take undue advantage, rather it can be inferred from the circumstances 
+that the mistake in entering the bid was committed inadvertently (if an 
+act is not inadvertent, it ceases to be a mistake); (iv) the appellant, on 
+discovery of the error or mistake, acted promptly in informing the 
+authority concerned for rectification of the bid; and (v) the MA Rules 
+governing the e-auction process does neither provide any method for a 
+bidder to withdraw the mistaken bid, nor does the e-auction method 
+seem to provide any recourse for rectification or allow a bidder to quit 
+the process without jeopardizing its right as regards a forfeiture of the 
+Bid Security. In such a factual matrix, holding the appellant accountable 
+to what is evidently an extravagant bid erroneously or mistakenly 
+
+14 
+ 
+offered, as compared to the immediately preceding bids, would seem to 
+us to be unconscionable, on facts. 
+22. 
+We can safely conclude, having regard to the trend of rate of 
+enhancement of bid by the appellant [i.e., the appellant enhanced the 
+prevailing bid 47 (forty seven) out of 137 (one hundred thirty seven) 
+times and its enhancement ranged between 0.05% and 2.00%] and the 
+fact that the bidders were playing safe by marginally increasing the 
+prevailing bid price to test each other leading to increase of the Floor 
+Price from 84.00% to a highest of 104.05% after 7 (seven) hours of 
+bidding, the appellant did not intend to enhance the bid by 36.05%. 
+Even otherwise, it seems to make little commercial sense for any 
+intending bidder to outrun the other bidders by jumping from 104.05% 
+to make an exorbitant bid of 140.10% when, till the preceding bid, each 
+one of them had evidently been crawling. In view of the clear nature of 
+error or mistake committed by the appellant and the disproportionate 
+punishment that awaits it, if interference is declined by us, we are of 
+the opinion that the path of rendering justice to the parties has to be 
+treaded carefully to ensure that the interests of both the respondents 
+and the appellant do not suffer disproportionately. 
+23. 
+It is here that we consider it appropriate to examine the applicability of 
+the doctrine of proportionality. This doctrine has slowly but steadily 
+found its way into this Court’s jurisprudence. In Coimbatore District 
+
+15 
+ 
+Central Coop. Bank v. Employees Assn.7, albeit discussing the 
+proportionality of the punishment imposed on striking workmen, this 
+Court delineated the basis of the doctrine as follows: 
+“18. ‘Proportionality’ is a principle where the court is concerned 
+with the process, method or manner in which the decision-maker 
+has ordered his priorities, reached a conclusion or arrived at a 
+decision. The very essence of decision-making consists in the 
+attribution of relative importance to the factors and considerations 
+in the case. The doctrine of proportionality thus steps in focus true 
+nature of exercise—the elaboration of a rule of permissible 
+priorities. 
+19. de Smith states that ‘proportionality’ involves ‘balancing test’ 
+and ‘necessity test’. Whereas the former (balancing test) permits 
+scrutiny of excessive onerous penalties or infringement of rights 
+or interests and a manifest imbalance of relevant considerations, 
+the latter (necessity test) requires infringement of human rights 
+to 
+the 
+least 
+restrictive 
+alternative. 
+[Judicial 
+Review 
+of 
+Administrative Action (1995), pp. 601-05, para 13.085; see 
+also Wade & Forsyth: Administrative Law (2005), p. 366.] 
+20. *** 
+21. The doctrine has its genesis in the field of administrative law. 
+The Government and its departments, in administering the affairs 
+of the country, are expected to honour their statements of policy 
+or intention and treat the citizens with full personal consideration 
+without abuse of discretion. There can be no ‘pick and choose’, 
+selective applicability of the government norms or unfairness, 
+arbitrariness or unreasonableness. It is not permissible to use a 
+‘sledgehammer to crack a nut’. As has been said many a time, 
+‘where paring knife suffices, battle axe is precluded’.” 
+(emphasis ours) 
+24. 
+If the balancing test is applied to the factual matrix of the present case, 
+it is as clear as daylight that the forfeiture of the entirety of the 
+appellant’s security deposit worth Rs 9,12,21,315/- (Rupees nine crore 
+twelve lakh twenty one thousand three hundred and fifteen only) as 
+against evident human error, which has not been shown to even border 
+ 
+7 (2007) 4 SCC 669 
+
+16 
+ 
+on mala fides, or knowingly done, is punitive. The enforcement of an 
+otherwise commercially unviable bid, with the forfeiture of the deposit 
+hanging over the appellant’s head akin to a sword of Damocles, can 
+hardly be said to be in either party’s best interests. Perhaps, the 
+respondents could consider to provide a cross check and affirmation, 
+from the party, to avoid human errors and mistakes. 
+25. 
+However, we would be remiss in not observing that the e-auction in 
+question was a competitive bidding process which demanded a high 
+degree of caution and care on the part of the appellants. As was noted 
+by this Court in Patel Engineering Co. Ltd. (supra), the bidders being 
+experienced corporate entities are expected to have the assistance of 
+technical experts, and exercise a greater than ordinary degree of care, 
+if not meticulousness, to obviate and prevent such situations, in order 
+to maintain the sanctity and integrity of the tender process. Though 
+there has been a human error, but the same also evinces a degree of 
+remiss and carelessness the result of which is bound to cost the public 
+exchequer heavily in terms of time, effort and expense.  
+26. 
+Whether forfeiture of security deposit of Rs. 9,12,21,315/- (Rupees nine 
+crore twelve lakh twenty one thousand three hundred and fifteen only), 
+is in the form of penalty or liquidated damages is an issue which we 
+choose not to delve into in the present matter, to give the lis a quietus. 
+In the interest of equity and in exercise of power under Article 142 of 
+the Constitution, we thus deem it fit to pass the following orders. We 
+quash the impugned communication issued by the first respondent. A 
+
+17 
+ 
+coordinate Bench of this Court, vide interim order dated 06th April, 2024, 
+had extended to the respondents the liberty to conduct a fresh e-auction 
+as per law. We, thus, confirm the liberty so extended to the respondents 
+to conduct such fresh e-auction, if not conducted already. Further, in 
+order to maintain the balance between the interest of the State and the 
+private party, i.e., the appellant, we do not wish to let the appellant go 
+scot-free. On account of the appellant’s failure to act with the required 
+degree of care, which has not only had the effect of inevitably delaying 
+the mining project but would also cost both the respondents and the 
+other participant bidders precious time, effort and money, we direct the 
+appellant to pay to the first respondent Rs 3,00,00,000/- (Rupees three 
+crore only) within a month from date. In default thereof, the bank 
+guarantee furnished by the appellant may be encashed by the first 
+respondent. Should the appellant effect payment of Rs 3,00,00,000/- 
+(Rupees three crore only) within the period stipulated, the bank 
+guarantee shall cease to be operative and stand cancelled. Out of Rs 
+3,00,00,000/- (Rupees three crore only) paid by the appellant, 
+Rs.2,75,00,000/- (Rupees two crore seventy five lakh only) shall be 
+appropriated towards loss of revenue arising out of the delay in 
+commencing mining activities, costs towards expenses incurred for the 
+earlier e-auction process and for the fresh process that is underway or 
+to be conducted in terms of this order, as the case may be, and other 
+sundry purposes, if any. The remaining Rs.25,00,000/- (Rupees twenty 
+five lakh only) should be expended towards charitable purposes for 
+
+18 
+ 
+development of the young tribal population of the district where the 
+subject mine is situate.  
+27. 
+The impugned judgment and order, accordingly, is set aside. The civil 
+appeal stands partly allowed on terms aforesaid, with the parties being 
+left to bear their own costs.  
+ 
+……………………………J   
+(SANJIV KHANNA) 
+ 
+ 
+ 
+ 
+ 
+ 
+                
+……………………………J   
+(DIPANKAR DATTA) 
+ 
+ 
+New Delhi; 
+15th July, 2024.

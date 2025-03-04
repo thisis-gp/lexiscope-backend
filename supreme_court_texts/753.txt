@@ -1,0 +1,453 @@
+2024 INSC 795
+REVISED
+NON-REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 2451 OF 2022
+SOLAR ENERGY CORPORATION OF INDIA LIMITED (SECI)   
+APPELLANT(S)
+                                VERSUS
+WIND FOUR RENERGY PRIVATE LIMITED & ORS.           
+RESPONDENT(S)
+J U D G M E N T
+SANJIV KHANNA, J
+1.
+The appellant – Solar Energy Corporation of India Limited1
+impugns the judgment and order dated 11.01.2022 passed by
+the  Appellate  Tribunal  for  Electricity2 at  New  Delhi,
+whereby the appeal preferred by respondent no. 1 – Wind Four
+Renergy  Private  Limited3 was  allowed,  directing  that  the
+period  of  132  days,  for  which  delay  was  to  be  condoned,
+would commence from the date of the impugned judgment, that
+is, 11.01.2022. 
+2.
+Respondent no. 1 - WFRPL is a wholly owned subsidiary of
+1 “SECI”, for short.
+2 “APTEL”, for short.
+3 “WFRPL”, for short.
+1
+Digitally signed by
+Deepak Guglani
+Date: 2024.10.19
+17:17:16 IST
+Reason:
+Signature Not Verified
+
+Inox  Wind  Infrastructure  Services  Limited4.  The  parent
+concern,  IWISL,  was  awarded  a  total  of  250  MW  project
+capacity, in Tranche-I in 5 packets each of 50 MW capacity
+in terms of the appellant – SECI’s Request for Selection
+dated 28.10.2016. These projects were to be executed under
+five  different  Special  Purpose  Vehicles5 viz. Wind  One
+Renergy Pvt Ltd (50 MW), Wind Two Renergy Pvt Ltd (50 MW),
+Wind Three Renergy Pvt Ltd (50 MW), Wind Four Renergy Pvt
+Ltd  (50  MW)  and  Wind  Five  Renergy  Pvt  Ltd  (50  MW).
+Accordingly,  respondent  no.  1  –  WFRPL,  a  wholly  owned
+subsidiary of IWISL, and respondent no. 3 – Power Trading
+Company  India  Limited6 entered  into  a  Power  Purchase
+Agreement7 dated 21.07.2017 to establish a 50 MW wind power
+unit to generate and supply renewable (wind) power to PTC.
+The  appellant  –  SECI  is  the  implementing  agency  for  the
+project, being the nodal agency of the Central Government to
+promote  renewable  energy  such  as  solar,  wind  etc.  The
+Scheduled  Commercial  Operation  Date8/commissioning  was
+04.10.2018, 18 months from the date of the Letter of Award9
+dated  05.04.2017.  Further,  WFRPL  was  entitled  to  an
+additional  time  with  liquidated  damages  and  reduction  in
+tariff  of  upto  9  months,  that  is  till  05.07.2019.  The
+commissioning  deadline  or  maximum  period  allowed  for
+4 “IWISL”, for short.
+5 “SPV”, for short. 
+6 “PTC”, for short. 
+7 “PPA”, for short. 
+8 “SCOD”, for short. 
+9 “LoA”, for short. 
+2
+
+commissioning was 27 months from the date of LoA. Thus, the
+maximum  period  allowed  for  commissioning  was  till
+05.07.2019.
+3.
+It is an accepted and admitted position that the inter-state
+transmission  licensee  –  Power  Grid  Corporation  of  India
+Limited was unable to operationalise the Long Term Access10,
+which  was required  and necessary  to implement  and comply
+with the PPAs. The LTA was subsequently operationalised on
+14.04.2019.
+4.
+In  terms  of  the  letter  dated  22.10.2019  issued  by  the
+Ministry  of  New  &  Renewable  Energy,  Government  of  India
+certain  concessions  and  extension  of  milestones  in  wind
+power projects were granted. As per Clause 2(c) of the said
+letter, the wind power projects shall be granted extension
+in scheduled commissioning of the project for a period equal
+to 60 days, subsequent to operationalisation of LTA. This is
+the
+ 
+additional
+ 
+time
+ 
+to
+ 
+be
+ 
+provided
+ 
+to
+ 
+the
+generator/developer to complete the commissioning activities
+after the inter-state transmission system is ready.
+5.
+It is conceded before us by the appellant that WFRPL would
+be  entitled  to  extension  of  the  commissioning  date  till
+13.06.2019  on  account  of  the  period  of  60  days,  as
+stipulated in the letter dated 22.10.2019. Accordingly, the
+additional time allowed with payment of liquidated damages
+and the reduction of tariff and the maximum period allowed
+for commissioning, that is, 9 months and 27 months from the
+10 “LTA”, for short.
+3
+
+date of issue of LoA, will be computed.
+6.
+WFRPL  had  approached  the  Central  Electricity  Regulatory
+Commission11, New Delhi, with the assertion that they were
+not  informed  about  the  commissioning  of  the  LTA  by  the
+appellant till 22.11.2019. Not being aware as to the date of
+operationalisation  of  the  LTA,  WFRPL  contended  that  they
+should be granted extension of time by 132 days, that is
+till 21.11.2019.
+7.
+The  CERC,  by  its  order  dated  08.03.2021,  accepted  the
+contention of WFRPL. Accordingly, the revised scheduled date
+of commissioning was pushed to 23.10.2019. This order was
+accepted by the appellant - SECI.  The effect thereof would
+be that the additional time of 9 months allowed after the
+scheduled  date  with  liquidated  damages  and  reduction  of
+tariff and the last date of the maximum period allowed for
+commissioning, that is, 27 months from the date of the LoA,
+will accordingly be computed.
+8.
+WFRPL, however, preferred an appeal before the APTEL, which
+appeal, as stated above, has been allowed with the direction
+that  the  period  of  132  days,  for  which  delay  has  been
+condoned, would commence from the date of judgment in the
+appeal by APTEL, that is, from 11.01.2022.
+9.
+We have heard learned counsel for the parties at some length
+and are of the opinion that the impugned judgment and the
+operative  directions  given  therein,  are  unsustainable  as
+irrational as well as being contrary to the scheme and the
+11 “CERC”, for short.
+4
+
+PPA.
+10.
+It is an accepted position that there were 5 PPAs of 50 MW
+each,  which have  been entered  into between  the different
+SPVs wholly owned by IWISL and PTC. This appeal and impugned
+order relates only to the 5th PPA, that is, the PPA entered
+into  between  WFRPL  and  PTC.  WFRPL  has  not  been  able  to
+operationalise  this  PPA  by  commissioning  the  wind  power
+generation units. The four other PPAs of the SPVs of IWISL
+have been operationalised.
+11.
+We  have  on  record  a  letter  of  WFRPL  dated  25.03.2019,
+stating  that  the  project  was  at  an  advance  stage  of
+completion and WFRPL shall be able to commission the project
+on or before 31.05.2019, subject to readiness of evacuation
+system. By another letter dated 25.04.2019 written by IWISL,
+the  parent  concern  of  WFRPL,  IWISL  had  stated  that  the
+evacuation systems have been made ready for power evacuation
+with effect from 14.04.2019. Further, IWISL had stated that
+WFRPL shall be able to operationalise and commission the 5th
+power station by 30.06.2019. However, as accepted before us
+by  WFRPL,  the  5th  power  generation  unit  has  not  been
+operationalised even today.
+12.
+Even otherwise, once WFRPL became aware and had knowledge
+that LTA was functional, and they had been granted benefit
+of 60 days in terms of the letter dated 22.10.2019 and 132
+days in terms of the order of the CERC, the direction that
+the  period  of  132  days  shall  commence  from  the  date  the
+5
+
+APTEL  order  is  irrational.  The  objective  and  purpose  of
+timelines  is  to  ensure  early  supply  of  green  energy  and
+reduction of carbon footprint. Tariffs of green energy, it
+is well known, have come down substantially.
+13.
+In view of the aforesaid position, we set aside the impugned
+judgment dated 11.01.2022. The order dated 08.03.2021 passed
+by  the  CERC  is  restored  and  will  operate  and  bind  the
+parties.
+14.
+We are informed that pursuant to the impugned judgment, the
+appellant – SECI had refunded Rs.10 crores to WFRPL, SECI
+having  encashed  the  performance  bank  guarantee.  The
+appellant  -  SECI  would  be  entitled  to  recover  the  said
+amount along with simple interest at the rate of 12% per
+annum  from  the  date  when  the  payment  was  made  till  the
+amount is refunded by WFRPL. In case the payment of Rs.10
+crores  along  with  interest  as  directed,  is  not  refunded
+within  six  months  from  the  order  dated  27.02.202412,  the
+appellant - SECI will be entitled to recover Rs. 10 crores
+plus interest as per the provisions of the Electricity Act,
+2003.  Thus, in case of default and non-payment within the
+time stipulated, the principal amount of Rs.10 crores, as
+well  as,  simple  interest  at  the  rate  of  12%  per  annum
+accrued  thereon, will  be treated  as electricity  dues and
+accordingly be recovered along with interest, as applicable,
+in  accordance  with  the  Electricity  Act,  2003  and  the
+applicable rules.
+12 As modified/corrected by this order dated 16th October, 2024.
+6
+
+15.
+The appeal is allowed and disposed of in the above terms.
+Pending application(s), if any, shall stand disposed of.
+.................J.
+(SANJIV KHANNA)
+.................J.
+(DIPANKAR DATTA)
+NEW DELHI;
+OCTOBER 16, 2024.
+7
+
+NON-REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 2451 OF 2022
+SOLAR ENERGY CORPORATION OF INDIA LIMITED (SECI)   
+APPELLANT(S)
+                                VERSUS
+WIND FOUR RENERGY PRIVATE LIMITED & ORS.           
+RESPONDENT(S)
+J U D G M E N T
+1.
+The appellant – Solar Energy Corporation of India Limited13
+impugns the judgment and order dated 11.01.2022 passed by
+the  Appellate  Tribunal  for  Electricity14 at  New  Delhi,
+whereby the appeal preferred by respondent no. 1 – Wind Four
+Renergy  Private  Limited15 was  allowed,  directing  that  the
+period  of  132  days,  for  which  delay  was  to  be  condoned,
+would commence from the date of the impugned judgment, that
+is, 11.01.2022. 
+2.
+Respondent  no.  1  -  WFRPL  and  respondent  no.  3  –  Power
+Trading Company India Limited16 had entered into five Power
+Purchase Agreements17 dated 21.07.2017. Vide each of the said
+PPA, WFRPL had agreed to establish a 50 MW wind power unit
+and generate to supply renewable (wind) power to PTC.  The
+13 “SECI”, for short.
+14 “APTEL”, for short.
+15 “WFRPL”, for short.
+16 “PTC”, for short.
+17 “PPA”, for short.
+8
+
+appellant – SECI is the implementing agency for the project,
+being the nodal agency of the Central Government to promote
+renewable energy such as solar, wind etc.  The Scheduled
+Commercial Operation Date18/commissioning was 04.10.2018, 18
+months  from  the  date  of  the  Letter  of  Award19 dated
+05.04.2017.  Further,  WFRPL  was  entitled  to  an  additional
+time with liquidated damages and reduction in tariff of upto
+9  months,  that  is  till  05.07.2019.   The  commissioning
+deadline or maximum period allowed for commissioning was 27
+months  from  the  date  of  LoA.   Thus,  the  maximum  period
+allowed for commissioning was till 05.07.2019.
+3.
+It is an accepted and admitted position that the inter-state
+transmission  licensee  –  Power  Grid  Corporation  of  India
+Limited was unable to operationalise the Long Term Access20,
+which  was required  and necessary  to implement  and comply
+with the PPAs. The LTA was subsequently operationalised on
+14.04.2019.
+4.
+In  terms  of  the  letter  dated  22.10.2019  issued  by  the
+Ministry  of  New  &  Renewable  Energy,  Government  of  India
+certain  concessions  and  extension  of  milestones  in  wind
+power projects were granted. As per Clause 2(c) of the said
+letter, the wind power projects shall be granted extension
+in scheduled commissioning of the project for a period equal
+to 60 days, subsequent to operationalisation of LTA. This is
+the
+ 
+additional
+ 
+time
+ 
+to
+ 
+be
+ 
+provided
+ 
+to
+ 
+the
+18 “SCOD”, for short.
+19 “LoA”, for short.
+20 “LTA”, for short.
+9
+
+generator/developer to complete the commissioning activities
+after the inter-state transmission system is ready.
+5.
+It is conceded before us by the appellant that WFRPL would
+be  entitled  to  extension  of  the  commissioning  date  till
+13.06.2019  on  account  of  the  period  of  60  days,  as
+stipulated in the letter dated 22.10.2019. Accordingly, the
+additional time allowed with payment of liquidated damages
+and the reduction of tariff and the maximum period allowed
+for commissioning, that is, 9 months and 27 months from the
+date of issue of LoA, will be computed.
+6.
+WFRPL  had  approached  the  Central  Electricity  Regulatory
+Commission21, New Delhi, with the assertion that they were
+not  informed  about  the  commissioning  of  the  LTA  by  the
+appellant till 22.11.2019. Not being aware as to the date of
+operationalisation  of  the  LTA,  WFRPL  contended  that  they
+should be granted extension of time by 132 days, that is
+till 21.11.2019.
+7.
+The  CERC,  by  its  order  dated  08.03.2021,  accepted  the
+contention of WFRPL. Accordingly, the revised scheduled date
+of commissioning was pushed to 23.10.2019. This order was
+accepted by the appellant - SECI.  The effect thereof would
+be that the additional time of 9 months allowed after the
+scheduled  date  with  liquidated  damages  and  reduction  of
+tariff and the last date of the maximum period allowed for
+commissioning, that is, 27 months from the date of the LoA,
+will accordingly be computed.
+21 “CERC”, for short.
+10
+
+8.
+WFRPL, however, preferred an appeal before the APTEL, which
+appeal, as stated above, has been allowed with the direction
+that  the  period  of  132  days,  for  which  delay  has  been
+condoned, would commence from the date of judgment in the
+appeal by APTEL, that is, from 11.01.2022.
+9.
+We have heard learned counsel for the parties at some length
+and are of the opinion that the impugned judgment and the
+operative  directions  given  therein,  are  unsustainable  as
+irrational as well as being contrary to the scheme and the
+PPA.
+10.
+It is an accepted position that there were 5 PPAs, which
+have been entered into between the parties on 21.07.2017 of
+50  MW  each.  The  wind  power  generation  units  which  were
+subject  matter  of  the  4  PPAs  were  located  in  the  same
+vicinity as in case of the 5th PPA. This appeal and impugned
+order relates only to the 5th PPA. WFRPL has not been able to
+operationalise  this  PPA  by  commissioning  the  wind  power
+generation  units.  The  four  other  PPAs  have  been
+operationised.
+11.
+We have on record the letters of WFRPL, dated 25.03.2019,
+stating  that  the  project  was  at  an  advance  stage  of
+completion and WFRPL shall be able to commission the project
+on or before 31.05.2019, subject to readiness of evacuation
+system. By another letter dated 25.04.2019 written by WFRPL,
+they had stated that the evacuation systems have been made
+ready  for  power  evacuation  with  effect  from  14.04.2019.
+11
+
+Further,  WFRPL  shall  be  able  to  operationalise  and
+commission the 5th power station by 30.06.2019. However, as
+accepted before us by WFRPL, the 5th power generation unit
+has not been operationalised even today.
+12.
+Even otherwise, once WFRPL became aware and had knowledge
+that LTA was functional, and they had been granted benefit
+of 60 days in terms of the letter dated 22.10.2019 and 132
+days in terms of the order of the CERC, the direction that
+the  period  of  132  days  shall  commence  from  the  date  the
+APTEL  order  is  irrational.  The  objective  and  purpose  of
+timelines  is  to  ensure  early  supply  of  green  energy  and
+reduction of carbon footprint. Tariffs of green energy, it
+is well known, have come down substantially.
+13.
+In view of the aforesaid position, we set aside the impugned
+judgment dated 11.01.2022. The order dated 08.03.2021 passed
+by  the  CERC  is  restored  and  will  operate  and  bind  the
+parties.
+14.
+We are informed that pursuant to the impugned judgment, the
+appellant – SECI had refunded Rs.10 crores to WFRPL, SECI
+having  encashed  the  performance  bank  guarantee.  The
+appellant  -  SECI  would  be  entitled  to  recover  the  said
+amount along with simple interest at the rate of 12% per
+annum  from  the  date  when  the  payment  was  made  till  the
+amount is refunded by WFRPL. In case the payment of Rs.10
+crores  along  with  interest  as  directed,  is  not  refunded
+within six months from the date of this order, the appellant
+12
+
+-  SECI  will  be  entitled  to  recover  Rs.  10  crores  plus
+interest as per the provisions of the Electricity Act, 2003.
+Thus, in case of default and non-payment within the time
+stipulated, the principal amount of Rs.10 crores, as well
+as, simple interest at the rate of 12% per annum accrued
+thereon, will be treated as electricity dues and accordingly
+be  recovered  along  with  interest,  as  applicable,  in
+accordance with the Electricity Act, 2003 and the applicable
+rules.
+15.
+The appeal is allowed and disposed of in the above terms.
+Pending application(s), if any, shall stand disposed of.
+.................J.
+(SANJIV KHANNA)
+.................J.
+(DIPANKAR DATTA)
+NEW DELHI;
+FEBRUARY 27, 2024.
+13
+
+ITEM NO.8                  COURT NO.2                  SECTION XVII
+               S U P R E M E  C O U R T  O F  I N D I A
+                       RECORD OF PROCEEDINGS
+CIVIL APPEAL NO. 2451 OF 2022
+SOLAR ENERGY CORPORATION OF INDIA LIMITED (SECI)   
+APPELLANT(S)
+                                VERSUS
+WIND FOUR RENERGY PRIVATE LIMITED & ORS.           
+RESPONDENT(S)
+(FOR ADMISSION and I.R. and IA No.45753/2022-EX-PARTE STAY and IA
+No.46347/2022-PERMISSION  TO  FILE  ADDITIONAL  DOCUMENTS/FACTS/
+ANNEXURES)
+ 
+Date : 27-02-2024 This matter was called on for hearing today.
+CORAM :  HON'BLE MR. JUSTICE SANJIV KHANNA
+         HON'BLE MR. JUSTICE DIPANKAR DATTA
+For Appellant(s)                    
+                   Mr. C. Aryama Sundaram, Sr. Adv.
+                   Mr. M.G. Ramachandran, Sr. Adv.
+                   Ms. Anushree Bardhan, Adv.
+                   Mr. Nikunj Dayal, AOR
+                   Mr. Aneesh Bajaj, Adv.                         
+For Respondent(s)                    
+                   Mr. T. Mahipal, AOR
+                   Mr. Alok Krishna Agarwal, Adv.
+                   Mr. Naveen Chawla, Adv.
+                   Mr. Mayank Bughani, Adv.                   
+                   
+                   Ms. Prerna Singh, Adv.
+                   Mr. Guntur Prabhakar, AOR
+                   Mr. Ravi Kishore, Adv.
+                   Mr. Guntur Pramod Kumar, Adv.                  
+          UPON hearing the counsel the Court made the following
+                             O R D E R
+The appeal is allowed and disposed of in terms of the signed
+non-reportable judgment. 
+Pending application(s), if any, shall stand disposed of.
+(DEEPAK GUGLANI)                                (R.S. NARAYANAN)
+   AR-cum-PS                             
+  ASSISTANT REGISTRAR
+(signed non-reportable judgment is placed on the file)
+14
