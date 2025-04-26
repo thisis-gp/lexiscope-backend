@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+langchain-qdrant
+qdrant-client
+google-generativeai
+pandas
+faiss-cpu
