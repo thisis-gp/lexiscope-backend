@@ -1,80 +1,132 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Depends, Request
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
 from pydantic import BaseModel, Field
-from langchain_qdrant import Qdrant
-from langchain_community.document_loaders import DirectoryLoader
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_community.vectorstores import FAISS
-from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.chains.question_answering import load_qa_chain
-from langchain.prompts import PromptTemplate
-from qdrant_client import QdrantClient
-from dotenv import load_dotenv
+from typing import Dict, Optional, List, Any
 import os
-import google.generativeai as genai
 import pandas as pd
-import os
 import uuid
-from datetime import datetime
-from typing import Dict, Optional
-
-# In-memory session storage (replace with database in production)
-sessions = {}
-
-# Add CSV storage path
-CSV_STORAGE_PATH = "case_metadata.csv"
-
-TEXT_FILE_DIR = r"./supreme_court_cleaned_texts"
-FAISS_INDEX_BASE = "faiss_index"
-
-# Initialize CSV storage if not exists
-if not os.path.exists(CSV_STORAGE_PATH):
-    pd.DataFrame(columns=["id","source", "title", "judges", "date", "summary", "pdf_path", "summary_path"]).to_csv(CSV_STORAGE_PATH, index=False)
-
-os.makedirs(FAISS_INDEX_BASE, exist_ok=True)
+import httpx
+import redis
+import logging
+import time
+import json
+from slowapi import Limiter, _rate_limit_exceeded_handler
+from slowapi.util import get_remote_address
+from slowapi.errors import RateLimitExceeded
+from functools import lru_cache
+import asyncio
+from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
 
-google_gemini_api_key = os.getenv("GOOGLE_GEMINI_API_KEY")
-genai.configure(api_key=google_gemini_api_key)
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.StreamHandler(),
+        logging.FileHandler("app.log")
+    ]
+)
+logger = logging.getLogger("kanoon-api")
+
+# Constants
+CSV_STORAGE_PATH = "case_metadata.csv"
+TEXT_FILE_DIR = "./supreme_court_cleaned_texts"
+FAISS_INDEX_BASE = "faiss_index"
+COLLECTION_NAME = "legal_documents"
+
+# Configuration
+class Settings:
+    HUGGINGFACE_API_URL = os.getenv("HUGGINGFACE_API_URL")
+    REDIS_URL = os.getenv("REDIS_URL", None)
+    QDRANT_CLOUD_URL = os.getenv("QDRANT_CLOUD_URL")
+    QDRANT_API_KEY = os.getenv("QDRANT_CLOUD_API_KEY")
+    API_KEY = os.getenv("API_KEY")  # For simple API key auth
+
+@lru_cache()
+def get_settings():
+    return Settings()
+
+# Initialize Redis if available
+redis_client = None
+if get_settings().REDIS_URL:
+    try:
+        redis_client = redis.from_url(get_settings().REDIS_URL)
+        logger.info("Redis client initialized")
+    except Exception as e:
+        logger.error(f"Failed to initialize Redis: {e}")
+
+# Initialize rate limiter
+limiter = Limiter(key_func=get_remote_address)
 
 # Create FastAPI app
 app = FastAPI(title="Kanoon API", version="1.0.0")
+app.state.limiter = limiter
+app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
 # Enable CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Change this to your frontend URL for security (e.g., ["http://localhost:5173"])
+    allow_origins=["*"],  # Change this to your frontend URL for security
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-QDRANT_CLOUD_URL = os.getenv("QDRANT_CLOUD_URL")  
-QDRANT_API_KEY = os.getenv("QDRANT_CLOUD_API_KEY")
-COLLECTION_NAME = "legal_documents" 
+# Initialize CSV storage if not exists
+if not os.path.exists(CSV_STORAGE_PATH):
+    pd.DataFrame(columns=["id", "source", "title", "judges", "date", "summary", "pdf_path", "summary_path"]).to_csv(CSV_STORAGE_PATH, index=False)
+
+os.makedirs(FAISS_INDEX_BASE, exist_ok=True)
+
+# HTTP client for external API calls
+@lru_cache()
+def get_http_client():
+    return httpx.AsyncClient(timeout=60.0)
 
 # Helper functions for CSV operations
 def get_case_metadata(case_id: str) -> Optional[Dict]:
     try:
-        df = pd.read_csv(CSV_STORAGE_PATH,dtype={'id': str})
+        # Try Redis cache first
+        if redis_client:
+            cached_data = redis_client.get(f"case:{case_id}")
+            if cached_data:
+                logger.info(f"Cache hit for case {case_id}")
+                return json.loads(cached_data)
+        
+        # Fall back to CSV
+        df = pd.read_csv(CSV_STORAGE_PATH, dtype={'id': str})
         case_data = df[df["id"] == str(case_id)]
-        print(case_data)
+        
         # Check if any rows exist before accessing
-        return case_data.iloc[0].to_dict() if not case_data.empty else None
+        if not case_data.empty:
+            result = case_data.iloc[0].to_dict()
+            
+            # Cache in Redis if available
+            if redis_client:
+                redis_client.setex(
+                    f"case:{case_id}", 
+                    3600,  # 1 hour expiry
+                    json.dumps(result)
+                )
+            
+            return result
+        return None
     except Exception as e:
-        print(f"Error reading CSV: {e}")
+        logger.error(f"Error reading CSV: {e}")
         return None
 
 def save_case_metadata(data: Dict):
     try:
-        df = pd.read_csv(CSV_STORAGE_PATH,dtype={'id': str})
+        df = pd.read_csv(CSV_STORAGE_PATH, dtype={'id': str})
         new_id = str(data["id"])
-         # Check for existing ID
+        
+        # Check for existing ID
         if new_id in df["id"].values:
-            print(f"Case ID {new_id} already exists. Skipping save.")
+            logger.info(f"Case ID {new_id} already exists. Skipping save.")
             return
             
         # Append new data
@@ -82,44 +134,20 @@ def save_case_metadata(data: Dict):
         new_df["id"] = new_df["id"].astype(str)  # Ensure ID is string
         df = pd.concat([df, new_df], ignore_index=True)
         df.to_csv(CSV_STORAGE_PATH, index=False)
+        
+        # Update Redis cache if available
+        if redis_client:
+            redis_client.setex(
+                f"case:{new_id}", 
+                3600,  # 1 hour expiry
+                json.dumps(data)
+            )
+            
+        logger.info(f"Saved metadata for case {new_id}")
     except Exception as e:
-        print(f"Error saving to CSV: {e}")
+        logger.error(f"Error saving to CSV: {e}")
 
-try:
-    # Initialize components that will be reused
-    embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-    text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,
-        chunk_overlap=20,
-        length_function=len,
-        is_separator_regex=False,
-    )
-
-
-    # Initialize Qdrant client
-    qdrant_client = QdrantClient(
-        url=QDRANT_CLOUD_URL,
-        api_key=QDRANT_API_KEY,
-    )
-
-    # Check if collection exists before connecting
-    existing_collections = [col.name for col in qdrant_client.get_collections().collections]
-    if COLLECTION_NAME not in existing_collections:
-        raise ValueError(f"Collection '{COLLECTION_NAME}' not found in Qdrant Cloud.")
-
-    # Create Qdrant instance connected to existing collection
-    qdrant = Qdrant(
-        client=qdrant_client,
-        collection_name=COLLECTION_NAME,
-        embeddings=embeddings
-    )
-
-    print(f"✅ Connected to Qdrant collection: {COLLECTION_NAME}")
-
-except Exception as e:
-    raise Exception(f"Failed to initialize components: {e}")
-
-# Pydantic models for request/response
+# Pydantic models
 class QueryRequest(BaseModel):
     query: str
     top_k: int = Field(default=5, ge=1, le=10, description="Number of top results to return")
@@ -127,32 +155,152 @@ class QueryRequest(BaseModel):
 class AddDocumentsRequest(BaseModel):
     file_path: str
 
-
-
-# Global initialization of reusable components
-embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
-prompt_template = """
-Answer the question as detailed as possible from the provided context. 
-If the answer is not available in the context, say "answer is not available in the context".
-
-Context: \n {context}?\n
-Question: \n {question}\n
-Answer:
-"""
-
-# Pydantic Model for Structured Query
 class StructuredQueryRequest(BaseModel):
     text: str
     source: str
 
-# Pydantic Model for Chatbot Query
-class ChatQueryRequest(BaseModel):
-    text: str
+class ChatInitRequest(BaseModel):
+    case_id: str
+
+class ChatMessageRequest(BaseModel):
+    case_id: str
     question: str
+
+# Simple API key authentication
+async def verify_api_key(request: Request):
+    api_key = get_settings().API_KEY
+    if not api_key:
+        return True  # Skip auth if no API key is set
+        
+    if request.headers.get("X-API-Key") != api_key:
+        raise HTTPException(status_code=401, detail="Invalid API key")
+    return True
+
+# External API functions
+async def get_embeddings(texts: List[str]) -> List[List[float]]:
+    """Get embeddings from external service"""
+    client = get_http_client()
+    try:
+        response = await client.post(
+            f"{get_settings().HUGGINGFACE_API_URL}/embeddings",
+            json={"texts": texts},
+            timeout=60.0
+        )
+        response.raise_for_status()
+        return response.json()["embeddings"]
+    except Exception as e:
+        logger.error(f"Error getting embeddings: {e}")
+        raise HTTPException(status_code=500, detail=f"Error getting embeddings: {str(e)}")
+
+async def split_text(text: str, chunk_size: int = 1000, chunk_overlap: int = 20) -> List[str]:
+    """Split text using external service"""
+    client = get_http_client()
+    try:
+        response = await client.post(
+            f"{get_settings().HUGGINGFACE_API_URL}/split-text",
+            json={"text": text, "chunk_size": chunk_size, "chunk_overlap": chunk_overlap},
+            timeout=60.0
+        )
+        response.raise_for_status()
+        return response.json()["chunks"]
+    except Exception as e:
+        logger.error(f"Error splitting text: {e}")
+        raise HTTPException(status_code=500, detail=f"Error splitting text: {str(e)}")
+
+async def get_answer_from_context(context: List[str], question: str) -> str:
+    """Get answer from external QA service"""
+    client = get_http_client()
+    try:
+        response = await client.post(
+            f"{get_settings().HUGGINGFACE_API_URL}/qa",
+            json={"context": context, "question": question},
+            timeout=60.0
+        )
+        response.raise_for_status()
+        return response.json()["answer"]
+    except Exception as e:
+        logger.error(f"Error getting answer: {e}")
+        raise HTTPException(status_code=500, detail=f"Error getting answer: {str(e)}")
+
+# Qdrant client functions
+async def query_qdrant(query: str, top_k: int = 5) -> List[Dict]:
+    """Query Qdrant directly via API"""
+    client = get_http_client()
+    try:
+        # First get embeddings for the query
+        query_embedding = await get_embeddings([query])
+        
+        # Then search Qdrant
+        response = await client.post(
+            f"{get_settings().QDRANT_CLOUD_URL}/collections/{COLLECTION_NAME}/points/search",
+            headers={"api-key": get_settings().QDRANT_API_KEY},
+            json={
+                "vector": query_embedding[0],
+                "limit": top_k,
+                "with_payload": True
+            }
+        )
+        response.raise_for_status()
+        results = response.json()
+        
+        # Extract and format results
+        formatted_results = []
+        for hit in results.get("result", []):
+            payload = hit.get("payload", {})
+            formatted_results.append({
+                "score": hit.get("score", 0),
+                "page_content": payload.get("page_content", ""),
+                "metadata": {
+                    "source": payload.get("metadata", {}).get("source", "")
+                }
+            })
+        
+        return formatted_results
+    except Exception as e:
+        logger.error(f"Error querying Qdrant: {e}")
+        raise HTTPException(status_code=500, detail=f"Error querying Qdrant: {str(e)}")
+
+# Cache decorator
+def cache_response(ttl_seconds=3600):
+    def decorator(func):
+        async def wrapper(*args, **kwargs):
+            if not redis_client:
+                return await func(*args, **kwargs)
+            
+            # Create a cache key from function name and arguments
+            cache_key = f"cache:{func.__name__}:{str(args)}:{str(kwargs)}"
+            cached_result = redis_client.get(cache_key)
+            
+            if cached_result:
+                logger.info(f"Cache hit for {cache_key}")
+                return json.loads(cached_result)
+            
+            result = await func(*args, **kwargs)
+            
+            # Cache the result
+            redis_client.setex(
+                cache_key,
+                ttl_seconds,
+                json.dumps(result)
+            )
+            
+            return result
+        return wrapper
+    return decorator
+
+# Extract case ID from source path
+def extract_case_id(source_path: str) -> str:
+    """Extract numeric ID from paths like 'supreme_court_cleaned_texts/8.txt'"""
+    try:
+        return source_path.split("/")[-1].split(".")[0]
+    except:
+        raise ValueError("Invalid source path format")
 
 # API endpoints
 @app.post("/query")
-async def query_documents(request: QueryRequest):
+@limiter.limit("10/minute")
+@cache_response(ttl_seconds=300)  # Cache for 5 minutes
+async def query_documents(request: Request, query_request: QueryRequest): 
     """Endpoint to search legal documents"""
     try:
         # Verify top_k is within allowed range
@@ -162,23 +310,22 @@ async def query_documents(request: QueryRequest):
                 detail="top_k must be between 1 and 10"
             )
         
-        retriever = qdrant.as_retriever(search_kwargs={"k": request.top_k})
-        results = retriever.invoke(request.query)
+        # Query Qdrant
+        results = await query_qdrant(request.query, request.top_k)
+        
         structured_results = []
         for doc in results:
-            source = doc.metadata.get("source")
+            source = doc["metadata"]["source"]
             case_id = extract_case_id(source)
             
-            # Check CSV cache first
+            # Check cache first
             cached_data = get_case_metadata(case_id)
-            print(f"Cached data: {cached_data}")
             if cached_data:
                 structured_results.append(cached_data)
                 continue
                 
             # Process with RAG if not in cache
-            response = await structured_query(StructuredQueryRequest(text=doc.page_content, source=source))
-            case_id = extract_case_id(source)
+            response = await structured_query(StructuredQueryRequest(text=doc["page_content"], source=source))
             structured_data = {
                 "id": case_id,
                 "source": source,
@@ -190,46 +337,25 @@ async def query_documents(request: QueryRequest):
             save_case_metadata(structured_data)
             structured_results.append(structured_data)
             
-        print(f"Structured results: {structured_results}")
-            
         return {
             "query": request.query,
             "top_k": request.top_k,
             "results": structured_results
         }
     except Exception as e:
+        logger.error(f"Error in query_documents: {e}")
         raise HTTPException(status_code=500, detail=str(e))
-    
-@app.post("/add-documents")
-async def add_documents(request: AddDocumentsRequest):
-    """Endpoint to add new documents to the collection"""
-    try:
-        # Load and process new documents
-        loader = DirectoryLoader(request.file_path)
-        new_docs = loader.load()
-        split_new_docs = text_splitter.split_documents(new_docs)
-        
-        # Add to existing collection
-        qdrant.add_documents(split_new_docs)
-        
-        return {
-            "message": f"Successfully added {len(split_new_docs)} document chunks",
-            "new_chunks": len(split_new_docs),
-            "collection": COLLECTION_NAME
-        }
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-    
-# First API - Structured Query API
-@app.post("/structured_query")
-async def structured_query(request: StructuredQueryRequest):
-    """Processes text, trains the model, and answers predefined questions."""
-    try:
 
+@app.post("/structured_query")
+@limiter.limit("20/minute")
+@cache_response(ttl_seconds=3600)  # Cache for 1 hour
+async def structured_query(request: StructuredQueryRequest, req: Request = None, api_key: bool = Depends(verify_api_key)):
+    """Processes text and extracts structured information"""
+    try:
         case_id = extract_case_id(request.source)
 
-        # First check CSV cache
-        cached_data = get_case_metadata(request.source)
+        # First check cache
+        cached_data = get_case_metadata(case_id)
         if cached_data:
             return {
                 "status": "success",
@@ -237,11 +363,6 @@ async def structured_query(request: StructuredQueryRequest):
                 "data": cached_data
             }
         
-        # Check if vector store exists
-        if not vector_store_exists(case_id):
-            # Create vector store only if needed
-            create_vector_store(case_id, request.text)
-
         # Structured questions
         questions = [
             "What is the title of the case?",
@@ -250,7 +371,13 @@ async def structured_query(request: StructuredQueryRequest):
             "Provide a 50-word summary of the case."
         ]
         
-        responses = {q: query_vector_store(q, case_id) for q in questions}
+        # Split text into chunks
+        chunks = await split_text(request.text)
+        
+        # Get answers for each question
+        responses = {}
+        for q in questions:
+            responses[q] = await get_answer_from_context(chunks, q)
 
         # Create structured data
         structured_data = {
@@ -274,101 +401,12 @@ async def structured_query(request: StructuredQueryRequest):
         }
 
     except Exception as e:
+        logger.error(f"Error in structured_query: {e}")
         raise HTTPException(status_code=500, detail=str(e))
-    
-# New models for chat
-class ChatInitRequest(BaseModel):
-    case_id: str  
 
-class ChatMessageRequest(BaseModel):
-    case_id: str
-    question: str
-
-
-# Function to split text into chunks
-def split_text_into_chunks(text):
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=1000)
-    return text_splitter.split_text(text)
-
-# Function to create vector store
-def create_vector_store(case_id: str, text: str):
-    index_path = os.path.join(FAISS_INDEX_BASE, case_id)
-    if vector_store_exists(case_id):
-        return index_path
-    
-    chunks = split_text_into_chunks(text)
-    vector_store = FAISS.from_texts(chunks, embedding=embeddings)
-
-    os.makedirs(index_path, exist_ok=True)
-
-    vector_store.save_local(index_path)
-    return index_path
-
-# Add these new functions for vector store caching
-def vector_store_exists(case_id: str) -> bool:
-    index_dir = os.path.join(FAISS_INDEX_BASE, case_id)
-    return os.path.exists(os.path.join(index_dir, "index.faiss"))
-
-# Function to load QA model
-def load_qa_model():
-    prompt_template = """
-    Answer the question as detailed as possible from the provided context. If the answer is not available in the context, say "answer is not available in the context".
-
-    Context: \n {context}?\n
-    Question: \n {question}\n
-    Answer:
-    """
-    model = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0.3)
-    prompt = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
-    return load_qa_chain(model, chain_type="stuff", prompt=prompt)
-
-# Function to process user query
-def query_vector_store(user_question, case_id):
-    index_path = os.path.join(FAISS_INDEX_BASE, case_id)
-    
-    if not os.path.exists(index_path):
-        raise ValueError(f"FAISS index not found for case {case_id}")
-    
-    vector_store = FAISS.load_local(
-        index_path,
-        embeddings,
-        allow_dangerous_deserialization=True
-    )
-    
-    docs = vector_store.similarity_search(user_question)
-    chain = load_qa_model()
-    response = chain({"input_documents": docs, "question": user_question}, return_only_outputs=True)
-    return response["output_text"]
-
-def get_answer(case_id: str, question: str):
-    index_dir = os.path.join(FAISS_INDEX_BASE, case_id)
-    if not vector_store_exists(case_id):
-        raise HTTPException(status_code=404, detail="Vector index not found. Initialize chat first.")
-    
-    try:
-        vector_store = FAISS.load_local(
-            index_dir,
-            embeddings,
-            allow_dangerous_deserialization=True
-        )
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error loading vector store: {str(e)}")
-
-    docs = vector_store.similarity_search(question)
-    
-    model = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0.3)
-    prompt = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
-    chain = load_qa_chain(model, chain_type="stuff", prompt=prompt)
-    
-    try:
-        response = chain({"input_documents": docs, "question": question}, return_only_outputs=True)
-        return response["output_text"]
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error generating answer: {str(e)}")
-
-# Modified chat endpoint
 @app.post("/chat_init")
-async def initialize_chat_session(request: ChatInitRequest):
+@limiter.limit("10/minute")
+async def initialize_chat_session(request: ChatInitRequest, req: Request, api_key: bool = Depends(verify_api_key)):
     """Initialize chat session with document text"""
     case_id = request.case_id
     text_file_path = os.path.join(TEXT_FILE_DIR, f"{case_id}.txt")
@@ -380,43 +418,73 @@ async def initialize_chat_session(request: ChatInitRequest):
         with open(text_file_path, "r") as file:
             text = file.read()
     except Exception as e:
+        logger.error(f"Error reading text file: {e}")
         raise HTTPException(status_code=500, detail=f"Error reading text file: {str(e)}")
     
     try:
-        index_path = create_vector_store(case_id, text)
+        # Split text and store chunks in Redis
+        chunks = await split_text(text)
+        
+        # Store chunks in Redis if available
+        if redis_client:
+            redis_client.setex(
+                f"chunks:{case_id}",
+                3600 * 24,  # 24 hour expiry
+                json.dumps(chunks)
+            )
+        
         return {"status": "ready", "message": "Chat initialized successfully"}
     except Exception as e:
+        logger.error(f"Error initializing chat: {e}")
         raise HTTPException(status_code=500, detail=f"Error initializing chat: {str(e)}")
 
 @app.post("/chat_query")
-async def handle_chat_query(request: ChatMessageRequest):
+@limiter.limit("20/minute")
+async def handle_chat_query(request: ChatMessageRequest, req: Request, api_key: bool = Depends(verify_api_key)):
     """Handle chat query for initialized session"""
     try:
-        answer = get_answer(request.case_id, request.question)
+        # Try to get chunks from Redis
+        chunks = None
+        if redis_client:
+            cached_chunks = redis_client.get(f"chunks:{request.case_id}")
+            if cached_chunks:
+                chunks = json.loads(cached_chunks)
+        
+        # If not in Redis, read from file and process
+        if not chunks:
+            text_file_path = os.path.join(TEXT_FILE_DIR, f"{request.case_id}.txt")
+            if not os.path.exists(text_file_path):
+                raise HTTPException(status_code=404, detail="Case text file not found")
+                
+            with open(text_file_path, "r") as file:
+                text = file.read()
+                
+            chunks = await split_text(text)
+            
+            # Store in Redis for future use
+            if redis_client:
+                redis_client.setex(
+                    f"chunks:{request.case_id}",
+                    3600 * 24,  # 24 hour expiry
+                    json.dumps(chunks)
+                )
+        
+        # Get answer from external service
+        answer = await get_answer_from_context(chunks, request.question)
         return {"answer": answer}
     except HTTPException as he:
         raise he
     except Exception as e:
+        logger.error(f"Error in handle_chat_query: {e}")
         raise HTTPException(status_code=500, detail=str(e))
 
-def extract_case_id(source_path: str) -> str:
-    """Extract numeric ID from paths like 'supreme_court_cleaned_texts/8.txt'"""
-    try:
-        return source_path.split("/")[-1].split(".")[0]
-    except:
-        raise ValueError("Invalid source path format")
-
-class CaseDetailsRequest(BaseModel):
-    source: str
-
-# Add to API endpoints
 @app.get("/cases/{case_id}")
-async def get_case_details(case_id: str):
-    print(case_id)
+@limiter.limit("30/minute")
+@cache_response(ttl_seconds=3600)  # Cache for 1 hour
+async def get_case_details(case_id: str, req: Request, api_key: bool = Depends(verify_api_key)):
     """Get complete case details including file paths"""
     try:
         case_data = get_case_metadata(case_id)
-        print(case_data)
         if not case_data:
             raise HTTPException(status_code=404, detail="Case not found")
             
@@ -431,8 +499,61 @@ async def get_case_details(case_id: str):
         }
     
     except Exception as e:
+        logger.error(f"Error in get_case_details: {e}")
         raise HTTPException(status_code=500, detail=str(e))
+
+# Health check endpoint
+@app.get("/health")
+async def health_check():
+    """Check the health of the service"""
+    health_data = {
+        "status": "healthy",
+        "version": "1.0.0",
+        "timestamp": time.time(),
+        "services": {
+            "redis": "connected" if redis_client else "not_configured",
+        }
+    }
     
+    # Check HuggingFace service
+    try:
+        client = get_http_client()
+        response = await client.get(f"{get_settings().HUGGINGFACE_API_URL}/health")
+        if response.status_code == 200:
+            health_data["services"]["huggingface"] = "healthy"
+        else:
+            health_data["services"]["huggingface"] = "unhealthy"
+    except Exception:
+        health_data["services"]["huggingface"] = "unreachable"
+    
+    return health_data
+
+# Request logging middleware
+@app.middleware("http")
+async def log_requests(request: Request, call_next):
+    start_time = time.time()
+    
+    # Generate request ID for tracking
+    request_id = str(uuid.uuid4())
+    logger.info(f"Request {request_id} started: {request.method} {request.url.path}")
+    
+    try:
+        response = await call_next(request)
+        process_time = time.time() - start_time
+        logger.info(f"Request {request_id} completed: {response.status_code} in {process_time:.4f}s")
+        
+        # Add custom headers
+        response.headers["X-Process-Time"] = str(process_time)
+        response.headers["X-Request-ID"] = request_id
+        return response
+    except Exception as e:
+        process_time = time.time() - start_time
+        logger.error(f"Request {request_id} failed: {str(e)} in {process_time:.4f}s")
+        return JSONResponse(
+            status_code=500,
+            content={"detail": "Internal server error", "request_id": request_id}
+        )
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
