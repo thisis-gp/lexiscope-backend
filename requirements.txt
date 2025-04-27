@@ -11,3 +11,5 @@ qdrant-client
 google-generativeai
 pandas
 faiss-cpu
+huggingface[hf_xet]
+redis
