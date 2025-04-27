@@ -13,3 +13,4 @@ pandas
 faiss-cpu
 huggingface[hf_xet]
 redis
+slowapi
